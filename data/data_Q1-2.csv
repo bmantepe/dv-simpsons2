@@ -1,0 +1,8589 @@
+character,episode_id,word_count
+Agnes Skinner,11,49.0
+Agnes Skinner,100,42.0
+Agnes Skinner,126,14.0
+Agnes Skinner,131,26.0
+Agnes Skinner,143,1.0
+Agnes Skinner,149,8.0
+Agnes Skinner,155,3.0
+Agnes Skinner,158,1.0
+Agnes Skinner,160,14.0
+Agnes Skinner,164,66.0
+Agnes Skinner,172,110.0
+Agnes Skinner,173,13.0
+Agnes Skinner,175,14.0
+Agnes Skinner,180,320.0
+Agnes Skinner,182,5.0
+Agnes Skinner,183,5.0
+Agnes Skinner,186,40.0
+Agnes Skinner,190,36.0
+Agnes Skinner,191,3.0
+Agnes Skinner,193,7.0
+Agnes Skinner,202,10.0
+Agnes Skinner,203,8.0
+Agnes Skinner,218,14.0
+Agnes Skinner,219,24.0
+Agnes Skinner,223,16.0
+Agnes Skinner,231,28.0
+Agnes Skinner,246,18.0
+Agnes Skinner,249,13.0
+Agnes Skinner,254,9.0
+Agnes Skinner,259,104.0
+Agnes Skinner,265,32.0
+Agnes Skinner,267,20.0
+Agnes Skinner,280,3.0
+Agnes Skinner,283,12.0
+Agnes Skinner,286,18.0
+Agnes Skinner,289,22.0
+Agnes Skinner,290,18.0
+Agnes Skinner,291,16.0
+Agnes Skinner,295,8.0
+Agnes Skinner,298,27.0
+Agnes Skinner,300,10.0
+Agnes Skinner,304,14.0
+Agnes Skinner,310,18.0
+Agnes Skinner,314,13.0
+Agnes Skinner,315,11.0
+Agnes Skinner,316,6.0
+Agnes Skinner,320,4.0
+Agnes Skinner,328,72.0
+Agnes Skinner,330,32.0
+Agnes Skinner,337,18.0
+Agnes Skinner,338,19.0
+Agnes Skinner,354,9.0
+Agnes Skinner,360,10.0
+Agnes Skinner,361,34.0
+Agnes Skinner,363,59.0
+Agnes Skinner,365,5.0
+Agnes Skinner,366,33.0
+Agnes Skinner,368,18.0
+Agnes Skinner,403,46.0
+Agnes Skinner,404,23.0
+Agnes Skinner,405,22.0
+Agnes Skinner,407,11.0
+Agnes Skinner,421,8.0
+Agnes Skinner,422,27.0
+Agnes Skinner,431,14.0
+Agnes Skinner,440,14.0
+Agnes Skinner,445,20.0
+Agnes Skinner,446,18.0
+Agnes Skinner,448,10.0
+Agnes Skinner,449,5.0
+Agnes Skinner,450,22.0
+Agnes Skinner,453,311.0
+Agnes Skinner,457,21.0
+Agnes Skinner,462,9.0
+Agnes Skinner,464,4.0
+Agnes Skinner,472,12.0
+Agnes Skinner,475,20.0
+Agnes Skinner,479,23.0
+Agnes Skinner,480,7.0
+Agnes Skinner,485,13.0
+Agnes Skinner,487,27.0
+Agnes Skinner,490,24.0
+Agnes Skinner,492,10.0
+Agnes Skinner,507,12.0
+Agnes Skinner,518,3.0
+Agnes Skinner,523,5.0
+Agnes Skinner,526,3.0
+Agnes Skinner,532,25.0
+Agnes Skinner,533,10.0
+Agnes Skinner,537,69.0
+Agnes Skinner,552,3.0
+Agnes Skinner,568,45.0
+Apu,12,101.0
+Apu,26,79.0
+Apu,27,35.0
+Apu,29,11.0
+Apu,31,46.0
+Apu,34,28.0
+Apu,36,23.0
+Apu,40,15.0
+Apu,41,22.0
+Apu,42,6.0
+Apu,43,251.0
+Apu,48,2.0
+Apu,51,20.0
+Apu,52,4.0
+Apu,53,16.0
+Apu,54,32.0
+Apu,57,22.0
+Apu,61,51.0
+Apu,62,82.0
+Apu,67,24.0
+Apu,68,10.0
+Apu,70,23.0
+Apu,71,59.0
+Apu,74,43.0
+Apu,79,12.0
+Apu,80,163.0
+Apu,82,90.0
+Apu,85,27.0
+Apu,87,5.0
+Apu,88,22.0
+Apu,89,41.0
+Apu,91,7.0
+Apu,92,12.0
+Apu,93,4.0
+Apu,94,754.0
+Apu,100,97.0
+Apu,101,25.0
+Apu,102,18.0
+Apu,103,35.0
+Apu,111,120.0
+Apu,112,24.0
+Apu,116,15.0
+Apu,117,6.0
+Apu,118,34.0
+Apu,121,3.0
+Apu,126,46.0
+Apu,128,19.0
+Apu,129,21.0
+Apu,132,14.0
+Apu,133,198.0
+Apu,138,14.0
+Apu,140,130.0
+Apu,141,59.0
+Apu,142,54.0
+Apu,143,9.0
+Apu,144,54.0
+Apu,146,41.0
+Apu,149,129.0
+Apu,151,759.0
+Apu,153,44.0
+Apu,155,45.0
+Apu,158,5.0
+Apu,160,75.0
+Apu,161,72.0
+Apu,166,11.0
+Apu,171,15.0
+Apu,172,1.0
+Apu,180,12.0
+Apu,181,23.0
+Apu,183,10.0
+Apu,184,14.0
+Apu,185,758.0
+Apu,188,21.0
+Apu,191,12.0
+Apu,193,9.0
+Apu,195,194.0
+Apu,197,21.0
+Apu,198,1.0
+Apu,199,26.0
+Apu,200,2.0
+Apu,201,52.0
+Apu,204,64.0
+Apu,206,7.0
+Apu,207,36.0
+Apu,208,41.0
+Apu,215,14.0
+Apu,217,368.0
+Apu,224,6.0
+Apu,228,33.0
+Apu,231,8.0
+Apu,233,734.0
+Apu,234,20.0
+Apu,238,21.0
+Apu,240,57.0
+Apu,244,18.0
+Apu,248,26.0
+Apu,249,2.0
+Apu,250,38.0
+Apu,251,2.0
+Apu,252,4.0
+Apu,254,20.0
+Apu,256,4.0
+Apu,258,16.0
+Apu,259,32.0
+Apu,264,12.0
+Apu,267,4.0
+Apu,268,24.0
+Apu,269,35.0
+Apu,277,98.0
+Apu,278,11.0
+Apu,281,20.0
+Apu,282,41.0
+Apu,283,16.0
+Apu,288,563.0
+Apu,291,29.0
+Apu,293,28.0
+Apu,296,49.0
+Apu,297,32.0
+Apu,300,57.0
+Apu,303,38.0
+Apu,304,24.0
+Apu,305,6.0
+Apu,309,9.0
+Apu,311,21.0
+Apu,312,39.0
+Apu,313,16.0
+Apu,323,52.0
+Apu,325,40.0
+Apu,326,36.0
+Apu,332,76.0
+Apu,334,60.0
+Apu,336,22.0
+Apu,337,45.0
+Apu,340,9.0
+Apu,341,184.0
+Apu,344,28.0
+Apu,350,32.0
+Apu,353,16.0
+Apu,355,13.0
+Apu,360,40.0
+Apu,361,34.0
+Apu,365,35.0
+Apu,386,8.0
+Apu,389,37.0
+Apu,392,28.0
+Apu,394,12.0
+Apu,395,64.0
+Apu,396,35.0
+Apu,397,61.0
+Apu,399,50.0
+Apu,403,22.0
+Apu,405,6.0
+Apu,410,5.0
+Apu,415,51.0
+Apu,417,28.0
+Apu,419,66.0
+Apu,423,42.0
+Apu,426,13.0
+Apu,429,27.0
+Apu,435,54.0
+Apu,437,68.0
+Apu,442,53.0
+Apu,445,66.0
+Apu,449,29.0
+Apu,452,49.0
+Apu,455,16.0
+Apu,460,6.0
+Apu,462,350.0
+Apu,463,8.0
+Apu,464,5.0
+Apu,468,1.0
+Apu,470,74.0
+Apu,476,63.0
+Apu,492,8.0
+Apu,495,36.0
+Apu,496,22.0
+Apu,501,168.0
+Apu,502,47.0
+Apu,513,8.0
+Apu,514,2.0
+Apu,516,41.0
+Apu,521,28.0
+Apu,522,16.0
+Apu,523,13.0
+Apu,524,8.0
+Apu,526,48.0
+Apu,528,27.0
+Apu,530,17.0
+Apu,531,16.0
+Apu,532,20.0
+Apu,538,52.0
+Apu,540,5.0
+Apu,545,4.0
+Apu,554,9.0
+Apu,560,434.0
+Apu,561,96.0
+Apu,567,8.0
+Apu,568,354.0
+Barney,1,116.0
+Barney,4,26.0
+Barney,8,24.0
+Barney,10,88.0
+Barney,13,9.0
+Barney,15,4.0
+Barney,17,19.0
+Barney,18,13.0
+Barney,21,11.0
+Barney,24,78.0
+Barney,25,78.0
+Barney,26,32.0
+Barney,27,108.0
+Barney,33,47.0
+Barney,34,15.0
+Barney,35,18.0
+Barney,37,8.0
+Barney,38,20.0
+Barney,40,100.0
+Barney,41,4.0
+Barney,42,4.0
+Barney,44,17.0
+Barney,45,42.0
+Barney,46,3.0
+Barney,49,50.0
+Barney,50,87.0
+Barney,52,20.0
+Barney,54,38.0
+Barney,55,4.0
+Barney,56,4.0
+Barney,59,17.0
+Barney,60,15.0
+Barney,62,7.0
+Barney,63,26.0
+Barney,64,28.0
+Barney,67,32.0
+Barney,68,252.0
+Barney,70,51.0
+Barney,71,33.0
+Barney,72,10.0
+Barney,74,2.0
+Barney,75,89.0
+Barney,77,8.0
+Barney,78,16.0
+Barney,79,19.0
+Barney,80,2.0
+Barney,81,8.0
+Barney,82,87.0
+Barney,85,9.0
+Barney,87,11.0
+Barney,89,19.0
+Barney,90,32.0
+Barney,91,44.0
+Barney,92,25.0
+Barney,93,11.0
+Barney,94,32.0
+Barney,96,65.0
+Barney,98,3.0
+Barney,101,3.0
+Barney,102,4.0
+Barney,103,2.0
+Barney,108,12.0
+Barney,113,8.0
+Barney,114,21.0
+Barney,116,20.0
+Barney,117,8.0
+Barney,120,24.0
+Barney,121,131.0
+Barney,125,10.0
+Barney,126,38.0
+Barney,128,36.0
+Barney,130,26.0
+Barney,132,42.0
+Barney,133,20.0
+Barney,144,4.0
+Barney,145,7.0
+Barney,148,4.0
+Barney,149,17.0
+Barney,151,3.0
+Barney,152,10.0
+Barney,155,3.0
+Barney,156,12.0
+Barney,157,6.0
+Barney,161,10.0
+Barney,162,13.0
+Barney,163,5.0
+Barney,166,57.0
+Barney,168,73.0
+Barney,171,27.0
+Barney,174,28.0
+Barney,176,22.0
+Barney,177,22.0
+Barney,179,69.0
+Barney,181,4.0
+Barney,185,9.0
+Barney,188,15.0
+Barney,191,36.0
+Barney,193,3.0
+Barney,194,4.0
+Barney,197,89.0
+Barney,198,6.0
+Barney,202,9.0
+Barney,207,4.0
+Barney,208,7.0
+Barney,209,9.0
+Barney,214,28.0
+Barney,215,17.0
+Barney,216,8.0
+Barney,217,12.0
+Barney,222,8.0
+Barney,224,3.0
+Barney,225,13.0
+Barney,226,7.0
+Barney,238,8.0
+Barney,243,4.0
+Barney,244,426.0
+Barney,257,45.0
+Barney,266,6.0
+Barney,268,15.0
+Barney,269,4.0
+Barney,272,52.0
+Barney,274,18.0
+Barney,283,22.0
+Barney,288,22.0
+Barney,291,25.0
+Barney,293,22.0
+Barney,296,27.0
+Barney,301,25.0
+Barney,303,24.0
+Barney,311,21.0
+Barney,319,12.0
+Barney,326,8.0
+Barney,327,8.0
+Barney,328,42.0
+Barney,330,21.0
+Barney,334,9.0
+Barney,335,25.0
+Barney,339,46.0
+Barney,342,36.0
+Barney,345,44.0
+Barney,349,2.0
+Barney,351,3.0
+Barney,360,8.0
+Barney,362,7.0
+Barney,365,16.0
+Barney,369,12.0
+Barney,372,3.0
+Barney,374,2.0
+Barney,377,5.0
+Barney,382,7.0
+Barney,384,18.0
+Barney,391,5.0
+Barney,397,5.0
+Barney,400,2.0
+Barney,411,5.0
+Barney,422,8.0
+Barney,423,17.0
+Barney,436,14.0
+Barney,444,15.0
+Barney,445,21.0
+Barney,449,4.0
+Barney,452,56.0
+Barney,461,3.0
+Barney,464,22.0
+Barney,470,4.0
+Barney,473,6.0
+Barney,475,9.0
+Barney,477,5.0
+Barney,481,4.0
+Barney,485,30.0
+Barney,486,14.0
+Barney,487,2.0
+Barney,490,7.0
+Barney,502,28.0
+Barney,503,49.0
+Barney,511,7.0
+Barney,514,12.0
+Barney,527,22.0
+Barney,532,20.0
+Barney,548,6.0
+Barney,549,11.0
+Barney,558,4.0
+Barney,566,2.0
+Bart,1,337.0
+Bart,2,631.0
+Bart,3,209.0
+Bart,4,189.0
+Bart,5,796.0
+Bart,6,400.0
+Bart,7,179.0
+Bart,8,560.0
+Bart,9,294.0
+Bart,10,261.0
+Bart,11,391.0
+Bart,12,395.0
+Bart,13,260.0
+Bart,14,1067.0
+Bart,15,29.0
+Bart,16,237.0
+Bart,17,65.0
+Bart,18,152.0
+Bart,19,234.0
+Bart,20,518.0
+Bart,21,357.0
+Bart,22,102.0
+Bart,23,193.0
+Bart,24,162.0
+Bart,25,71.0
+Bart,26,214.0
+Bart,27,106.0
+Bart,28,116.0
+Bart,29,323.0
+Bart,30,93.0
+Bart,31,111.0
+Bart,32,197.0
+Bart,33,266.0
+Bart,34,924.0
+Bart,35,191.0
+Bart,36,539.0
+Bart,37,143.0
+Bart,38,210.0
+Bart,39,355.0
+Bart,40,272.0
+Bart,41,490.0
+Bart,42,223.0
+Bart,43,147.0
+Bart,44,382.0
+Bart,45,146.0
+Bart,46,159.0
+Bart,47,89.0
+Bart,48,459.0
+Bart,49,152.0
+Bart,50,81.0
+Bart,51,400.0
+Bart,52,85.0
+Bart,53,394.0
+Bart,54,171.0
+Bart,55,96.0
+Bart,56,303.0
+Bart,57,266.0
+Bart,58,600.0
+Bart,59,171.0
+Bart,60,539.0
+Bart,61,65.0
+Bart,62,78.0
+Bart,63,195.0
+Bart,64,251.0
+Bart,65,335.0
+Bart,66,127.0
+Bart,67,330.0
+Bart,68,40.0
+Bart,69,308.0
+Bart,70,69.0
+Bart,71,113.0
+Bart,72,155.0
+Bart,73,305.0
+Bart,74,162.0
+Bart,75,127.0
+Bart,76,67.0
+Bart,77,199.0
+Bart,78,242.0
+Bart,79,252.0
+Bart,80,126.0
+Bart,81,166.0
+Bart,82,109.0
+Bart,83,173.0
+Bart,84,128.0
+Bart,85,75.0
+Bart,86,382.0
+Bart,87,61.0
+Bart,88,155.0
+Bart,89,421.0
+Bart,90,114.0
+Bart,91,67.0
+Bart,92,47.0
+Bart,93,507.0
+Bart,94,32.0
+Bart,95,80.0
+Bart,96,66.0
+Bart,97,68.0
+Bart,98,415.0
+Bart,99,293.0
+Bart,100,388.0
+Bart,101,391.0
+Bart,102,256.0
+Bart,103,90.0
+Bart,104,540.0
+Bart,105,346.0
+Bart,106,93.0
+Bart,107,263.0
+Bart,108,178.0
+Bart,109,129.0
+Bart,110,864.0
+Bart,111,240.0
+Bart,112,141.0
+Bart,113,195.0
+Bart,114,74.0
+Bart,115,48.0
+Bart,116,87.0
+Bart,117,219.0
+Bart,118,92.0
+Bart,119,431.0
+Bart,120,302.0
+Bart,121,153.0
+Bart,122,142.0
+Bart,123,308.0
+Bart,124,358.0
+Bart,125,258.0
+Bart,126,64.0
+Bart,127,639.0
+Bart,128,76.0
+Bart,129,31.0
+Bart,130,429.0
+Bart,131,126.0
+Bart,132,508.0
+Bart,133,148.0
+Bart,134,227.0
+Bart,135,167.0
+Bart,136,119.0
+Bart,137,189.0
+Bart,138,126.0
+Bart,139,526.0
+Bart,140,116.0
+Bart,141,181.0
+Bart,142,82.0
+Bart,143,533.0
+Bart,144,52.0
+Bart,145,49.0
+Bart,146,551.0
+Bart,147,14.0
+Bart,148,475.0
+Bart,149,77.0
+Bart,150,358.0
+Bart,151,44.0
+Bart,152,166.0
+Bart,153,261.0
+Bart,154,169.0
+Bart,155,132.0
+Bart,156,161.0
+Bart,157,54.0
+Bart,158,263.0
+Bart,159,95.0
+Bart,160,49.0
+Bart,161,36.0
+Bart,162,74.0
+Bart,163,144.0
+Bart,164,42.0
+Bart,165,113.0
+Bart,166,171.0
+Bart,167,176.0
+Bart,168,231.0
+Bart,169,316.0
+Bart,170,399.0
+Bart,171,161.0
+Bart,172,341.0
+Bart,173,903.0
+Bart,174,50.0
+Bart,175,85.0
+Bart,176,130.0
+Bart,177,58.0
+Bart,178,347.0
+Bart,179,147.0
+Bart,180,116.0
+Bart,181,178.0
+Bart,182,193.0
+Bart,183,145.0
+Bart,184,224.0
+Bart,185,52.0
+Bart,186,69.0
+Bart,187,48.0
+Bart,188,384.0
+Bart,189,81.0
+Bart,190,365.0
+Bart,191,121.0
+Bart,192,410.0
+Bart,193,304.0
+Bart,194,46.0
+Bart,195,148.0
+Bart,196,715.0
+Bart,197,156.0
+Bart,198,33.0
+Bart,199,664.0
+Bart,200,57.0
+Bart,201,252.0
+Bart,202,232.0
+Bart,203,175.0
+Bart,204,152.0
+Bart,205,175.0
+Bart,206,526.0
+Bart,207,181.0
+Bart,208,98.0
+Bart,209,72.0
+Bart,210,181.0
+Bart,211,91.0
+Bart,212,89.0
+Bart,213,27.0
+Bart,214,267.0
+Bart,215,83.0
+Bart,216,23.0
+Bart,217,99.0
+Bart,218,123.0
+Bart,219,150.0
+Bart,220,177.0
+Bart,221,275.0
+Bart,222,74.0
+Bart,223,424.0
+Bart,224,63.0
+Bart,225,46.0
+Bart,226,170.0
+Bart,227,51.0
+Bart,228,445.0
+Bart,229,101.0
+Bart,230,179.0
+Bart,231,144.0
+Bart,232,22.0
+Bart,233,55.0
+Bart,234,84.0
+Bart,235,293.0
+Bart,236,218.0
+Bart,237,405.0
+Bart,238,59.0
+Bart,239,214.0
+Bart,240,112.0
+Bart,241,97.0
+Bart,242,82.0
+Bart,243,898.0
+Bart,244,153.0
+Bart,245,95.0
+Bart,246,178.0
+Bart,247,197.0
+Bart,248,210.0
+Bart,249,114.0
+Bart,250,166.0
+Bart,251,92.0
+Bart,252,127.0
+Bart,253,115.0
+Bart,254,64.0
+Bart,255,500.0
+Bart,256,235.0
+Bart,257,30.0
+Bart,258,65.0
+Bart,259,360.0
+Bart,260,140.0
+Bart,261,102.0
+Bart,262,212.0
+Bart,263,57.0
+Bart,264,41.0
+Bart,265,137.0
+Bart,266,111.0
+Bart,267,90.0
+Bart,268,138.0
+Bart,269,26.0
+Bart,270,124.0
+Bart,271,295.0
+Bart,272,82.0
+Bart,273,23.0
+Bart,274,44.0
+Bart,275,142.0
+Bart,276,140.0
+Bart,277,57.0
+Bart,278,108.0
+Bart,279,54.0
+Bart,280,467.0
+Bart,281,344.0
+Bart,282,69.0
+Bart,283,201.0
+Bart,284,154.0
+Bart,285,32.0
+Bart,286,27.0
+Bart,287,376.0
+Bart,288,34.0
+Bart,289,217.0
+Bart,290,39.0
+Bart,291,65.0
+Bart,292,80.0
+Bart,293,102.0
+Bart,294,452.0
+Bart,295,292.0
+Bart,296,163.0
+Bart,297,79.0
+Bart,298,410.0
+Bart,299,99.0
+Bart,300,105.0
+Bart,301,76.0
+Bart,302,484.0
+Bart,303,97.0
+Bart,304,45.0
+Bart,305,150.0
+Bart,306,78.0
+Bart,307,190.0
+Bart,308,155.0
+Bart,309,123.0
+Bart,310,211.0
+Bart,311,63.0
+Bart,312,263.0
+Bart,313,35.0
+Bart,314,276.0
+Bart,315,120.0
+Bart,316,108.0
+Bart,317,184.0
+Bart,318,197.0
+Bart,319,109.0
+Bart,320,75.0
+Bart,321,158.0
+Bart,322,479.0
+Bart,323,55.0
+Bart,324,63.0
+Bart,325,464.0
+Bart,326,71.0
+Bart,327,143.0
+Bart,328,133.0
+Bart,329,437.0
+Bart,330,122.0
+Bart,331,303.0
+Bart,332,116.0
+Bart,333,174.0
+Bart,334,192.0
+Bart,335,75.0
+Bart,336,109.0
+Bart,337,229.0
+Bart,338,196.0
+Bart,339,66.0
+Bart,340,430.0
+Bart,341,19.0
+Bart,342,41.0
+Bart,343,61.0
+Bart,344,424.0
+Bart,345,151.0
+Bart,346,320.0
+Bart,347,17.0
+Bart,348,163.0
+Bart,349,110.0
+Bart,350,548.0
+Bart,351,116.0
+Bart,352,228.0
+Bart,353,117.0
+Bart,354,46.0
+Bart,355,113.0
+Bart,356,404.0
+Bart,357,128.0
+Bart,358,161.0
+Bart,359,495.0
+Bart,360,192.0
+Bart,361,410.0
+Bart,362,65.0
+Bart,363,16.0
+Bart,364,144.0
+Bart,365,22.0
+Bart,366,58.0
+Bart,367,365.0
+Bart,368,131.0
+Bart,369,151.0
+Bart,370,114.0
+Bart,371,66.0
+Bart,372,10.0
+Bart,373,83.0
+Bart,374,89.0
+Bart,375,256.0
+Bart,376,130.0
+Bart,377,158.0
+Bart,378,70.0
+Bart,379,119.0
+Bart,380,276.0
+Bart,381,210.0
+Bart,382,129.0
+Bart,383,94.0
+Bart,384,51.0
+Bart,385,34.0
+Bart,386,523.0
+Bart,387,44.0
+Bart,388,69.0
+Bart,389,191.0
+Bart,390,472.0
+Bart,391,35.0
+Bart,392,448.0
+Bart,393,125.0
+Bart,394,98.0
+Bart,395,130.0
+Bart,396,158.0
+Bart,397,89.0
+Bart,398,284.0
+Bart,399,274.0
+Bart,400,154.0
+Bart,401,69.0
+Bart,402,95.0
+Bart,403,68.0
+Bart,404,22.0
+Bart,405,232.0
+Bart,406,404.0
+Bart,407,183.0
+Bart,408,239.0
+Bart,409,34.0
+Bart,410,35.0
+Bart,411,74.0
+Bart,412,101.0
+Bart,413,516.0
+Bart,414,293.0
+Bart,415,192.0
+Bart,416,115.0
+Bart,417,673.0
+Bart,418,119.0
+Bart,419,129.0
+Bart,420,236.0
+Bart,421,47.0
+Bart,422,511.0
+Bart,423,499.0
+Bart,425,131.0
+Bart,426,100.0
+Bart,427,372.0
+Bart,428,37.0
+Bart,429,97.0
+Bart,430,87.0
+Bart,431,140.0
+Bart,432,88.0
+Bart,433,35.0
+Bart,434,139.0
+Bart,435,95.0
+Bart,436,16.0
+Bart,437,665.0
+Bart,438,120.0
+Bart,439,141.0
+Bart,442,101.0
+Bart,443,579.0
+Bart,444,194.0
+Bart,445,320.0
+Bart,446,50.0
+Bart,448,144.0
+Bart,449,805.0
+Bart,450,178.0
+Bart,451,198.0
+Bart,452,296.0
+Bart,453,190.0
+Bart,454,69.0
+Bart,455,363.0
+Bart,456,360.0
+Bart,457,148.0
+Bart,458,209.0
+Bart,459,105.0
+Bart,460,88.0
+Bart,461,68.0
+Bart,462,53.0
+Bart,463,349.0
+Bart,464,59.0
+Bart,465,105.0
+Bart,466,48.0
+Bart,467,295.0
+Bart,468,199.0
+Bart,469,230.0
+Bart,470,125.0
+Bart,471,378.0
+Bart,472,305.0
+Bart,473,70.0
+Bart,474,359.0
+Bart,475,111.0
+Bart,476,426.0
+Bart,477,74.0
+Bart,478,372.0
+Bart,479,129.0
+Bart,480,95.0
+Bart,481,254.0
+Bart,482,117.0
+Bart,483,240.0
+Bart,484,125.0
+Bart,485,172.0
+Bart,486,185.0
+Bart,487,59.0
+Bart,488,538.0
+Bart,489,264.0
+Bart,490,201.0
+Bart,491,220.0
+Bart,492,425.0
+Bart,493,192.0
+Bart,494,83.0
+Bart,495,428.0
+Bart,496,105.0
+Bart,497,101.0
+Bart,498,211.0
+Bart,499,219.0
+Bart,500,96.0
+Bart,501,418.0
+Bart,502,118.0
+Bart,503,51.0
+Bart,504,314.0
+Bart,505,638.0
+Bart,506,65.0
+Bart,507,147.0
+Bart,508,137.0
+Bart,509,514.0
+Bart,510,188.0
+Bart,511,216.0
+Bart,512,147.0
+Bart,513,85.0
+Bart,514,53.0
+Bart,515,191.0
+Bart,516,123.0
+Bart,517,148.0
+Bart,518,253.0
+Bart,519,167.0
+Bart,520,592.0
+Bart,521,281.0
+Bart,522,217.0
+Bart,523,7.0
+Bart,524,136.0
+Bart,525,36.0
+Bart,526,222.0
+Bart,527,307.0
+Bart,528,251.0
+Bart,529,35.0
+Bart,530,33.0
+Bart,531,113.0
+Bart,532,263.0
+Bart,533,77.0
+Bart,534,114.0
+Bart,535,41.0
+Bart,536,276.0
+Bart,537,279.0
+Bart,538,185.0
+Bart,539,124.0
+Bart,540,67.0
+Bart,541,217.0
+Bart,542,531.0
+Bart,543,139.0
+Bart,544,116.0
+Bart,545,78.0
+Bart,546,168.0
+Bart,547,291.0
+Bart,548,537.0
+Bart,549,448.0
+Bart,551,158.0
+Bart,552,303.0
+Bart,553,142.0
+Bart,554,285.0
+Bart,555,131.0
+Bart,556,206.0
+Bart,557,25.0
+Bart,558,122.0
+Bart,559,236.0
+Bart,560,23.0
+Bart,561,181.0
+Bart,562,114.0
+Bart,563,310.0
+Bart,564,40.0
+Bart,565,213.0
+Bart,567,14.0
+Bart,568,66.0
+Brockman,12,215.0
+Brockman,20,140.0
+Brockman,22,302.0
+Brockman,29,11.0
+Brockman,31,19.0
+Brockman,36,24.0
+Brockman,39,25.0
+Brockman,40,126.0
+Brockman,42,20.0
+Brockman,45,86.0
+Brockman,46,25.0
+Brockman,48,198.0
+Brockman,50,64.0
+Brockman,54,269.0
+Brockman,57,71.0
+Brockman,58,79.0
+Brockman,59,15.0
+Brockman,60,76.0
+Brockman,62,20.0
+Brockman,63,136.0
+Brockman,64,19.0
+Brockman,65,209.0
+Brockman,66,28.0
+Brockman,68,111.0
+Brockman,71,94.0
+Brockman,73,53.0
+Brockman,76,74.0
+Brockman,79,89.0
+Brockman,80,23.0
+Brockman,81,52.0
+Brockman,85,54.0
+Brockman,86,47.0
+Brockman,87,60.0
+Brockman,88,99.0
+Brockman,90,37.0
+Brockman,91,78.0
+Brockman,92,171.0
+Brockman,93,86.0
+Brockman,94,182.0
+Brockman,95,88.0
+Brockman,96,197.0
+Brockman,97,87.0
+Brockman,98,21.0
+Brockman,101,75.0
+Brockman,108,56.0
+Brockman,109,26.0
+Brockman,111,58.0
+Brockman,112,157.0
+Brockman,117,121.0
+Brockman,121,50.0
+Brockman,122,24.0
+Brockman,123,73.0
+Brockman,125,38.0
+Brockman,129,131.0
+Brockman,130,18.0
+Brockman,134,86.0
+Brockman,136,33.0
+Brockman,137,66.0
+Brockman,140,13.0
+Brockman,143,105.0
+Brockman,146,44.0
+Brockman,151,56.0
+Brockman,154,52.0
+Brockman,156,6.0
+Brockman,157,114.0
+Brockman,158,77.0
+Brockman,161,110.0
+Brockman,162,8.0
+Brockman,163,64.0
+Brockman,167,81.0
+Brockman,170,103.0
+Brockman,171,185.0
+Brockman,172,45.0
+Brockman,173,32.0
+Brockman,174,69.0
+Brockman,176,138.0
+Brockman,177,43.0
+Brockman,180,27.0
+Brockman,181,32.0
+Brockman,182,55.0
+Brockman,183,55.0
+Brockman,184,53.0
+Brockman,185,46.0
+Brockman,186,81.0
+Brockman,188,192.0
+Brockman,191,131.0
+Brockman,192,29.0
+Brockman,193,46.0
+Brockman,195,32.0
+Brockman,196,13.0
+Brockman,197,32.0
+Brockman,198,89.0
+Brockman,199,153.0
+Brockman,205,77.0
+Brockman,206,54.0
+Brockman,207,47.0
+Brockman,209,47.0
+Brockman,212,31.0
+Brockman,213,51.0
+Brockman,214,93.0
+Brockman,217,48.0
+Brockman,218,36.0
+Brockman,223,66.0
+Brockman,224,88.0
+Brockman,225,59.0
+Brockman,232,122.0
+Brockman,233,49.0
+Brockman,235,75.0
+Brockman,237,47.0
+Brockman,238,134.0
+Brockman,243,71.0
+Brockman,244,63.0
+Brockman,247,36.0
+Brockman,249,45.0
+Brockman,250,128.0
+Brockman,251,26.0
+Brockman,252,131.0
+Brockman,253,85.0
+Brockman,254,67.0
+Brockman,255,29.0
+Brockman,256,19.0
+Brockman,257,34.0
+Brockman,260,24.0
+Brockman,261,84.0
+Brockman,262,100.0
+Brockman,263,23.0
+Brockman,264,40.0
+Brockman,265,26.0
+Brockman,267,29.0
+Brockman,268,50.0
+Brockman,271,25.0
+Brockman,273,113.0
+Brockman,277,66.0
+Brockman,279,28.0
+Brockman,281,59.0
+Brockman,285,30.0
+Brockman,290,32.0
+Brockman,291,56.0
+Brockman,292,26.0
+Brockman,295,41.0
+Brockman,297,45.0
+Brockman,299,50.0
+Brockman,300,28.0
+Brockman,301,47.0
+Brockman,303,82.0
+Brockman,305,65.0
+Brockman,307,66.0
+Brockman,310,44.0
+Brockman,313,25.0
+Brockman,315,147.0
+Brockman,316,100.0
+Brockman,318,56.0
+Brockman,320,33.0
+Brockman,321,174.0
+Brockman,327,88.0
+Brockman,328,41.0
+Brockman,329,67.0
+Brockman,331,40.0
+Brockman,332,80.0
+Brockman,335,177.0
+Brockman,337,43.0
+Brockman,339,139.0
+Brockman,341,53.0
+Brockman,342,11.0
+Brockman,343,19.0
+Brockman,344,62.0
+Brockman,345,59.0
+Brockman,349,66.0
+Brockman,351,33.0
+Brockman,352,15.0
+Brockman,354,94.0
+Brockman,358,37.0
+Brockman,362,202.0
+Brockman,366,87.0
+Brockman,370,90.0
+Brockman,372,68.0
+Brockman,376,31.0
+Brockman,377,66.0
+Brockman,378,83.0
+Brockman,381,38.0
+Brockman,382,22.0
+Brockman,385,149.0
+Brockman,397,46.0
+Brockman,400,421.0
+Brockman,404,55.0
+Brockman,408,95.0
+Brockman,410,154.0
+Brockman,414,38.0
+Brockman,415,17.0
+Brockman,416,103.0
+Brockman,428,9.0
+Brockman,432,64.0
+Brockman,433,90.0
+Brockman,435,48.0
+Brockman,445,48.0
+Brockman,448,65.0
+Brockman,451,45.0
+Brockman,452,40.0
+Brockman,460,10.0
+Brockman,461,56.0
+Brockman,465,47.0
+Brockman,470,111.0
+Brockman,476,29.0
+Brockman,480,138.0
+Brockman,481,56.0
+Brockman,487,45.0
+Brockman,488,23.0
+Brockman,490,69.0
+Brockman,496,50.0
+Brockman,500,116.0
+Brockman,501,32.0
+Brockman,506,26.0
+Brockman,507,20.0
+Brockman,508,47.0
+Brockman,509,40.0
+Brockman,511,21.0
+Brockman,514,237.0
+Brockman,516,71.0
+Brockman,517,32.0
+Brockman,518,120.0
+Brockman,519,25.0
+Brockman,524,24.0
+Brockman,526,10.0
+Brockman,529,12.0
+Brockman,533,276.0
+Brockman,534,99.0
+Brockman,538,52.0
+Brockman,545,18.0
+Brockman,547,64.0
+Brockman,553,83.0
+Brockman,557,23.0
+Brockman,558,36.0
+Brockman,560,82.0
+Brockman,564,65.0
+Carl,10,30.0
+Carl,15,35.0
+Carl,26,26.0
+Carl,31,7.0
+Carl,35,19.0
+Carl,36,4.0
+Carl,40,8.0
+Carl,46,59.0
+Carl,52,75.0
+Carl,55,7.0
+Carl,59,6.0
+Carl,64,14.0
+Carl,66,11.0
+Carl,70,9.0
+Carl,71,21.0
+Carl,72,11.0
+Carl,76,108.0
+Carl,82,14.0
+Carl,85,2.0
+Carl,86,16.0
+Carl,87,27.0
+Carl,88,2.0
+Carl,90,69.0
+Carl,96,11.0
+Carl,97,12.0
+Carl,103,13.0
+Carl,106,13.0
+Carl,108,17.0
+Carl,115,79.0
+Carl,116,35.0
+Carl,118,6.0
+Carl,120,36.0
+Carl,122,7.0
+Carl,126,20.0
+Carl,128,8.0
+Carl,132,19.0
+Carl,135,20.0
+Carl,136,40.0
+Carl,141,4.0
+Carl,142,7.0
+Carl,147,18.0
+Carl,156,11.0
+Carl,162,3.0
+Carl,163,7.0
+Carl,164,21.0
+Carl,165,86.0
+Carl,167,15.0
+Carl,176,47.0
+Carl,179,6.0
+Carl,185,8.0
+Carl,186,9.0
+Carl,188,4.0
+Carl,191,40.0
+Carl,193,16.0
+Carl,197,8.0
+Carl,198,20.0
+Carl,200,18.0
+Carl,202,38.0
+Carl,203,32.0
+Carl,205,7.0
+Carl,208,19.0
+Carl,209,14.0
+Carl,211,35.0
+Carl,212,12.0
+Carl,213,17.0
+Carl,214,14.0
+Carl,215,19.0
+Carl,216,53.0
+Carl,218,25.0
+Carl,219,18.0
+Carl,221,8.0
+Carl,222,10.0
+Carl,224,12.0
+Carl,225,21.0
+Carl,228,19.0
+Carl,230,10.0
+Carl,231,12.0
+Carl,232,54.0
+Carl,234,18.0
+Carl,235,9.0
+Carl,237,9.0
+Carl,238,25.0
+Carl,239,3.0
+Carl,240,11.0
+Carl,241,3.0
+Carl,242,100.0
+Carl,243,11.0
+Carl,244,33.0
+Carl,245,10.0
+Carl,248,7.0
+Carl,249,22.0
+Carl,250,80.0
+Carl,253,28.0
+Carl,254,49.0
+Carl,257,81.0
+Carl,259,13.0
+Carl,260,26.0
+Carl,262,4.0
+Carl,263,24.0
+Carl,265,1.0
+Carl,267,17.0
+Carl,268,52.0
+Carl,269,21.0
+Carl,270,17.0
+Carl,272,120.0
+Carl,273,30.0
+Carl,274,105.0
+Carl,275,55.0
+Carl,276,8.0
+Carl,277,12.0
+Carl,278,16.0
+Carl,279,22.0
+Carl,280,12.0
+Carl,283,20.0
+Carl,285,20.0
+Carl,286,1.0
+Carl,287,8.0
+Carl,288,9.0
+Carl,289,2.0
+Carl,290,38.0
+Carl,291,59.0
+Carl,293,24.0
+Carl,295,19.0
+Carl,296,28.0
+Carl,297,24.0
+Carl,299,17.0
+Carl,300,18.0
+Carl,301,91.0
+Carl,306,17.0
+Carl,307,10.0
+Carl,308,20.0
+Carl,309,21.0
+Carl,311,42.0
+Carl,312,35.0
+Carl,313,30.0
+Carl,315,15.0
+Carl,318,14.0
+Carl,319,30.0
+Carl,320,41.0
+Carl,321,9.0
+Carl,324,75.0
+Carl,325,4.0
+Carl,327,19.0
+Carl,330,33.0
+Carl,331,18.0
+Carl,332,22.0
+Carl,333,31.0
+Carl,334,15.0
+Carl,335,17.0
+Carl,336,12.0
+Carl,337,5.0
+Carl,340,13.0
+Carl,341,4.0
+Carl,342,16.0
+Carl,343,27.0
+Carl,349,41.0
+Carl,350,13.0
+Carl,351,28.0
+Carl,353,10.0
+Carl,354,23.0
+Carl,357,68.0
+Carl,358,22.0
+Carl,360,48.0
+Carl,361,7.0
+Carl,362,20.0
+Carl,365,31.0
+Carl,366,27.0
+Carl,367,26.0
+Carl,368,5.0
+Carl,369,24.0
+Carl,370,10.0
+Carl,371,24.0
+Carl,372,11.0
+Carl,373,11.0
+Carl,374,32.0
+Carl,376,23.0
+Carl,377,5.0
+Carl,378,28.0
+Carl,380,17.0
+Carl,381,75.0
+Carl,382,14.0
+Carl,383,17.0
+Carl,384,13.0
+Carl,385,25.0
+Carl,387,21.0
+Carl,388,10.0
+Carl,389,25.0
+Carl,390,5.0
+Carl,391,13.0
+Carl,394,54.0
+Carl,397,8.0
+Carl,401,3.0
+Carl,402,35.0
+Carl,403,39.0
+Carl,409,28.0
+Carl,410,63.0
+Carl,411,1.0
+Carl,413,10.0
+Carl,415,6.0
+Carl,416,29.0
+Carl,418,14.0
+Carl,419,58.0
+Carl,426,37.0
+Carl,427,37.0
+Carl,428,5.0
+Carl,429,7.0
+Carl,430,85.0
+Carl,432,41.0
+Carl,434,7.0
+Carl,436,41.0
+Carl,438,2.0
+Carl,442,28.0
+Carl,444,59.0
+Carl,445,2.0
+Carl,446,369.0
+Carl,448,14.0
+Carl,450,6.0
+Carl,451,40.0
+Carl,452,46.0
+Carl,453,13.0
+Carl,458,87.0
+Carl,459,11.0
+Carl,460,6.0
+Carl,461,20.0
+Carl,464,7.0
+Carl,466,6.0
+Carl,467,6.0
+Carl,470,23.0
+Carl,475,14.0
+Carl,477,13.0
+Carl,479,36.0
+Carl,480,23.0
+Carl,481,30.0
+Carl,483,2.0
+Carl,486,6.0
+Carl,487,23.0
+Carl,490,12.0
+Carl,493,22.0
+Carl,495,52.0
+Carl,496,9.0
+Carl,497,3.0
+Carl,498,6.0
+Carl,500,22.0
+Carl,501,15.0
+Carl,502,46.0
+Carl,503,21.0
+Carl,504,44.0
+Carl,506,19.0
+Carl,507,13.0
+Carl,511,12.0
+Carl,512,37.0
+Carl,513,11.0
+Carl,514,11.0
+Carl,515,3.0
+Carl,516,10.0
+Carl,517,12.0
+Carl,519,74.0
+Carl,522,14.0
+Carl,524,11.0
+Carl,525,26.0
+Carl,526,10.0
+Carl,527,36.0
+Carl,528,45.0
+Carl,529,256.0
+Carl,530,12.0
+Carl,531,54.0
+Carl,532,14.0
+Carl,535,36.0
+Carl,538,8.0
+Carl,539,107.0
+Carl,541,67.0
+Carl,542,5.0
+Carl,543,4.0
+Carl,545,11.0
+Carl,547,82.0
+Carl,549,11.0
+Carl,552,22.0
+Carl,555,26.0
+Carl,557,3.0
+Carl,559,6.0
+Carl,563,20.0
+Carl,564,44.0
+Carl,565,5.0
+Carl,566,87.0
+Carl,567,30.0
+Chalmers,79,172.0
+Chalmers,100,195.0
+Chalmers,124,17.0
+Chalmers,125,15.0
+Chalmers,128,48.0
+Chalmers,129,8.0
+Chalmers,140,109.0
+Chalmers,143,1.0
+Chalmers,149,140.0
+Chalmers,155,2.0
+Chalmers,158,1.0
+Chalmers,160,108.0
+Chalmers,172,237.0
+Chalmers,180,193.0
+Chalmers,210,102.0
+Chalmers,214,7.0
+Chalmers,218,38.0
+Chalmers,223,86.0
+Chalmers,256,35.0
+Chalmers,258,13.0
+Chalmers,267,20.0
+Chalmers,289,25.0
+Chalmers,295,24.0
+Chalmers,303,17.0
+Chalmers,316,145.0
+Chalmers,330,26.0
+Chalmers,334,14.0
+Chalmers,340,19.0
+Chalmers,344,21.0
+Chalmers,350,12.0
+Chalmers,352,52.0
+Chalmers,361,23.0
+Chalmers,367,29.0
+Chalmers,368,2.0
+Chalmers,375,116.0
+Chalmers,381,33.0
+Chalmers,382,21.0
+Chalmers,383,27.0
+Chalmers,386,1.0
+Chalmers,390,6.0
+Chalmers,392,172.0
+Chalmers,395,12.0
+Chalmers,399,40.0
+Chalmers,413,60.0
+Chalmers,418,171.0
+Chalmers,421,50.0
+Chalmers,426,75.0
+Chalmers,431,234.0
+Chalmers,437,43.0
+Chalmers,438,41.0
+Chalmers,439,28.0
+Chalmers,446,13.0
+Chalmers,448,17.0
+Chalmers,449,54.0
+Chalmers,455,3.0
+Chalmers,456,111.0
+Chalmers,459,36.0
+Chalmers,461,10.0
+Chalmers,463,4.0
+Chalmers,466,23.0
+Chalmers,467,28.0
+Chalmers,469,34.0
+Chalmers,471,29.0
+Chalmers,474,20.0
+Chalmers,475,57.0
+Chalmers,477,36.0
+Chalmers,479,26.0
+Chalmers,480,15.0
+Chalmers,483,1.0
+Chalmers,485,170.0
+Chalmers,486,233.0
+Chalmers,487,2.0
+Chalmers,488,584.0
+Chalmers,489,139.0
+Chalmers,490,6.0
+Chalmers,497,19.0
+Chalmers,500,17.0
+Chalmers,506,30.0
+Chalmers,507,11.0
+Chalmers,514,8.0
+Chalmers,517,96.0
+Chalmers,518,103.0
+Chalmers,521,16.0
+Chalmers,522,1.0
+Chalmers,523,67.0
+Chalmers,524,48.0
+Chalmers,526,2.0
+Chalmers,534,32.0
+Chalmers,536,96.0
+Chalmers,537,6.0
+Chalmers,546,108.0
+Chalmers,549,15.0
+Chalmers,552,145.0
+Chalmers,556,6.0
+Chalmers,557,3.0
+Chalmers,558,26.0
+Chalmers,559,154.0
+Chalmers,563,21.0
+Chief Wiggum,3,34.0
+Chief Wiggum,8,27.0
+Chief Wiggum,12,71.0
+Chief Wiggum,24,15.0
+Chief Wiggum,36,10.0
+Chief Wiggum,39,176.0
+Chief Wiggum,40,7.0
+Chief Wiggum,41,11.0
+Chief Wiggum,48,89.0
+Chief Wiggum,49,12.0
+Chief Wiggum,50,147.0
+Chief Wiggum,52,46.0
+Chief Wiggum,53,52.0
+Chief Wiggum,54,11.0
+Chief Wiggum,56,96.0
+Chief Wiggum,57,8.0
+Chief Wiggum,61,35.0
+Chief Wiggum,62,8.0
+Chief Wiggum,63,20.0
+Chief Wiggum,64,4.0
+Chief Wiggum,65,17.0
+Chief Wiggum,66,2.0
+Chief Wiggum,69,6.0
+Chief Wiggum,70,51.0
+Chief Wiggum,71,105.0
+Chief Wiggum,73,8.0
+Chief Wiggum,74,188.0
+Chief Wiggum,75,108.0
+Chief Wiggum,76,5.0
+Chief Wiggum,77,15.0
+Chief Wiggum,79,5.0
+Chief Wiggum,80,59.0
+Chief Wiggum,81,13.0
+Chief Wiggum,82,70.0
+Chief Wiggum,83,130.0
+Chief Wiggum,86,39.0
+Chief Wiggum,87,196.0
+Chief Wiggum,88,28.0
+Chief Wiggum,89,54.0
+Chief Wiggum,92,208.0
+Chief Wiggum,97,13.0
+Chief Wiggum,98,63.0
+Chief Wiggum,99,29.0
+Chief Wiggum,100,4.0
+Chief Wiggum,101,42.0
+Chief Wiggum,103,10.0
+Chief Wiggum,104,19.0
+Chief Wiggum,106,11.0
+Chief Wiggum,109,13.0
+Chief Wiggum,111,111.0
+Chief Wiggum,116,13.0
+Chief Wiggum,117,3.0
+Chief Wiggum,118,57.0
+Chief Wiggum,120,87.0
+Chief Wiggum,121,37.0
+Chief Wiggum,122,57.0
+Chief Wiggum,123,49.0
+Chief Wiggum,125,20.0
+Chief Wiggum,126,230.0
+Chief Wiggum,128,39.0
+Chief Wiggum,129,404.0
+Chief Wiggum,130,37.0
+Chief Wiggum,132,31.0
+Chief Wiggum,133,27.0
+Chief Wiggum,134,56.0
+Chief Wiggum,136,75.0
+Chief Wiggum,137,94.0
+Chief Wiggum,140,9.0
+Chief Wiggum,141,4.0
+Chief Wiggum,143,44.0
+Chief Wiggum,144,90.0
+Chief Wiggum,145,8.0
+Chief Wiggum,147,74.0
+Chief Wiggum,149,67.0
+Chief Wiggum,150,34.0
+Chief Wiggum,151,48.0
+Chief Wiggum,155,2.0
+Chief Wiggum,157,68.0
+Chief Wiggum,158,19.0
+Chief Wiggum,160,151.0
+Chief Wiggum,161,13.0
+Chief Wiggum,162,93.0
+Chief Wiggum,163,34.0
+Chief Wiggum,164,42.0
+Chief Wiggum,166,8.0
+Chief Wiggum,169,110.0
+Chief Wiggum,170,138.0
+Chief Wiggum,171,195.0
+Chief Wiggum,172,72.0
+Chief Wiggum,173,109.0
+Chief Wiggum,174,23.0
+Chief Wiggum,176,7.0
+Chief Wiggum,177,331.0
+Chief Wiggum,178,238.0
+Chief Wiggum,182,101.0
+Chief Wiggum,184,37.0
+Chief Wiggum,186,130.0
+Chief Wiggum,187,55.0
+Chief Wiggum,188,25.0
+Chief Wiggum,190,110.0
+Chief Wiggum,192,18.0
+Chief Wiggum,193,4.0
+Chief Wiggum,194,111.0
+Chief Wiggum,195,26.0
+Chief Wiggum,196,195.0
+Chief Wiggum,198,42.0
+Chief Wiggum,200,19.0
+Chief Wiggum,201,19.0
+Chief Wiggum,202,24.0
+Chief Wiggum,203,48.0
+Chief Wiggum,207,174.0
+Chief Wiggum,208,11.0
+Chief Wiggum,209,68.0
+Chief Wiggum,212,21.0
+Chief Wiggum,214,201.0
+Chief Wiggum,215,66.0
+Chief Wiggum,216,125.0
+Chief Wiggum,217,151.0
+Chief Wiggum,218,245.0
+Chief Wiggum,219,39.0
+Chief Wiggum,220,15.0
+Chief Wiggum,221,115.0
+Chief Wiggum,222,31.0
+Chief Wiggum,223,43.0
+Chief Wiggum,225,94.0
+Chief Wiggum,227,11.0
+Chief Wiggum,228,66.0
+Chief Wiggum,229,37.0
+Chief Wiggum,230,57.0
+Chief Wiggum,231,60.0
+Chief Wiggum,232,46.0
+Chief Wiggum,233,44.0
+Chief Wiggum,234,75.0
+Chief Wiggum,235,36.0
+Chief Wiggum,239,68.0
+Chief Wiggum,240,39.0
+Chief Wiggum,246,89.0
+Chief Wiggum,247,128.0
+Chief Wiggum,248,31.0
+Chief Wiggum,249,20.0
+Chief Wiggum,250,5.0
+Chief Wiggum,252,70.0
+Chief Wiggum,253,36.0
+Chief Wiggum,254,155.0
+Chief Wiggum,255,33.0
+Chief Wiggum,256,18.0
+Chief Wiggum,258,111.0
+Chief Wiggum,259,92.0
+Chief Wiggum,260,93.0
+Chief Wiggum,261,125.0
+Chief Wiggum,262,16.0
+Chief Wiggum,263,6.0
+Chief Wiggum,266,214.0
+Chief Wiggum,267,73.0
+Chief Wiggum,268,17.0
+Chief Wiggum,269,21.0
+Chief Wiggum,271,118.0
+Chief Wiggum,273,119.0
+Chief Wiggum,274,154.0
+Chief Wiggum,276,79.0
+Chief Wiggum,277,58.0
+Chief Wiggum,279,19.0
+Chief Wiggum,280,18.0
+Chief Wiggum,281,22.0
+Chief Wiggum,282,51.0
+Chief Wiggum,283,67.0
+Chief Wiggum,285,38.0
+Chief Wiggum,286,83.0
+Chief Wiggum,290,198.0
+Chief Wiggum,291,102.0
+Chief Wiggum,292,49.0
+Chief Wiggum,293,50.0
+Chief Wiggum,295,29.0
+Chief Wiggum,297,255.0
+Chief Wiggum,299,128.0
+Chief Wiggum,300,51.0
+Chief Wiggum,304,69.0
+Chief Wiggum,307,22.0
+Chief Wiggum,308,4.0
+Chief Wiggum,309,56.0
+Chief Wiggum,311,13.0
+Chief Wiggum,312,139.0
+Chief Wiggum,313,121.0
+Chief Wiggum,315,124.0
+Chief Wiggum,316,58.0
+Chief Wiggum,318,5.0
+Chief Wiggum,319,22.0
+Chief Wiggum,320,11.0
+Chief Wiggum,321,50.0
+Chief Wiggum,322,20.0
+Chief Wiggum,326,207.0
+Chief Wiggum,327,8.0
+Chief Wiggum,328,40.0
+Chief Wiggum,329,184.0
+Chief Wiggum,330,68.0
+Chief Wiggum,332,148.0
+Chief Wiggum,333,13.0
+Chief Wiggum,336,230.0
+Chief Wiggum,337,55.0
+Chief Wiggum,339,51.0
+Chief Wiggum,340,52.0
+Chief Wiggum,341,76.0
+Chief Wiggum,342,79.0
+Chief Wiggum,344,557.0
+Chief Wiggum,346,109.0
+Chief Wiggum,348,52.0
+Chief Wiggum,349,138.0
+Chief Wiggum,350,31.0
+Chief Wiggum,354,7.0
+Chief Wiggum,358,69.0
+Chief Wiggum,359,46.0
+Chief Wiggum,360,15.0
+Chief Wiggum,361,19.0
+Chief Wiggum,362,71.0
+Chief Wiggum,363,87.0
+Chief Wiggum,364,34.0
+Chief Wiggum,365,28.0
+Chief Wiggum,366,8.0
+Chief Wiggum,367,17.0
+Chief Wiggum,372,67.0
+Chief Wiggum,374,40.0
+Chief Wiggum,376,21.0
+Chief Wiggum,377,52.0
+Chief Wiggum,380,34.0
+Chief Wiggum,382,103.0
+Chief Wiggum,385,17.0
+Chief Wiggum,389,37.0
+Chief Wiggum,391,138.0
+Chief Wiggum,396,40.0
+Chief Wiggum,398,294.0
+Chief Wiggum,399,28.0
+Chief Wiggum,402,89.0
+Chief Wiggum,403,7.0
+Chief Wiggum,404,114.0
+Chief Wiggum,405,22.0
+Chief Wiggum,408,30.0
+Chief Wiggum,409,103.0
+Chief Wiggum,410,46.0
+Chief Wiggum,412,64.0
+Chief Wiggum,414,92.0
+Chief Wiggum,416,11.0
+Chief Wiggum,418,21.0
+Chief Wiggum,421,11.0
+Chief Wiggum,423,48.0
+Chief Wiggum,428,9.0
+Chief Wiggum,430,4.0
+Chief Wiggum,434,46.0
+Chief Wiggum,437,2.0
+Chief Wiggum,439,151.0
+Chief Wiggum,440,7.0
+Chief Wiggum,448,77.0
+Chief Wiggum,449,41.0
+Chief Wiggum,450,55.0
+Chief Wiggum,452,14.0
+Chief Wiggum,453,13.0
+Chief Wiggum,455,11.0
+Chief Wiggum,458,36.0
+Chief Wiggum,459,820.0
+Chief Wiggum,460,34.0
+Chief Wiggum,461,210.0
+Chief Wiggum,463,89.0
+Chief Wiggum,466,62.0
+Chief Wiggum,468,34.0
+Chief Wiggum,470,26.0
+Chief Wiggum,472,2.0
+Chief Wiggum,473,161.0
+Chief Wiggum,480,26.0
+Chief Wiggum,482,39.0
+Chief Wiggum,483,12.0
+Chief Wiggum,484,44.0
+Chief Wiggum,485,62.0
+Chief Wiggum,488,50.0
+Chief Wiggum,489,13.0
+Chief Wiggum,490,40.0
+Chief Wiggum,491,26.0
+Chief Wiggum,498,79.0
+Chief Wiggum,499,26.0
+Chief Wiggum,500,113.0
+Chief Wiggum,501,187.0
+Chief Wiggum,502,19.0
+Chief Wiggum,504,4.0
+Chief Wiggum,506,11.0
+Chief Wiggum,507,45.0
+Chief Wiggum,508,24.0
+Chief Wiggum,509,10.0
+Chief Wiggum,510,44.0
+Chief Wiggum,511,31.0
+Chief Wiggum,513,36.0
+Chief Wiggum,514,41.0
+Chief Wiggum,515,54.0
+Chief Wiggum,516,47.0
+Chief Wiggum,517,6.0
+Chief Wiggum,518,100.0
+Chief Wiggum,519,73.0
+Chief Wiggum,520,12.0
+Chief Wiggum,524,15.0
+Chief Wiggum,526,5.0
+Chief Wiggum,528,40.0
+Chief Wiggum,530,12.0
+Chief Wiggum,531,126.0
+Chief Wiggum,533,99.0
+Chief Wiggum,537,19.0
+Chief Wiggum,538,46.0
+Chief Wiggum,539,29.0
+Chief Wiggum,543,50.0
+Chief Wiggum,544,65.0
+Chief Wiggum,547,160.0
+Chief Wiggum,548,4.0
+Chief Wiggum,551,10.0
+Chief Wiggum,552,53.0
+Chief Wiggum,553,28.0
+Chief Wiggum,555,36.0
+Chief Wiggum,558,25.0
+Chief Wiggum,560,19.0
+Chief Wiggum,561,11.0
+Chief Wiggum,563,146.0
+Chief Wiggum,564,12.0
+Chief Wiggum,565,52.0
+Chief Wiggum,566,4.0
+Chief Wiggum,567,55.0
+Chief Wiggum,568,78.0
+Cletus,98,9.0
+Cletus,107,12.0
+Cletus,131,15.0
+Cletus,140,2.0
+Cletus,142,14.0
+Cletus,148,12.0
+Cletus,149,48.0
+Cletus,164,66.0
+Cletus,169,28.0
+Cletus,183,6.0
+Cletus,191,18.0
+Cletus,200,9.0
+Cletus,202,49.0
+Cletus,213,16.0
+Cletus,222,21.0
+Cletus,231,5.0
+Cletus,237,17.0
+Cletus,240,6.0
+Cletus,244,18.0
+Cletus,255,13.0
+Cletus,257,14.0
+Cletus,261,4.0
+Cletus,266,47.0
+Cletus,267,5.0
+Cletus,268,6.0
+Cletus,273,17.0
+Cletus,277,39.0
+Cletus,278,10.0
+Cletus,280,19.0
+Cletus,290,29.0
+Cletus,291,11.0
+Cletus,296,13.0
+Cletus,297,13.0
+Cletus,298,46.0
+Cletus,299,2.0
+Cletus,301,32.0
+Cletus,302,20.0
+Cletus,303,23.0
+Cletus,304,8.0
+Cletus,305,16.0
+Cletus,306,20.0
+Cletus,308,11.0
+Cletus,318,12.0
+Cletus,321,11.0
+Cletus,328,26.0
+Cletus,329,27.0
+Cletus,332,1.0
+Cletus,335,8.0
+Cletus,337,26.0
+Cletus,341,13.0
+Cletus,347,50.0
+Cletus,349,4.0
+Cletus,350,27.0
+Cletus,353,8.0
+Cletus,362,9.0
+Cletus,364,9.0
+Cletus,365,6.0
+Cletus,371,10.0
+Cletus,380,21.0
+Cletus,383,31.0
+Cletus,390,26.0
+Cletus,392,166.0
+Cletus,395,41.0
+Cletus,398,7.0
+Cletus,408,5.0
+Cletus,412,15.0
+Cletus,413,14.0
+Cletus,417,130.0
+Cletus,426,4.0
+Cletus,433,25.0
+Cletus,435,20.0
+Cletus,446,16.0
+Cletus,448,207.0
+Cletus,461,25.0
+Cletus,474,6.0
+Cletus,483,9.0
+Cletus,485,14.0
+Cletus,486,2.0
+Cletus,489,10.0
+Cletus,491,10.0
+Cletus,493,1.0
+Cletus,497,10.0
+Cletus,499,13.0
+Cletus,502,12.0
+Cletus,508,8.0
+Cletus,509,172.0
+Cletus,510,6.0
+Cletus,513,1.0
+Cletus,514,20.0
+Cletus,517,22.0
+Cletus,519,13.0
+Cletus,520,29.0
+Cletus,524,18.0
+Cletus,526,12.0
+Cletus,532,4.0
+Cletus,533,18.0
+Cletus,540,10.0
+Cletus,542,11.0
+Cletus,547,15.0
+Cletus,552,75.0
+Cletus,554,11.0
+Cletus,555,65.0
+Cletus,563,15.0
+Comic Book Guy,26,15.0
+Comic Book Guy,57,20.0
+Comic Book Guy,82,13.0
+Comic Book Guy,102,47.0
+Comic Book Guy,125,12.0
+Comic Book Guy,130,71.0
+Comic Book Guy,132,106.0
+Comic Book Guy,139,83.0
+Comic Book Guy,140,6.0
+Comic Book Guy,143,11.0
+Comic Book Guy,144,42.0
+Comic Book Guy,146,102.0
+Comic Book Guy,149,79.0
+Comic Book Guy,155,2.0
+Comic Book Guy,156,75.0
+Comic Book Guy,167,104.0
+Comic Book Guy,170,7.0
+Comic Book Guy,171,21.0
+Comic Book Guy,173,56.0
+Comic Book Guy,182,19.0
+Comic Book Guy,191,6.0
+Comic Book Guy,192,73.0
+Comic Book Guy,201,13.0
+Comic Book Guy,202,12.0
+Comic Book Guy,208,29.0
+Comic Book Guy,212,58.0
+Comic Book Guy,213,29.0
+Comic Book Guy,216,17.0
+Comic Book Guy,224,12.0
+Comic Book Guy,225,163.0
+Comic Book Guy,227,18.0
+Comic Book Guy,228,23.0
+Comic Book Guy,230,211.0
+Comic Book Guy,239,30.0
+Comic Book Guy,240,14.0
+Comic Book Guy,244,20.0
+Comic Book Guy,247,6.0
+Comic Book Guy,248,19.0
+Comic Book Guy,249,11.0
+Comic Book Guy,252,5.0
+Comic Book Guy,253,50.0
+Comic Book Guy,254,38.0
+Comic Book Guy,257,12.0
+Comic Book Guy,259,373.0
+Comic Book Guy,262,18.0
+Comic Book Guy,267,14.0
+Comic Book Guy,268,3.0
+Comic Book Guy,270,6.0
+Comic Book Guy,271,3.0
+Comic Book Guy,275,9.0
+Comic Book Guy,277,20.0
+Comic Book Guy,279,8.0
+Comic Book Guy,287,128.0
+Comic Book Guy,288,8.0
+Comic Book Guy,291,12.0
+Comic Book Guy,292,31.0
+Comic Book Guy,295,24.0
+Comic Book Guy,296,37.0
+Comic Book Guy,304,6.0
+Comic Book Guy,309,28.0
+Comic Book Guy,310,15.0
+Comic Book Guy,311,11.0
+Comic Book Guy,314,13.0
+Comic Book Guy,319,21.0
+Comic Book Guy,320,43.0
+Comic Book Guy,321,25.0
+Comic Book Guy,323,12.0
+Comic Book Guy,326,15.0
+Comic Book Guy,328,63.0
+Comic Book Guy,330,245.0
+Comic Book Guy,332,36.0
+Comic Book Guy,333,10.0
+Comic Book Guy,340,27.0
+Comic Book Guy,341,6.0
+Comic Book Guy,343,30.0
+Comic Book Guy,354,22.0
+Comic Book Guy,360,7.0
+Comic Book Guy,365,6.0
+Comic Book Guy,367,44.0
+Comic Book Guy,373,65.0
+Comic Book Guy,374,54.0
+Comic Book Guy,375,14.0
+Comic Book Guy,381,31.0
+Comic Book Guy,385,49.0
+Comic Book Guy,388,21.0
+Comic Book Guy,391,8.0
+Comic Book Guy,392,15.0
+Comic Book Guy,395,7.0
+Comic Book Guy,400,19.0
+Comic Book Guy,407,171.0
+Comic Book Guy,411,13.0
+Comic Book Guy,412,21.0
+Comic Book Guy,415,29.0
+Comic Book Guy,418,54.0
+Comic Book Guy,420,39.0
+Comic Book Guy,427,34.0
+Comic Book Guy,429,64.0
+Comic Book Guy,433,139.0
+Comic Book Guy,442,379.0
+Comic Book Guy,446,13.0
+Comic Book Guy,460,14.0
+Comic Book Guy,461,12.0
+Comic Book Guy,470,20.0
+Comic Book Guy,473,10.0
+Comic Book Guy,474,283.0
+Comic Book Guy,475,23.0
+Comic Book Guy,483,19.0
+Comic Book Guy,486,36.0
+Comic Book Guy,487,48.0
+Comic Book Guy,491,36.0
+Comic Book Guy,497,5.0
+Comic Book Guy,498,3.0
+Comic Book Guy,500,7.0
+Comic Book Guy,504,78.0
+Comic Book Guy,508,11.0
+Comic Book Guy,510,20.0
+Comic Book Guy,511,36.0
+Comic Book Guy,524,21.0
+Comic Book Guy,528,15.0
+Comic Book Guy,532,25.0
+Comic Book Guy,534,14.0
+Comic Book Guy,538,20.0
+Comic Book Guy,539,9.0
+Comic Book Guy,540,621.0
+Comic Book Guy,542,40.0
+Comic Book Guy,551,7.0
+Comic Book Guy,556,9.0
+Comic Book Guy,561,41.0
+Comic Book Guy,565,71.0
+Dr. Hibbert,21,165.0
+Dr. Hibbert,23,27.0
+Dr. Hibbert,24,127.0
+Dr. Hibbert,25,18.0
+Dr. Hibbert,28,24.0
+Dr. Hibbert,29,118.0
+Dr. Hibbert,31,3.0
+Dr. Hibbert,33,65.0
+Dr. Hibbert,35,56.0
+Dr. Hibbert,44,40.0
+Dr. Hibbert,47,50.0
+Dr. Hibbert,48,7.0
+Dr. Hibbert,52,32.0
+Dr. Hibbert,60,22.0
+Dr. Hibbert,63,15.0
+Dr. Hibbert,69,34.0
+Dr. Hibbert,70,172.0
+Dr. Hibbert,71,10.0
+Dr. Hibbert,73,49.0
+Dr. Hibbert,77,31.0
+Dr. Hibbert,80,37.0
+Dr. Hibbert,81,7.0
+Dr. Hibbert,84,21.0
+Dr. Hibbert,85,8.0
+Dr. Hibbert,88,10.0
+Dr. Hibbert,89,21.0
+Dr. Hibbert,90,34.0
+Dr. Hibbert,94,44.0
+Dr. Hibbert,95,41.0
+Dr. Hibbert,97,15.0
+Dr. Hibbert,101,26.0
+Dr. Hibbert,104,29.0
+Dr. Hibbert,108,4.0
+Dr. Hibbert,110,8.0
+Dr. Hibbert,113,28.0
+Dr. Hibbert,115,6.0
+Dr. Hibbert,116,73.0
+Dr. Hibbert,117,4.0
+Dr. Hibbert,121,12.0
+Dr. Hibbert,122,11.0
+Dr. Hibbert,125,81.0
+Dr. Hibbert,126,9.0
+Dr. Hibbert,128,12.0
+Dr. Hibbert,132,57.0
+Dr. Hibbert,133,3.0
+Dr. Hibbert,134,18.0
+Dr. Hibbert,135,18.0
+Dr. Hibbert,137,7.0
+Dr. Hibbert,141,13.0
+Dr. Hibbert,143,33.0
+Dr. Hibbert,144,11.0
+Dr. Hibbert,145,18.0
+Dr. Hibbert,147,12.0
+Dr. Hibbert,149,13.0
+Dr. Hibbert,154,221.0
+Dr. Hibbert,155,2.0
+Dr. Hibbert,156,92.0
+Dr. Hibbert,159,36.0
+Dr. Hibbert,162,13.0
+Dr. Hibbert,163,35.0
+Dr. Hibbert,166,25.0
+Dr. Hibbert,170,86.0
+Dr. Hibbert,171,8.0
+Dr. Hibbert,172,18.0
+Dr. Hibbert,174,16.0
+Dr. Hibbert,181,24.0
+Dr. Hibbert,182,31.0
+Dr. Hibbert,183,24.0
+Dr. Hibbert,184,21.0
+Dr. Hibbert,186,59.0
+Dr. Hibbert,187,36.0
+Dr. Hibbert,188,3.0
+Dr. Hibbert,193,8.0
+Dr. Hibbert,195,58.0
+Dr. Hibbert,198,10.0
+Dr. Hibbert,201,15.0
+Dr. Hibbert,202,101.0
+Dr. Hibbert,207,5.0
+Dr. Hibbert,209,26.0
+Dr. Hibbert,211,162.0
+Dr. Hibbert,214,3.0
+Dr. Hibbert,215,13.0
+Dr. Hibbert,217,42.0
+Dr. Hibbert,219,72.0
+Dr. Hibbert,220,53.0
+Dr. Hibbert,221,14.0
+Dr. Hibbert,225,171.0
+Dr. Hibbert,228,3.0
+Dr. Hibbert,232,48.0
+Dr. Hibbert,233,40.0
+Dr. Hibbert,235,64.0
+Dr. Hibbert,236,69.0
+Dr. Hibbert,237,135.0
+Dr. Hibbert,240,16.0
+Dr. Hibbert,248,19.0
+Dr. Hibbert,249,25.0
+Dr. Hibbert,250,17.0
+Dr. Hibbert,253,10.0
+Dr. Hibbert,254,14.0
+Dr. Hibbert,255,23.0
+Dr. Hibbert,257,42.0
+Dr. Hibbert,258,61.0
+Dr. Hibbert,259,118.0
+Dr. Hibbert,260,22.0
+Dr. Hibbert,261,41.0
+Dr. Hibbert,264,14.0
+Dr. Hibbert,265,27.0
+Dr. Hibbert,266,30.0
+Dr. Hibbert,267,25.0
+Dr. Hibbert,268,130.0
+Dr. Hibbert,269,12.0
+Dr. Hibbert,277,34.0
+Dr. Hibbert,278,89.0
+Dr. Hibbert,279,20.0
+Dr. Hibbert,285,103.0
+Dr. Hibbert,286,5.0
+Dr. Hibbert,287,41.0
+Dr. Hibbert,288,9.0
+Dr. Hibbert,289,88.0
+Dr. Hibbert,291,59.0
+Dr. Hibbert,292,112.0
+Dr. Hibbert,295,9.0
+Dr. Hibbert,300,75.0
+Dr. Hibbert,301,11.0
+Dr. Hibbert,304,34.0
+Dr. Hibbert,305,40.0
+Dr. Hibbert,306,86.0
+Dr. Hibbert,308,79.0
+Dr. Hibbert,309,8.0
+Dr. Hibbert,310,8.0
+Dr. Hibbert,311,56.0
+Dr. Hibbert,313,17.0
+Dr. Hibbert,315,40.0
+Dr. Hibbert,317,14.0
+Dr. Hibbert,319,76.0
+Dr. Hibbert,321,16.0
+Dr. Hibbert,322,42.0
+Dr. Hibbert,326,19.0
+Dr. Hibbert,330,6.0
+Dr. Hibbert,334,145.0
+Dr. Hibbert,336,55.0
+Dr. Hibbert,340,15.0
+Dr. Hibbert,341,10.0
+Dr. Hibbert,343,12.0
+Dr. Hibbert,346,46.0
+Dr. Hibbert,347,25.0
+Dr. Hibbert,351,185.0
+Dr. Hibbert,352,62.0
+Dr. Hibbert,354,3.0
+Dr. Hibbert,355,8.0
+Dr. Hibbert,359,59.0
+Dr. Hibbert,360,114.0
+Dr. Hibbert,365,26.0
+Dr. Hibbert,366,46.0
+Dr. Hibbert,376,73.0
+Dr. Hibbert,378,8.0
+Dr. Hibbert,379,19.0
+Dr. Hibbert,380,15.0
+Dr. Hibbert,391,10.0
+Dr. Hibbert,396,22.0
+Dr. Hibbert,402,139.0
+Dr. Hibbert,404,59.0
+Dr. Hibbert,405,10.0
+Dr. Hibbert,408,15.0
+Dr. Hibbert,410,9.0
+Dr. Hibbert,414,3.0
+Dr. Hibbert,422,28.0
+Dr. Hibbert,425,8.0
+Dr. Hibbert,426,14.0
+Dr. Hibbert,432,21.0
+Dr. Hibbert,433,36.0
+Dr. Hibbert,436,17.0
+Dr. Hibbert,438,108.0
+Dr. Hibbert,440,7.0
+Dr. Hibbert,445,52.0
+Dr. Hibbert,448,12.0
+Dr. Hibbert,453,39.0
+Dr. Hibbert,457,38.0
+Dr. Hibbert,459,21.0
+Dr. Hibbert,464,4.0
+Dr. Hibbert,470,16.0
+Dr. Hibbert,474,45.0
+Dr. Hibbert,485,11.0
+Dr. Hibbert,493,7.0
+Dr. Hibbert,495,22.0
+Dr. Hibbert,500,2.0
+Dr. Hibbert,503,36.0
+Dr. Hibbert,506,9.0
+Dr. Hibbert,507,6.0
+Dr. Hibbert,511,11.0
+Dr. Hibbert,512,25.0
+Dr. Hibbert,513,54.0
+Dr. Hibbert,514,26.0
+Dr. Hibbert,518,15.0
+Dr. Hibbert,519,6.0
+Dr. Hibbert,523,23.0
+Dr. Hibbert,525,17.0
+Dr. Hibbert,532,39.0
+Dr. Hibbert,534,18.0
+Dr. Hibbert,538,4.0
+Dr. Hibbert,539,13.0
+Dr. Hibbert,542,61.0
+Dr. Hibbert,544,12.0
+Dr. Hibbert,548,124.0
+Dr. Hibbert,551,11.0
+Dr. Hibbert,552,60.0
+Dr. Hibbert,560,58.0
+Dr. Hibbert,563,97.0
+Dr. Hibbert,565,10.0
+Dr. Hibbert,566,1.0
+Duffman,179,54.0
+Duffman,242,197.0
+Duffman,263,48.0
+Duffman,278,60.0
+Duffman,290,12.0
+Duffman,297,17.0
+Duffman,310,160.0
+Duffman,328,20.0
+Duffman,330,28.0
+Duffman,376,13.0
+Duffman,378,49.0
+Duffman,401,20.0
+Duffman,409,95.0
+Duffman,461,74.0
+Duffman,485,21.0
+Duffman,498,19.0
+Duffman,514,29.0
+Duffman,522,2.0
+Duffman,526,7.0
+Duffman,538,11.0
+Duffman,548,8.0
+Duffman,549,40.0
+Duffman,551,8.0
+Edna Krabappel,2,87.0
+Edna Krabappel,3,191.0
+Edna Krabappel,8,3.0
+Edna Krabappel,14,355.0
+Edna Krabappel,27,12.0
+Edna Krabappel,32,193.0
+Edna Krabappel,39,62.0
+Edna Krabappel,42,37.0
+Edna Krabappel,45,73.0
+Edna Krabappel,51,421.0
+Edna Krabappel,53,125.0
+Edna Krabappel,58,151.0
+Edna Krabappel,60,41.0
+Edna Krabappel,64,19.0
+Edna Krabappel,65,102.0
+Edna Krabappel,66,102.0
+Edna Krabappel,73,15.0
+Edna Krabappel,75,8.0
+Edna Krabappel,83,20.0
+Edna Krabappel,88,27.0
+Edna Krabappel,89,42.0
+Edna Krabappel,90,89.0
+Edna Krabappel,93,44.0
+Edna Krabappel,100,74.0
+Edna Krabappel,101,78.0
+Edna Krabappel,103,34.0
+Edna Krabappel,106,3.0
+Edna Krabappel,108,17.0
+Edna Krabappel,109,64.0
+Edna Krabappel,111,73.0
+Edna Krabappel,124,301.0
+Edna Krabappel,125,49.0
+Edna Krabappel,126,13.0
+Edna Krabappel,127,32.0
+Edna Krabappel,131,35.0
+Edna Krabappel,134,38.0
+Edna Krabappel,140,33.0
+Edna Krabappel,144,12.0
+Edna Krabappel,150,41.0
+Edna Krabappel,153,31.0
+Edna Krabappel,164,45.0
+Edna Krabappel,169,30.0
+Edna Krabappel,172,514.0
+Edna Krabappel,178,26.0
+Edna Krabappel,180,72.0
+Edna Krabappel,182,12.0
+Edna Krabappel,186,20.0
+Edna Krabappel,188,13.0
+Edna Krabappel,191,47.0
+Edna Krabappel,196,12.0
+Edna Krabappel,198,12.0
+Edna Krabappel,203,16.0
+Edna Krabappel,206,10.0
+Edna Krabappel,210,23.0
+Edna Krabappel,212,3.0
+Edna Krabappel,213,9.0
+Edna Krabappel,214,10.0
+Edna Krabappel,217,20.0
+Edna Krabappel,218,20.0
+Edna Krabappel,221,6.0
+Edna Krabappel,222,13.0
+Edna Krabappel,228,39.0
+Edna Krabappel,232,36.0
+Edna Krabappel,234,27.0
+Edna Krabappel,240,19.0
+Edna Krabappel,250,2.0
+Edna Krabappel,253,10.0
+Edna Krabappel,254,5.0
+Edna Krabappel,258,5.0
+Edna Krabappel,263,23.0
+Edna Krabappel,264,9.0
+Edna Krabappel,270,83.0
+Edna Krabappel,271,42.0
+Edna Krabappel,287,23.0
+Edna Krabappel,291,2.0
+Edna Krabappel,294,20.0
+Edna Krabappel,298,262.0
+Edna Krabappel,304,18.0
+Edna Krabappel,311,12.0
+Edna Krabappel,316,58.0
+Edna Krabappel,321,18.0
+Edna Krabappel,325,76.0
+Edna Krabappel,328,7.0
+Edna Krabappel,329,15.0
+Edna Krabappel,330,274.0
+Edna Krabappel,337,4.0
+Edna Krabappel,338,28.0
+Edna Krabappel,346,51.0
+Edna Krabappel,350,13.0
+Edna Krabappel,356,68.0
+Edna Krabappel,364,24.0
+Edna Krabappel,367,9.0
+Edna Krabappel,368,15.0
+Edna Krabappel,369,143.0
+Edna Krabappel,375,9.0
+Edna Krabappel,376,3.0
+Edna Krabappel,382,10.0
+Edna Krabappel,395,30.0
+Edna Krabappel,398,29.0
+Edna Krabappel,413,36.0
+Edna Krabappel,414,3.0
+Edna Krabappel,426,31.0
+Edna Krabappel,431,24.0
+Edna Krabappel,434,5.0
+Edna Krabappel,438,43.0
+Edna Krabappel,439,22.0
+Edna Krabappel,443,477.0
+Edna Krabappel,444,32.0
+Edna Krabappel,445,58.0
+Edna Krabappel,446,18.0
+Edna Krabappel,450,76.0
+Edna Krabappel,452,5.0
+Edna Krabappel,455,109.0
+Edna Krabappel,471,32.0
+Edna Krabappel,474,17.0
+Edna Krabappel,477,13.0
+Edna Krabappel,481,20.0
+Edna Krabappel,486,594.0
+Edna Krabappel,487,9.0
+Edna Krabappel,488,58.0
+Edna Krabappel,506,39.0
+Edna Krabappel,507,259.0
+Edna Krabappel,509,15.0
+Edna Krabappel,514,12.0
+Edna Krabappel,515,10.0
+Edna Krabappel,518,93.0
+Edna Krabappel,523,56.0
+Edna Krabappel,525,7.0
+Edna Krabappel,533,1.0
+Edna Krabappel,534,33.0
+Edna Krabappel,543,12.0
+Fat Tony,39,401.0
+Fat Tony,118,141.0
+Fat Tony,147,12.0
+Fat Tony,151,74.0
+Fat Tony,164,200.0
+Fat Tony,171,31.0
+Fat Tony,212,144.0
+Fat Tony,235,91.0
+Fat Tony,237,17.0
+Fat Tony,251,93.0
+Fat Tony,266,54.0
+Fat Tony,274,22.0
+Fat Tony,291,128.0
+Fat Tony,305,6.0
+Fat Tony,307,29.0
+Fat Tony,313,60.0
+Fat Tony,349,33.0
+Fat Tony,357,47.0
+Fat Tony,379,260.0
+Fat Tony,458,6.0
+Fat Tony,459,48.0
+Fat Tony,473,437.0
+Fat Tony,483,386.0
+Fat Tony,513,200.0
+Fat Tony,549,188.0
+Flanders,1,103.0
+Flanders,7,34.0
+Flanders,19,740.0
+Flanders,21,30.0
+Flanders,22,31.0
+Flanders,24,58.0
+Flanders,26,80.0
+Flanders,29,104.0
+Flanders,33,86.0
+Flanders,38,772.0
+Flanders,42,64.0
+Flanders,43,10.0
+Flanders,44,11.0
+Flanders,48,30.0
+Flanders,51,329.0
+Flanders,54,13.0
+Flanders,59,75.0
+Flanders,61,142.0
+Flanders,62,113.0
+Flanders,64,41.0
+Flanders,66,15.0
+Flanders,68,15.0
+Flanders,69,210.0
+Flanders,70,60.0
+Flanders,71,23.0
+Flanders,73,7.0
+Flanders,74,20.0
+Flanders,75,42.0
+Flanders,77,23.0
+Flanders,78,27.0
+Flanders,80,103.0
+Flanders,82,23.0
+Flanders,83,34.0
+Flanders,85,23.0
+Flanders,86,28.0
+Flanders,87,8.0
+Flanders,88,48.0
+Flanders,89,376.0
+Flanders,90,26.0
+Flanders,91,5.0
+Flanders,92,62.0
+Flanders,93,2.0
+Flanders,97,551.0
+Flanders,98,13.0
+Flanders,100,229.0
+Flanders,101,7.0
+Flanders,103,16.0
+Flanders,104,154.0
+Flanders,105,16.0
+Flanders,109,84.0
+Flanders,113,13.0
+Flanders,116,9.0
+Flanders,117,174.0
+Flanders,118,44.0
+Flanders,121,47.0
+Flanders,122,24.0
+Flanders,123,14.0
+Flanders,124,97.0
+Flanders,126,43.0
+Flanders,127,82.0
+Flanders,128,17.0
+Flanders,131,495.0
+Flanders,132,55.0
+Flanders,133,64.0
+Flanders,134,16.0
+Flanders,135,16.0
+Flanders,136,41.0
+Flanders,140,5.0
+Flanders,141,165.0
+Flanders,144,52.0
+Flanders,149,73.0
+Flanders,150,56.0
+Flanders,151,66.0
+Flanders,153,104.0
+Flanders,155,41.0
+Flanders,157,121.0
+Flanders,158,90.0
+Flanders,159,35.0
+Flanders,160,67.0
+Flanders,161,933.0
+Flanders,162,65.0
+Flanders,163,11.0
+Flanders,164,60.0
+Flanders,166,18.0
+Flanders,167,17.0
+Flanders,170,232.0
+Flanders,171,32.0
+Flanders,172,30.0
+Flanders,175,260.0
+Flanders,181,23.0
+Flanders,182,96.0
+Flanders,183,20.0
+Flanders,184,198.0
+Flanders,186,142.0
+Flanders,187,349.0
+Flanders,188,26.0
+Flanders,190,7.0
+Flanders,191,93.0
+Flanders,192,33.0
+Flanders,193,23.0
+Flanders,195,16.0
+Flanders,198,97.0
+Flanders,200,54.0
+Flanders,201,28.0
+Flanders,203,92.0
+Flanders,205,35.0
+Flanders,208,26.0
+Flanders,209,18.0
+Flanders,212,12.0
+Flanders,213,752.0
+Flanders,215,35.0
+Flanders,216,13.0
+Flanders,217,84.0
+Flanders,219,51.0
+Flanders,221,150.0
+Flanders,222,38.0
+Flanders,224,12.0
+Flanders,225,17.0
+Flanders,226,117.0
+Flanders,227,12.0
+Flanders,228,136.0
+Flanders,229,25.0
+Flanders,230,83.0
+Flanders,231,13.0
+Flanders,233,28.0
+Flanders,234,70.0
+Flanders,235,20.0
+Flanders,236,182.0
+Flanders,237,49.0
+Flanders,239,5.0
+Flanders,240,605.0
+Flanders,243,74.0
+Flanders,244,10.0
+Flanders,245,31.0
+Flanders,248,16.0
+Flanders,250,13.0
+Flanders,251,18.0
+Flanders,252,13.0
+Flanders,254,40.0
+Flanders,255,57.0
+Flanders,256,99.0
+Flanders,257,56.0
+Flanders,258,7.0
+Flanders,259,53.0
+Flanders,260,8.0
+Flanders,266,32.0
+Flanders,267,761.0
+Flanders,268,168.0
+Flanders,271,58.0
+Flanders,273,1.0
+Flanders,274,4.0
+Flanders,275,65.0
+Flanders,276,133.0
+Flanders,280,7.0
+Flanders,282,3.0
+Flanders,283,37.0
+Flanders,285,111.0
+Flanders,286,55.0
+Flanders,287,46.0
+Flanders,291,22.0
+Flanders,292,111.0
+Flanders,294,50.0
+Flanders,296,16.0
+Flanders,298,14.0
+Flanders,299,34.0
+Flanders,300,20.0
+Flanders,301,228.0
+Flanders,304,909.0
+Flanders,305,10.0
+Flanders,306,10.0
+Flanders,308,32.0
+Flanders,309,77.0
+Flanders,311,13.0
+Flanders,312,144.0
+Flanders,314,35.0
+Flanders,315,15.0
+Flanders,318,8.0
+Flanders,320,253.0
+Flanders,321,9.0
+Flanders,322,13.0
+Flanders,323,143.0
+Flanders,327,25.0
+Flanders,328,14.0
+Flanders,331,20.0
+Flanders,335,13.0
+Flanders,336,239.0
+Flanders,337,67.0
+Flanders,340,37.0
+Flanders,341,137.0
+Flanders,343,347.0
+Flanders,348,20.0
+Flanders,349,18.0
+Flanders,351,44.0
+Flanders,352,18.0
+Flanders,354,11.0
+Flanders,355,646.0
+Flanders,356,109.0
+Flanders,358,21.0
+Flanders,359,103.0
+Flanders,360,35.0
+Flanders,365,38.0
+Flanders,367,84.0
+Flanders,370,629.0
+Flanders,374,11.0
+Flanders,376,49.0
+Flanders,377,249.0
+Flanders,379,23.0
+Flanders,382,3.0
+Flanders,387,48.0
+Flanders,388,34.0
+Flanders,391,14.0
+Flanders,393,45.0
+Flanders,395,5.0
+Flanders,396,73.0
+Flanders,397,12.0
+Flanders,400,99.0
+Flanders,401,2.0
+Flanders,402,10.0
+Flanders,403,41.0
+Flanders,405,161.0
+Flanders,409,21.0
+Flanders,410,11.0
+Flanders,412,80.0
+Flanders,415,38.0
+Flanders,417,8.0
+Flanders,419,33.0
+Flanders,421,537.0
+Flanders,425,327.0
+Flanders,430,22.0
+Flanders,432,381.0
+Flanders,434,19.0
+Flanders,435,25.0
+Flanders,437,17.0
+Flanders,443,7.0
+Flanders,446,167.0
+Flanders,448,33.0
+Flanders,450,19.0
+Flanders,455,58.0
+Flanders,457,533.0
+Flanders,459,4.0
+Flanders,460,9.0
+Flanders,461,314.0
+Flanders,462,29.0
+Flanders,463,19.0
+Flanders,464,44.0
+Flanders,467,90.0
+Flanders,470,17.0
+Flanders,471,10.0
+Flanders,472,5.0
+Flanders,474,10.0
+Flanders,476,5.0
+Flanders,477,6.0
+Flanders,482,20.0
+Flanders,484,18.0
+Flanders,485,41.0
+Flanders,486,684.0
+Flanders,487,59.0
+Flanders,489,194.0
+Flanders,490,142.0
+Flanders,491,31.0
+Flanders,493,2.0
+Flanders,495,16.0
+Flanders,496,36.0
+Flanders,498,10.0
+Flanders,500,40.0
+Flanders,502,8.0
+Flanders,503,26.0
+Flanders,507,690.0
+Flanders,508,75.0
+Flanders,509,6.0
+Flanders,510,5.0
+Flanders,512,7.0
+Flanders,513,11.0
+Flanders,514,107.0
+Flanders,515,35.0
+Flanders,517,53.0
+Flanders,518,17.0
+Flanders,523,456.0
+Flanders,525,7.0
+Flanders,526,142.0
+Flanders,528,29.0
+Flanders,530,17.0
+Flanders,533,21.0
+Flanders,534,18.0
+Flanders,538,59.0
+Flanders,539,24.0
+Flanders,542,12.0
+Flanders,543,78.0
+Flanders,546,4.0
+Flanders,549,13.0
+Flanders,551,5.0
+Flanders,554,26.0
+Flanders,555,99.0
+Flanders,561,114.0
+Flanders,568,82.0
+Grampa,1,4.0
+Grampa,5,299.0
+Grampa,8,30.0
+Grampa,17,30.0
+Grampa,20,85.0
+Grampa,24,67.0
+Grampa,25,101.0
+Grampa,28,239.0
+Grampa,30,970.0
+Grampa,33,192.0
+Grampa,36,2.0
+Grampa,40,5.0
+Grampa,43,41.0
+Grampa,46,4.0
+Grampa,47,33.0
+Grampa,54,60.0
+Grampa,63,7.0
+Grampa,64,64.0
+Grampa,65,49.0
+Grampa,66,118.0
+Grampa,67,70.0
+Grampa,68,67.0
+Grampa,69,80.0
+Grampa,70,48.0
+Grampa,71,57.0
+Grampa,73,43.0
+Grampa,74,17.0
+Grampa,76,135.0
+Grampa,77,61.0
+Grampa,78,324.0
+Grampa,79,68.0
+Grampa,80,40.0
+Grampa,81,26.0
+Grampa,82,57.0
+Grampa,83,81.0
+Grampa,84,3.0
+Grampa,85,24.0
+Grampa,86,34.0
+Grampa,90,6.0
+Grampa,91,114.0
+Grampa,92,290.0
+Grampa,93,14.0
+Grampa,94,36.0
+Grampa,95,572.0
+Grampa,96,7.0
+Grampa,97,16.0
+Grampa,98,10.0
+Grampa,99,8.0
+Grampa,102,428.0
+Grampa,103,5.0
+Grampa,104,7.0
+Grampa,106,60.0
+Grampa,107,29.0
+Grampa,108,68.0
+Grampa,109,29.0
+Grampa,110,13.0
+Grampa,111,9.0
+Grampa,112,12.0
+Grampa,113,633.0
+Grampa,114,23.0
+Grampa,115,40.0
+Grampa,117,14.0
+Grampa,121,33.0
+Grampa,123,23.0
+Grampa,124,22.0
+Grampa,125,38.0
+Grampa,126,16.0
+Grampa,127,140.0
+Grampa,128,110.0
+Grampa,129,112.0
+Grampa,130,8.0
+Grampa,131,17.0
+Grampa,133,39.0
+Grampa,134,18.0
+Grampa,136,149.0
+Grampa,137,65.0
+Grampa,139,5.0
+Grampa,141,35.0
+Grampa,142,24.0
+Grampa,146,30.0
+Grampa,147,12.0
+Grampa,149,17.0
+Grampa,150,961.0
+Grampa,151,86.0
+Grampa,152,39.0
+Grampa,156,14.0
+Grampa,157,10.0
+Grampa,158,31.0
+Grampa,160,8.0
+Grampa,161,20.0
+Grampa,163,60.0
+Grampa,164,5.0
+Grampa,166,41.0
+Grampa,174,66.0
+Grampa,177,228.0
+Grampa,178,107.0
+Grampa,180,16.0
+Grampa,181,109.0
+Grampa,184,28.0
+Grampa,185,22.0
+Grampa,188,17.0
+Grampa,195,189.0
+Grampa,197,60.0
+Grampa,199,21.0
+Grampa,201,116.0
+Grampa,203,110.0
+Grampa,205,19.0
+Grampa,209,231.0
+Grampa,211,230.0
+Grampa,213,6.0
+Grampa,214,23.0
+Grampa,216,41.0
+Grampa,221,10.0
+Grampa,223,136.0
+Grampa,228,2.0
+Grampa,230,21.0
+Grampa,232,10.0
+Grampa,234,4.0
+Grampa,237,3.0
+Grampa,238,3.0
+Grampa,248,14.0
+Grampa,249,8.0
+Grampa,250,3.0
+Grampa,255,119.0
+Grampa,260,84.0
+Grampa,268,65.0
+Grampa,269,17.0
+Grampa,276,85.0
+Grampa,278,45.0
+Grampa,279,9.0
+Grampa,281,45.0
+Grampa,282,759.0
+Grampa,286,41.0
+Grampa,288,24.0
+Grampa,289,52.0
+Grampa,291,6.0
+Grampa,292,42.0
+Grampa,296,15.0
+Grampa,298,36.0
+Grampa,300,16.0
+Grampa,302,9.0
+Grampa,304,4.0
+Grampa,305,5.0
+Grampa,307,50.0
+Grampa,308,6.0
+Grampa,312,7.0
+Grampa,313,31.0
+Grampa,314,3.0
+Grampa,315,31.0
+Grampa,317,165.0
+Grampa,318,66.0
+Grampa,319,20.0
+Grampa,320,9.0
+Grampa,322,35.0
+Grampa,325,6.0
+Grampa,327,40.0
+Grampa,330,17.0
+Grampa,331,155.0
+Grampa,333,3.0
+Grampa,339,11.0
+Grampa,340,23.0
+Grampa,341,181.0
+Grampa,345,24.0
+Grampa,346,56.0
+Grampa,351,24.0
+Grampa,354,12.0
+Grampa,356,9.0
+Grampa,360,24.0
+Grampa,365,366.0
+Grampa,366,333.0
+Grampa,372,434.0
+Grampa,376,16.0
+Grampa,377,17.0
+Grampa,378,81.0
+Grampa,382,19.0
+Grampa,383,26.0
+Grampa,384,70.0
+Grampa,385,7.0
+Grampa,386,19.0
+Grampa,387,22.0
+Grampa,388,3.0
+Grampa,389,34.0
+Grampa,390,32.0
+Grampa,392,7.0
+Grampa,393,578.0
+Grampa,395,3.0
+Grampa,396,6.0
+Grampa,397,23.0
+Grampa,400,36.0
+Grampa,405,2.0
+Grampa,406,24.0
+Grampa,409,96.0
+Grampa,411,27.0
+Grampa,412,14.0
+Grampa,416,139.0
+Grampa,419,40.0
+Grampa,423,53.0
+Grampa,425,12.0
+Grampa,426,47.0
+Grampa,427,7.0
+Grampa,428,16.0
+Grampa,430,17.0
+Grampa,432,42.0
+Grampa,434,351.0
+Grampa,437,13.0
+Grampa,445,12.0
+Grampa,450,532.0
+Grampa,452,56.0
+Grampa,454,251.0
+Grampa,456,48.0
+Grampa,458,11.0
+Grampa,461,5.0
+Grampa,464,50.0
+Grampa,465,35.0
+Grampa,466,197.0
+Grampa,468,9.0
+Grampa,472,40.0
+Grampa,475,4.0
+Grampa,479,502.0
+Grampa,480,18.0
+Grampa,481,19.0
+Grampa,482,66.0
+Grampa,484,18.0
+Grampa,487,37.0
+Grampa,488,42.0
+Grampa,489,7.0
+Grampa,490,67.0
+Grampa,495,92.0
+Grampa,497,23.0
+Grampa,499,132.0
+Grampa,500,10.0
+Grampa,501,14.0
+Grampa,502,76.0
+Grampa,503,19.0
+Grampa,504,36.0
+Grampa,506,11.0
+Grampa,507,2.0
+Grampa,508,7.0
+Grampa,512,319.0
+Grampa,516,646.0
+Grampa,519,38.0
+Grampa,522,419.0
+Grampa,523,61.0
+Grampa,524,96.0
+Grampa,525,14.0
+Grampa,526,2.0
+Grampa,527,215.0
+Grampa,528,6.0
+Grampa,529,4.0
+Grampa,530,39.0
+Grampa,531,3.0
+Grampa,532,27.0
+Grampa,535,9.0
+Grampa,541,6.0
+Grampa,542,8.0
+Grampa,544,150.0
+Grampa,548,17.0
+Grampa,551,98.0
+Grampa,552,135.0
+Grampa,555,33.0
+Grampa,556,12.0
+Grampa,561,19.0
+Grampa,562,16.0
+Grampa,563,18.0
+Grampa,564,2.0
+Grampa,565,9.0
+Grampa,566,35.0
+Groundskeeper Willie,27,21.0
+Groundskeeper Willie,39,23.0
+Groundskeeper Willie,42,16.0
+Groundskeeper Willie,43,15.0
+Groundskeeper Willie,48,55.0
+Groundskeeper Willie,51,13.0
+Groundskeeper Willie,53,22.0
+Groundskeeper Willie,60,15.0
+Groundskeeper Willie,62,6.0
+Groundskeeper Willie,63,28.0
+Groundskeeper Willie,64,12.0
+Groundskeeper Willie,65,1.0
+Groundskeeper Willie,66,38.0
+Groundskeeper Willie,68,1.0
+Groundskeeper Willie,72,8.0
+Groundskeeper Willie,74,46.0
+Groundskeeper Willie,79,77.0
+Groundskeeper Willie,82,27.0
+Groundskeeper Willie,86,37.0
+Groundskeeper Willie,87,10.0
+Groundskeeper Willie,88,42.0
+Groundskeeper Willie,100,104.0
+Groundskeeper Willie,101,21.0
+Groundskeeper Willie,103,23.0
+Groundskeeper Willie,109,147.0
+Groundskeeper Willie,110,75.0
+Groundskeeper Willie,112,54.0
+Groundskeeper Willie,117,1.0
+Groundskeeper Willie,120,5.0
+Groundskeeper Willie,125,6.0
+Groundskeeper Willie,128,84.0
+Groundskeeper Willie,129,50.0
+Groundskeeper Willie,131,23.0
+Groundskeeper Willie,133,15.0
+Groundskeeper Willie,134,70.0
+Groundskeeper Willie,140,2.0
+Groundskeeper Willie,149,11.0
+Groundskeeper Willie,151,13.0
+Groundskeeper Willie,158,5.0
+Groundskeeper Willie,160,38.0
+Groundskeeper Willie,163,16.0
+Groundskeeper Willie,166,73.0
+Groundskeeper Willie,172,15.0
+Groundskeeper Willie,173,48.0
+Groundskeeper Willie,180,5.0
+Groundskeeper Willie,181,13.0
+Groundskeeper Willie,183,14.0
+Groundskeeper Willie,191,111.0
+Groundskeeper Willie,199,148.0
+Groundskeeper Willie,204,96.0
+Groundskeeper Willie,209,10.0
+Groundskeeper Willie,210,36.0
+Groundskeeper Willie,212,5.0
+Groundskeeper Willie,218,54.0
+Groundskeeper Willie,221,17.0
+Groundskeeper Willie,224,78.0
+Groundskeeper Willie,225,10.0
+Groundskeeper Willie,226,23.0
+Groundskeeper Willie,228,28.0
+Groundskeeper Willie,229,8.0
+Groundskeeper Willie,240,1.0
+Groundskeeper Willie,243,10.0
+Groundskeeper Willie,249,13.0
+Groundskeeper Willie,255,68.0
+Groundskeeper Willie,256,35.0
+Groundskeeper Willie,258,14.0
+Groundskeeper Willie,264,50.0
+Groundskeeper Willie,267,19.0
+Groundskeeper Willie,268,8.0
+Groundskeeper Willie,269,13.0
+Groundskeeper Willie,276,8.0
+Groundskeeper Willie,277,8.0
+Groundskeeper Willie,280,12.0
+Groundskeeper Willie,283,30.0
+Groundskeeper Willie,287,12.0
+Groundskeeper Willie,288,1.0
+Groundskeeper Willie,289,52.0
+Groundskeeper Willie,291,17.0
+Groundskeeper Willie,294,11.0
+Groundskeeper Willie,298,54.0
+Groundskeeper Willie,299,7.0
+Groundskeeper Willie,303,30.0
+Groundskeeper Willie,307,20.0
+Groundskeeper Willie,312,5.0
+Groundskeeper Willie,316,133.0
+Groundskeeper Willie,319,10.0
+Groundskeeper Willie,323,22.0
+Groundskeeper Willie,325,38.0
+Groundskeeper Willie,327,9.0
+Groundskeeper Willie,329,9.0
+Groundskeeper Willie,330,12.0
+Groundskeeper Willie,334,63.0
+Groundskeeper Willie,335,14.0
+Groundskeeper Willie,338,20.0
+Groundskeeper Willie,341,17.0
+Groundskeeper Willie,346,21.0
+Groundskeeper Willie,350,21.0
+Groundskeeper Willie,352,47.0
+Groundskeeper Willie,356,84.0
+Groundskeeper Willie,358,15.0
+Groundskeeper Willie,360,9.0
+Groundskeeper Willie,362,8.0
+Groundskeeper Willie,364,4.0
+Groundskeeper Willie,367,18.0
+Groundskeeper Willie,368,344.0
+Groundskeeper Willie,373,9.0
+Groundskeeper Willie,374,48.0
+Groundskeeper Willie,375,14.0
+Groundskeeper Willie,379,21.0
+Groundskeeper Willie,381,66.0
+Groundskeeper Willie,382,9.0
+Groundskeeper Willie,384,15.0
+Groundskeeper Willie,386,13.0
+Groundskeeper Willie,389,19.0
+Groundskeeper Willie,390,16.0
+Groundskeeper Willie,392,16.0
+Groundskeeper Willie,396,6.0
+Groundskeeper Willie,398,12.0
+Groundskeeper Willie,399,70.0
+Groundskeeper Willie,405,15.0
+Groundskeeper Willie,409,4.0
+Groundskeeper Willie,412,56.0
+Groundskeeper Willie,413,90.0
+Groundskeeper Willie,414,7.0
+Groundskeeper Willie,422,51.0
+Groundskeeper Willie,427,27.0
+Groundskeeper Willie,428,55.0
+Groundskeeper Willie,429,18.0
+Groundskeeper Willie,431,21.0
+Groundskeeper Willie,437,47.0
+Groundskeeper Willie,438,2.0
+Groundskeeper Willie,440,55.0
+Groundskeeper Willie,443,10.0
+Groundskeeper Willie,444,10.0
+Groundskeeper Willie,445,9.0
+Groundskeeper Willie,448,31.0
+Groundskeeper Willie,454,62.0
+Groundskeeper Willie,455,46.0
+Groundskeeper Willie,456,41.0
+Groundskeeper Willie,469,32.0
+Groundskeeper Willie,474,56.0
+Groundskeeper Willie,475,6.0
+Groundskeeper Willie,476,36.0
+Groundskeeper Willie,477,27.0
+Groundskeeper Willie,480,1.0
+Groundskeeper Willie,483,6.0
+Groundskeeper Willie,486,5.0
+Groundskeeper Willie,488,30.0
+Groundskeeper Willie,499,41.0
+Groundskeeper Willie,510,11.0
+Groundskeeper Willie,513,5.0
+Groundskeeper Willie,514,5.0
+Groundskeeper Willie,518,34.0
+Groundskeeper Willie,524,110.0
+Groundskeeper Willie,532,2.0
+Groundskeeper Willie,534,22.0
+Groundskeeper Willie,536,15.0
+Groundskeeper Willie,537,12.0
+Groundskeeper Willie,542,19.0
+Groundskeeper Willie,543,17.0
+Groundskeeper Willie,547,20.0
+Groundskeeper Willie,551,9.0
+Groundskeeper Willie,552,27.0
+Groundskeeper Willie,556,8.0
+Groundskeeper Willie,558,18.0
+Groundskeeper Willie,559,3.0
+Groundskeeper Willie,561,8.0
+Groundskeeper Willie,565,17.0
+Groundskeeper Willie,566,9.0
+Homer,1,909.0
+Homer,2,539.0
+Homer,3,849.0
+Homer,4,874.0
+Homer,5,387.0
+Homer,6,588.0
+Homer,7,771.0
+Homer,8,502.0
+Homer,9,506.0
+Homer,10,841.0
+Homer,11,565.0
+Homer,12,285.0
+Homer,13,588.0
+Homer,14,174.0
+Homer,15,804.0
+Homer,16,618.0
+Homer,17,538.0
+Homer,18,1002.0
+Homer,19,947.0
+Homer,20,422.0
+Homer,21,520.0
+Homer,22,326.0
+Homer,23,535.0
+Homer,24,1215.0
+Homer,25,993.0
+Homer,26,779.0
+Homer,27,338.0
+Homer,28,951.0
+Homer,29,523.0
+Homer,30,404.0
+Homer,31,507.0
+Homer,32,634.0
+Homer,33,807.0
+Homer,34,215.0
+Homer,35,987.0
+Homer,36,546.0
+Homer,37,509.0
+Homer,38,772.0
+Homer,39,216.0
+Homer,40,445.0
+Homer,41,66.0
+Homer,42,517.0
+Homer,43,889.0
+Homer,44,760.0
+Homer,45,546.0
+Homer,46,498.0
+Homer,47,1104.0
+Homer,48,341.0
+Homer,49,843.0
+Homer,50,527.0
+Homer,51,474.0
+Homer,52,425.0
+Homer,53,87.0
+Homer,54,620.0
+Homer,55,863.0
+Homer,56,164.0
+Homer,57,338.0
+Homer,58,150.0
+Homer,59,578.0
+Homer,60,244.0
+Homer,61,404.0
+Homer,62,864.0
+Homer,63,356.0
+Homer,64,240.0
+Homer,65,765.0
+Homer,66,415.0
+Homer,67,447.0
+Homer,68,763.0
+Homer,69,544.0
+Homer,70,825.0
+Homer,71,296.0
+Homer,72,286.0
+Homer,73,528.0
+Homer,74,269.0
+Homer,75,473.0
+Homer,76,397.0
+Homer,77,539.0
+Homer,78,336.0
+Homer,79,204.0
+Homer,80,248.0
+Homer,81,92.0
+Homer,82,587.0
+Homer,83,227.0
+Homer,84,906.0
+Homer,85,587.0
+Homer,86,288.0
+Homer,87,611.0
+Homer,88,416.0
+Homer,89,585.0
+Homer,90,712.0
+Homer,91,608.0
+Homer,92,768.0
+Homer,93,330.0
+Homer,94,451.0
+Homer,95,169.0
+Homer,96,580.0
+Homer,97,908.0
+Homer,98,744.0
+Homer,99,420.0
+Homer,100,59.0
+Homer,101,251.0
+Homer,102,211.0
+Homer,103,1386.0
+Homer,104,179.0
+Homer,105,379.0
+Homer,106,344.0
+Homer,107,392.0
+Homer,108,156.0
+Homer,109,535.0
+Homer,110,154.0
+Homer,111,444.0
+Homer,112,901.0
+Homer,113,701.0
+Homer,114,786.0
+Homer,115,920.0
+Homer,116,1146.0
+Homer,117,395.0
+Homer,118,608.0
+Homer,119,358.0
+Homer,120,871.0
+Homer,121,362.0
+Homer,122,528.0
+Homer,123,281.0
+Homer,124,111.0
+Homer,125,209.0
+Homer,126,724.0
+Homer,127,211.0
+Homer,128,134.0
+Homer,129,136.0
+Homer,130,97.0
+Homer,131,416.0
+Homer,132,165.0
+Homer,133,498.0
+Homer,134,460.0
+Homer,135,1048.0
+Homer,136,555.0
+Homer,137,115.0
+Homer,138,352.0
+Homer,139,313.0
+Homer,140,591.0
+Homer,141,717.0
+Homer,142,376.0
+Homer,143,132.0
+Homer,144,415.0
+Homer,145,559.0
+Homer,146,70.0
+Homer,147,168.0
+Homer,148,451.0
+Homer,149,76.0
+Homer,150,68.0
+Homer,151,678.0
+Homer,152,1015.0
+Homer,153,225.0
+Homer,154,425.0
+Homer,155,548.0
+Homer,156,408.0
+Homer,157,391.0
+Homer,158,448.0
+Homer,159,664.0
+Homer,160,235.0
+Homer,161,328.0
+Homer,162,1067.0
+Homer,163,685.0
+Homer,164,364.0
+Homer,165,333.0
+Homer,166,413.0
+Homer,167,479.0
+Homer,168,981.0
+Homer,169,89.0
+Homer,170,227.0
+Homer,171,555.0
+Homer,172,101.0
+Homer,173,256.0
+Homer,174,182.0
+Homer,175,284.0
+Homer,176,599.0
+Homer,177,160.0
+Homer,178,154.0
+Homer,179,690.0
+Homer,180,155.0
+Homer,181,639.0
+Homer,182,475.0
+Homer,183,910.0
+Homer,184,987.0
+Homer,185,569.0
+Homer,186,394.0
+Homer,187,355.0
+Homer,188,466.0
+Homer,189,189.0
+Homer,190,642.0
+Homer,191,634.0
+Homer,192,328.0
+Homer,193,192.0
+Homer,194,636.0
+Homer,195,324.0
+Homer,196,142.0
+Homer,197,660.0
+Homer,198,605.0
+Homer,199,186.0
+Homer,200,1090.0
+Homer,201,888.0
+Homer,202,601.0
+Homer,203,620.0
+Homer,204,538.0
+Homer,205,1379.0
+Homer,206,286.0
+Homer,207,329.0
+Homer,208,1237.0
+Homer,209,975.0
+Homer,210,440.0
+Homer,211,863.0
+Homer,212,636.0
+Homer,213,919.0
+Homer,214,333.0
+Homer,215,550.0
+Homer,216,1077.0
+Homer,217,559.0
+Homer,218,395.0
+Homer,219,848.0
+Homer,220,782.0
+Homer,221,362.0
+Homer,222,1098.0
+Homer,223,349.0
+Homer,224,448.0
+Homer,225,315.0
+Homer,226,706.0
+Homer,227,910.0
+Homer,228,434.0
+Homer,229,825.0
+Homer,230,537.0
+Homer,231,1047.0
+Homer,232,1002.0
+Homer,233,413.0
+Homer,234,529.0
+Homer,235,223.0
+Homer,236,536.0
+Homer,237,413.0
+Homer,238,701.0
+Homer,239,601.0
+Homer,240,664.0
+Homer,241,1138.0
+Homer,242,387.0
+Homer,243,239.0
+Homer,244,646.0
+Homer,245,702.0
+Homer,246,282.0
+Homer,247,192.0
+Homer,248,434.0
+Homer,249,557.0
+Homer,250,821.0
+Homer,251,421.0
+Homer,252,220.0
+Homer,253,605.0
+Homer,254,893.0
+Homer,255,828.0
+Homer,256,243.0
+Homer,257,863.0
+Homer,258,386.0
+Homer,259,171.0
+Homer,260,838.0
+Homer,261,68.0
+Homer,262,234.0
+Homer,263,886.0
+Homer,264,387.0
+Homer,265,578.0
+Homer,266,383.0
+Homer,267,350.0
+Homer,268,754.0
+Homer,269,172.0
+Homer,270,324.0
+Homer,271,634.0
+Homer,272,744.0
+Homer,273,335.0
+Homer,274,493.0
+Homer,275,330.0
+Homer,276,529.0
+Homer,277,505.0
+Homer,278,436.0
+Homer,279,519.0
+Homer,280,267.0
+Homer,281,320.0
+Homer,282,303.0
+Homer,283,511.0
+Homer,284,483.0
+Homer,285,897.0
+Homer,286,164.0
+Homer,287,309.0
+Homer,288,465.0
+Homer,289,169.0
+Homer,290,628.0
+Homer,291,784.0
+Homer,292,619.0
+Homer,293,1043.0
+Homer,294,193.0
+Homer,295,372.0
+Homer,296,585.0
+Homer,297,471.0
+Homer,298,134.0
+Homer,299,820.0
+Homer,300,512.0
+Homer,301,727.0
+Homer,302,694.0
+Homer,303,340.0
+Homer,304,240.0
+Homer,305,203.0
+Homer,306,978.0
+Homer,307,156.0
+Homer,308,1166.0
+Homer,309,495.0
+Homer,310,528.0
+Homer,311,962.0
+Homer,312,329.0
+Homer,313,324.0
+Homer,314,292.0
+Homer,315,775.0
+Homer,316,292.0
+Homer,317,709.0
+Homer,318,713.0
+Homer,319,391.0
+Homer,320,834.0
+Homer,321,335.0
+Homer,322,522.0
+Homer,323,791.0
+Homer,324,104.0
+Homer,325,339.0
+Homer,326,377.0
+Homer,327,528.0
+Homer,328,788.0
+Homer,329,255.0
+Homer,330,467.0
+Homer,331,444.0
+Homer,332,584.0
+Homer,333,740.0
+Homer,334,458.0
+Homer,335,344.0
+Homer,336,392.0
+Homer,337,499.0
+Homer,338,300.0
+Homer,339,371.0
+Homer,340,663.0
+Homer,341,503.0
+Homer,342,615.0
+Homer,343,608.0
+Homer,344,322.0
+Homer,345,555.0
+Homer,346,320.0
+Homer,347,456.0
+Homer,348,708.0
+Homer,349,465.0
+Homer,350,183.0
+Homer,351,976.0
+Homer,352,375.0
+Homer,353,699.0
+Homer,354,905.0
+Homer,355,626.0
+Homer,356,544.0
+Homer,357,845.0
+Homer,358,463.0
+Homer,359,513.0
+Homer,360,329.0
+Homer,361,354.0
+Homer,362,790.0
+Homer,363,374.0
+Homer,364,468.0
+Homer,365,224.0
+Homer,366,534.0
+Homer,367,707.0
+Homer,368,157.0
+Homer,369,265.0
+Homer,370,415.0
+Homer,371,613.0
+Homer,372,200.0
+Homer,373,429.0
+Homer,374,398.0
+Homer,375,194.0
+Homer,376,771.0
+Homer,377,206.0
+Homer,378,563.0
+Homer,379,209.0
+Homer,380,233.0
+Homer,381,630.0
+Homer,382,331.0
+Homer,383,458.0
+Homer,384,339.0
+Homer,385,767.0
+Homer,386,390.0
+Homer,387,327.0
+Homer,388,518.0
+Homer,389,485.0
+Homer,390,330.0
+Homer,391,613.0
+Homer,392,94.0
+Homer,393,442.0
+Homer,394,652.0
+Homer,395,396.0
+Homer,396,500.0
+Homer,397,518.0
+Homer,398,308.0
+Homer,399,177.0
+Homer,400,555.0
+Homer,401,873.0
+Homer,402,735.0
+Homer,403,661.0
+Homer,404,285.0
+Homer,405,423.0
+Homer,406,400.0
+Homer,407,578.0
+Homer,408,302.0
+Homer,409,925.0
+Homer,410,424.0
+Homer,411,882.0
+Homer,412,134.0
+Homer,413,293.0
+Homer,414,226.0
+Homer,415,548.0
+Homer,416,387.0
+Homer,417,180.0
+Homer,418,356.0
+Homer,419,674.0
+Homer,420,258.0
+Homer,421,678.0
+Homer,422,144.0
+Homer,423,365.0
+Homer,425,786.0
+Homer,426,627.0
+Homer,427,513.0
+Homer,428,272.0
+Homer,429,270.0
+Homer,430,891.0
+Homer,431,312.0
+Homer,432,733.0
+Homer,433,509.0
+Homer,434,469.0
+Homer,435,535.0
+Homer,436,482.0
+Homer,437,117.0
+Homer,438,1086.0
+Homer,439,534.0
+Homer,440,312.0
+Homer,442,492.0
+Homer,443,151.0
+Homer,444,330.0
+Homer,445,265.0
+Homer,446,447.0
+Homer,448,164.0
+Homer,449,326.0
+Homer,450,575.0
+Homer,451,229.0
+Homer,452,823.0
+Homer,453,344.0
+Homer,454,218.0
+Homer,455,571.0
+Homer,456,147.0
+Homer,457,655.0
+Homer,458,215.0
+Homer,459,468.0
+Homer,460,774.0
+Homer,461,231.0
+Homer,462,307.0
+Homer,463,189.0
+Homer,464,293.0
+Homer,465,90.0
+Homer,466,340.0
+Homer,467,149.0
+Homer,468,463.0
+Homer,469,402.0
+Homer,470,157.0
+Homer,471,381.0
+Homer,472,271.0
+Homer,473,749.0
+Homer,474,190.0
+Homer,475,69.0
+Homer,476,558.0
+Homer,477,355.0
+Homer,478,411.0
+Homer,479,278.0
+Homer,480,495.0
+Homer,481,617.0
+Homer,482,212.0
+Homer,483,401.0
+Homer,484,523.0
+Homer,485,349.0
+Homer,486,466.0
+Homer,487,567.0
+Homer,488,203.0
+Homer,489,312.0
+Homer,490,524.0
+Homer,491,646.0
+Homer,492,420.0
+Homer,493,677.0
+Homer,494,147.0
+Homer,495,295.0
+Homer,496,1307.0
+Homer,497,375.0
+Homer,498,73.0
+Homer,499,168.0
+Homer,500,572.0
+Homer,501,633.0
+Homer,502,793.0
+Homer,503,906.0
+Homer,504,445.0
+Homer,505,334.0
+Homer,506,635.0
+Homer,507,424.0
+Homer,508,286.0
+Homer,509,466.0
+Homer,510,544.0
+Homer,511,699.0
+Homer,512,630.0
+Homer,513,435.0
+Homer,514,737.0
+Homer,515,945.0
+Homer,516,660.0
+Homer,517,781.0
+Homer,518,253.0
+Homer,519,850.0
+Homer,520,338.0
+Homer,521,275.0
+Homer,522,427.0
+Homer,523,445.0
+Homer,524,82.0
+Homer,525,694.0
+Homer,526,436.0
+Homer,527,198.0
+Homer,528,177.0
+Homer,529,748.0
+Homer,530,655.0
+Homer,531,713.0
+Homer,532,424.0
+Homer,533,234.0
+Homer,534,560.0
+Homer,535,959.0
+Homer,536,137.0
+Homer,537,330.0
+Homer,538,248.0
+Homer,539,926.0
+Homer,540,210.0
+Homer,541,690.0
+Homer,542,346.0
+Homer,543,179.0
+Homer,544,442.0
+Homer,545,838.0
+Homer,546,533.0
+Homer,547,544.0
+Homer,548,278.0
+Homer,549,440.0
+Homer,551,295.0
+Homer,552,289.0
+Homer,553,98.0
+Homer,554,494.0
+Homer,555,330.0
+Homer,556,438.0
+Homer,557,581.0
+Homer,558,377.0
+Homer,559,430.0
+Homer,560,897.0
+Homer,561,505.0
+Homer,562,503.0
+Homer,563,868.0
+Homer,564,644.0
+Homer,565,720.0
+Homer,566,246.0
+Homer,567,380.0
+Homer,568,309.0
+Jimbo,8,174.0
+Jimbo,34,4.0
+Jimbo,38,26.0
+Jimbo,60,43.0
+Jimbo,67,50.0
+Jimbo,74,12.0
+Jimbo,79,46.0
+Jimbo,85,7.0
+Jimbo,86,9.0
+Jimbo,88,4.0
+Jimbo,89,12.0
+Jimbo,90,8.0
+Jimbo,92,38.0
+Jimbo,94,18.0
+Jimbo,100,23.0
+Jimbo,101,7.0
+Jimbo,104,26.0
+Jimbo,105,1.0
+Jimbo,108,25.0
+Jimbo,109,39.0
+Jimbo,111,28.0
+Jimbo,120,40.0
+Jimbo,123,6.0
+Jimbo,124,20.0
+Jimbo,126,12.0
+Jimbo,128,5.0
+Jimbo,132,5.0
+Jimbo,135,9.0
+Jimbo,139,15.0
+Jimbo,140,9.0
+Jimbo,143,11.0
+Jimbo,152,6.0
+Jimbo,156,21.0
+Jimbo,160,36.0
+Jimbo,166,4.0
+Jimbo,175,17.0
+Jimbo,181,14.0
+Jimbo,186,15.0
+Jimbo,191,8.0
+Jimbo,195,8.0
+Jimbo,196,68.0
+Jimbo,197,6.0
+Jimbo,217,7.0
+Jimbo,224,2.0
+Jimbo,228,6.0
+Jimbo,250,24.0
+Jimbo,262,3.0
+Jimbo,264,6.0
+Jimbo,275,15.0
+Jimbo,277,16.0
+Jimbo,287,7.0
+Jimbo,291,18.0
+Jimbo,296,11.0
+Jimbo,297,5.0
+Jimbo,302,6.0
+Jimbo,303,7.0
+Jimbo,307,24.0
+Jimbo,316,14.0
+Jimbo,318,15.0
+Jimbo,322,3.0
+Jimbo,334,12.0
+Jimbo,340,5.0
+Jimbo,343,13.0
+Jimbo,345,9.0
+Jimbo,346,20.0
+Jimbo,349,8.0
+Jimbo,354,22.0
+Jimbo,356,4.0
+Jimbo,361,48.0
+Jimbo,362,17.0
+Jimbo,366,22.0
+Jimbo,367,17.0
+Jimbo,368,20.0
+Jimbo,372,12.0
+Jimbo,374,24.0
+Jimbo,375,23.0
+Jimbo,383,21.0
+Jimbo,386,21.0
+Jimbo,388,14.0
+Jimbo,389,10.0
+Jimbo,395,10.0
+Jimbo,398,12.0
+Jimbo,399,133.0
+Jimbo,403,1.0
+Jimbo,404,22.0
+Jimbo,414,2.0
+Jimbo,418,6.0
+Jimbo,420,8.0
+Jimbo,422,3.0
+Jimbo,425,4.0
+Jimbo,427,22.0
+Jimbo,428,49.0
+Jimbo,429,45.0
+Jimbo,431,22.0
+Jimbo,437,19.0
+Jimbo,443,1.0
+Jimbo,444,17.0
+Jimbo,449,45.0
+Jimbo,457,18.0
+Jimbo,460,1.0
+Jimbo,461,20.0
+Jimbo,465,6.0
+Jimbo,470,15.0
+Jimbo,474,7.0
+Jimbo,477,4.0
+Jimbo,481,12.0
+Jimbo,487,12.0
+Jimbo,488,80.0
+Jimbo,489,8.0
+Jimbo,493,32.0
+Jimbo,497,15.0
+Jimbo,498,8.0
+Jimbo,500,19.0
+Jimbo,501,3.0
+Jimbo,504,242.0
+Jimbo,507,2.0
+Jimbo,508,23.0
+Jimbo,516,8.0
+Jimbo,520,24.0
+Jimbo,521,8.0
+Jimbo,523,6.0
+Jimbo,527,7.0
+Jimbo,528,19.0
+Jimbo,530,10.0
+Jimbo,534,10.0
+Jimbo,541,4.0
+Jimbo,542,44.0
+Jimbo,543,37.0
+Jimbo,544,94.0
+Jimbo,546,3.0
+Jimbo,547,2.0
+Jimbo,549,17.0
+Jimbo,552,38.0
+Jimbo,554,6.0
+Jimbo,563,3.0
+Jimbo,565,6.0
+Kirk,58,4.0
+Kirk,73,14.0
+Kirk,98,4.0
+Kirk,113,25.0
+Kirk,118,5.0
+Kirk,124,6.0
+Kirk,127,12.0
+Kirk,130,42.0
+Kirk,132,16.0
+Kirk,134,34.0
+Kirk,148,15.0
+Kirk,149,58.0
+Kirk,159,563.0
+Kirk,161,10.0
+Kirk,171,8.0
+Kirk,185,10.0
+Kirk,187,9.0
+Kirk,208,12.0
+Kirk,214,6.0
+Kirk,240,7.0
+Kirk,244,11.0
+Kirk,253,16.0
+Kirk,263,24.0
+Kirk,267,12.0
+Kirk,268,10.0
+Kirk,271,24.0
+Kirk,287,61.0
+Kirk,288,35.0
+Kirk,302,8.0
+Kirk,308,36.0
+Kirk,312,83.0
+Kirk,321,10.0
+Kirk,325,97.0
+Kirk,344,78.0
+Kirk,359,243.0
+Kirk,385,16.0
+Kirk,387,41.0
+Kirk,406,106.0
+Kirk,411,30.0
+Kirk,415,4.0
+Kirk,426,3.0
+Kirk,437,6.0
+Kirk,438,7.0
+Kirk,458,22.0
+Kirk,462,6.0
+Kirk,484,11.0
+Kirk,485,7.0
+Kirk,493,16.0
+Kirk,498,15.0
+Kirk,499,27.0
+Kirk,510,24.0
+Kirk,516,4.0
+Kirk,517,7.0
+Kirk,518,9.0
+Kirk,519,54.0
+Kirk,520,8.0
+Kirk,521,55.0
+Kirk,522,8.0
+Kirk,526,18.0
+Kirk,534,63.0
+Kirk,535,26.0
+Kirk,543,10.0
+Kirk,545,180.0
+Kirk,548,12.0
+Kirk,549,15.0
+Kirk,552,4.0
+Kirk,560,63.0
+Kirk,561,15.0
+Kirk,566,14.0
+Krusty,8,70.0
+Krusty,12,304.0
+Krusty,22,94.0
+Krusty,29,22.0
+Krusty,31,150.0
+Krusty,36,56.0
+Krusty,41,722.0
+Krusty,42,53.0
+Krusty,45,7.0
+Krusty,48,112.0
+Krusty,49,24.0
+Krusty,50,15.0
+Krusty,54,25.0
+Krusty,55,20.0
+Krusty,56,190.0
+Krusty,60,272.0
+Krusty,62,55.0
+Krusty,63,191.0
+Krusty,64,32.0
+Krusty,66,26.0
+Krusty,68,13.0
+Krusty,69,123.0
+Krusty,70,57.0
+Krusty,71,5.0
+Krusty,73,79.0
+Krusty,74,237.0
+Krusty,78,131.0
+Krusty,81,674.0
+Krusty,84,13.0
+Krusty,88,50.0
+Krusty,89,16.0
+Krusty,91,60.0
+Krusty,93,417.0
+Krusty,95,22.0
+Krusty,99,55.0
+Krusty,102,3.0
+Krusty,104,67.0
+Krusty,106,37.0
+Krusty,107,38.0
+Krusty,108,17.0
+Krusty,111,19.0
+Krusty,117,34.0
+Krusty,118,573.0
+Krusty,121,57.0
+Krusty,125,130.0
+Krusty,128,15.0
+Krusty,129,40.0
+Krusty,130,40.0
+Krusty,132,11.0
+Krusty,134,55.0
+Krusty,137,332.0
+Krusty,138,82.0
+Krusty,139,38.0
+Krusty,140,6.0
+Krusty,142,8.0
+Krusty,143,574.0
+Krusty,146,76.0
+Krusty,155,2.0
+Krusty,156,9.0
+Krusty,161,7.0
+Krusty,162,5.0
+Krusty,166,114.0
+Krusty,167,319.0
+Krusty,169,153.0
+Krusty,170,51.0
+Krusty,171,7.0
+Krusty,172,13.0
+Krusty,174,9.0
+Krusty,181,45.0
+Krusty,183,30.0
+Krusty,184,5.0
+Krusty,185,170.0
+Krusty,188,25.0
+Krusty,190,19.0
+Krusty,193,994.0
+Krusty,196,4.0
+Krusty,198,5.0
+Krusty,199,98.0
+Krusty,204,19.0
+Krusty,207,28.0
+Krusty,208,6.0
+Krusty,209,1.0
+Krusty,211,59.0
+Krusty,214,17.0
+Krusty,215,49.0
+Krusty,216,48.0
+Krusty,218,8.0
+Krusty,219,28.0
+Krusty,221,43.0
+Krusty,225,11.0
+Krusty,227,8.0
+Krusty,228,71.0
+Krusty,229,75.0
+Krusty,230,19.0
+Krusty,232,53.0
+Krusty,235,55.0
+Krusty,237,25.0
+Krusty,238,12.0
+Krusty,243,33.0
+Krusty,247,49.0
+Krusty,248,34.0
+Krusty,250,31.0
+Krusty,251,809.0
+Krusty,252,62.0
+Krusty,254,33.0
+Krusty,260,71.0
+Krusty,261,600.0
+Krusty,266,41.0
+Krusty,267,16.0
+Krusty,268,209.0
+Krusty,270,10.0
+Krusty,276,19.0
+Krusty,277,23.0
+Krusty,280,32.0
+Krusty,281,157.0
+Krusty,283,108.0
+Krusty,286,134.0
+Krusty,287,25.0
+Krusty,288,5.0
+Krusty,289,12.0
+Krusty,291,9.0
+Krusty,295,126.0
+Krusty,297,5.0
+Krusty,299,71.0
+Krusty,301,16.0
+Krusty,303,99.0
+Krusty,305,658.0
+Krusty,307,36.0
+Krusty,309,10.0
+Krusty,310,18.0
+Krusty,313,14.0
+Krusty,317,16.0
+Krusty,319,677.0
+Krusty,320,78.0
+Krusty,322,17.0
+Krusty,327,4.0
+Krusty,328,8.0
+Krusty,329,28.0
+Krusty,331,6.0
+Krusty,332,18.0
+Krusty,334,17.0
+Krusty,335,29.0
+Krusty,339,12.0
+Krusty,340,50.0
+Krusty,341,32.0
+Krusty,342,4.0
+Krusty,345,56.0
+Krusty,348,23.0
+Krusty,350,15.0
+Krusty,351,21.0
+Krusty,352,75.0
+Krusty,353,333.0
+Krusty,354,56.0
+Krusty,359,38.0
+Krusty,360,8.0
+Krusty,361,37.0
+Krusty,363,7.0
+Krusty,364,175.0
+Krusty,365,46.0
+Krusty,368,91.0
+Krusty,370,33.0
+Krusty,374,14.0
+Krusty,379,52.0
+Krusty,380,98.0
+Krusty,381,30.0
+Krusty,382,158.0
+Krusty,383,37.0
+Krusty,385,42.0
+Krusty,387,77.0
+Krusty,389,6.0
+Krusty,390,19.0
+Krusty,391,22.0
+Krusty,392,282.0
+Krusty,394,32.0
+Krusty,395,49.0
+Krusty,396,7.0
+Krusty,400,78.0
+Krusty,403,9.0
+Krusty,404,124.0
+Krusty,405,8.0
+Krusty,407,17.0
+Krusty,408,100.0
+Krusty,409,70.0
+Krusty,410,82.0
+Krusty,411,7.0
+Krusty,416,28.0
+Krusty,417,33.0
+Krusty,420,687.0
+Krusty,422,30.0
+Krusty,423,9.0
+Krusty,427,62.0
+Krusty,434,9.0
+Krusty,435,86.0
+Krusty,439,1.0
+Krusty,442,73.0
+Krusty,444,36.0
+Krusty,445,39.0
+Krusty,448,17.0
+Krusty,451,506.0
+Krusty,452,6.0
+Krusty,457,41.0
+Krusty,459,12.0
+Krusty,461,32.0
+Krusty,462,80.0
+Krusty,464,47.0
+Krusty,465,390.0
+Krusty,466,13.0
+Krusty,469,59.0
+Krusty,470,29.0
+Krusty,473,15.0
+Krusty,480,48.0
+Krusty,483,7.0
+Krusty,489,36.0
+Krusty,491,31.0
+Krusty,493,144.0
+Krusty,494,915.0
+Krusty,495,31.0
+Krusty,500,5.0
+Krusty,506,94.0
+Krusty,507,2.0
+Krusty,512,11.0
+Krusty,514,16.0
+Krusty,516,41.0
+Krusty,518,24.0
+Krusty,521,10.0
+Krusty,524,15.0
+Krusty,526,57.0
+Krusty,528,25.0
+Krusty,532,24.0
+Krusty,533,94.0
+Krusty,536,24.0
+Krusty,537,372.0
+Krusty,538,17.0
+Krusty,540,5.0
+Krusty,542,15.0
+Krusty,543,9.0
+Krusty,546,18.0
+Krusty,548,18.0
+Krusty,552,4.0
+Krusty,553,728.0
+Krusty,555,45.0
+Krusty,558,6.0
+Krusty,563,5.0
+Krusty,566,3.0
+Lenny,9,19.0
+Lenny,10,11.0
+Lenny,11,11.0
+Lenny,15,72.0
+Lenny,23,9.0
+Lenny,26,24.0
+Lenny,29,5.0
+Lenny,35,2.0
+Lenny,36,7.0
+Lenny,37,22.0
+Lenny,40,11.0
+Lenny,42,14.0
+Lenny,46,61.0
+Lenny,52,78.0
+Lenny,54,29.0
+Lenny,55,19.0
+Lenny,59,15.0
+Lenny,64,29.0
+Lenny,66,10.0
+Lenny,70,7.0
+Lenny,71,27.0
+Lenny,76,31.0
+Lenny,77,8.0
+Lenny,79,12.0
+Lenny,86,11.0
+Lenny,87,23.0
+Lenny,88,4.0
+Lenny,90,59.0
+Lenny,92,2.0
+Lenny,96,15.0
+Lenny,97,16.0
+Lenny,99,13.0
+Lenny,103,38.0
+Lenny,106,8.0
+Lenny,108,15.0
+Lenny,114,12.0
+Lenny,115,176.0
+Lenny,116,17.0
+Lenny,118,18.0
+Lenny,120,14.0
+Lenny,126,29.0
+Lenny,128,12.0
+Lenny,135,59.0
+Lenny,136,45.0
+Lenny,142,9.0
+Lenny,145,29.0
+Lenny,147,28.0
+Lenny,151,11.0
+Lenny,156,9.0
+Lenny,158,7.0
+Lenny,161,11.0
+Lenny,162,18.0
+Lenny,163,15.0
+Lenny,164,26.0
+Lenny,165,81.0
+Lenny,170,10.0
+Lenny,171,18.0
+Lenny,172,8.0
+Lenny,174,6.0
+Lenny,175,66.0
+Lenny,176,108.0
+Lenny,179,20.0
+Lenny,182,14.0
+Lenny,183,51.0
+Lenny,184,5.0
+Lenny,185,26.0
+Lenny,186,34.0
+Lenny,187,7.0
+Lenny,188,22.0
+Lenny,191,11.0
+Lenny,193,24.0
+Lenny,194,5.0
+Lenny,197,14.0
+Lenny,198,32.0
+Lenny,200,35.0
+Lenny,202,15.0
+Lenny,203,27.0
+Lenny,205,55.0
+Lenny,208,19.0
+Lenny,209,19.0
+Lenny,211,28.0
+Lenny,212,15.0
+Lenny,213,15.0
+Lenny,214,19.0
+Lenny,215,36.0
+Lenny,216,41.0
+Lenny,217,5.0
+Lenny,218,39.0
+Lenny,219,21.0
+Lenny,222,12.0
+Lenny,223,15.0
+Lenny,224,33.0
+Lenny,225,34.0
+Lenny,226,15.0
+Lenny,228,27.0
+Lenny,229,20.0
+Lenny,230,9.0
+Lenny,231,20.0
+Lenny,232,94.0
+Lenny,233,6.0
+Lenny,234,27.0
+Lenny,235,8.0
+Lenny,237,15.0
+Lenny,238,49.0
+Lenny,239,32.0
+Lenny,240,14.0
+Lenny,241,10.0
+Lenny,242,54.0
+Lenny,243,12.0
+Lenny,244,36.0
+Lenny,245,13.0
+Lenny,248,18.0
+Lenny,249,50.0
+Lenny,250,44.0
+Lenny,251,36.0
+Lenny,253,41.0
+Lenny,254,65.0
+Lenny,256,7.0
+Lenny,257,65.0
+Lenny,258,23.0
+Lenny,259,9.0
+Lenny,260,21.0
+Lenny,262,2.0
+Lenny,263,58.0
+Lenny,265,26.0
+Lenny,267,20.0
+Lenny,268,25.0
+Lenny,269,10.0
+Lenny,270,12.0
+Lenny,272,94.0
+Lenny,273,15.0
+Lenny,274,85.0
+Lenny,275,43.0
+Lenny,276,14.0
+Lenny,277,49.0
+Lenny,278,30.0
+Lenny,279,83.0
+Lenny,280,33.0
+Lenny,283,40.0
+Lenny,284,32.0
+Lenny,285,26.0
+Lenny,287,24.0
+Lenny,288,15.0
+Lenny,289,5.0
+Lenny,290,70.0
+Lenny,291,60.0
+Lenny,292,7.0
+Lenny,293,81.0
+Lenny,295,7.0
+Lenny,296,35.0
+Lenny,297,24.0
+Lenny,299,6.0
+Lenny,300,19.0
+Lenny,301,62.0
+Lenny,304,42.0
+Lenny,306,24.0
+Lenny,307,26.0
+Lenny,308,52.0
+Lenny,309,6.0
+Lenny,311,27.0
+Lenny,312,36.0
+Lenny,313,16.0
+Lenny,316,15.0
+Lenny,318,18.0
+Lenny,319,38.0
+Lenny,320,26.0
+Lenny,321,11.0
+Lenny,324,106.0
+Lenny,325,5.0
+Lenny,327,88.0
+Lenny,330,9.0
+Lenny,331,8.0
+Lenny,332,14.0
+Lenny,333,31.0
+Lenny,334,27.0
+Lenny,335,59.0
+Lenny,337,10.0
+Lenny,340,23.0
+Lenny,341,7.0
+Lenny,342,54.0
+Lenny,343,20.0
+Lenny,347,7.0
+Lenny,349,38.0
+Lenny,350,16.0
+Lenny,351,3.0
+Lenny,353,24.0
+Lenny,354,21.0
+Lenny,357,33.0
+Lenny,358,64.0
+Lenny,360,24.0
+Lenny,361,17.0
+Lenny,362,45.0
+Lenny,365,14.0
+Lenny,366,16.0
+Lenny,367,30.0
+Lenny,368,16.0
+Lenny,369,29.0
+Lenny,370,9.0
+Lenny,371,92.0
+Lenny,372,52.0
+Lenny,373,63.0
+Lenny,374,37.0
+Lenny,375,1.0
+Lenny,376,30.0
+Lenny,377,11.0
+Lenny,378,38.0
+Lenny,380,26.0
+Lenny,381,19.0
+Lenny,382,39.0
+Lenny,383,33.0
+Lenny,384,11.0
+Lenny,385,33.0
+Lenny,386,5.0
+Lenny,387,7.0
+Lenny,388,42.0
+Lenny,389,36.0
+Lenny,390,9.0
+Lenny,391,74.0
+Lenny,394,45.0
+Lenny,396,17.0
+Lenny,401,12.0
+Lenny,402,8.0
+Lenny,403,82.0
+Lenny,405,20.0
+Lenny,408,43.0
+Lenny,409,53.0
+Lenny,410,58.0
+Lenny,411,1.0
+Lenny,415,7.0
+Lenny,416,30.0
+Lenny,419,24.0
+Lenny,420,1.0
+Lenny,423,159.0
+Lenny,426,24.0
+Lenny,427,41.0
+Lenny,428,6.0
+Lenny,429,9.0
+Lenny,430,78.0
+Lenny,432,24.0
+Lenny,435,18.0
+Lenny,436,94.0
+Lenny,437,56.0
+Lenny,438,35.0
+Lenny,440,20.0
+Lenny,442,36.0
+Lenny,444,54.0
+Lenny,445,2.0
+Lenny,446,34.0
+Lenny,448,8.0
+Lenny,450,14.0
+Lenny,451,81.0
+Lenny,452,74.0
+Lenny,453,31.0
+Lenny,458,177.0
+Lenny,459,8.0
+Lenny,460,11.0
+Lenny,461,10.0
+Lenny,463,9.0
+Lenny,464,4.0
+Lenny,466,29.0
+Lenny,467,23.0
+Lenny,470,25.0
+Lenny,471,7.0
+Lenny,473,22.0
+Lenny,475,59.0
+Lenny,477,61.0
+Lenny,478,1.0
+Lenny,479,27.0
+Lenny,480,20.0
+Lenny,481,26.0
+Lenny,484,21.0
+Lenny,486,7.0
+Lenny,487,28.0
+Lenny,490,31.0
+Lenny,492,18.0
+Lenny,493,13.0
+Lenny,495,29.0
+Lenny,496,14.0
+Lenny,497,148.0
+Lenny,498,58.0
+Lenny,500,53.0
+Lenny,501,10.0
+Lenny,502,49.0
+Lenny,503,106.0
+Lenny,504,31.0
+Lenny,506,113.0
+Lenny,507,36.0
+Lenny,508,10.0
+Lenny,510,8.0
+Lenny,511,9.0
+Lenny,512,51.0
+Lenny,513,17.0
+Lenny,514,21.0
+Lenny,515,27.0
+Lenny,517,6.0
+Lenny,519,145.0
+Lenny,523,6.0
+Lenny,524,3.0
+Lenny,525,8.0
+Lenny,526,33.0
+Lenny,527,122.0
+Lenny,528,41.0
+Lenny,529,327.0
+Lenny,530,6.0
+Lenny,531,68.0
+Lenny,532,13.0
+Lenny,533,6.0
+Lenny,535,16.0
+Lenny,538,14.0
+Lenny,539,131.0
+Lenny,541,56.0
+Lenny,542,5.0
+Lenny,543,23.0
+Lenny,545,12.0
+Lenny,547,40.0
+Lenny,548,13.0
+Lenny,549,34.0
+Lenny,552,9.0
+Lenny,555,3.0
+Lenny,557,13.0
+Lenny,563,38.0
+Lenny,564,24.0
+Lenny,565,12.0
+Lenny,566,127.0
+Lenny,567,49.0
+Lisa,1,223.0
+Lisa,2,71.0
+Lisa,3,54.0
+Lisa,4,151.0
+Lisa,5,225.0
+Lisa,6,340.0
+Lisa,7,68.0
+Lisa,8,54.0
+Lisa,9,205.0
+Lisa,10,34.0
+Lisa,11,119.0
+Lisa,12,183.0
+Lisa,13,156.0
+Lisa,14,86.0
+Lisa,15,22.0
+Lisa,16,339.0
+Lisa,17,143.0
+Lisa,18,172.0
+Lisa,19,332.0
+Lisa,20,337.0
+Lisa,21,135.0
+Lisa,22,90.0
+Lisa,23,35.0
+Lisa,24,138.0
+Lisa,25,66.0
+Lisa,26,213.0
+Lisa,27,49.0
+Lisa,28,147.0
+Lisa,29,327.0
+Lisa,30,137.0
+Lisa,31,148.0
+Lisa,32,580.0
+Lisa,33,135.0
+Lisa,34,127.0
+Lisa,35,124.0
+Lisa,36,324.0
+Lisa,37,455.0
+Lisa,38,145.0
+Lisa,39,44.0
+Lisa,40,149.0
+Lisa,41,212.0
+Lisa,42,128.0
+Lisa,43,304.0
+Lisa,44,58.0
+Lisa,45,64.0
+Lisa,46,51.0
+Lisa,47,64.0
+Lisa,48,133.0
+Lisa,49,696.0
+Lisa,50,121.0
+Lisa,51,149.0
+Lisa,52,54.0
+Lisa,53,275.0
+Lisa,54,84.0
+Lisa,55,58.0
+Lisa,56,75.0
+Lisa,57,29.0
+Lisa,58,180.0
+Lisa,59,161.0
+Lisa,60,328.0
+Lisa,61,62.0
+Lisa,62,49.0
+Lisa,63,340.0
+Lisa,64,64.0
+Lisa,65,143.0
+Lisa,66,60.0
+Lisa,67,75.0
+Lisa,68,79.0
+Lisa,69,90.0
+Lisa,70,100.0
+Lisa,71,57.0
+Lisa,72,137.0
+Lisa,73,50.0
+Lisa,74,341.0
+Lisa,75,173.0
+Lisa,76,107.0
+Lisa,77,123.0
+Lisa,78,211.0
+Lisa,79,144.0
+Lisa,80,76.0
+Lisa,81,119.0
+Lisa,82,89.0
+Lisa,83,111.0
+Lisa,84,135.0
+Lisa,85,77.0
+Lisa,86,202.0
+Lisa,87,62.0
+Lisa,88,162.0
+Lisa,89,29.0
+Lisa,90,56.0
+Lisa,91,210.0
+Lisa,92,142.0
+Lisa,93,152.0
+Lisa,94,103.0
+Lisa,95,615.0
+Lisa,96,59.0
+Lisa,97,123.0
+Lisa,98,213.0
+Lisa,99,84.0
+Lisa,100,86.0
+Lisa,101,148.0
+Lisa,102,80.0
+Lisa,103,156.0
+Lisa,104,287.0
+Lisa,105,538.0
+Lisa,106,237.0
+Lisa,107,189.0
+Lisa,108,389.0
+Lisa,109,94.0
+Lisa,110,256.0
+Lisa,111,329.0
+Lisa,112,159.0
+Lisa,113,138.0
+Lisa,114,148.0
+Lisa,115,129.0
+Lisa,116,100.0
+Lisa,117,101.0
+Lisa,118,46.0
+Lisa,119,273.0
+Lisa,120,91.0
+Lisa,121,93.0
+Lisa,122,589.0
+Lisa,123,208.0
+Lisa,124,204.0
+Lisa,125,441.0
+Lisa,126,128.0
+Lisa,127,45.0
+Lisa,128,134.0
+Lisa,129,464.0
+Lisa,130,40.0
+Lisa,131,205.0
+Lisa,132,190.0
+Lisa,133,511.0
+Lisa,134,215.0
+Lisa,135,169.0
+Lisa,136,196.0
+Lisa,137,190.0
+Lisa,138,105.0
+Lisa,139,122.0
+Lisa,140,21.0
+Lisa,141,30.0
+Lisa,142,273.0
+Lisa,143,203.0
+Lisa,144,609.0
+Lisa,145,74.0
+Lisa,146,151.0
+Lisa,147,24.0
+Lisa,148,449.0
+Lisa,149,106.0
+Lisa,150,53.0
+Lisa,151,175.0
+Lisa,152,109.0
+Lisa,153,587.0
+Lisa,154,295.0
+Lisa,155,130.0
+Lisa,156,32.0
+Lisa,157,68.0
+Lisa,158,85.0
+Lisa,159,84.0
+Lisa,160,671.0
+Lisa,161,124.0
+Lisa,162,33.0
+Lisa,163,119.0
+Lisa,164,47.0
+Lisa,165,56.0
+Lisa,166,202.0
+Lisa,167,157.0
+Lisa,168,148.0
+Lisa,169,115.0
+Lisa,170,745.0
+Lisa,171,44.0
+Lisa,172,51.0
+Lisa,173,173.0
+Lisa,174,482.0
+Lisa,175,88.0
+Lisa,176,11.0
+Lisa,177,70.0
+Lisa,178,434.0
+Lisa,179,182.0
+Lisa,180,98.0
+Lisa,181,183.0
+Lisa,182,188.0
+Lisa,183,116.0
+Lisa,184,97.0
+Lisa,185,81.0
+Lisa,186,643.0
+Lisa,187,136.0
+Lisa,188,181.0
+Lisa,189,97.0
+Lisa,190,159.0
+Lisa,191,112.0
+Lisa,192,322.0
+Lisa,193,83.0
+Lisa,194,29.0
+Lisa,195,710.0
+Lisa,196,42.0
+Lisa,197,63.0
+Lisa,198,44.0
+Lisa,199,605.0
+Lisa,200,138.0
+Lisa,201,35.0
+Lisa,202,650.0
+Lisa,203,101.0
+Lisa,204,660.0
+Lisa,205,124.0
+Lisa,206,189.0
+Lisa,207,94.0
+Lisa,208,73.0
+Lisa,209,77.0
+Lisa,210,540.0
+Lisa,211,97.0
+Lisa,212,44.0
+Lisa,213,43.0
+Lisa,214,192.0
+Lisa,215,117.0
+Lisa,216,87.0
+Lisa,217,34.0
+Lisa,218,122.0
+Lisa,219,670.0
+Lisa,220,159.0
+Lisa,221,147.0
+Lisa,222,131.0
+Lisa,223,217.0
+Lisa,224,66.0
+Lisa,225,514.0
+Lisa,226,262.0
+Lisa,227,52.0
+Lisa,228,130.0
+Lisa,229,213.0
+Lisa,230,167.0
+Lisa,231,224.0
+Lisa,232,51.0
+Lisa,233,59.0
+Lisa,234,70.0
+Lisa,235,351.0
+Lisa,236,448.0
+Lisa,237,108.0
+Lisa,238,85.0
+Lisa,239,191.0
+Lisa,240,104.0
+Lisa,241,85.0
+Lisa,242,118.0
+Lisa,243,578.0
+Lisa,244,134.0
+Lisa,245,115.0
+Lisa,246,346.0
+Lisa,247,137.0
+Lisa,248,206.0
+Lisa,249,198.0
+Lisa,250,114.0
+Lisa,251,65.0
+Lisa,252,442.0
+Lisa,253,140.0
+Lisa,254,152.0
+Lisa,255,94.0
+Lisa,256,103.0
+Lisa,257,191.0
+Lisa,258,43.0
+Lisa,259,94.0
+Lisa,260,136.0
+Lisa,261,12.0
+Lisa,262,144.0
+Lisa,263,96.0
+Lisa,264,498.0
+Lisa,265,240.0
+Lisa,266,341.0
+Lisa,267,106.0
+Lisa,268,93.0
+Lisa,269,79.0
+Lisa,270,146.0
+Lisa,271,110.0
+Lisa,272,162.0
+Lisa,273,71.0
+Lisa,274,137.0
+Lisa,275,430.0
+Lisa,276,183.0
+Lisa,277,94.0
+Lisa,278,120.0
+Lisa,279,69.0
+Lisa,280,159.0
+Lisa,281,109.0
+Lisa,282,117.0
+Lisa,283,254.0
+Lisa,284,276.0
+Lisa,285,66.0
+Lisa,286,79.0
+Lisa,287,131.0
+Lisa,288,34.0
+Lisa,289,391.0
+Lisa,290,41.0
+Lisa,291,78.0
+Lisa,292,227.0
+Lisa,293,127.0
+Lisa,294,340.0
+Lisa,295,148.0
+Lisa,296,170.0
+Lisa,297,28.0
+Lisa,298,120.0
+Lisa,299,349.0
+Lisa,300,89.0
+Lisa,301,143.0
+Lisa,302,176.0
+Lisa,303,438.0
+Lisa,304,61.0
+Lisa,305,207.0
+Lisa,306,54.0
+Lisa,307,361.0
+Lisa,308,145.0
+Lisa,309,403.0
+Lisa,310,267.0
+Lisa,311,50.0
+Lisa,312,50.0
+Lisa,313,110.0
+Lisa,314,255.0
+Lisa,315,105.0
+Lisa,316,646.0
+Lisa,317,207.0
+Lisa,318,142.0
+Lisa,319,197.0
+Lisa,320,110.0
+Lisa,321,111.0
+Lisa,322,213.0
+Lisa,323,168.0
+Lisa,324,89.0
+Lisa,325,310.0
+Lisa,326,550.0
+Lisa,327,253.0
+Lisa,328,199.0
+Lisa,329,53.0
+Lisa,330,47.0
+Lisa,331,254.0
+Lisa,332,193.0
+Lisa,333,62.0
+Lisa,334,227.0
+Lisa,335,453.0
+Lisa,336,88.0
+Lisa,337,148.0
+Lisa,338,247.0
+Lisa,339,318.0
+Lisa,340,247.0
+Lisa,341,122.0
+Lisa,342,79.0
+Lisa,343,56.0
+Lisa,344,156.0
+Lisa,345,103.0
+Lisa,346,366.0
+Lisa,347,141.0
+Lisa,348,189.0
+Lisa,349,198.0
+Lisa,350,252.0
+Lisa,351,65.0
+Lisa,352,88.0
+Lisa,353,621.0
+Lisa,354,162.0
+Lisa,355,97.0
+Lisa,356,134.0
+Lisa,357,138.0
+Lisa,358,341.0
+Lisa,359,129.0
+Lisa,360,137.0
+Lisa,361,24.0
+Lisa,362,294.0
+Lisa,363,165.0
+Lisa,364,223.0
+Lisa,365,65.0
+Lisa,366,84.0
+Lisa,367,77.0
+Lisa,368,284.0
+Lisa,369,236.0
+Lisa,370,118.0
+Lisa,371,101.0
+Lisa,372,94.0
+Lisa,373,47.0
+Lisa,374,165.0
+Lisa,375,482.0
+Lisa,376,88.0
+Lisa,377,281.0
+Lisa,378,55.0
+Lisa,379,119.0
+Lisa,380,339.0
+Lisa,381,106.0
+Lisa,382,94.0
+Lisa,383,70.0
+Lisa,384,247.0
+Lisa,385,34.0
+Lisa,386,187.0
+Lisa,387,99.0
+Lisa,388,97.0
+Lisa,389,152.0
+Lisa,390,377.0
+Lisa,391,41.0
+Lisa,392,246.0
+Lisa,393,84.0
+Lisa,394,132.0
+Lisa,395,231.0
+Lisa,396,103.0
+Lisa,397,100.0
+Lisa,398,143.0
+Lisa,399,239.0
+Lisa,400,190.0
+Lisa,401,44.0
+Lisa,402,101.0
+Lisa,403,114.0
+Lisa,404,38.0
+Lisa,405,164.0
+Lisa,406,78.0
+Lisa,407,104.0
+Lisa,408,281.0
+Lisa,409,66.0
+Lisa,410,162.0
+Lisa,411,62.0
+Lisa,412,70.0
+Lisa,413,64.0
+Lisa,414,410.0
+Lisa,415,434.0
+Lisa,416,141.0
+Lisa,417,238.0
+Lisa,418,439.0
+Lisa,419,131.0
+Lisa,420,270.0
+Lisa,421,84.0
+Lisa,422,168.0
+Lisa,423,80.0
+Lisa,425,125.0
+Lisa,426,530.0
+Lisa,427,199.0
+Lisa,428,302.0
+Lisa,429,577.0
+Lisa,430,190.0
+Lisa,431,176.0
+Lisa,432,123.0
+Lisa,433,544.0
+Lisa,434,141.0
+Lisa,435,110.0
+Lisa,436,23.0
+Lisa,437,174.0
+Lisa,438,177.0
+Lisa,439,406.0
+Lisa,440,162.0
+Lisa,442,17.0
+Lisa,443,19.0
+Lisa,444,97.0
+Lisa,445,290.0
+Lisa,446,8.0
+Lisa,448,427.0
+Lisa,449,258.0
+Lisa,450,199.0
+Lisa,451,77.0
+Lisa,452,154.0
+Lisa,453,232.0
+Lisa,454,554.0
+Lisa,455,181.0
+Lisa,456,194.0
+Lisa,457,93.0
+Lisa,458,157.0
+Lisa,460,424.0
+Lisa,461,304.0
+Lisa,462,31.0
+Lisa,463,51.0
+Lisa,464,120.0
+Lisa,465,466.0
+Lisa,466,322.0
+Lisa,467,535.0
+Lisa,468,161.0
+Lisa,469,527.0
+Lisa,470,201.0
+Lisa,471,230.0
+Lisa,472,303.0
+Lisa,473,29.0
+Lisa,474,57.0
+Lisa,475,8.0
+Lisa,476,41.0
+Lisa,477,96.0
+Lisa,478,131.0
+Lisa,479,250.0
+Lisa,480,117.0
+Lisa,481,30.0
+Lisa,482,449.0
+Lisa,483,173.0
+Lisa,484,238.0
+Lisa,485,385.0
+Lisa,486,34.0
+Lisa,487,11.0
+Lisa,488,65.0
+Lisa,489,258.0
+Lisa,490,101.0
+Lisa,491,196.0
+Lisa,492,640.0
+Lisa,493,98.0
+Lisa,494,124.0
+Lisa,495,363.0
+Lisa,496,172.0
+Lisa,497,376.0
+Lisa,498,46.0
+Lisa,499,296.0
+Lisa,500,159.0
+Lisa,501,111.0
+Lisa,502,58.0
+Lisa,503,41.0
+Lisa,504,101.0
+Lisa,505,249.0
+Lisa,506,83.0
+Lisa,507,136.0
+Lisa,508,551.0
+Lisa,509,210.0
+Lisa,510,187.0
+Lisa,511,86.0
+Lisa,512,297.0
+Lisa,513,169.0
+Lisa,514,47.0
+Lisa,515,83.0
+Lisa,516,136.0
+Lisa,517,100.0
+Lisa,518,160.0
+Lisa,519,111.0
+Lisa,520,130.0
+Lisa,521,267.0
+Lisa,522,120.0
+Lisa,523,283.0
+Lisa,524,324.0
+Lisa,525,198.0
+Lisa,526,165.0
+Lisa,527,147.0
+Lisa,528,51.0
+Lisa,529,107.0
+Lisa,530,76.0
+Lisa,531,296.0
+Lisa,532,210.0
+Lisa,533,15.0
+Lisa,534,208.0
+Lisa,535,237.0
+Lisa,536,658.0
+Lisa,537,77.0
+Lisa,538,278.0
+Lisa,539,152.0
+Lisa,540,64.0
+Lisa,541,63.0
+Lisa,542,100.0
+Lisa,543,386.0
+Lisa,544,69.0
+Lisa,545,413.0
+Lisa,546,296.0
+Lisa,547,217.0
+Lisa,548,195.0
+Lisa,549,16.0
+Lisa,551,284.0
+Lisa,552,311.0
+Lisa,553,111.0
+Lisa,554,108.0
+Lisa,555,104.0
+Lisa,556,149.0
+Lisa,557,140.0
+Lisa,558,206.0
+Lisa,559,74.0
+Lisa,560,73.0
+Lisa,561,119.0
+Lisa,562,274.0
+Lisa,563,105.0
+Lisa,564,260.0
+Lisa,565,224.0
+Lisa,566,10.0
+Lisa,567,49.0
+Lisa,568,94.0
+Lou,4,36.0
+Lou,12,3.0
+Lou,20,16.0
+Lou,24,16.0
+Lou,26,26.0
+Lou,34,13.0
+Lou,39,42.0
+Lou,42,3.0
+Lou,48,53.0
+Lou,50,1.0
+Lou,52,45.0
+Lou,53,71.0
+Lou,54,5.0
+Lou,57,5.0
+Lou,70,13.0
+Lou,73,13.0
+Lou,75,12.0
+Lou,77,25.0
+Lou,79,2.0
+Lou,80,5.0
+Lou,82,3.0
+Lou,83,8.0
+Lou,89,9.0
+Lou,92,10.0
+Lou,104,4.0
+Lou,118,29.0
+Lou,126,3.0
+Lou,129,35.0
+Lou,134,16.0
+Lou,137,1.0
+Lou,147,21.0
+Lou,149,73.0
+Lou,151,4.0
+Lou,153,10.0
+Lou,157,9.0
+Lou,160,27.0
+Lou,164,17.0
+Lou,169,21.0
+Lou,171,7.0
+Lou,173,15.0
+Lou,182,7.0
+Lou,183,4.0
+Lou,186,18.0
+Lou,188,4.0
+Lou,194,14.0
+Lou,201,1.0
+Lou,207,9.0
+Lou,209,12.0
+Lou,212,46.0
+Lou,214,11.0
+Lou,216,7.0
+Lou,218,10.0
+Lou,219,7.0
+Lou,221,7.0
+Lou,222,2.0
+Lou,228,5.0
+Lou,229,9.0
+Lou,230,8.0
+Lou,239,7.0
+Lou,246,31.0
+Lou,247,1.0
+Lou,251,62.0
+Lou,252,3.0
+Lou,254,4.0
+Lou,256,44.0
+Lou,259,22.0
+Lou,260,56.0
+Lou,261,14.0
+Lou,266,70.0
+Lou,267,5.0
+Lou,271,5.0
+Lou,273,20.0
+Lou,274,16.0
+Lou,277,9.0
+Lou,280,9.0
+Lou,281,7.0
+Lou,282,5.0
+Lou,283,15.0
+Lou,290,39.0
+Lou,291,13.0
+Lou,292,18.0
+Lou,295,5.0
+Lou,297,20.0
+Lou,299,16.0
+Lou,300,10.0
+Lou,305,18.0
+Lou,307,28.0
+Lou,312,31.0
+Lou,313,33.0
+Lou,315,24.0
+Lou,316,15.0
+Lou,318,19.0
+Lou,321,20.0
+Lou,322,7.0
+Lou,326,28.0
+Lou,327,5.0
+Lou,328,15.0
+Lou,329,20.0
+Lou,330,7.0
+Lou,332,39.0
+Lou,336,22.0
+Lou,341,21.0
+Lou,342,9.0
+Lou,344,88.0
+Lou,346,25.0
+Lou,348,5.0
+Lou,349,23.0
+Lou,358,40.0
+Lou,363,45.0
+Lou,364,13.0
+Lou,365,12.0
+Lou,367,12.0
+Lou,376,13.0
+Lou,379,61.0
+Lou,382,15.0
+Lou,385,5.0
+Lou,389,6.0
+Lou,391,18.0
+Lou,398,258.0
+Lou,403,221.0
+Lou,404,48.0
+Lou,410,23.0
+Lou,411,3.0
+Lou,414,26.0
+Lou,416,9.0
+Lou,423,19.0
+Lou,439,13.0
+Lou,448,14.0
+Lou,458,22.0
+Lou,459,122.0
+Lou,461,46.0
+Lou,463,36.0
+Lou,466,24.0
+Lou,468,16.0
+Lou,470,15.0
+Lou,473,95.0
+Lou,480,18.0
+Lou,482,14.0
+Lou,483,98.0
+Lou,488,13.0
+Lou,499,4.0
+Lou,500,14.0
+Lou,501,6.0
+Lou,502,7.0
+Lou,506,6.0
+Lou,511,1.0
+Lou,513,65.0
+Lou,515,5.0
+Lou,516,32.0
+Lou,519,7.0
+Lou,524,6.0
+Lou,528,11.0
+Lou,529,10.0
+Lou,530,5.0
+Lou,533,31.0
+Lou,538,5.0
+Lou,543,12.0
+Lou,544,6.0
+Lou,547,25.0
+Lou,549,47.0
+Lou,552,4.0
+Lou,555,13.0
+Lou,558,20.0
+Lou,561,12.0
+Lou,563,7.0
+Lou,564,15.0
+Lou,565,5.0
+Lou,568,18.0
+Marge,1,371.0
+Marge,2,173.0
+Marge,3,138.0
+Marge,4,333.0
+Marge,5,141.0
+Marge,6,394.0
+Marge,7,191.0
+Marge,8,276.0
+Marge,9,526.0
+Marge,10,313.0
+Marge,11,335.0
+Marge,12,110.0
+Marge,13,379.0
+Marge,14,138.0
+Marge,15,158.0
+Marge,16,382.0
+Marge,17,220.0
+Marge,18,205.0
+Marge,19,205.0
+Marge,20,302.0
+Marge,21,149.0
+Marge,22,673.0
+Marge,23,467.0
+Marge,24,225.0
+Marge,25,585.0
+Marge,26,235.0
+Marge,27,227.0
+Marge,28,112.0
+Marge,29,354.0
+Marge,30,98.0
+Marge,31,456.0
+Marge,32,148.0
+Marge,33,596.0
+Marge,34,208.0
+Marge,35,264.0
+Marge,36,119.0
+Marge,37,197.0
+Marge,38,165.0
+Marge,39,135.0
+Marge,40,264.0
+Marge,41,88.0
+Marge,42,123.0
+Marge,43,298.0
+Marge,44,223.0
+Marge,45,86.0
+Marge,46,181.0
+Marge,47,525.0
+Marge,48,211.0
+Marge,49,341.0
+Marge,50,365.0
+Marge,51,252.0
+Marge,52,103.0
+Marge,53,251.0
+Marge,54,354.0
+Marge,55,372.0
+Marge,56,137.0
+Marge,57,201.0
+Marge,58,108.0
+Marge,59,145.0
+Marge,60,138.0
+Marge,61,534.0
+Marge,62,235.0
+Marge,63,182.0
+Marge,64,151.0
+Marge,65,248.0
+Marge,66,340.0
+Marge,67,191.0
+Marge,68,99.0
+Marge,69,364.0
+Marge,70,143.0
+Marge,71,271.0
+Marge,72,277.0
+Marge,73,136.0
+Marge,74,40.0
+Marge,75,213.0
+Marge,76,95.0
+Marge,77,108.0
+Marge,78,82.0
+Marge,79,155.0
+Marge,80,170.0
+Marge,82,57.0
+Marge,83,120.0
+Marge,84,139.0
+Marge,85,132.0
+Marge,86,191.0
+Marge,87,438.0
+Marge,88,254.0
+Marge,89,56.0
+Marge,90,74.0
+Marge,91,235.0
+Marge,92,93.0
+Marge,93,121.0
+Marge,94,137.0
+Marge,95,105.0
+Marge,96,181.0
+Marge,97,106.0
+Marge,98,203.0
+Marge,99,209.0
+Marge,100,75.0
+Marge,101,120.0
+Marge,102,318.0
+Marge,103,340.0
+Marge,104,99.0
+Marge,105,230.0
+Marge,106,668.0
+Marge,107,522.0
+Marge,108,28.0
+Marge,109,213.0
+Marge,110,163.0
+Marge,111,309.0
+Marge,112,299.0
+Marge,113,251.0
+Marge,114,546.0
+Marge,115,170.0
+Marge,116,315.0
+Marge,117,88.0
+Marge,118,24.0
+Marge,119,260.0
+Marge,120,255.0
+Marge,121,346.0
+Marge,122,153.0
+Marge,123,382.0
+Marge,124,189.0
+Marge,125,114.0
+Marge,126,639.0
+Marge,127,236.0
+Marge,128,136.0
+Marge,129,179.0
+Marge,130,19.0
+Marge,131,437.0
+Marge,132,75.0
+Marge,133,199.0
+Marge,134,162.0
+Marge,135,232.0
+Marge,136,179.0
+Marge,137,99.0
+Marge,138,141.0
+Marge,139,517.0
+Marge,140,108.0
+Marge,141,138.0
+Marge,142,808.0
+Marge,143,114.0
+Marge,144,47.0
+Marge,145,124.0
+Marge,146,144.0
+Marge,147,120.0
+Marge,148,231.0
+Marge,149,77.0
+Marge,150,31.0
+Marge,151,97.0
+Marge,152,182.0
+Marge,153,327.0
+Marge,154,121.0
+Marge,155,248.0
+Marge,156,255.0
+Marge,157,220.0
+Marge,158,411.0
+Marge,159,541.0
+Marge,160,89.0
+Marge,161,191.0
+Marge,162,326.0
+Marge,163,168.0
+Marge,164,559.0
+Marge,165,62.0
+Marge,166,270.0
+Marge,167,120.0
+Marge,168,338.0
+Marge,169,65.0
+Marge,170,227.0
+Marge,171,251.0
+Marge,172,8.0
+Marge,173,209.0
+Marge,174,88.0
+Marge,175,526.0
+Marge,176,160.0
+Marge,177,160.0
+Marge,178,166.0
+Marge,179,215.0
+Marge,180,167.0
+Marge,181,459.0
+Marge,182,228.0
+Marge,183,308.0
+Marge,184,200.0
+Marge,185,162.0
+Marge,186,169.0
+Marge,187,636.0
+Marge,188,358.0
+Marge,189,131.0
+Marge,190,339.0
+Marge,191,298.0
+Marge,192,94.0
+Marge,193,147.0
+Marge,194,70.0
+Marge,195,141.0
+Marge,196,240.0
+Marge,197,67.0
+Marge,198,53.0
+Marge,199,188.0
+Marge,200,223.0
+Marge,201,127.0
+Marge,202,182.0
+Marge,203,456.0
+Marge,204,182.0
+Marge,205,254.0
+Marge,206,425.0
+Marge,207,291.0
+Marge,208,102.0
+Marge,209,124.0
+Marge,210,296.0
+Marge,211,217.0
+Marge,212,96.0
+Marge,213,99.0
+Marge,214,162.0
+Marge,215,155.0
+Marge,216,310.0
+Marge,217,404.0
+Marge,218,479.0
+Marge,219,193.0
+Marge,220,391.0
+Marge,221,178.0
+Marge,222,395.0
+Marge,223,94.0
+Marge,224,186.0
+Marge,225,171.0
+Marge,226,257.0
+Marge,227,234.0
+Marge,228,381.0
+Marge,229,85.0
+Marge,230,122.0
+Marge,231,292.0
+Marge,232,131.0
+Marge,233,182.0
+Marge,234,328.0
+Marge,235,55.0
+Marge,236,314.0
+Marge,237,83.0
+Marge,238,261.0
+Marge,239,256.0
+Marge,240,108.0
+Marge,241,117.0
+Marge,242,82.0
+Marge,243,150.0
+Marge,244,180.0
+Marge,245,355.0
+Marge,246,273.0
+Marge,247,651.0
+Marge,248,266.0
+Marge,249,180.0
+Marge,250,149.0
+Marge,251,97.0
+Marge,252,188.0
+Marge,253,113.0
+Marge,254,74.0
+Marge,255,251.0
+Marge,256,79.0
+Marge,257,64.0
+Marge,258,637.0
+Marge,259,64.0
+Marge,260,387.0
+Marge,261,44.0
+Marge,262,83.0
+Marge,263,167.0
+Marge,264,221.0
+Marge,265,194.0
+Marge,266,212.0
+Marge,267,102.0
+Marge,268,77.0
+Marge,269,105.0
+Marge,270,216.0
+Marge,271,320.0
+Marge,272,71.0
+Marge,273,76.0
+Marge,274,318.0
+Marge,275,355.0
+Marge,276,255.0
+Marge,277,348.0
+Marge,278,465.0
+Marge,279,449.0
+Marge,280,114.0
+Marge,281,163.0
+Marge,282,173.0
+Marge,283,206.0
+Marge,284,255.0
+Marge,285,279.0
+Marge,286,45.0
+Marge,287,82.0
+Marge,288,293.0
+Marge,289,107.0
+Marge,290,314.0
+Marge,291,225.0
+Marge,292,242.0
+Marge,293,239.0
+Marge,294,117.0
+Marge,295,473.0
+Marge,296,302.0
+Marge,297,188.0
+Marge,298,60.0
+Marge,299,78.0
+Marge,300,535.0
+Marge,301,187.0
+Marge,302,244.0
+Marge,303,173.0
+Marge,304,154.0
+Marge,305,248.0
+Marge,306,179.0
+Marge,307,33.0
+Marge,308,470.0
+Marge,309,245.0
+Marge,310,131.0
+Marge,311,390.0
+Marge,312,293.0
+Marge,313,238.0
+Marge,314,101.0
+Marge,315,121.0
+Marge,316,150.0
+Marge,317,329.0
+Marge,318,172.0
+Marge,319,121.0
+Marge,320,167.0
+Marge,321,453.0
+Marge,322,141.0
+Marge,323,519.0
+Marge,324,228.0
+Marge,325,232.0
+Marge,326,247.0
+Marge,327,226.0
+Marge,328,521.0
+Marge,329,126.0
+Marge,330,316.0
+Marge,331,475.0
+Marge,332,197.0
+Marge,333,484.0
+Marge,334,334.0
+Marge,335,32.0
+Marge,336,112.0
+Marge,337,665.0
+Marge,338,536.0
+Marge,339,528.0
+Marge,340,108.0
+Marge,341,78.0
+Marge,342,548.0
+Marge,343,169.0
+Marge,344,169.0
+Marge,345,350.0
+Marge,346,94.0
+Marge,347,131.0
+Marge,348,639.0
+Marge,349,326.0
+Marge,350,122.0
+Marge,351,413.0
+Marge,352,220.0
+Marge,353,137.0
+Marge,354,231.0
+Marge,355,153.0
+Marge,356,379.0
+Marge,357,443.0
+Marge,358,326.0
+Marge,359,373.0
+Marge,360,157.0
+Marge,361,580.0
+Marge,362,133.0
+Marge,363,318.0
+Marge,364,200.0
+Marge,365,54.0
+Marge,366,254.0
+Marge,367,156.0
+Marge,368,113.0
+Marge,369,160.0
+Marge,370,395.0
+Marge,371,404.0
+Marge,372,127.0
+Marge,373,77.0
+Marge,374,242.0
+Marge,375,158.0
+Marge,376,659.0
+Marge,377,214.0
+Marge,378,420.0
+Marge,379,158.0
+Marge,380,181.0
+Marge,381,412.0
+Marge,382,83.0
+Marge,383,177.0
+Marge,384,94.0
+Marge,385,353.0
+Marge,386,142.0
+Marge,387,398.0
+Marge,388,247.0
+Marge,389,194.0
+Marge,390,120.0
+Marge,391,238.0
+Marge,392,108.0
+Marge,393,162.0
+Marge,394,251.0
+Marge,395,580.0
+Marge,396,287.0
+Marge,397,230.0
+Marge,398,134.0
+Marge,399,168.0
+Marge,400,189.0
+Marge,401,195.0
+Marge,402,306.0
+Marge,403,215.0
+Marge,404,482.0
+Marge,405,209.0
+Marge,406,169.0
+Marge,407,318.0
+Marge,408,211.0
+Marge,409,143.0
+Marge,410,129.0
+Marge,411,578.0
+Marge,412,63.0
+Marge,413,45.0
+Marge,414,241.0
+Marge,415,252.0
+Marge,416,289.0
+Marge,417,206.0
+Marge,418,168.0
+Marge,419,184.0
+Marge,420,18.0
+Marge,421,245.0
+Marge,422,328.0
+Marge,423,253.0
+Marge,425,368.0
+Marge,426,152.0
+Marge,427,108.0
+Marge,428,108.0
+Marge,429,248.0
+Marge,430,123.0
+Marge,431,110.0
+Marge,432,279.0
+Marge,433,184.0
+Marge,434,237.0
+Marge,435,388.0
+Marge,436,119.0
+Marge,437,53.0
+Marge,438,170.0
+Marge,439,341.0
+Marge,440,462.0
+Marge,442,47.0
+Marge,443,14.0
+Marge,444,473.0
+Marge,445,205.0
+Marge,446,354.0
+Marge,448,50.0
+Marge,449,171.0
+Marge,450,120.0
+Marge,451,36.0
+Marge,452,277.0
+Marge,453,316.0
+Marge,454,187.0
+Marge,455,367.0
+Marge,456,52.0
+Marge,457,149.0
+Marge,458,59.0
+Marge,459,140.0
+Marge,460,101.0
+Marge,461,155.0
+Marge,462,147.0
+Marge,463,278.0
+Marge,464,169.0
+Marge,465,114.0
+Marge,466,202.0
+Marge,467,138.0
+Marge,468,232.0
+Marge,469,380.0
+Marge,470,149.0
+Marge,471,172.0
+Marge,472,178.0
+Marge,473,82.0
+Marge,474,363.0
+Marge,475,45.0
+Marge,476,84.0
+Marge,477,320.0
+Marge,478,48.0
+Marge,479,75.0
+Marge,480,238.0
+Marge,481,293.0
+Marge,482,71.0
+Marge,483,241.0
+Marge,484,135.0
+Marge,485,152.0
+Marge,486,135.0
+Marge,487,174.0
+Marge,488,57.0
+Marge,489,91.0
+Marge,490,38.0
+Marge,491,568.0
+Marge,492,66.0
+Marge,493,235.0
+Marge,494,92.0
+Marge,495,194.0
+Marge,496,166.0
+Marge,497,132.0
+Marge,498,64.0
+Marge,499,292.0
+Marge,500,311.0
+Marge,501,126.0
+Marge,502,203.0
+Marge,503,88.0
+Marge,504,231.0
+Marge,505,273.0
+Marge,506,185.0
+Marge,507,228.0
+Marge,508,134.0
+Marge,509,132.0
+Marge,510,224.0
+Marge,511,603.0
+Marge,512,186.0
+Marge,513,19.0
+Marge,514,215.0
+Marge,515,380.0
+Marge,516,117.0
+Marge,517,277.0
+Marge,518,134.0
+Marge,519,445.0
+Marge,520,136.0
+Marge,521,286.0
+Marge,522,362.0
+Marge,523,128.0
+Marge,524,48.0
+Marge,525,360.0
+Marge,526,227.0
+Marge,527,288.0
+Marge,528,393.0
+Marge,529,181.0
+Marge,530,732.0
+Marge,531,176.0
+Marge,532,124.0
+Marge,533,185.0
+Marge,534,269.0
+Marge,535,233.0
+Marge,536,144.0
+Marge,537,75.0
+Marge,538,339.0
+Marge,539,268.0
+Marge,540,112.0
+Marge,541,347.0
+Marge,542,115.0
+Marge,543,282.0
+Marge,544,183.0
+Marge,545,425.0
+Marge,546,134.0
+Marge,547,365.0
+Marge,548,214.0
+Marge,549,63.0
+Marge,551,430.0
+Marge,552,36.0
+Marge,553,135.0
+Marge,554,214.0
+Marge,555,596.0
+Marge,556,261.0
+Marge,557,142.0
+Marge,558,102.0
+Marge,559,239.0
+Marge,560,165.0
+Marge,561,280.0
+Marge,562,96.0
+Marge,563,234.0
+Marge,564,90.0
+Marge,565,236.0
+Marge,566,228.0
+Marge,567,32.0
+Marge,568,450.0
+Martin Prince,2,135.0
+Martin Prince,10,40.0
+Martin Prince,14,324.0
+Martin Prince,26,26.0
+Martin Prince,27,28.0
+Martin Prince,29,10.0
+Martin Prince,32,68.0
+Martin Prince,34,294.0
+Martin Prince,40,22.0
+Martin Prince,44,217.0
+Martin Prince,45,15.0
+Martin Prince,48,23.0
+Martin Prince,53,16.0
+Martin Prince,57,27.0
+Martin Prince,58,81.0
+Martin Prince,60,34.0
+Martin Prince,75,16.0
+Martin Prince,83,7.0
+Martin Prince,85,8.0
+Martin Prince,86,9.0
+Martin Prince,88,8.0
+Martin Prince,89,37.0
+Martin Prince,90,40.0
+Martin Prince,93,58.0
+Martin Prince,94,10.0
+Martin Prince,99,18.0
+Martin Prince,100,60.0
+Martin Prince,101,6.0
+Martin Prince,104,75.0
+Martin Prince,105,3.0
+Martin Prince,111,5.0
+Martin Prince,122,13.0
+Martin Prince,127,96.0
+Martin Prince,130,9.0
+Martin Prince,132,19.0
+Martin Prince,134,45.0
+Martin Prince,137,14.0
+Martin Prince,140,4.0
+Martin Prince,148,177.0
+Martin Prince,150,3.0
+Martin Prince,158,10.0
+Martin Prince,172,63.0
+Martin Prince,176,19.0
+Martin Prince,184,26.0
+Martin Prince,192,23.0
+Martin Prince,195,22.0
+Martin Prince,204,3.0
+Martin Prince,210,2.0
+Martin Prince,214,16.0
+Martin Prince,223,8.0
+Martin Prince,228,20.0
+Martin Prince,235,4.0
+Martin Prince,256,21.0
+Martin Prince,264,27.0
+Martin Prince,266,5.0
+Martin Prince,281,4.0
+Martin Prince,287,15.0
+Martin Prince,289,23.0
+Martin Prince,298,18.0
+Martin Prince,302,11.0
+Martin Prince,303,22.0
+Martin Prince,307,8.0
+Martin Prince,310,6.0
+Martin Prince,316,106.0
+Martin Prince,338,16.0
+Martin Prince,340,36.0
+Martin Prince,345,6.0
+Martin Prince,350,12.0
+Martin Prince,356,14.0
+Martin Prince,360,9.0
+Martin Prince,362,10.0
+Martin Prince,364,8.0
+Martin Prince,368,8.0
+Martin Prince,369,8.0
+Martin Prince,375,35.0
+Martin Prince,377,25.0
+Martin Prince,379,12.0
+Martin Prince,383,6.0
+Martin Prince,385,21.0
+Martin Prince,386,19.0
+Martin Prince,389,60.0
+Martin Prince,392,5.0
+Martin Prince,398,36.0
+Martin Prince,399,105.0
+Martin Prince,406,12.0
+Martin Prince,407,11.0
+Martin Prince,412,18.0
+Martin Prince,414,155.0
+Martin Prince,415,22.0
+Martin Prince,417,30.0
+Martin Prince,418,10.0
+Martin Prince,420,4.0
+Martin Prince,422,4.0
+Martin Prince,429,33.0
+Martin Prince,431,6.0
+Martin Prince,443,29.0
+Martin Prince,444,16.0
+Martin Prince,448,5.0
+Martin Prince,450,3.0
+Martin Prince,455,51.0
+Martin Prince,456,2.0
+Martin Prince,459,8.0
+Martin Prince,465,7.0
+Martin Prince,466,9.0
+Martin Prince,469,11.0
+Martin Prince,471,11.0
+Martin Prince,474,8.0
+Martin Prince,479,3.0
+Martin Prince,490,99.0
+Martin Prince,496,5.0
+Martin Prince,497,41.0
+Martin Prince,499,23.0
+Martin Prince,506,16.0
+Martin Prince,508,13.0
+Martin Prince,518,3.0
+Martin Prince,524,7.0
+Martin Prince,525,9.0
+Martin Prince,528,23.0
+Martin Prince,534,7.0
+Martin Prince,538,9.0
+Martin Prince,542,3.0
+Martin Prince,544,9.0
+Martin Prince,546,29.0
+Martin Prince,549,15.0
+Martin Prince,552,19.0
+Martin Prince,554,7.0
+Martin Prince,559,7.0
+Mayor Quimby,14,17.0
+Mayor Quimby,35,75.0
+Mayor Quimby,36,58.0
+Mayor Quimby,42,11.0
+Mayor Quimby,44,19.0
+Mayor Quimby,45,16.0
+Mayor Quimby,46,4.0
+Mayor Quimby,48,35.0
+Mayor Quimby,50,81.0
+Mayor Quimby,53,9.0
+Mayor Quimby,63,36.0
+Mayor Quimby,64,15.0
+Mayor Quimby,68,60.0
+Mayor Quimby,71,186.0
+Mayor Quimby,79,71.0
+Mayor Quimby,80,85.0
+Mayor Quimby,81,25.0
+Mayor Quimby,82,37.0
+Mayor Quimby,84,16.0
+Mayor Quimby,87,11.0
+Mayor Quimby,88,81.0
+Mayor Quimby,91,102.0
+Mayor Quimby,92,24.0
+Mayor Quimby,93,10.0
+Mayor Quimby,97,22.0
+Mayor Quimby,99,9.0
+Mayor Quimby,101,34.0
+Mayor Quimby,108,104.0
+Mayor Quimby,112,6.0
+Mayor Quimby,113,10.0
+Mayor Quimby,116,12.0
+Mayor Quimby,117,74.0
+Mayor Quimby,121,60.0
+Mayor Quimby,122,19.0
+Mayor Quimby,128,80.0
+Mayor Quimby,130,64.0
+Mayor Quimby,137,79.0
+Mayor Quimby,140,17.0
+Mayor Quimby,144,143.0
+Mayor Quimby,151,80.0
+Mayor Quimby,155,3.0
+Mayor Quimby,158,128.0
+Mayor Quimby,162,6.0
+Mayor Quimby,169,22.0
+Mayor Quimby,170,15.0
+Mayor Quimby,171,111.0
+Mayor Quimby,173,22.0
+Mayor Quimby,180,15.0
+Mayor Quimby,182,76.0
+Mayor Quimby,183,29.0
+Mayor Quimby,186,10.0
+Mayor Quimby,196,98.0
+Mayor Quimby,200,115.0
+Mayor Quimby,206,25.0
+Mayor Quimby,212,322.0
+Mayor Quimby,214,44.0
+Mayor Quimby,223,28.0
+Mayor Quimby,224,27.0
+Mayor Quimby,225,12.0
+Mayor Quimby,249,26.0
+Mayor Quimby,250,39.0
+Mayor Quimby,252,45.0
+Mayor Quimby,254,26.0
+Mayor Quimby,267,16.0
+Mayor Quimby,269,8.0
+Mayor Quimby,277,20.0
+Mayor Quimby,278,18.0
+Mayor Quimby,283,51.0
+Mayor Quimby,288,9.0
+Mayor Quimby,291,106.0
+Mayor Quimby,292,24.0
+Mayor Quimby,295,36.0
+Mayor Quimby,303,29.0
+Mayor Quimby,304,27.0
+Mayor Quimby,305,30.0
+Mayor Quimby,307,74.0
+Mayor Quimby,310,32.0
+Mayor Quimby,312,53.0
+Mayor Quimby,314,44.0
+Mayor Quimby,320,8.0
+Mayor Quimby,321,65.0
+Mayor Quimby,329,16.0
+Mayor Quimby,332,29.0
+Mayor Quimby,334,47.0
+Mayor Quimby,335,33.0
+Mayor Quimby,336,25.0
+Mayor Quimby,339,45.0
+Mayor Quimby,342,18.0
+Mayor Quimby,345,87.0
+Mayor Quimby,349,51.0
+Mayor Quimby,360,88.0
+Mayor Quimby,362,86.0
+Mayor Quimby,363,96.0
+Mayor Quimby,365,8.0
+Mayor Quimby,366,40.0
+Mayor Quimby,372,109.0
+Mayor Quimby,377,40.0
+Mayor Quimby,382,30.0
+Mayor Quimby,387,15.0
+Mayor Quimby,390,33.0
+Mayor Quimby,391,29.0
+Mayor Quimby,394,8.0
+Mayor Quimby,396,61.0
+Mayor Quimby,397,50.0
+Mayor Quimby,400,3.0
+Mayor Quimby,403,21.0
+Mayor Quimby,407,24.0
+Mayor Quimby,410,63.0
+Mayor Quimby,415,14.0
+Mayor Quimby,416,179.0
+Mayor Quimby,421,83.0
+Mayor Quimby,423,10.0
+Mayor Quimby,428,49.0
+Mayor Quimby,430,60.0
+Mayor Quimby,432,41.0
+Mayor Quimby,448,17.0
+Mayor Quimby,460,42.0
+Mayor Quimby,461,79.0
+Mayor Quimby,463,60.0
+Mayor Quimby,470,62.0
+Mayor Quimby,474,26.0
+Mayor Quimby,485,27.0
+Mayor Quimby,493,26.0
+Mayor Quimby,498,36.0
+Mayor Quimby,500,269.0
+Mayor Quimby,509,38.0
+Mayor Quimby,510,53.0
+Mayor Quimby,511,22.0
+Mayor Quimby,517,20.0
+Mayor Quimby,524,11.0
+Mayor Quimby,526,8.0
+Mayor Quimby,533,22.0
+Mayor Quimby,535,11.0
+Mayor Quimby,537,5.0
+Mayor Quimby,538,34.0
+Mayor Quimby,557,26.0
+Mayor Quimby,558,34.0
+Mayor Quimby,565,30.0
+Milhouse,1,19.0
+Milhouse,2,9.0
+Milhouse,5,29.0
+Milhouse,8,6.0
+Milhouse,10,24.0
+Milhouse,11,18.0
+Milhouse,14,10.0
+Milhouse,15,2.0
+Milhouse,18,22.0
+Milhouse,21,38.0
+Milhouse,22,12.0
+Milhouse,26,4.0
+Milhouse,27,5.0
+Milhouse,32,11.0
+Milhouse,33,9.0
+Milhouse,34,164.0
+Milhouse,36,8.0
+Milhouse,39,18.0
+Milhouse,40,82.0
+Milhouse,41,28.0
+Milhouse,44,17.0
+Milhouse,48,1.0
+Milhouse,51,18.0
+Milhouse,53,21.0
+Milhouse,57,26.0
+Milhouse,58,269.0
+Milhouse,60,14.0
+Milhouse,63,6.0
+Milhouse,65,17.0
+Milhouse,73,15.0
+Milhouse,74,35.0
+Milhouse,75,6.0
+Milhouse,79,2.0
+Milhouse,80,9.0
+Milhouse,81,21.0
+Milhouse,82,11.0
+Milhouse,83,26.0
+Milhouse,86,89.0
+Milhouse,88,20.0
+Milhouse,89,103.0
+Milhouse,90,12.0
+Milhouse,91,10.0
+Milhouse,93,32.0
+Milhouse,97,12.0
+Milhouse,99,66.0
+Milhouse,100,58.0
+Milhouse,101,11.0
+Milhouse,102,20.0
+Milhouse,103,18.0
+Milhouse,104,33.0
+Milhouse,105,17.0
+Milhouse,108,2.0
+Milhouse,109,27.0
+Milhouse,110,50.0
+Milhouse,111,55.0
+Milhouse,113,92.0
+Milhouse,117,18.0
+Milhouse,118,35.0
+Milhouse,119,16.0
+Milhouse,120,54.0
+Milhouse,121,2.0
+Milhouse,122,22.0
+Milhouse,124,89.0
+Milhouse,125,15.0
+Milhouse,126,3.0
+Milhouse,127,207.0
+Milhouse,128,4.0
+Milhouse,130,264.0
+Milhouse,131,21.0
+Milhouse,132,204.0
+Milhouse,135,17.0
+Milhouse,137,18.0
+Milhouse,139,111.0
+Milhouse,140,42.0
+Milhouse,143,37.0
+Milhouse,144,6.0
+Milhouse,146,21.0
+Milhouse,148,253.0
+Milhouse,149,65.0
+Milhouse,152,31.0
+Milhouse,153,102.0
+Milhouse,155,20.0
+Milhouse,156,13.0
+Milhouse,158,62.0
+Milhouse,159,51.0
+Milhouse,160,97.0
+Milhouse,163,13.0
+Milhouse,167,21.0
+Milhouse,168,3.0
+Milhouse,169,7.0
+Milhouse,171,10.0
+Milhouse,172,58.0
+Milhouse,173,51.0
+Milhouse,176,66.0
+Milhouse,181,24.0
+Milhouse,183,14.0
+Milhouse,184,21.0
+Milhouse,186,12.0
+Milhouse,188,11.0
+Milhouse,192,206.0
+Milhouse,195,40.0
+Milhouse,196,6.0
+Milhouse,197,31.0
+Milhouse,198,4.0
+Milhouse,199,26.0
+Milhouse,201,33.0
+Milhouse,202,73.0
+Milhouse,204,115.0
+Milhouse,206,10.0
+Milhouse,210,1.0
+Milhouse,212,9.0
+Milhouse,214,100.0
+Milhouse,215,6.0
+Milhouse,219,4.0
+Milhouse,220,5.0
+Milhouse,221,110.0
+Milhouse,222,23.0
+Milhouse,223,11.0
+Milhouse,224,5.0
+Milhouse,228,30.0
+Milhouse,229,19.0
+Milhouse,230,11.0
+Milhouse,232,8.0
+Milhouse,234,13.0
+Milhouse,235,92.0
+Milhouse,237,109.0
+Milhouse,239,7.0
+Milhouse,242,7.0
+Milhouse,243,62.0
+Milhouse,246,90.0
+Milhouse,247,14.0
+Milhouse,250,2.0
+Milhouse,251,15.0
+Milhouse,252,10.0
+Milhouse,253,17.0
+Milhouse,256,43.0
+Milhouse,258,6.0
+Milhouse,259,356.0
+Milhouse,262,55.0
+Milhouse,263,10.0
+Milhouse,264,43.0
+Milhouse,266,52.0
+Milhouse,267,10.0
+Milhouse,268,52.0
+Milhouse,269,8.0
+Milhouse,270,29.0
+Milhouse,271,50.0
+Milhouse,275,24.0
+Milhouse,276,12.0
+Milhouse,278,24.0
+Milhouse,279,24.0
+Milhouse,280,133.0
+Milhouse,281,41.0
+Milhouse,283,48.0
+Milhouse,287,36.0
+Milhouse,288,7.0
+Milhouse,289,46.0
+Milhouse,294,6.0
+Milhouse,295,98.0
+Milhouse,298,39.0
+Milhouse,300,12.0
+Milhouse,302,54.0
+Milhouse,303,28.0
+Milhouse,304,5.0
+Milhouse,305,4.0
+Milhouse,306,14.0
+Milhouse,307,111.0
+Milhouse,308,23.0
+Milhouse,310,73.0
+Milhouse,311,18.0
+Milhouse,312,186.0
+Milhouse,314,125.0
+Milhouse,316,87.0
+Milhouse,317,41.0
+Milhouse,322,25.0
+Milhouse,324,41.0
+Milhouse,325,228.0
+Milhouse,326,32.0
+Milhouse,329,14.0
+Milhouse,330,13.0
+Milhouse,331,1.0
+Milhouse,332,45.0
+Milhouse,333,83.0
+Milhouse,335,26.0
+Milhouse,337,63.0
+Milhouse,338,28.0
+Milhouse,340,36.0
+Milhouse,343,14.0
+Milhouse,344,94.0
+Milhouse,345,36.0
+Milhouse,346,18.0
+Milhouse,347,23.0
+Milhouse,350,199.0
+Milhouse,353,10.0
+Milhouse,355,24.0
+Milhouse,356,16.0
+Milhouse,358,46.0
+Milhouse,359,369.0
+Milhouse,360,19.0
+Milhouse,361,32.0
+Milhouse,362,14.0
+Milhouse,363,196.0
+Milhouse,367,78.0
+Milhouse,368,15.0
+Milhouse,369,4.0
+Milhouse,374,10.0
+Milhouse,375,66.0
+Milhouse,376,33.0
+Milhouse,377,9.0
+Milhouse,379,19.0
+Milhouse,381,26.0
+Milhouse,382,21.0
+Milhouse,383,39.0
+Milhouse,385,5.0
+Milhouse,386,102.0
+Milhouse,387,4.0
+Milhouse,388,7.0
+Milhouse,389,132.0
+Milhouse,392,21.0
+Milhouse,395,28.0
+Milhouse,396,55.0
+Milhouse,397,22.0
+Milhouse,399,57.0
+Milhouse,401,32.0
+Milhouse,403,7.0
+Milhouse,405,42.0
+Milhouse,406,328.0
+Milhouse,407,37.0
+Milhouse,408,87.0
+Milhouse,412,53.0
+Milhouse,413,25.0
+Milhouse,415,8.0
+Milhouse,420,24.0
+Milhouse,422,181.0
+Milhouse,423,66.0
+Milhouse,431,27.0
+Milhouse,433,11.0
+Milhouse,437,271.0
+Milhouse,439,32.0
+Milhouse,442,37.0
+Milhouse,443,132.0
+Milhouse,444,9.0
+Milhouse,446,13.0
+Milhouse,449,25.0
+Milhouse,450,4.0
+Milhouse,451,78.0
+Milhouse,452,15.0
+Milhouse,454,56.0
+Milhouse,455,52.0
+Milhouse,456,41.0
+Milhouse,458,5.0
+Milhouse,459,12.0
+Milhouse,460,19.0
+Milhouse,461,12.0
+Milhouse,462,7.0
+Milhouse,463,87.0
+Milhouse,466,39.0
+Milhouse,467,42.0
+Milhouse,468,102.0
+Milhouse,471,46.0
+Milhouse,472,11.0
+Milhouse,474,78.0
+Milhouse,475,3.0
+Milhouse,476,24.0
+Milhouse,477,47.0
+Milhouse,479,14.0
+Milhouse,482,2.0
+Milhouse,484,392.0
+Milhouse,485,3.0
+Milhouse,486,10.0
+Milhouse,488,35.0
+Milhouse,489,37.0
+Milhouse,490,46.0
+Milhouse,492,5.0
+Milhouse,493,18.0
+Milhouse,495,88.0
+Milhouse,497,19.0
+Milhouse,498,126.0
+Milhouse,499,104.0
+Milhouse,501,74.0
+Milhouse,503,9.0
+Milhouse,504,8.0
+Milhouse,505,10.0
+Milhouse,506,9.0
+Milhouse,507,21.0
+Milhouse,508,77.0
+Milhouse,509,64.0
+Milhouse,510,8.0
+Milhouse,511,105.0
+Milhouse,512,14.0
+Milhouse,513,10.0
+Milhouse,517,3.0
+Milhouse,518,18.0
+Milhouse,520,29.0
+Milhouse,521,531.0
+Milhouse,522,8.0
+Milhouse,524,19.0
+Milhouse,525,303.0
+Milhouse,526,40.0
+Milhouse,527,3.0
+Milhouse,528,11.0
+Milhouse,531,13.0
+Milhouse,532,11.0
+Milhouse,533,13.0
+Milhouse,534,72.0
+Milhouse,535,21.0
+Milhouse,536,72.0
+Milhouse,537,7.0
+Milhouse,538,17.0
+Milhouse,539,8.0
+Milhouse,540,73.0
+Milhouse,541,39.0
+Milhouse,542,116.0
+Milhouse,544,4.0
+Milhouse,545,55.0
+Milhouse,547,183.0
+Milhouse,548,88.0
+Milhouse,549,52.0
+Milhouse,551,12.0
+Milhouse,552,190.0
+Milhouse,553,5.0
+Milhouse,554,25.0
+Milhouse,558,14.0
+Milhouse,559,178.0
+Milhouse,563,22.0
+Milhouse,564,5.0
+Milhouse,565,65.0
+Milhouse,566,11.0
+Moe,1,26.0
+Moe,3,80.0
+Moe,4,31.0
+Moe,6,51.0
+Moe,8,27.0
+Moe,10,19.0
+Moe,13,209.0
+Moe,17,11.0
+Moe,18,22.0
+Moe,21,11.0
+Moe,23,55.0
+Moe,24,56.0
+Moe,26,30.0
+Moe,27,88.0
+Moe,30,48.0
+Moe,33,2.0
+Moe,35,68.0
+Moe,36,4.0
+Moe,37,11.0
+Moe,38,18.0
+Moe,40,31.0
+Moe,41,7.0
+Moe,42,41.0
+Moe,43,31.0
+Moe,45,674.0
+Moe,46,143.0
+Moe,49,152.0
+Moe,52,30.0
+Moe,54,23.0
+Moe,55,36.0
+Moe,59,17.0
+Moe,62,16.0
+Moe,63,2.0
+Moe,67,155.0
+Moe,68,42.0
+Moe,70,37.0
+Moe,74,9.0
+Moe,75,48.0
+Moe,77,11.0
+Moe,81,60.0
+Moe,82,43.0
+Moe,83,19.0
+Moe,85,24.0
+Moe,87,13.0
+Moe,88,54.0
+Moe,89,12.0
+Moe,90,8.0
+Moe,92,24.0
+Moe,97,59.0
+Moe,98,16.0
+Moe,99,22.0
+Moe,101,35.0
+Moe,103,250.0
+Moe,106,62.0
+Moe,108,35.0
+Moe,109,104.0
+Moe,110,8.0
+Moe,111,85.0
+Moe,112,40.0
+Moe,114,128.0
+Moe,115,96.0
+Moe,116,10.0
+Moe,117,112.0
+Moe,120,64.0
+Moe,121,36.0
+Moe,122,24.0
+Moe,124,76.0
+Moe,125,13.0
+Moe,126,100.0
+Moe,128,27.0
+Moe,129,79.0
+Moe,130,102.0
+Moe,132,495.0
+Moe,137,1.0
+Moe,140,313.0
+Moe,141,2.0
+Moe,143,5.0
+Moe,144,74.0
+Moe,145,88.0
+Moe,148,17.0
+Moe,149,87.0
+Moe,151,66.0
+Moe,155,2.0
+Moe,156,738.0
+Moe,157,16.0
+Moe,158,22.0
+Moe,161,33.0
+Moe,162,13.0
+Moe,163,81.0
+Moe,164,21.0
+Moe,166,26.0
+Moe,167,15.0
+Moe,168,253.0
+Moe,170,12.0
+Moe,171,125.0
+Moe,173,20.0
+Moe,174,13.0
+Moe,175,83.0
+Moe,176,90.0
+Moe,177,313.0
+Moe,179,90.0
+Moe,181,21.0
+Moe,182,37.0
+Moe,183,124.0
+Moe,185,81.0
+Moe,186,80.0
+Moe,187,65.0
+Moe,188,85.0
+Moe,191,88.0
+Moe,193,46.0
+Moe,194,1232.0
+Moe,197,107.0
+Moe,198,70.0
+Moe,200,84.0
+Moe,202,11.0
+Moe,203,19.0
+Moe,205,34.0
+Moe,206,18.0
+Moe,207,39.0
+Moe,208,89.0
+Moe,211,66.0
+Moe,212,94.0
+Moe,213,9.0
+Moe,214,29.0
+Moe,215,72.0
+Moe,216,49.0
+Moe,217,106.0
+Moe,218,32.0
+Moe,219,54.0
+Moe,222,54.0
+Moe,223,25.0
+Moe,224,28.0
+Moe,225,53.0
+Moe,226,13.0
+Moe,227,15.0
+Moe,228,42.0
+Moe,231,64.0
+Moe,232,38.0
+Moe,234,30.0
+Moe,235,41.0
+Moe,236,52.0
+Moe,238,109.0
+Moe,239,35.0
+Moe,240,96.0
+Moe,242,886.0
+Moe,243,12.0
+Moe,244,193.0
+Moe,247,37.0
+Moe,248,39.0
+Moe,249,12.0
+Moe,250,48.0
+Moe,251,6.0
+Moe,252,58.0
+Moe,253,6.0
+Moe,254,45.0
+Moe,257,73.0
+Moe,258,43.0
+Moe,259,54.0
+Moe,260,19.0
+Moe,261,89.0
+Moe,262,12.0
+Moe,263,37.0
+Moe,265,13.0
+Moe,266,44.0
+Moe,267,29.0
+Moe,268,13.0
+Moe,269,95.0
+Moe,270,14.0
+Moe,271,33.0
+Moe,272,760.0
+Moe,274,416.0
+Moe,276,27.0
+Moe,277,42.0
+Moe,278,56.0
+Moe,279,40.0
+Moe,280,25.0
+Moe,283,200.0
+Moe,285,87.0
+Moe,286,12.0
+Moe,287,19.0
+Moe,288,32.0
+Moe,290,92.0
+Moe,291,25.0
+Moe,292,27.0
+Moe,293,92.0
+Moe,295,31.0
+Moe,296,87.0
+Moe,297,24.0
+Moe,299,65.0
+Moe,300,53.0
+Moe,301,107.0
+Moe,303,43.0
+Moe,304,54.0
+Moe,305,16.0
+Moe,306,32.0
+Moe,307,43.0
+Moe,308,45.0
+Moe,309,47.0
+Moe,310,43.0
+Moe,311,80.0
+Moe,312,16.0
+Moe,313,1068.0
+Moe,314,36.0
+Moe,315,27.0
+Moe,317,39.0
+Moe,319,23.0
+Moe,320,27.0
+Moe,321,25.0
+Moe,322,20.0
+Moe,323,39.0
+Moe,324,54.0
+Moe,325,21.0
+Moe,326,21.0
+Moe,327,90.0
+Moe,328,173.0
+Moe,329,17.0
+Moe,330,47.0
+Moe,331,11.0
+Moe,332,10.0
+Moe,333,96.0
+Moe,334,52.0
+Moe,335,7.0
+Moe,337,24.0
+Moe,338,17.0
+Moe,339,23.0
+Moe,340,19.0
+Moe,341,33.0
+Moe,342,748.0
+Moe,343,37.0
+Moe,345,69.0
+Moe,348,6.0
+Moe,349,21.0
+Moe,350,78.0
+Moe,351,40.0
+Moe,354,90.0
+Moe,355,27.0
+Moe,357,50.0
+Moe,360,132.0
+Moe,361,277.0
+Moe,362,58.0
+Moe,363,12.0
+Moe,365,38.0
+Moe,366,64.0
+Moe,367,51.0
+Moe,368,48.0
+Moe,369,560.0
+Moe,371,20.0
+Moe,373,13.0
+Moe,374,174.0
+Moe,376,61.0
+Moe,377,20.0
+Moe,378,91.0
+Moe,379,55.0
+Moe,380,31.0
+Moe,382,18.0
+Moe,383,90.0
+Moe,384,789.0
+Moe,385,55.0
+Moe,386,8.0
+Moe,387,29.0
+Moe,388,58.0
+Moe,390,3.0
+Moe,391,155.0
+Moe,393,17.0
+Moe,394,33.0
+Moe,395,155.0
+Moe,396,81.0
+Moe,397,275.0
+Moe,399,13.0
+Moe,402,10.0
+Moe,403,77.0
+Moe,404,11.0
+Moe,405,13.0
+Moe,408,53.0
+Moe,409,175.0
+Moe,410,38.0
+Moe,411,31.0
+Moe,412,87.0
+Moe,414,3.0
+Moe,416,66.0
+Moe,419,50.0
+Moe,420,2.0
+Moe,421,11.0
+Moe,422,14.0
+Moe,423,39.0
+Moe,426,84.0
+Moe,427,48.0
+Moe,428,105.0
+Moe,430,20.0
+Moe,432,98.0
+Moe,434,106.0
+Moe,435,34.0
+Moe,436,1147.0
+Moe,438,50.0
+Moe,442,11.0
+Moe,443,22.0
+Moe,444,67.0
+Moe,445,395.0
+Moe,448,148.0
+Moe,450,16.0
+Moe,451,32.0
+Moe,452,31.0
+Moe,453,22.0
+Moe,455,10.0
+Moe,458,79.0
+Moe,459,9.0
+Moe,460,15.0
+Moe,461,15.0
+Moe,462,619.0
+Moe,464,675.0
+Moe,465,20.0
+Moe,467,62.0
+Moe,468,7.0
+Moe,469,13.0
+Moe,471,73.0
+Moe,472,261.0
+Moe,473,150.0
+Moe,474,27.0
+Moe,475,711.0
+Moe,477,221.0
+Moe,479,17.0
+Moe,480,10.0
+Moe,481,55.0
+Moe,484,16.0
+Moe,486,40.0
+Moe,487,78.0
+Moe,489,24.0
+Moe,490,23.0
+Moe,492,181.0
+Moe,494,31.0
+Moe,495,16.0
+Moe,496,8.0
+Moe,498,170.0
+Moe,499,18.0
+Moe,500,36.0
+Moe,501,36.0
+Moe,502,23.0
+Moe,503,95.0
+Moe,504,12.0
+Moe,505,11.0
+Moe,506,41.0
+Moe,507,30.0
+Moe,508,36.0
+Moe,509,30.0
+Moe,511,62.0
+Moe,512,67.0
+Moe,513,148.0
+Moe,514,153.0
+Moe,515,13.0
+Moe,517,38.0
+Moe,518,7.0
+Moe,519,18.0
+Moe,521,35.0
+Moe,522,19.0
+Moe,524,82.0
+Moe,525,98.0
+Moe,526,92.0
+Moe,527,705.0
+Moe,528,75.0
+Moe,529,554.0
+Moe,530,56.0
+Moe,531,33.0
+Moe,532,164.0
+Moe,534,22.0
+Moe,535,46.0
+Moe,538,23.0
+Moe,541,153.0
+Moe,544,30.0
+Moe,545,11.0
+Moe,547,63.0
+Moe,548,115.0
+Moe,549,170.0
+Moe,554,13.0
+Moe,555,54.0
+Moe,557,11.0
+Moe,558,32.0
+Moe,560,69.0
+Moe,561,299.0
+Moe,565,111.0
+Moe,566,663.0
+Moe,567,657.0
+Mr. Burns,1,46.0
+Mr. Burns,3,182.0
+Mr. Burns,4,203.0
+Mr. Burns,8,25.0
+Mr. Burns,10,194.0
+Mr. Burns,14,21.0
+Mr. Burns,15,456.0
+Mr. Burns,17,1000.0
+Mr. Burns,18,236.0
+Mr. Burns,20,34.0
+Mr. Burns,23,534.0
+Mr. Burns,24,41.0
+Mr. Burns,26,149.0
+Mr. Burns,30,44.0
+Mr. Burns,31,398.0
+Mr. Burns,35,679.0
+Mr. Burns,36,99.0
+Mr. Burns,37,17.0
+Mr. Burns,38,186.0
+Mr. Burns,39,23.0
+Mr. Burns,40,468.0
+Mr. Burns,42,384.0
+Mr. Burns,43,113.0
+Mr. Burns,46,575.0
+Mr. Burns,47,70.0
+Mr. Burns,52,922.0
+Mr. Burns,54,213.0
+Mr. Burns,59,217.0
+Mr. Burns,64,262.0
+Mr. Burns,66,374.0
+Mr. Burns,70,111.0
+Mr. Burns,71,68.0
+Mr. Burns,76,544.0
+Mr. Burns,77,47.0
+Mr. Burns,80,28.0
+Mr. Burns,81,5.0
+Mr. Burns,84,252.0
+Mr. Burns,85,632.0
+Mr. Burns,86,70.0
+Mr. Burns,87,25.0
+Mr. Burns,88,19.0
+Mr. Burns,90,137.0
+Mr. Burns,91,256.0
+Mr. Burns,93,1.0
+Mr. Burns,95,9.0
+Mr. Burns,96,82.0
+Mr. Burns,97,27.0
+Mr. Burns,98,14.0
+Mr. Burns,99,800.0
+Mr. Burns,102,308.0
+Mr. Burns,103,2.0
+Mr. Burns,106,43.0
+Mr. Burns,108,44.0
+Mr. Burns,109,106.0
+Mr. Burns,115,26.0
+Mr. Burns,116,64.0
+Mr. Burns,121,219.0
+Mr. Burns,122,15.0
+Mr. Burns,123,445.0
+Mr. Burns,125,4.0
+Mr. Burns,128,639.0
+Mr. Burns,129,277.0
+Mr. Burns,133,22.0
+Mr. Burns,135,170.0
+Mr. Burns,136,195.0
+Mr. Burns,138,230.0
+Mr. Burns,140,388.0
+Mr. Burns,142,194.0
+Mr. Burns,145,927.0
+Mr. Burns,149,105.0
+Mr. Burns,150,360.0
+Mr. Burns,152,18.0
+Mr. Burns,155,2.0
+Mr. Burns,157,643.0
+Mr. Burns,158,16.0
+Mr. Burns,160,15.0
+Mr. Burns,163,101.0
+Mr. Burns,164,7.0
+Mr. Burns,165,936.0
+Mr. Burns,166,42.0
+Mr. Burns,173,28.0
+Mr. Burns,174,1154.0
+Mr. Burns,176,217.0
+Mr. Burns,182,17.0
+Mr. Burns,184,3.0
+Mr. Burns,186,36.0
+Mr. Burns,188,7.0
+Mr. Burns,191,111.0
+Mr. Burns,196,31.0
+Mr. Burns,197,44.0
+Mr. Burns,198,628.0
+Mr. Burns,199,12.0
+Mr. Burns,200,1.0
+Mr. Burns,201,21.0
+Mr. Burns,202,24.0
+Mr. Burns,206,34.0
+Mr. Burns,209,112.0
+Mr. Burns,213,19.0
+Mr. Burns,216,30.0
+Mr. Burns,220,52.0
+Mr. Burns,222,48.0
+Mr. Burns,223,17.0
+Mr. Burns,224,803.0
+Mr. Burns,226,9.0
+Mr. Burns,228,19.0
+Mr. Burns,229,37.0
+Mr. Burns,232,21.0
+Mr. Burns,235,39.0
+Mr. Burns,238,342.0
+Mr. Burns,241,80.0
+Mr. Burns,245,36.0
+Mr. Burns,250,26.0
+Mr. Burns,253,470.0
+Mr. Burns,254,61.0
+Mr. Burns,256,4.0
+Mr. Burns,257,34.0
+Mr. Burns,260,14.0
+Mr. Burns,262,10.0
+Mr. Burns,268,25.0
+Mr. Burns,270,25.0
+Mr. Burns,273,735.0
+Mr. Burns,274,252.0
+Mr. Burns,275,130.0
+Mr. Burns,276,45.0
+Mr. Burns,277,28.0
+Mr. Burns,278,21.0
+Mr. Burns,285,305.0
+Mr. Burns,286,50.0
+Mr. Burns,291,19.0
+Mr. Burns,292,2.0
+Mr. Burns,295,13.0
+Mr. Burns,296,9.0
+Mr. Burns,299,19.0
+Mr. Burns,301,27.0
+Mr. Burns,305,59.0
+Mr. Burns,306,511.0
+Mr. Burns,309,17.0
+Mr. Burns,311,38.0
+Mr. Burns,312,12.0
+Mr. Burns,313,9.0
+Mr. Burns,315,141.0
+Mr. Burns,317,95.0
+Mr. Burns,318,6.0
+Mr. Burns,320,73.0
+Mr. Burns,321,21.0
+Mr. Burns,323,18.0
+Mr. Burns,325,53.0
+Mr. Burns,329,25.0
+Mr. Burns,332,233.0
+Mr. Burns,335,589.0
+Mr. Burns,336,115.0
+Mr. Burns,340,72.0
+Mr. Burns,341,331.0
+Mr. Burns,343,96.0
+Mr. Burns,347,65.0
+Mr. Burns,349,188.0
+Mr. Burns,350,64.0
+Mr. Burns,357,27.0
+Mr. Burns,360,104.0
+Mr. Burns,363,139.0
+Mr. Burns,364,111.0
+Mr. Burns,365,172.0
+Mr. Burns,369,370.0
+Mr. Burns,370,3.0
+Mr. Burns,373,356.0
+Mr. Burns,374,55.0
+Mr. Burns,383,12.0
+Mr. Burns,385,99.0
+Mr. Burns,387,63.0
+Mr. Burns,389,93.0
+Mr. Burns,390,5.0
+Mr. Burns,391,69.0
+Mr. Burns,394,1.0
+Mr. Burns,395,6.0
+Mr. Burns,396,9.0
+Mr. Burns,397,107.0
+Mr. Burns,399,18.0
+Mr. Burns,400,11.0
+Mr. Burns,401,196.0
+Mr. Burns,402,86.0
+Mr. Burns,405,30.0
+Mr. Burns,410,38.0
+Mr. Burns,419,76.0
+Mr. Burns,420,71.0
+Mr. Burns,421,16.0
+Mr. Burns,423,198.0
+Mr. Burns,428,560.0
+Mr. Burns,430,68.0
+Mr. Burns,431,1.0
+Mr. Burns,432,23.0
+Mr. Burns,433,147.0
+Mr. Burns,444,46.0
+Mr. Burns,446,83.0
+Mr. Burns,450,38.0
+Mr. Burns,451,172.0
+Mr. Burns,452,35.0
+Mr. Burns,453,56.0
+Mr. Burns,454,189.0
+Mr. Burns,458,810.0
+Mr. Burns,461,29.0
+Mr. Burns,464,6.0
+Mr. Burns,467,19.0
+Mr. Burns,470,473.0
+Mr. Burns,471,25.0
+Mr. Burns,472,123.0
+Mr. Burns,473,9.0
+Mr. Burns,475,188.0
+Mr. Burns,477,55.0
+Mr. Burns,479,10.0
+Mr. Burns,480,8.0
+Mr. Burns,481,68.0
+Mr. Burns,486,3.0
+Mr. Burns,487,35.0
+Mr. Burns,490,59.0
+Mr. Burns,493,296.0
+Mr. Burns,495,3.0
+Mr. Burns,496,22.0
+Mr. Burns,500,16.0
+Mr. Burns,501,14.0
+Mr. Burns,502,123.0
+Mr. Burns,503,323.0
+Mr. Burns,506,70.0
+Mr. Burns,509,11.0
+Mr. Burns,514,14.0
+Mr. Burns,515,74.0
+Mr. Burns,516,305.0
+Mr. Burns,518,81.0
+Mr. Burns,522,466.0
+Mr. Burns,523,22.0
+Mr. Burns,524,428.0
+Mr. Burns,531,50.0
+Mr. Burns,532,177.0
+Mr. Burns,533,363.0
+Mr. Burns,536,117.0
+Mr. Burns,541,121.0
+Mr. Burns,542,5.0
+Mr. Burns,548,2.0
+Mr. Burns,555,56.0
+Mr. Burns,556,64.0
+Mr. Burns,557,629.0
+Mr. Burns,558,6.0
+Mr. Burns,561,41.0
+Mr. Burns,563,7.0
+Mr. Burns,564,429.0
+Mr. Burns,565,4.0
+Mr. Burns,566,107.0
+Mr. Burns,567,346.0
+Nelson,5,135.0
+Nelson,21,12.0
+Nelson,22,8.0
+Nelson,32,6.0
+Nelson,33,12.0
+Nelson,34,18.0
+Nelson,37,68.0
+Nelson,39,8.0
+Nelson,43,4.0
+Nelson,44,48.0
+Nelson,45,20.0
+Nelson,48,4.0
+Nelson,50,2.0
+Nelson,51,18.0
+Nelson,57,19.0
+Nelson,58,14.0
+Nelson,63,4.0
+Nelson,65,8.0
+Nelson,66,2.0
+Nelson,68,5.0
+Nelson,73,11.0
+Nelson,75,9.0
+Nelson,79,67.0
+Nelson,80,10.0
+Nelson,81,7.0
+Nelson,82,9.0
+Nelson,83,2.0
+Nelson,85,28.0
+Nelson,86,2.0
+Nelson,89,22.0
+Nelson,90,25.0
+Nelson,91,8.0
+Nelson,92,4.0
+Nelson,93,10.0
+Nelson,99,11.0
+Nelson,100,43.0
+Nelson,102,2.0
+Nelson,104,49.0
+Nelson,105,9.0
+Nelson,110,16.0
+Nelson,111,14.0
+Nelson,113,13.0
+Nelson,120,33.0
+Nelson,121,2.0
+Nelson,122,4.0
+Nelson,127,65.0
+Nelson,128,9.0
+Nelson,130,27.0
+Nelson,131,5.0
+Nelson,132,11.0
+Nelson,134,9.0
+Nelson,135,6.0
+Nelson,139,48.0
+Nelson,140,8.0
+Nelson,148,113.0
+Nelson,149,14.0
+Nelson,150,6.0
+Nelson,151,7.0
+Nelson,152,2.0
+Nelson,153,20.0
+Nelson,155,2.0
+Nelson,158,11.0
+Nelson,159,39.0
+Nelson,160,465.0
+Nelson,162,4.0
+Nelson,166,9.0
+Nelson,167,3.0
+Nelson,171,5.0
+Nelson,172,17.0
+Nelson,174,2.0
+Nelson,178,2.0
+Nelson,180,2.0
+Nelson,181,12.0
+Nelson,182,2.0
+Nelson,184,107.0
+Nelson,190,13.0
+Nelson,192,191.0
+Nelson,195,33.0
+Nelson,196,61.0
+Nelson,197,2.0
+Nelson,199,26.0
+Nelson,201,12.0
+Nelson,204,58.0
+Nelson,206,277.0
+Nelson,210,78.0
+Nelson,214,42.0
+Nelson,215,7.0
+Nelson,216,2.0
+Nelson,217,15.0
+Nelson,218,2.0
+Nelson,221,57.0
+Nelson,223,19.0
+Nelson,224,6.0
+Nelson,228,54.0
+Nelson,229,20.0
+Nelson,230,8.0
+Nelson,232,16.0
+Nelson,234,4.0
+Nelson,235,34.0
+Nelson,236,6.0
+Nelson,237,14.0
+Nelson,239,37.0
+Nelson,243,22.0
+Nelson,244,9.0
+Nelson,246,15.0
+Nelson,247,14.0
+Nelson,249,17.0
+Nelson,253,2.0
+Nelson,254,24.0
+Nelson,256,129.0
+Nelson,257,6.0
+Nelson,258,14.0
+Nelson,259,12.0
+Nelson,262,74.0
+Nelson,263,3.0
+Nelson,264,88.0
+Nelson,267,18.0
+Nelson,268,1.0
+Nelson,270,12.0
+Nelson,271,2.0
+Nelson,275,8.0
+Nelson,276,6.0
+Nelson,277,2.0
+Nelson,280,5.0
+Nelson,281,17.0
+Nelson,286,6.0
+Nelson,287,33.0
+Nelson,289,13.0
+Nelson,294,8.0
+Nelson,295,6.0
+Nelson,298,25.0
+Nelson,299,29.0
+Nelson,300,5.0
+Nelson,302,11.0
+Nelson,303,27.0
+Nelson,304,4.0
+Nelson,306,12.0
+Nelson,307,39.0
+Nelson,308,11.0
+Nelson,310,3.0
+Nelson,312,88.0
+Nelson,314,2.0
+Nelson,316,62.0
+Nelson,317,15.0
+Nelson,318,9.0
+Nelson,319,4.0
+Nelson,320,52.0
+Nelson,322,13.0
+Nelson,323,2.0
+Nelson,324,19.0
+Nelson,325,53.0
+Nelson,326,32.0
+Nelson,330,32.0
+Nelson,332,5.0
+Nelson,334,1.0
+Nelson,335,4.0
+Nelson,337,16.0
+Nelson,338,411.0
+Nelson,340,11.0
+Nelson,341,3.0
+Nelson,345,13.0
+Nelson,346,22.0
+Nelson,348,7.0
+Nelson,350,46.0
+Nelson,352,6.0
+Nelson,354,16.0
+Nelson,355,22.0
+Nelson,356,27.0
+Nelson,359,2.0
+Nelson,360,28.0
+Nelson,361,4.0
+Nelson,362,8.0
+Nelson,363,15.0
+Nelson,364,21.0
+Nelson,367,8.0
+Nelson,368,20.0
+Nelson,369,10.0
+Nelson,370,18.0
+Nelson,372,1.0
+Nelson,374,2.0
+Nelson,375,48.0
+Nelson,376,27.0
+Nelson,377,17.0
+Nelson,379,86.0
+Nelson,383,2.0
+Nelson,385,11.0
+Nelson,386,483.0
+Nelson,387,8.0
+Nelson,388,2.0
+Nelson,389,11.0
+Nelson,390,9.0
+Nelson,391,4.0
+Nelson,392,19.0
+Nelson,393,2.0
+Nelson,395,2.0
+Nelson,396,5.0
+Nelson,398,12.0
+Nelson,399,22.0
+Nelson,400,7.0
+Nelson,401,2.0
+Nelson,405,60.0
+Nelson,406,73.0
+Nelson,407,5.0
+Nelson,410,9.0
+Nelson,413,74.0
+Nelson,414,204.0
+Nelson,415,9.0
+Nelson,416,6.0
+Nelson,417,16.0
+Nelson,418,97.0
+Nelson,420,31.0
+Nelson,422,40.0
+Nelson,423,6.0
+Nelson,426,5.0
+Nelson,429,23.0
+Nelson,431,43.0
+Nelson,433,2.0
+Nelson,437,64.0
+Nelson,442,5.0
+Nelson,443,75.0
+Nelson,444,74.0
+Nelson,446,38.0
+Nelson,448,4.0
+Nelson,449,49.0
+Nelson,450,61.0
+Nelson,451,8.0
+Nelson,453,8.0
+Nelson,454,1.0
+Nelson,455,72.0
+Nelson,456,72.0
+Nelson,459,22.0
+Nelson,461,11.0
+Nelson,466,343.0
+Nelson,467,102.0
+Nelson,469,132.0
+Nelson,470,67.0
+Nelson,471,30.0
+Nelson,472,26.0
+Nelson,474,31.0
+Nelson,477,11.0
+Nelson,479,29.0
+Nelson,482,13.0
+Nelson,485,169.0
+Nelson,486,11.0
+Nelson,488,57.0
+Nelson,490,4.0
+Nelson,493,10.0
+Nelson,495,14.0
+Nelson,497,34.0
+Nelson,498,46.0
+Nelson,499,35.0
+Nelson,501,7.0
+Nelson,505,2.0
+Nelson,506,123.0
+Nelson,507,13.0
+Nelson,508,20.0
+Nelson,510,11.0
+Nelson,511,14.0
+Nelson,515,1.0
+Nelson,518,9.0
+Nelson,519,2.0
+Nelson,523,12.0
+Nelson,524,4.0
+Nelson,525,25.0
+Nelson,526,20.0
+Nelson,527,8.0
+Nelson,528,10.0
+Nelson,530,2.0
+Nelson,532,5.0
+Nelson,534,9.0
+Nelson,535,10.0
+Nelson,536,39.0
+Nelson,537,1.0
+Nelson,541,102.0
+Nelson,542,6.0
+Nelson,543,6.0
+Nelson,544,60.0
+Nelson,546,49.0
+Nelson,548,64.0
+Nelson,549,7.0
+Nelson,552,19.0
+Nelson,556,15.0
+Nelson,558,24.0
+Nelson,559,90.0
+Nelson,563,7.0
+Nelson,565,5.0
+Nelson,566,12.0
+Otto,3,38.0
+Otto,5,20.0
+Otto,8,3.0
+Otto,14,88.0
+Otto,18,24.0
+Otto,21,51.0
+Otto,29,6.0
+Otto,30,65.0
+Otto,33,19.0
+Otto,34,34.0
+Otto,35,31.0
+Otto,36,2.0
+Otto,40,112.0
+Otto,42,40.0
+Otto,50,8.0
+Otto,57,595.0
+Otto,58,32.0
+Otto,60,12.0
+Otto,61,23.0
+Otto,63,12.0
+Otto,64,5.0
+Otto,71,8.0
+Otto,75,11.0
+Otto,80,7.0
+Otto,85,3.0
+Otto,86,20.0
+Otto,87,17.0
+Otto,88,26.0
+Otto,91,9.0
+Otto,92,25.0
+Otto,101,30.0
+Otto,102,4.0
+Otto,103,62.0
+Otto,104,54.0
+Otto,117,6.0
+Otto,122,13.0
+Otto,124,11.0
+Otto,128,21.0
+Otto,130,10.0
+Otto,134,14.0
+Otto,140,123.0
+Otto,149,12.0
+Otto,152,57.0
+Otto,155,29.0
+Otto,158,5.0
+Otto,159,6.0
+Otto,162,19.0
+Otto,167,22.0
+Otto,170,2.0
+Otto,173,8.0
+Otto,191,33.0
+Otto,192,89.0
+Otto,195,9.0
+Otto,198,7.0
+Otto,200,8.0
+Otto,210,15.0
+Otto,214,8.0
+Otto,216,6.0
+Otto,217,7.0
+Otto,224,12.0
+Otto,225,5.0
+Otto,228,3.0
+Otto,232,13.0
+Otto,236,14.0
+Otto,247,95.0
+Otto,255,4.0
+Otto,262,17.0
+Otto,263,5.0
+Otto,264,21.0
+Otto,278,40.0
+Otto,285,69.0
+Otto,290,23.0
+Otto,291,9.0
+Otto,293,7.0
+Otto,294,6.0
+Otto,295,4.0
+Otto,296,8.0
+Otto,300,8.0
+Otto,303,27.0
+Otto,304,8.0
+Otto,307,12.0
+Otto,310,6.0
+Otto,312,5.0
+Otto,316,16.0
+Otto,317,14.0
+Otto,323,13.0
+Otto,324,39.0
+Otto,328,71.0
+Otto,330,17.0
+Otto,331,19.0
+Otto,336,2.0
+Otto,340,1.0
+Otto,346,8.0
+Otto,349,11.0
+Otto,350,17.0
+Otto,356,22.0
+Otto,362,6.0
+Otto,367,52.0
+Otto,375,23.0
+Otto,376,15.0
+Otto,379,186.0
+Otto,380,2.0
+Otto,401,12.0
+Otto,406,2.0
+Otto,412,29.0
+Otto,426,4.0
+Otto,431,19.0
+Otto,438,18.0
+Otto,444,20.0
+Otto,449,16.0
+Otto,459,16.0
+Otto,462,38.0
+Otto,465,24.0
+Otto,468,12.0
+Otto,469,2.0
+Otto,470,11.0
+Otto,472,50.0
+Otto,479,27.0
+Otto,483,52.0
+Otto,485,83.0
+Otto,488,3.0
+Otto,489,1.0
+Otto,497,12.0
+Otto,499,1.0
+Otto,500,16.0
+Otto,511,19.0
+Otto,513,8.0
+Otto,516,15.0
+Otto,523,6.0
+Otto,526,7.0
+Otto,527,16.0
+Otto,530,16.0
+Otto,536,13.0
+Otto,537,21.0
+Otto,542,11.0
+Otto,553,22.0
+Otto,565,2.0
+Patty,1,115.0
+Patty,9,75.0
+Patty,12,50.0
+Patty,15,12.0
+Patty,18,21.0
+Patty,20,55.0
+Patty,25,35.0
+Patty,27,405.0
+Patty,34,17.0
+Patty,44,47.0
+Patty,45,27.0
+Patty,46,10.0
+Patty,47,71.0
+Patty,48,6.0
+Patty,50,74.0
+Patty,53,20.0
+Patty,55,2.0
+Patty,56,115.0
+Patty,57,91.0
+Patty,64,9.0
+Patty,69,37.0
+Patty,70,32.0
+Patty,72,128.0
+Patty,74,4.0
+Patty,75,23.0
+Patty,80,2.0
+Patty,83,8.0
+Patty,85,2.0
+Patty,87,3.0
+Patty,88,21.0
+Patty,89,12.0
+Patty,91,8.0
+Patty,94,7.0
+Patty,98,10.0
+Patty,101,5.0
+Patty,102,19.0
+Patty,103,25.0
+Patty,114,16.0
+Patty,116,53.0
+Patty,117,8.0
+Patty,120,228.0
+Patty,121,22.0
+Patty,122,18.0
+Patty,128,5.0
+Patty,134,31.0
+Patty,136,24.0
+Patty,142,20.0
+Patty,143,11.0
+Patty,147,27.0
+Patty,148,10.0
+Patty,173,22.0
+Patty,181,6.0
+Patty,182,43.0
+Patty,214,6.0
+Patty,223,6.0
+Patty,237,7.0
+Patty,247,66.0
+Patty,257,9.0
+Patty,270,57.0
+Patty,275,6.0
+Patty,278,6.0
+Patty,279,71.0
+Patty,282,23.0
+Patty,284,10.0
+Patty,297,5.0
+Patty,311,12.0
+Patty,318,29.0
+Patty,327,33.0
+Patty,330,7.0
+Patty,333,44.0
+Patty,344,8.0
+Patty,345,341.0
+Patty,347,22.0
+Patty,360,8.0
+Patty,371,14.0
+Patty,373,155.0
+Patty,376,21.0
+Patty,387,15.0
+Patty,388,8.0
+Patty,393,54.0
+Patty,400,8.0
+Patty,407,4.0
+Patty,409,28.0
+Patty,415,4.0
+Patty,416,2.0
+Patty,421,12.0
+Patty,425,37.0
+Patty,430,13.0
+Patty,435,49.0
+Patty,448,4.0
+Patty,455,13.0
+Patty,462,24.0
+Patty,472,6.0
+Patty,475,22.0
+Patty,477,26.0
+Patty,484,24.0
+Patty,486,1.0
+Patty,492,110.0
+Patty,497,19.0
+Patty,510,14.0
+Patty,519,22.0
+Patty,526,15.0
+Patty,530,59.0
+Patty,531,16.0
+Patty,533,42.0
+Patty,544,15.0
+Patty,547,22.0
+Patty,557,92.0
+Patty,561,17.0
+Professor Frink,30,59.0
+Professor Frink,40,27.0
+Professor Frink,45,19.0
+Professor Frink,48,20.0
+Professor Frink,49,31.0
+Professor Frink,59,43.0
+Professor Frink,77,41.0
+Professor Frink,80,20.0
+Professor Frink,85,35.0
+Professor Frink,92,41.0
+Professor Frink,107,66.0
+Professor Frink,112,32.0
+Professor Frink,113,33.0
+Professor Frink,117,63.0
+Professor Frink,122,5.0
+Professor Frink,124,52.0
+Professor Frink,127,17.0
+Professor Frink,134,104.0
+Professor Frink,149,81.0
+Professor Frink,151,61.0
+Professor Frink,154,60.0
+Professor Frink,155,2.0
+Professor Frink,160,57.0
+Professor Frink,182,72.0
+Professor Frink,196,31.0
+Professor Frink,198,30.0
+Professor Frink,205,81.0
+Professor Frink,212,37.0
+Professor Frink,214,50.0
+Professor Frink,224,114.0
+Professor Frink,225,147.0
+Professor Frink,227,20.0
+Professor Frink,230,49.0
+Professor Frink,237,6.0
+Professor Frink,240,1.0
+Professor Frink,246,131.0
+Professor Frink,250,19.0
+Professor Frink,251,27.0
+Professor Frink,253,9.0
+Professor Frink,257,22.0
+Professor Frink,258,22.0
+Professor Frink,264,91.0
+Professor Frink,267,50.0
+Professor Frink,268,40.0
+Professor Frink,269,24.0
+Professor Frink,271,4.0
+Professor Frink,274,21.0
+Professor Frink,276,2.0
+Professor Frink,277,47.0
+Professor Frink,283,5.0
+Professor Frink,288,34.0
+Professor Frink,292,72.0
+Professor Frink,300,2.0
+Professor Frink,303,9.0
+Professor Frink,305,22.0
+Professor Frink,306,12.0
+Professor Frink,307,93.0
+Professor Frink,314,661.0
+Professor Frink,320,25.0
+Professor Frink,322,43.0
+Professor Frink,335,5.0
+Professor Frink,336,219.0
+Professor Frink,341,6.0
+Professor Frink,343,32.0
+Professor Frink,350,146.0
+Professor Frink,351,47.0
+Professor Frink,365,49.0
+Professor Frink,366,45.0
+Professor Frink,377,31.0
+Professor Frink,380,16.0
+Professor Frink,381,34.0
+Professor Frink,391,111.0
+Professor Frink,396,10.0
+Professor Frink,409,113.0
+Professor Frink,428,163.0
+Professor Frink,433,1.0
+Professor Frink,467,114.0
+Professor Frink,485,35.0
+Professor Frink,490,114.0
+Professor Frink,492,73.0
+Professor Frink,499,10.0
+Professor Frink,502,175.0
+Professor Frink,507,19.0
+Professor Frink,510,56.0
+Professor Frink,513,19.0
+Professor Frink,516,94.0
+Professor Frink,517,19.0
+Professor Frink,521,13.0
+Professor Frink,522,1.0
+Professor Frink,526,23.0
+Professor Frink,528,14.0
+Professor Frink,533,45.0
+Professor Frink,538,49.0
+Professor Frink,548,149.0
+Professor Frink,552,12.0
+Professor Frink,555,27.0
+Professor Frink,557,29.0
+Professor Frink,558,116.0
+Professor Frink,564,56.0
+Ralph,6,21.0
+Ralph,32,34.0
+Ralph,39,7.0
+Ralph,43,7.0
+Ralph,49,18.0
+Ralph,52,18.0
+Ralph,53,5.0
+Ralph,57,13.0
+Ralph,58,7.0
+Ralph,60,12.0
+Ralph,63,3.0
+Ralph,71,5.0
+Ralph,74,261.0
+Ralph,76,17.0
+Ralph,79,3.0
+Ralph,86,2.0
+Ralph,88,6.0
+Ralph,91,2.0
+Ralph,100,24.0
+Ralph,104,10.0
+Ralph,105,50.0
+Ralph,106,78.0
+Ralph,108,2.0
+Ralph,110,11.0
+Ralph,111,9.0
+Ralph,113,20.0
+Ralph,118,3.0
+Ralph,120,4.0
+Ralph,124,6.0
+Ralph,128,9.0
+Ralph,130,22.0
+Ralph,132,20.0
+Ralph,133,47.0
+Ralph,135,21.0
+Ralph,144,10.0
+Ralph,153,4.0
+Ralph,158,9.0
+Ralph,161,9.0
+Ralph,162,23.0
+Ralph,167,5.0
+Ralph,169,6.0
+Ralph,170,3.0
+Ralph,172,24.0
+Ralph,174,3.0
+Ralph,177,29.0
+Ralph,178,11.0
+Ralph,180,62.0
+Ralph,182,7.0
+Ralph,184,6.0
+Ralph,186,24.0
+Ralph,188,2.0
+Ralph,192,16.0
+Ralph,195,28.0
+Ralph,196,261.0
+Ralph,197,16.0
+Ralph,201,5.0
+Ralph,203,7.0
+Ralph,204,29.0
+Ralph,210,51.0
+Ralph,214,9.0
+Ralph,215,8.0
+Ralph,219,10.0
+Ralph,221,21.0
+Ralph,225,10.0
+Ralph,228,23.0
+Ralph,231,10.0
+Ralph,235,40.0
+Ralph,237,21.0
+Ralph,239,3.0
+Ralph,240,5.0
+Ralph,243,101.0
+Ralph,246,24.0
+Ralph,247,4.0
+Ralph,253,5.0
+Ralph,255,5.0
+Ralph,256,16.0
+Ralph,259,3.0
+Ralph,262,112.0
+Ralph,263,5.0
+Ralph,264,4.0
+Ralph,267,6.0
+Ralph,268,36.0
+Ralph,270,2.0
+Ralph,275,3.0
+Ralph,277,9.0
+Ralph,281,7.0
+Ralph,283,18.0
+Ralph,287,11.0
+Ralph,289,43.0
+Ralph,291,14.0
+Ralph,292,8.0
+Ralph,295,2.0
+Ralph,299,36.0
+Ralph,300,8.0
+Ralph,303,10.0
+Ralph,304,21.0
+Ralph,305,11.0
+Ralph,307,10.0
+Ralph,311,7.0
+Ralph,312,13.0
+Ralph,316,22.0
+Ralph,319,3.0
+Ralph,321,14.0
+Ralph,325,22.0
+Ralph,326,5.0
+Ralph,329,4.0
+Ralph,331,17.0
+Ralph,333,4.0
+Ralph,335,11.0
+Ralph,336,12.0
+Ralph,337,22.0
+Ralph,338,57.0
+Ralph,341,4.0
+Ralph,350,6.0
+Ralph,352,6.0
+Ralph,353,15.0
+Ralph,354,7.0
+Ralph,356,4.0
+Ralph,359,14.0
+Ralph,362,2.0
+Ralph,363,7.0
+Ralph,366,5.0
+Ralph,367,9.0
+Ralph,368,3.0
+Ralph,375,16.0
+Ralph,377,11.0
+Ralph,379,15.0
+Ralph,383,15.0
+Ralph,385,3.0
+Ralph,386,4.0
+Ralph,391,9.0
+Ralph,392,5.0
+Ralph,399,2.0
+Ralph,406,5.0
+Ralph,410,87.0
+Ralph,413,14.0
+Ralph,418,8.0
+Ralph,419,7.0
+Ralph,428,4.0
+Ralph,431,68.0
+Ralph,437,12.0
+Ralph,438,15.0
+Ralph,439,14.0
+Ralph,440,4.0
+Ralph,444,3.0
+Ralph,445,4.0
+Ralph,449,5.0
+Ralph,450,4.0
+Ralph,451,4.0
+Ralph,454,34.0
+Ralph,456,22.0
+Ralph,459,23.0
+Ralph,461,3.0
+Ralph,462,2.0
+Ralph,464,2.0
+Ralph,466,7.0
+Ralph,467,24.0
+Ralph,477,14.0
+Ralph,479,5.0
+Ralph,480,12.0
+Ralph,485,11.0
+Ralph,490,3.0
+Ralph,492,6.0
+Ralph,495,15.0
+Ralph,497,9.0
+Ralph,510,1.0
+Ralph,511,5.0
+Ralph,515,4.0
+Ralph,517,1.0
+Ralph,523,26.0
+Ralph,524,14.0
+Ralph,528,17.0
+Ralph,532,11.0
+Ralph,533,6.0
+Ralph,536,9.0
+Ralph,537,1.0
+Ralph,541,15.0
+Ralph,542,4.0
+Ralph,548,17.0
+Ralph,549,6.0
+Ralph,552,10.0
+Ralph,556,5.0
+Ralph,565,6.0
+Rev. Lovejoy,8,77.0
+Rev. Lovejoy,10,11.0
+Rev. Lovejoy,12,83.0
+Rev. Lovejoy,19,30.0
+Rev. Lovejoy,26,114.0
+Rev. Lovejoy,27,18.0
+Rev. Lovejoy,33,387.0
+Rev. Lovejoy,39,6.0
+Rev. Lovejoy,41,81.0
+Rev. Lovejoy,49,13.0
+Rev. Lovejoy,51,50.0
+Rev. Lovejoy,56,20.0
+Rev. Lovejoy,62,209.0
+Rev. Lovejoy,68,17.0
+Rev. Lovejoy,70,11.0
+Rev. Lovejoy,75,37.0
+Rev. Lovejoy,79,34.0
+Rev. Lovejoy,80,2.0
+Rev. Lovejoy,81,18.0
+Rev. Lovejoy,82,17.0
+Rev. Lovejoy,88,52.0
+Rev. Lovejoy,91,12.0
+Rev. Lovejoy,97,65.0
+Rev. Lovejoy,102,65.0
+Rev. Lovejoy,103,27.0
+Rev. Lovejoy,106,13.0
+Rev. Lovejoy,110,180.0
+Rev. Lovejoy,117,22.0
+Rev. Lovejoy,122,41.0
+Rev. Lovejoy,123,33.0
+Rev. Lovejoy,125,30.0
+Rev. Lovejoy,126,26.0
+Rev. Lovejoy,131,30.0
+Rev. Lovejoy,132,105.0
+Rev. Lovejoy,134,24.0
+Rev. Lovejoy,136,21.0
+Rev. Lovejoy,140,1.0
+Rev. Lovejoy,144,25.0
+Rev. Lovejoy,147,54.0
+Rev. Lovejoy,149,59.0
+Rev. Lovejoy,150,46.0
+Rev. Lovejoy,155,3.0
+Rev. Lovejoy,158,61.0
+Rev. Lovejoy,159,99.0
+Rev. Lovejoy,161,51.0
+Rev. Lovejoy,162,33.0
+Rev. Lovejoy,163,34.0
+Rev. Lovejoy,169,62.0
+Rev. Lovejoy,170,64.0
+Rev. Lovejoy,173,45.0
+Rev. Lovejoy,175,434.0
+Rev. Lovejoy,176,36.0
+Rev. Lovejoy,182,37.0
+Rev. Lovejoy,185,32.0
+Rev. Lovejoy,186,64.0
+Rev. Lovejoy,191,118.0
+Rev. Lovejoy,201,11.0
+Rev. Lovejoy,206,5.0
+Rev. Lovejoy,210,29.0
+Rev. Lovejoy,211,14.0
+Rev. Lovejoy,213,40.0
+Rev. Lovejoy,214,10.0
+Rev. Lovejoy,215,5.0
+Rev. Lovejoy,218,20.0
+Rev. Lovejoy,221,139.0
+Rev. Lovejoy,225,20.0
+Rev. Lovejoy,228,6.0
+Rev. Lovejoy,230,45.0
+Rev. Lovejoy,234,26.0
+Rev. Lovejoy,237,64.0
+Rev. Lovejoy,240,115.0
+Rev. Lovejoy,241,97.0
+Rev. Lovejoy,247,18.0
+Rev. Lovejoy,251,29.0
+Rev. Lovejoy,254,12.0
+Rev. Lovejoy,267,34.0
+Rev. Lovejoy,269,61.0
+Rev. Lovejoy,275,174.0
+Rev. Lovejoy,278,1.0
+Rev. Lovejoy,283,17.0
+Rev. Lovejoy,286,28.0
+Rev. Lovejoy,290,22.0
+Rev. Lovejoy,297,3.0
+Rev. Lovejoy,298,8.0
+Rev. Lovejoy,300,10.0
+Rev. Lovejoy,301,137.0
+Rev. Lovejoy,309,2.0
+Rev. Lovejoy,320,13.0
+Rev. Lovejoy,323,4.0
+Rev. Lovejoy,324,18.0
+Rev. Lovejoy,328,25.0
+Rev. Lovejoy,330,32.0
+Rev. Lovejoy,334,41.0
+Rev. Lovejoy,343,22.0
+Rev. Lovejoy,345,95.0
+Rev. Lovejoy,356,125.0
+Rev. Lovejoy,359,20.0
+Rev. Lovejoy,361,12.0
+Rev. Lovejoy,365,15.0
+Rev. Lovejoy,366,11.0
+Rev. Lovejoy,370,100.0
+Rev. Lovejoy,374,80.0
+Rev. Lovejoy,377,50.0
+Rev. Lovejoy,380,43.0
+Rev. Lovejoy,395,7.0
+Rev. Lovejoy,396,102.0
+Rev. Lovejoy,402,12.0
+Rev. Lovejoy,405,7.0
+Rev. Lovejoy,406,96.0
+Rev. Lovejoy,435,239.0
+Rev. Lovejoy,437,8.0
+Rev. Lovejoy,452,28.0
+Rev. Lovejoy,457,55.0
+Rev. Lovejoy,462,191.0
+Rev. Lovejoy,468,3.0
+Rev. Lovejoy,485,2.0
+Rev. Lovejoy,491,26.0
+Rev. Lovejoy,497,46.0
+Rev. Lovejoy,500,8.0
+Rev. Lovejoy,507,37.0
+Rev. Lovejoy,512,8.0
+Rev. Lovejoy,513,29.0
+Rev. Lovejoy,514,42.0
+Rev. Lovejoy,525,12.0
+Rev. Lovejoy,526,213.0
+Rev. Lovejoy,530,37.0
+Rev. Lovejoy,533,93.0
+Rev. Lovejoy,538,130.0
+Rev. Lovejoy,539,46.0
+Rev. Lovejoy,542,62.0
+Rev. Lovejoy,543,59.0
+Rev. Lovejoy,548,48.0
+Rev. Lovejoy,551,12.0
+Rev. Lovejoy,554,13.0
+Rev. Lovejoy,560,18.0
+Rev. Lovejoy,568,109.0
+Selma,1,36.0
+Selma,9,27.0
+Selma,12,21.0
+Selma,15,8.0
+Selma,18,8.0
+Selma,20,54.0
+Selma,25,27.0
+Selma,27,280.0
+Selma,34,25.0
+Selma,44,66.0
+Selma,45,29.0
+Selma,46,2.0
+Selma,47,64.0
+Selma,48,21.0
+Selma,50,53.0
+Selma,53,4.0
+Selma,56,411.0
+Selma,57,25.0
+Selma,69,29.0
+Selma,70,8.0
+Selma,71,1.0
+Selma,72,360.0
+Selma,74,4.0
+Selma,75,22.0
+Selma,80,2.0
+Selma,83,9.0
+Selma,88,31.0
+Selma,92,8.0
+Selma,93,4.0
+Selma,98,1.0
+Selma,102,15.0
+Selma,106,3.0
+Selma,114,19.0
+Selma,116,16.0
+Selma,117,11.0
+Selma,120,151.0
+Selma,121,18.0
+Selma,132,2.0
+Selma,134,42.0
+Selma,136,29.0
+Selma,142,30.0
+Selma,143,12.0
+Selma,147,550.0
+Selma,148,37.0
+Selma,151,34.0
+Selma,158,1.0
+Selma,181,3.0
+Selma,182,60.0
+Selma,183,20.0
+Selma,185,2.0
+Selma,186,6.0
+Selma,223,9.0
+Selma,224,7.0
+Selma,247,50.0
+Selma,255,5.0
+Selma,270,3.0
+Selma,279,40.0
+Selma,282,6.0
+Selma,307,5.0
+Selma,313,5.0
+Selma,318,17.0
+Selma,319,7.0
+Selma,320,3.0
+Selma,327,96.0
+Selma,330,30.0
+Selma,333,48.0
+Selma,336,7.0
+Selma,344,4.0
+Selma,345,53.0
+Selma,347,366.0
+Selma,360,10.0
+Selma,373,115.0
+Selma,374,51.0
+Selma,376,68.0
+Selma,387,8.0
+Selma,388,20.0
+Selma,393,295.0
+Selma,400,12.0
+Selma,407,4.0
+Selma,409,46.0
+Selma,416,1.0
+Selma,421,22.0
+Selma,425,27.0
+Selma,430,9.0
+Selma,435,46.0
+Selma,448,20.0
+Selma,455,21.0
+Selma,462,28.0
+Selma,468,6.0
+Selma,469,6.0
+Selma,472,22.0
+Selma,473,18.0
+Selma,477,38.0
+Selma,483,336.0
+Selma,484,29.0
+Selma,495,7.0
+Selma,497,41.0
+Selma,510,32.0
+Selma,519,28.0
+Selma,528,11.0
+Selma,530,54.0
+Selma,531,30.0
+Selma,532,13.0
+Selma,547,16.0
+Selma,554,19.0
+Selma,557,88.0
+Selma,561,8.0
+Sideshow Bob,12,581.0
+Sideshow Bob,56,970.0
+Sideshow Bob,83,292.0
+Sideshow Bob,106,5.0
+Sideshow Bob,108,468.0
+Sideshow Bob,137,564.0
+Sideshow Bob,169,988.0
+Sideshow Bob,261,549.0
+Sideshow Bob,297,556.0
+Sideshow Bob,364,477.0
+Sideshow Bob,408,484.0
+Sideshow Bob,435,51.0
+Sideshow Bob,463,4.0
+Sideshow Bob,500,6.0
+Sideshow Bob,543,436.0
+Sideshow Bob,553,5.0
+Sideshow Bob,559,26.0
+Sideshow Mel,48,12.0
+Sideshow Mel,56,6.0
+Sideshow Mel,70,9.0
+Sideshow Mel,74,14.0
+Sideshow Mel,81,55.0
+Sideshow Mel,93,41.0
+Sideshow Mel,102,6.0
+Sideshow Mel,103,11.0
+Sideshow Mel,125,19.0
+Sideshow Mel,128,15.0
+Sideshow Mel,129,107.0
+Sideshow Mel,137,4.0
+Sideshow Mel,143,56.0
+Sideshow Mel,149,20.0
+Sideshow Mel,155,3.0
+Sideshow Mel,158,8.0
+Sideshow Mel,167,16.0
+Sideshow Mel,170,13.0
+Sideshow Mel,172,9.0
+Sideshow Mel,175,9.0
+Sideshow Mel,182,14.0
+Sideshow Mel,183,17.0
+Sideshow Mel,186,7.0
+Sideshow Mel,187,39.0
+Sideshow Mel,188,4.0
+Sideshow Mel,191,7.0
+Sideshow Mel,193,15.0
+Sideshow Mel,200,7.0
+Sideshow Mel,203,11.0
+Sideshow Mel,208,6.0
+Sideshow Mel,213,3.0
+Sideshow Mel,214,7.0
+Sideshow Mel,215,3.0
+Sideshow Mel,217,11.0
+Sideshow Mel,227,643.0
+Sideshow Mel,228,8.0
+Sideshow Mel,237,18.0
+Sideshow Mel,249,4.0
+Sideshow Mel,250,10.0
+Sideshow Mel,252,7.0
+Sideshow Mel,253,6.0
+Sideshow Mel,255,6.0
+Sideshow Mel,256,10.0
+Sideshow Mel,260,24.0
+Sideshow Mel,261,5.0
+Sideshow Mel,262,5.0
+Sideshow Mel,263,9.0
+Sideshow Mel,267,7.0
+Sideshow Mel,268,7.0
+Sideshow Mel,269,8.0
+Sideshow Mel,275,7.0
+Sideshow Mel,277,6.0
+Sideshow Mel,281,25.0
+Sideshow Mel,283,4.0
+Sideshow Mel,286,8.0
+Sideshow Mel,287,6.0
+Sideshow Mel,291,6.0
+Sideshow Mel,292,6.0
+Sideshow Mel,295,26.0
+Sideshow Mel,301,16.0
+Sideshow Mel,305,10.0
+Sideshow Mel,307,7.0
+Sideshow Mel,310,22.0
+Sideshow Mel,312,24.0
+Sideshow Mel,313,13.0
+Sideshow Mel,314,14.0
+Sideshow Mel,315,93.0
+Sideshow Mel,317,15.0
+Sideshow Mel,319,88.0
+Sideshow Mel,320,12.0
+Sideshow Mel,321,43.0
+Sideshow Mel,322,8.0
+Sideshow Mel,329,13.0
+Sideshow Mel,330,3.0
+Sideshow Mel,332,18.0
+Sideshow Mel,334,18.0
+Sideshow Mel,337,13.0
+Sideshow Mel,341,14.0
+Sideshow Mel,343,16.0
+Sideshow Mel,345,16.0
+Sideshow Mel,353,11.0
+Sideshow Mel,354,41.0
+Sideshow Mel,355,9.0
+Sideshow Mel,360,4.0
+Sideshow Mel,362,9.0
+Sideshow Mel,365,13.0
+Sideshow Mel,366,11.0
+Sideshow Mel,371,8.0
+Sideshow Mel,372,10.0
+Sideshow Mel,374,31.0
+Sideshow Mel,375,6.0
+Sideshow Mel,376,21.0
+Sideshow Mel,377,22.0
+Sideshow Mel,378,5.0
+Sideshow Mel,380,5.0
+Sideshow Mel,382,9.0
+Sideshow Mel,383,12.0
+Sideshow Mel,387,6.0
+Sideshow Mel,388,3.0
+Sideshow Mel,389,8.0
+Sideshow Mel,390,5.0
+Sideshow Mel,393,10.0
+Sideshow Mel,394,9.0
+Sideshow Mel,395,16.0
+Sideshow Mel,397,5.0
+Sideshow Mel,399,8.0
+Sideshow Mel,400,7.0
+Sideshow Mel,403,11.0
+Sideshow Mel,405,5.0
+Sideshow Mel,407,5.0
+Sideshow Mel,410,4.0
+Sideshow Mel,418,12.0
+Sideshow Mel,420,515.0
+Sideshow Mel,434,8.0
+Sideshow Mel,440,43.0
+Sideshow Mel,444,16.0
+Sideshow Mel,451,2.0
+Sideshow Mel,464,13.0
+Sideshow Mel,468,8.0
+Sideshow Mel,481,6.0
+Sideshow Mel,483,2.0
+Sideshow Mel,484,24.0
+Sideshow Mel,487,12.0
+Sideshow Mel,488,10.0
+Sideshow Mel,491,19.0
+Sideshow Mel,493,39.0
+Sideshow Mel,494,27.0
+Sideshow Mel,496,13.0
+Sideshow Mel,500,39.0
+Sideshow Mel,501,10.0
+Sideshow Mel,502,8.0
+Sideshow Mel,507,8.0
+Sideshow Mel,513,7.0
+Sideshow Mel,515,6.0
+Sideshow Mel,516,9.0
+Sideshow Mel,522,15.0
+Sideshow Mel,523,21.0
+Sideshow Mel,524,6.0
+Sideshow Mel,526,23.0
+Sideshow Mel,527,6.0
+Sideshow Mel,528,30.0
+Sideshow Mel,539,6.0
+Sideshow Mel,543,2.0
+Sideshow Mel,545,6.0
+Sideshow Mel,548,1.0
+Sideshow Mel,551,11.0
+Sideshow Mel,552,12.0
+Sideshow Mel,553,76.0
+Sideshow Mel,565,38.0
+Sideshow Mel,568,22.0
+Smithers,1,18.0
+Smithers,3,106.0
+Smithers,4,64.0
+Smithers,8,13.0
+Smithers,10,34.0
+Smithers,14,2.0
+Smithers,15,275.0
+Smithers,17,35.0
+Smithers,18,41.0
+Smithers,20,16.0
+Smithers,23,75.0
+Smithers,24,17.0
+Smithers,26,42.0
+Smithers,31,192.0
+Smithers,35,300.0
+Smithers,36,62.0
+Smithers,37,3.0
+Smithers,38,25.0
+Smithers,39,11.0
+Smithers,40,125.0
+Smithers,42,133.0
+Smithers,43,14.0
+Smithers,46,223.0
+Smithers,47,96.0
+Smithers,52,208.0
+Smithers,54,49.0
+Smithers,59,63.0
+Smithers,64,7.0
+Smithers,66,217.0
+Smithers,70,23.0
+Smithers,71,21.0
+Smithers,76,45.0
+Smithers,81,3.0
+Smithers,84,57.0
+Smithers,85,233.0
+Smithers,86,22.0
+Smithers,87,7.0
+Smithers,88,31.0
+Smithers,90,89.0
+Smithers,91,122.0
+Smithers,95,100.0
+Smithers,96,29.0
+Smithers,99,50.0
+Smithers,102,60.0
+Smithers,103,31.0
+Smithers,106,31.0
+Smithers,108,49.0
+Smithers,109,34.0
+Smithers,112,6.0
+Smithers,114,2.0
+Smithers,116,8.0
+Smithers,121,63.0
+Smithers,122,61.0
+Smithers,123,50.0
+Smithers,128,224.0
+Smithers,129,308.0
+Smithers,133,9.0
+Smithers,135,39.0
+Smithers,136,68.0
+Smithers,138,60.0
+Smithers,140,83.0
+Smithers,142,127.0
+Smithers,145,721.0
+Smithers,148,19.0
+Smithers,149,44.0
+Smithers,150,56.0
+Smithers,152,16.0
+Smithers,155,44.0
+Smithers,157,115.0
+Smithers,158,10.0
+Smithers,162,24.0
+Smithers,163,68.0
+Smithers,165,336.0
+Smithers,166,6.0
+Smithers,168,17.0
+Smithers,170,11.0
+Smithers,174,159.0
+Smithers,176,29.0
+Smithers,177,11.0
+Smithers,184,15.0
+Smithers,186,33.0
+Smithers,191,73.0
+Smithers,196,7.0
+Smithers,197,26.0
+Smithers,198,105.0
+Smithers,199,6.0
+Smithers,201,7.0
+Smithers,206,2.0
+Smithers,208,29.0
+Smithers,209,33.0
+Smithers,213,15.0
+Smithers,222,13.0
+Smithers,223,5.0
+Smithers,224,37.0
+Smithers,228,4.0
+Smithers,232,12.0
+Smithers,235,4.0
+Smithers,238,42.0
+Smithers,250,8.0
+Smithers,253,82.0
+Smithers,254,14.0
+Smithers,256,3.0
+Smithers,260,20.0
+Smithers,261,5.0
+Smithers,262,6.0
+Smithers,270,2.0
+Smithers,273,48.0
+Smithers,274,56.0
+Smithers,278,4.0
+Smithers,285,120.0
+Smithers,291,13.0
+Smithers,296,11.0
+Smithers,299,3.0
+Smithers,306,65.0
+Smithers,308,36.0
+Smithers,309,6.0
+Smithers,315,13.0
+Smithers,317,32.0
+Smithers,318,8.0
+Smithers,324,14.0
+Smithers,325,18.0
+Smithers,329,9.0
+Smithers,332,7.0
+Smithers,335,97.0
+Smithers,340,19.0
+Smithers,341,56.0
+Smithers,347,6.0
+Smithers,349,4.0
+Smithers,350,25.0
+Smithers,357,20.0
+Smithers,360,4.0
+Smithers,362,17.0
+Smithers,363,13.0
+Smithers,364,9.0
+Smithers,367,18.0
+Smithers,370,5.0
+Smithers,373,50.0
+Smithers,374,12.0
+Smithers,387,25.0
+Smithers,390,8.0
+Smithers,391,82.0
+Smithers,396,3.0
+Smithers,397,8.0
+Smithers,401,22.0
+Smithers,402,19.0
+Smithers,423,6.0
+Smithers,428,74.0
+Smithers,430,10.0
+Smithers,432,11.0
+Smithers,433,30.0
+Smithers,451,34.0
+Smithers,452,15.0
+Smithers,454,9.0
+Smithers,458,208.0
+Smithers,461,38.0
+Smithers,467,5.0
+Smithers,468,7.0
+Smithers,470,196.0
+Smithers,475,303.0
+Smithers,480,5.0
+Smithers,490,15.0
+Smithers,493,27.0
+Smithers,498,7.0
+Smithers,500,9.0
+Smithers,501,9.0
+Smithers,502,7.0
+Smithers,503,90.0
+Smithers,506,35.0
+Smithers,516,54.0
+Smithers,518,3.0
+Smithers,522,28.0
+Smithers,523,5.0
+Smithers,524,143.0
+Smithers,531,13.0
+Smithers,533,41.0
+Smithers,536,13.0
+Smithers,541,50.0
+Smithers,555,24.0
+Smithers,556,14.0
+Smithers,557,5.0
+Smithers,561,2.0
+Smithers,563,12.0
+Smithers,564,136.0
+Smithers,566,26.0
+Smithers,567,153.0
