@@ -1,0 +1,8589 @@
+season,number_in_season,episode_id,character,sentence_count
+1,1,1,Barney,9
+1,1,1,Bart,49
+1,1,1,Flanders,10
+1,1,1,Grampa,2
+1,1,1,Homer,113
+1,1,1,Lisa,21
+1,1,1,Marge,42
+1,1,1,Milhouse,2
+1,1,1,Moe,2
+1,1,1,Mr. Burns,3
+1,1,1,Patty,16
+1,1,1,Selma,8
+1,1,1,Smithers,2
+1,2,2,Bart,81
+1,2,2,Edna Krabappel,8
+1,2,2,Homer,55
+1,2,2,Lisa,10
+1,2,2,Marge,23
+1,2,2,Martin Prince,10
+1,2,2,Milhouse,2
+1,3,3,Bart,32
+1,3,3,Chief Wiggum,1
+1,3,3,Edna Krabappel,14
+1,3,3,Homer,58
+1,3,3,Lisa,11
+1,3,3,Marge,13
+1,3,3,Moe,8
+1,3,3,Mr. Burns,13
+1,3,3,Otto,5
+1,3,3,Smithers,8
+1,4,4,Barney,2
+1,4,4,Bart,42
+1,4,4,Homer,80
+1,4,4,Lisa,35
+1,4,4,Lou,2
+1,4,4,Marge,40
+1,4,4,Moe,4
+1,4,4,Mr. Burns,18
+1,4,4,Smithers,9
+1,5,5,Bart,101
+1,5,5,Grampa,19
+1,5,5,Homer,32
+1,5,5,Lisa,28
+1,5,5,Marge,16
+1,5,5,Milhouse,5
+1,5,5,Nelson,17
+1,5,5,Otto,4
+1,6,6,Bart,44
+1,6,6,Homer,59
+1,6,6,Lisa,44
+1,6,6,Marge,28
+1,6,6,Moe,4
+1,6,6,Ralph,2
+1,7,7,Bart,37
+1,7,7,Flanders,5
+1,7,7,Homer,92
+1,7,7,Lisa,16
+1,7,7,Marge,24
+1,8,8,Barney,3
+1,8,8,Bart,66
+1,8,8,Chief Wiggum,1
+1,8,8,Edna Krabappel,1
+1,8,8,Grampa,1
+1,8,8,Homer,48
+1,8,8,Jimbo,21
+1,8,8,Krusty,6
+1,8,8,Lisa,8
+1,8,8,Marge,26
+1,8,8,Milhouse,1
+1,8,8,Moe,3
+1,8,8,Mr. Burns,5
+1,8,8,Otto,1
+1,8,8,Rev. Lovejoy,4
+1,8,8,Smithers,2
+1,9,9,Bart,33
+1,9,9,Homer,52
+1,9,9,Lenny,3
+1,9,9,Lisa,25
+1,9,9,Marge,94
+1,9,9,Patty,9
+1,9,9,Selma,6
+1,10,10,Barney,8
+1,10,10,Bart,40
+1,10,10,Carl,4
+1,10,10,Homer,70
+1,10,10,Lenny,2
+1,10,10,Lisa,9
+1,10,10,Marge,33
+1,10,10,Martin Prince,5
+1,10,10,Milhouse,9
+1,10,10,Moe,2
+1,10,10,Mr. Burns,13
+1,10,10,Rev. Lovejoy,1
+1,10,10,Smithers,5
+1,11,11,Agnes Skinner,7
+1,11,11,Bart,50
+1,11,11,Homer,65
+1,11,11,Lenny,2
+1,11,11,Lisa,15
+1,11,11,Marge,39
+1,11,11,Milhouse,4
+1,12,12,Apu,6
+1,12,12,Bart,45
+1,12,12,Brockman,8
+1,12,12,Chief Wiggum,8
+1,12,12,Homer,27
+1,12,12,Krusty,37
+1,12,12,Lisa,23
+1,12,12,Lou,1
+1,12,12,Marge,11
+1,12,12,Patty,7
+1,12,12,Rev. Lovejoy,2
+1,12,12,Selma,4
+1,12,12,Sideshow Bob,30
+1,13,13,Barney,1
+1,13,13,Bart,35
+1,13,13,Homer,66
+1,13,13,Lisa,26
+1,13,13,Marge,46
+1,13,13,Moe,16
+2,1,14,Bart,100
+2,1,14,Edna Krabappel,36
+2,1,14,Homer,22
+2,1,14,Lisa,6
+2,1,14,Marge,15
+2,1,14,Martin Prince,24
+2,1,14,Mayor Quimby,1
+2,1,14,Milhouse,1
+2,1,14,Mr. Burns,1
+2,1,14,Otto,7
+2,1,14,Smithers,1
+2,2,15,Barney,1
+2,2,15,Bart,9
+2,2,15,Carl,3
+2,2,15,Homer,92
+2,2,15,Lenny,5
+2,2,15,Lisa,3
+2,2,15,Marge,19
+2,2,15,Milhouse,1
+2,2,15,Mr. Burns,29
+2,2,15,Patty,3
+2,2,15,Selma,3
+2,2,15,Smithers,22
+2,3,16,Bart,40
+2,3,16,Homer,64
+2,3,16,Lisa,40
+2,3,16,Marge,33
+2,4,17,Barney,2
+2,4,17,Bart,11
+2,4,17,Grampa,4
+2,4,17,Homer,45
+2,4,17,Lisa,10
+2,4,17,Marge,20
+2,4,17,Moe,2
+2,4,17,Mr. Burns,78
+2,4,17,Smithers,7
+2,5,18,Barney,4
+2,5,18,Bart,19
+2,5,18,Homer,83
+2,5,18,Lisa,13
+2,5,18,Marge,21
+2,5,18,Milhouse,4
+2,5,18,Moe,5
+2,5,18,Mr. Burns,18
+2,5,18,Otto,1
+2,5,18,Patty,3
+2,5,18,Selma,2
+2,5,18,Smithers,8
+2,6,19,Bart,45
+2,6,19,Flanders,74
+2,6,19,Homer,90
+2,6,19,Lisa,33
+2,6,19,Marge,25
+2,6,19,Rev. Lovejoy,3
+2,7,20,Bart,66
+2,7,20,Brockman,6
+2,7,20,Grampa,10
+2,7,20,Homer,38
+2,7,20,Lisa,31
+2,7,20,Lou,2
+2,7,20,Marge,35
+2,7,20,Mr. Burns,3
+2,7,20,Patty,9
+2,7,20,Selma,9
+2,7,20,Smithers,2
+2,8,21,Barney,2
+2,8,21,Bart,48
+2,8,21,Dr. Hibbert,11
+2,8,21,Flanders,4
+2,8,21,Homer,54
+2,8,21,Lisa,13
+2,8,21,Marge,19
+2,8,21,Milhouse,7
+2,8,21,Moe,1
+2,8,21,Nelson,2
+2,8,21,Otto,6
+2,9,22,Bart,16
+2,9,22,Brockman,18
+2,9,22,Flanders,8
+2,9,22,Homer,36
+2,9,22,Krusty,13
+2,9,22,Lisa,11
+2,9,22,Marge,81
+2,9,22,Milhouse,1
+2,9,22,Nelson,1
+2,10,23,Bart,23
+2,10,23,Dr. Hibbert,3
+2,10,23,Homer,49
+2,10,23,Lenny,1
+2,10,23,Lisa,4
+2,10,23,Marge,41
+2,10,23,Moe,3
+2,10,23,Mr. Burns,42
+2,10,23,Smithers,9
+2,11,24,Barney,10
+2,11,24,Bart,18
+2,11,24,Chief Wiggum,1
+2,11,24,Dr. Hibbert,10
+2,11,24,Flanders,6
+2,11,24,Grampa,10
+2,11,24,Homer,128
+2,11,24,Lisa,23
+2,11,24,Lou,2
+2,11,24,Marge,26
+2,11,24,Moe,4
+2,11,24,Mr. Burns,3
+2,11,24,Smithers,2
+2,12,25,Barney,11
+2,12,25,Bart,10
+2,12,25,Dr. Hibbert,1
+2,12,25,Grampa,8
+2,12,25,Homer,112
+2,12,25,Lisa,8
+2,12,25,Marge,66
+2,12,25,Patty,5
+2,12,25,Selma,3
+2,13,26,Apu,7
+2,13,26,Barney,5
+2,13,26,Bart,26
+2,13,26,Carl,2
+2,13,26,Comic Book Guy,1
+2,13,26,Flanders,5
+2,13,26,Homer,90
+2,13,26,Lenny,2
+2,13,26,Lisa,23
+2,13,26,Lou,2
+2,13,26,Marge,24
+2,13,26,Martin Prince,2
+2,13,26,Milhouse,2
+2,13,26,Moe,4
+2,13,26,Mr. Burns,8
+2,13,26,Rev. Lovejoy,5
+2,13,26,Smithers,5
+2,14,27,Apu,2
+2,14,27,Barney,9
+2,14,27,Bart,20
+2,14,27,Edna Krabappel,1
+2,14,27,Groundskeeper Willie,3
+2,14,27,Homer,34
+2,14,27,Lisa,2
+2,14,27,Marge,21
+2,14,27,Martin Prince,3
+2,14,27,Milhouse,1
+2,14,27,Moe,7
+2,14,27,Patty,48
+2,14,27,Rev. Lovejoy,1
+2,14,27,Selma,31
+2,15,28,Bart,26
+2,15,28,Dr. Hibbert,2
+2,15,28,Grampa,24
+2,15,28,Homer,99
+2,15,28,Lisa,27
+2,15,28,Marge,20
+2,16,29,Apu,1
+2,16,29,Bart,39
+2,16,29,Brockman,1
+2,16,29,Dr. Hibbert,7
+2,16,29,Flanders,7
+2,16,29,Homer,47
+2,16,29,Krusty,2
+2,16,29,Lenny,2
+2,16,29,Lisa,26
+2,16,29,Marge,38
+2,16,29,Martin Prince,1
+2,16,29,Otto,2
+2,17,30,Bart,15
+2,17,30,Grampa,114
+2,17,30,Homer,43
+2,17,30,Lisa,14
+2,17,30,Marge,9
+2,17,30,Moe,1
+2,17,30,Mr. Burns,5
+2,17,30,Otto,3
+2,17,30,Professor Frink,4
+2,18,31,Apu,3
+2,18,31,Bart,18
+2,18,31,Brockman,1
+2,18,31,Carl,1
+2,18,31,Dr. Hibbert,1
+2,18,31,Homer,51
+2,18,31,Krusty,7
+2,18,31,Lisa,19
+2,18,31,Marge,47
+2,18,31,Mr. Burns,33
+2,18,31,Smithers,13
+2,19,32,Bart,28
+2,19,32,Edna Krabappel,15
+2,19,32,Homer,47
+2,19,32,Lisa,73
+2,19,32,Marge,20
+2,19,32,Martin Prince,5
+2,19,32,Milhouse,3
+2,19,32,Nelson,1
+2,19,32,Ralph,3
+2,20,33,Barney,5
+2,20,33,Bart,32
+2,20,33,Dr. Hibbert,4
+2,20,33,Flanders,8
+2,20,33,Grampa,21
+2,20,33,Homer,92
+2,20,33,Lisa,16
+2,20,33,Marge,47
+2,20,33,Milhouse,1
+2,20,33,Moe,1
+2,20,33,Nelson,4
+2,20,33,Otto,2
+2,20,33,Rev. Lovejoy,23
+2,21,34,Apu,2
+2,21,34,Barney,1
+2,21,34,Bart,122
+2,21,34,Homer,36
+2,21,34,Jimbo,1
+2,21,34,Lisa,12
+2,21,34,Lou,2
+2,21,34,Marge,18
+2,21,34,Martin Prince,20
+2,21,34,Milhouse,26
+2,21,34,Nelson,2
+2,21,34,Otto,2
+2,21,34,Patty,3
+2,21,34,Selma,3
+2,22,35,Barney,2
+2,22,35,Bart,29
+2,22,35,Carl,3
+2,22,35,Dr. Hibbert,5
+2,22,35,Homer,77
+2,22,35,Lenny,1
+2,22,35,Lisa,15
+2,22,35,Marge,31
+2,22,35,Mayor Quimby,3
+2,22,35,Moe,5
+2,22,35,Mr. Burns,50
+2,22,35,Otto,3
+2,22,35,Smithers,35
+3,1,36,Apu,2
+3,1,36,Bart,61
+3,1,36,Brockman,1
+3,1,36,Carl,1
+3,1,36,Chief Wiggum,2
+3,1,36,Grampa,1
+3,1,36,Homer,66
+3,1,36,Krusty,3
+3,1,36,Lenny,1
+3,1,36,Lisa,17
+3,1,36,Marge,15
+3,1,36,Mayor Quimby,2
+3,1,36,Milhouse,3
+3,1,36,Moe,1
+3,1,36,Mr. Burns,7
+3,1,36,Otto,1
+3,1,36,Smithers,5
+3,2,37,Barney,1
+3,2,37,Bart,22
+3,2,37,Homer,54
+3,2,37,Lenny,2
+3,2,37,Lisa,45
+3,2,37,Marge,21
+3,2,37,Moe,1
+3,2,37,Mr. Burns,2
+3,2,37,Nelson,1
+3,2,37,Smithers,1
+3,3,38,Barney,4
+3,3,38,Bart,24
+3,3,38,Flanders,58
+3,3,38,Homer,83
+3,3,38,Jimbo,3
+3,3,38,Lisa,15
+3,3,38,Marge,13
+3,3,38,Moe,3
+3,3,38,Mr. Burns,13
+3,3,38,Smithers,4
+3,4,39,Bart,60
+3,4,39,Brockman,2
+3,4,39,Chief Wiggum,15
+3,4,39,Edna Krabappel,5
+3,4,39,Fat Tony,40
+3,4,39,Groundskeeper Willie,2
+3,4,39,Homer,21
+3,4,39,Lisa,5
+3,4,39,Lou,5
+3,4,39,Marge,10
+3,4,39,Milhouse,3
+3,4,39,Mr. Burns,1
+3,4,39,Nelson,1
+3,4,39,Ralph,1
+3,4,39,Rev. Lovejoy,1
+3,4,39,Smithers,1
+3,5,40,Apu,2
+3,5,40,Barney,8
+3,5,40,Bart,31
+3,5,40,Brockman,8
+3,5,40,Carl,2
+3,5,40,Chief Wiggum,2
+3,5,40,Grampa,1
+3,5,40,Homer,44
+3,5,40,Lenny,2
+3,5,40,Lisa,13
+3,5,40,Marge,16
+3,5,40,Martin Prince,1
+3,5,40,Milhouse,11
+3,5,40,Moe,4
+3,5,40,Mr. Burns,31
+3,5,40,Otto,6
+3,5,40,Professor Frink,1
+3,5,40,Smithers,12
+3,6,41,Apu,3
+3,6,41,Barney,1
+3,6,41,Bart,52
+3,6,41,Chief Wiggum,1
+3,6,41,Homer,12
+3,6,41,Krusty,74
+3,6,41,Lisa,24
+3,6,41,Marge,12
+3,6,41,Milhouse,5
+3,6,41,Moe,2
+3,6,41,Rev. Lovejoy,7
+3,7,42,Apu,1
+3,7,42,Barney,1
+3,7,42,Bart,35
+3,7,42,Brockman,1
+3,7,42,Edna Krabappel,2
+3,7,42,Flanders,5
+3,7,42,Groundskeeper Willie,1
+3,7,42,Homer,53
+3,7,42,Krusty,2
+3,7,42,Lenny,1
+3,7,42,Lisa,23
+3,7,42,Lou,1
+3,7,42,Marge,20
+3,7,42,Mayor Quimby,2
+3,7,42,Moe,3
+3,7,42,Mr. Burns,32
+3,7,42,Otto,3
+3,7,42,Smithers,17
+3,8,43,Apu,22
+3,8,43,Bart,18
+3,8,43,Flanders,1
+3,8,43,Grampa,6
+3,8,43,Groundskeeper Willie,2
+3,8,43,Homer,112
+3,8,43,Lisa,31
+3,8,43,Marge,37
+3,8,43,Moe,4
+3,8,43,Mr. Burns,8
+3,8,43,Nelson,2
+3,8,43,Ralph,1
+3,8,43,Smithers,3
+3,9,44,Barney,2
+3,9,44,Bart,38
+3,9,44,Dr. Hibbert,5
+3,9,44,Flanders,2
+3,9,44,Homer,84
+3,9,44,Lisa,6
+3,9,44,Marge,24
+3,9,44,Martin Prince,19
+3,9,44,Mayor Quimby,1
+3,9,44,Milhouse,2
+3,9,44,Nelson,9
+3,9,44,Patty,6
+3,9,44,Selma,6
+3,10,45,Barney,5
+3,10,45,Bart,18
+3,10,45,Brockman,7
+3,10,45,Edna Krabappel,8
+3,10,45,Homer,64
+3,10,45,Krusty,2
+3,10,45,Lisa,7
+3,10,45,Marge,8
+3,10,45,Martin Prince,1
+3,10,45,Mayor Quimby,2
+3,10,45,Moe,71
+3,10,45,Nelson,1
+3,10,45,Patty,2
+3,10,45,Professor Frink,1
+3,10,45,Selma,2
+3,11,46,Barney,1
+3,11,46,Bart,15
+3,11,46,Brockman,2
+3,11,46,Carl,7
+3,11,46,Grampa,1
+3,11,46,Homer,69
+3,11,46,Lenny,5
+3,11,46,Lisa,5
+3,11,46,Marge,18
+3,11,46,Mayor Quimby,1
+3,11,46,Moe,13
+3,11,46,Mr. Burns,47
+3,11,46,Patty,1
+3,11,46,Selma,1
+3,11,46,Smithers,22
+3,12,47,Bart,11
+3,12,47,Dr. Hibbert,5
+3,12,47,Grampa,2
+3,12,47,Homer,112
+3,12,47,Lisa,11
+3,12,47,Marge,67
+3,12,47,Mr. Burns,8
+3,12,47,Patty,11
+3,12,47,Selma,7
+3,12,47,Smithers,9
+3,13,48,Apu,1
+3,13,48,Bart,57
+3,13,48,Brockman,9
+3,13,48,Chief Wiggum,5
+3,13,48,Dr. Hibbert,1
+3,13,48,Flanders,6
+3,13,48,Groundskeeper Willie,9
+3,13,48,Homer,39
+3,13,48,Krusty,7
+3,13,48,Lisa,13
+3,13,48,Lou,6
+3,13,48,Marge,20
+3,13,48,Martin Prince,2
+3,13,48,Mayor Quimby,2
+3,13,48,Milhouse,1
+3,13,48,Nelson,1
+3,13,48,Patty,2
+3,13,48,Professor Frink,1
+3,13,48,Selma,1
+3,13,48,Sideshow Mel,1
+3,14,49,Barney,7
+3,14,49,Bart,17
+3,14,49,Chief Wiggum,1
+3,14,49,Homer,96
+3,14,49,Krusty,3
+3,14,49,Lisa,61
+3,14,49,Marge,31
+3,14,49,Moe,17
+3,14,49,Professor Frink,1
+3,14,49,Ralph,1
+3,14,49,Rev. Lovejoy,1
+3,15,50,Barney,8
+3,15,50,Bart,12
+3,15,50,Brockman,2
+3,15,50,Chief Wiggum,18
+3,15,50,Homer,61
+3,15,50,Krusty,1
+3,15,50,Lisa,14
+3,15,50,Lou,1
+3,15,50,Marge,42
+3,15,50,Mayor Quimby,5
+3,15,50,Nelson,1
+3,15,50,Otto,1
+3,15,50,Patty,8
+3,15,50,Selma,7
+3,16,51,Apu,2
+3,16,51,Bart,51
+3,16,51,Edna Krabappel,35
+3,16,51,Flanders,30
+3,16,51,Groundskeeper Willie,1
+3,16,51,Homer,49
+3,16,51,Lisa,16
+3,16,51,Marge,29
+3,16,51,Milhouse,3
+3,16,51,Nelson,3
+3,16,51,Rev. Lovejoy,5
+3,17,52,Apu,1
+3,17,52,Barney,4
+3,17,52,Bart,11
+3,17,52,Carl,10
+3,17,52,Chief Wiggum,6
+3,17,52,Dr. Hibbert,4
+3,17,52,Homer,47
+3,17,52,Lenny,12
+3,17,52,Lisa,7
+3,17,52,Lou,3
+3,17,52,Marge,12
+3,17,52,Moe,4
+3,17,52,Mr. Burns,63
+3,17,52,Ralph,3
+3,17,52,Smithers,23
+3,18,53,Apu,1
+3,18,53,Bart,50
+3,18,53,Chief Wiggum,6
+3,18,53,Edna Krabappel,7
+3,18,53,Groundskeeper Willie,2
+3,18,53,Homer,9
+3,18,53,Lisa,30
+3,18,53,Lou,9
+3,18,53,Marge,22
+3,18,53,Martin Prince,3
+3,18,53,Mayor Quimby,1
+3,18,53,Milhouse,7
+3,18,53,Patty,2
+3,18,53,Ralph,2
+3,18,53,Selma,1
+3,19,54,Apu,3
+3,19,54,Barney,4
+3,19,54,Bart,22
+3,19,54,Brockman,15
+3,19,54,Chief Wiggum,1
+3,19,54,Flanders,1
+3,19,54,Grampa,5
+3,19,54,Homer,60
+3,19,54,Krusty,2
+3,19,54,Lenny,2
+3,19,54,Lisa,11
+3,19,54,Lou,1
+3,19,54,Marge,32
+3,19,54,Moe,2
+3,19,54,Mr. Burns,18
+3,19,54,Smithers,5
+3,20,55,Barney,1
+3,20,55,Bart,8
+3,20,55,Carl,1
+3,20,55,Homer,101
+3,20,55,Krusty,2
+3,20,55,Lenny,2
+3,20,55,Lisa,7
+3,20,55,Marge,39
+3,20,55,Moe,5
+3,20,55,Patty,1
+3,21,56,Barney,1
+3,21,56,Bart,26
+3,21,56,Chief Wiggum,6
+3,21,56,Homer,16
+3,21,56,Krusty,14
+3,21,56,Lisa,7
+3,21,56,Marge,17
+3,21,56,Patty,10
+3,21,56,Rev. Lovejoy,1
+3,21,56,Selma,45
+3,21,56,Sideshow Bob,77
+3,21,56,Sideshow Mel,1
+3,22,57,Apu,2
+3,22,57,Bart,36
+3,22,57,Brockman,2
+3,22,57,Chief Wiggum,1
+3,22,57,Comic Book Guy,1
+3,22,57,Homer,28
+3,22,57,Lisa,7
+3,22,57,Lou,1
+3,22,57,Marge,22
+3,22,57,Martin Prince,2
+3,22,57,Milhouse,4
+3,22,57,Nelson,2
+3,22,57,Otto,57
+3,22,57,Patty,10
+3,22,57,Ralph,1
+3,22,57,Selma,3
+3,23,58,Bart,50
+3,23,58,Brockman,2
+3,23,58,Edna Krabappel,11
+3,23,58,Homer,21
+3,23,58,Kirk,1
+3,23,58,Lisa,10
+3,23,58,Marge,15
+3,23,58,Martin Prince,5
+3,23,58,Milhouse,33
+3,23,58,Nelson,2
+3,23,58,Otto,2
+3,23,58,Ralph,1
+3,24,59,Barney,4
+3,24,59,Bart,10
+3,24,59,Brockman,1
+3,24,59,Carl,1
+3,24,59,Flanders,9
+3,24,59,Homer,56
+3,24,59,Lenny,2
+3,24,59,Lisa,15
+3,24,59,Marge,19
+3,24,59,Moe,2
+3,24,59,Mr. Burns,14
+3,24,59,Professor Frink,2
+3,24,59,Smithers,6
+4,1,60,Barney,2
+4,1,60,Bart,46
+4,1,60,Brockman,4
+4,1,60,Dr. Hibbert,1
+4,1,60,Edna Krabappel,7
+4,1,60,Groundskeeper Willie,3
+4,1,60,Homer,27
+4,1,60,Jimbo,5
+4,1,60,Krusty,20
+4,1,60,Lisa,30
+4,1,60,Marge,14
+4,1,60,Martin Prince,4
+4,1,60,Milhouse,4
+4,1,60,Otto,2
+4,1,60,Ralph,2
+4,2,61,Apu,5
+4,2,61,Bart,10
+4,2,61,Chief Wiggum,5
+4,2,61,Flanders,15
+4,2,61,Homer,45
+4,2,61,Lisa,10
+4,2,61,Marge,59
+4,2,61,Otto,4
+4,3,62,Apu,8
+4,3,62,Barney,2
+4,3,62,Bart,12
+4,3,62,Brockman,2
+4,3,62,Chief Wiggum,2
+4,3,62,Flanders,15
+4,3,62,Groundskeeper Willie,2
+4,3,62,Homer,90
+4,3,62,Krusty,5
+4,3,62,Lisa,8
+4,3,62,Marge,22
+4,3,62,Moe,2
+4,3,62,Rev. Lovejoy,20
+4,4,63,Barney,4
+4,4,63,Bart,22
+4,4,63,Brockman,7
+4,4,63,Chief Wiggum,3
+4,4,63,Dr. Hibbert,1
+4,4,63,Grampa,1
+4,4,63,Groundskeeper Willie,1
+4,4,63,Homer,44
+4,4,63,Krusty,14
+4,4,63,Lisa,42
+4,4,63,Marge,14
+4,4,63,Mayor Quimby,2
+4,4,63,Milhouse,2
+4,4,63,Moe,1
+4,4,63,Nelson,2
+4,4,63,Otto,2
+4,4,63,Ralph,1
+4,5,64,Barney,4
+4,5,64,Bart,28
+4,5,64,Brockman,1
+4,5,64,Carl,2
+4,5,64,Chief Wiggum,1
+4,5,64,Edna Krabappel,2
+4,5,64,Flanders,4
+4,5,64,Grampa,9
+4,5,64,Groundskeeper Willie,3
+4,5,64,Homer,42
+4,5,64,Krusty,2
+4,5,64,Lenny,3
+4,5,64,Lisa,12
+4,5,64,Marge,23
+4,5,64,Mayor Quimby,1
+4,5,64,Mr. Burns,17
+4,5,64,Otto,1
+4,5,64,Patty,1
+4,5,64,Smithers,1
+4,6,65,Bart,47
+4,6,65,Brockman,8
+4,6,65,Chief Wiggum,2
+4,6,65,Edna Krabappel,7
+4,6,65,Grampa,9
+4,6,65,Groundskeeper Willie,1
+4,6,65,Homer,67
+4,6,65,Lisa,11
+4,6,65,Marge,33
+4,6,65,Milhouse,2
+4,6,65,Nelson,2
+4,7,66,Bart,17
+4,7,66,Brockman,1
+4,7,66,Carl,2
+4,7,66,Chief Wiggum,1
+4,7,66,Edna Krabappel,12
+4,7,66,Flanders,2
+4,7,66,Grampa,11
+4,7,66,Groundskeeper Willie,3
+4,7,66,Homer,47
+4,7,66,Krusty,4
+4,7,66,Lenny,2
+4,7,66,Lisa,6
+4,7,66,Marge,43
+4,7,66,Mr. Burns,31
+4,7,66,Nelson,1
+4,7,66,Smithers,26
+4,8,67,Apu,2
+4,8,67,Barney,3
+4,8,67,Bart,48
+4,8,67,Grampa,4
+4,8,67,Homer,47
+4,8,67,Jimbo,8
+4,8,67,Lisa,11
+4,8,67,Marge,24
+4,8,67,Moe,13
+4,9,68,Apu,1
+4,9,68,Barney,25
+4,9,68,Bart,6
+4,9,68,Brockman,6
+4,9,68,Flanders,2
+4,9,68,Grampa,6
+4,9,68,Groundskeeper Willie,1
+4,9,68,Homer,83
+4,9,68,Krusty,3
+4,9,68,Lisa,11
+4,9,68,Marge,10
+4,9,68,Mayor Quimby,4
+4,9,68,Moe,5
+4,9,68,Nelson,1
+4,9,68,Rev. Lovejoy,2
+4,10,69,Bart,54
+4,10,69,Chief Wiggum,1
+4,10,69,Dr. Hibbert,2
+4,10,69,Flanders,30
+4,10,69,Grampa,6
+4,10,69,Homer,69
+4,10,69,Krusty,10
+4,10,69,Lisa,18
+4,10,69,Marge,43
+4,10,69,Patty,6
+4,10,69,Selma,4
+4,11,70,Apu,2
+4,11,70,Barney,4
+4,11,70,Bart,10
+4,11,70,Carl,1
+4,11,70,Chief Wiggum,3
+4,11,70,Dr. Hibbert,19
+4,11,70,Flanders,5
+4,11,70,Grampa,5
+4,11,70,Homer,90
+4,11,70,Krusty,5
+4,11,70,Lenny,1
+4,11,70,Lisa,13
+4,11,70,Lou,2
+4,11,70,Marge,23
+4,11,70,Moe,5
+4,11,70,Mr. Burns,10
+4,11,70,Patty,5
+4,11,70,Rev. Lovejoy,2
+4,11,70,Selma,2
+4,11,70,Sideshow Mel,2
+4,11,70,Smithers,3
+4,12,71,Apu,5
+4,12,71,Barney,4
+4,12,71,Bart,15
+4,12,71,Brockman,6
+4,12,71,Carl,2
+4,12,71,Chief Wiggum,10
+4,12,71,Dr. Hibbert,1
+4,12,71,Flanders,2
+4,12,71,Grampa,4
+4,12,71,Homer,43
+4,12,71,Krusty,2
+4,12,71,Lenny,2
+4,12,71,Lisa,6
+4,12,71,Marge,30
+4,12,71,Mayor Quimby,17
+4,12,71,Mr. Burns,5
+4,12,71,Otto,1
+4,12,71,Ralph,1
+4,12,71,Selma,1
+4,12,71,Smithers,3
+4,13,72,Barney,3
+4,13,72,Bart,26
+4,13,72,Carl,1
+4,13,72,Groundskeeper Willie,1
+4,13,72,Homer,46
+4,13,72,Lisa,21
+4,13,72,Marge,32
+4,13,72,Patty,11
+4,13,72,Selma,46
+4,14,73,Bart,37
+4,14,73,Brockman,2
+4,14,73,Chief Wiggum,2
+4,14,73,Dr. Hibbert,2
+4,14,73,Edna Krabappel,3
+4,14,73,Flanders,1
+4,14,73,Grampa,2
+4,14,73,Homer,71
+4,14,73,Kirk,1
+4,14,73,Krusty,5
+4,14,73,Lisa,12
+4,14,73,Lou,2
+4,14,73,Marge,13
+4,14,73,Milhouse,3
+4,14,73,Nelson,4
+4,15,74,Apu,5
+4,15,74,Barney,1
+4,15,74,Bart,21
+4,15,74,Chief Wiggum,20
+4,15,74,Flanders,1
+4,15,74,Grampa,2
+4,15,74,Groundskeeper Willie,3
+4,15,74,Homer,33
+4,15,74,Jimbo,2
+4,15,74,Krusty,19
+4,15,74,Lisa,44
+4,15,74,Marge,4
+4,15,74,Milhouse,4
+4,15,74,Moe,2
+4,15,74,Patty,1
+4,15,74,Ralph,33
+4,15,74,Selma,1
+4,15,74,Sideshow Mel,1
+4,16,75,Barney,13
+4,16,75,Bart,20
+4,16,75,Chief Wiggum,8
+4,16,75,Edna Krabappel,2
+4,16,75,Flanders,6
+4,16,75,Homer,60
+4,16,75,Lisa,23
+4,16,75,Lou,1
+4,16,75,Marge,27
+4,16,75,Martin Prince,1
+4,16,75,Milhouse,1
+4,16,75,Moe,5
+4,16,75,Nelson,2
+4,16,75,Otto,1
+4,16,75,Patty,2
+4,16,75,Rev. Lovejoy,5
+4,16,75,Selma,2
+4,17,76,Bart,6
+4,17,76,Brockman,5
+4,17,76,Carl,13
+4,17,76,Chief Wiggum,1
+4,17,76,Grampa,2
+4,17,76,Homer,45
+4,17,76,Lenny,12
+4,17,76,Lisa,10
+4,17,76,Marge,18
+4,17,76,Mr. Burns,43
+4,17,76,Ralph,3
+4,17,76,Smithers,3
+4,18,77,Barney,1
+4,18,77,Bart,29
+4,18,77,Chief Wiggum,2
+4,18,77,Dr. Hibbert,4
+4,18,77,Flanders,3
+4,18,77,Grampa,4
+4,18,77,Homer,59
+4,18,77,Lenny,1
+4,18,77,Lisa,19
+4,18,77,Lou,3
+4,18,77,Marge,18
+4,18,77,Moe,2
+4,18,77,Mr. Burns,7
+4,18,77,Professor Frink,2
+4,19,78,Barney,3
+4,19,78,Bart,27
+4,19,78,Flanders,5
+4,19,78,Grampa,33
+4,19,78,Homer,43
+4,19,78,Krusty,12
+4,19,78,Lisa,25
+4,19,78,Marge,15
+4,20,79,Apu,1
+4,20,79,Barney,3
+4,20,79,Bart,28
+4,20,79,Brockman,5
+4,20,79,Chalmers,22
+4,20,79,Chief Wiggum,1
+4,20,79,Grampa,5
+4,20,79,Groundskeeper Willie,6
+4,20,79,Homer,22
+4,20,79,Jimbo,6
+4,20,79,Lenny,2
+4,20,79,Lisa,20
+4,20,79,Lou,1
+4,20,79,Marge,14
+4,20,79,Mayor Quimby,8
+4,20,79,Milhouse,1
+4,20,79,Nelson,10
+4,20,79,Ralph,1
+4,20,79,Rev. Lovejoy,2
+4,21,80,Apu,11
+4,21,80,Barney,1
+4,21,80,Bart,16
+4,21,80,Brockman,1
+4,21,80,Chief Wiggum,7
+4,21,80,Dr. Hibbert,3
+4,21,80,Flanders,13
+4,21,80,Grampa,4
+4,21,80,Homer,24
+4,21,80,Lisa,12
+4,21,80,Lou,1
+4,21,80,Marge,30
+4,21,80,Mayor Quimby,8
+4,21,80,Milhouse,1
+4,21,80,Mr. Burns,2
+4,21,80,Nelson,2
+4,21,80,Otto,1
+4,21,80,Patty,1
+4,21,80,Professor Frink,1
+4,21,80,Rev. Lovejoy,1
+4,21,80,Selma,1
+4,22,81,Barney,1
+4,22,81,Bart,27
+4,22,81,Brockman,6
+4,22,81,Chief Wiggum,2
+4,22,81,Dr. Hibbert,2
+4,22,81,Grampa,2
+4,22,81,Homer,11
+4,22,81,Krusty,54
+4,22,81,Lisa,15
+4,22,81,Mayor Quimby,1
+4,22,81,Milhouse,5
+4,22,81,Moe,5
+4,22,81,Mr. Burns,1
+4,22,81,Nelson,1
+4,22,81,Rev. Lovejoy,1
+4,22,81,Sideshow Mel,6
+4,22,81,Smithers,1
+5,1,82,Apu,16
+5,1,82,Barney,14
+5,1,82,Bart,17
+5,1,82,Carl,2
+5,1,82,Chief Wiggum,13
+5,1,82,Comic Book Guy,1
+5,1,82,Flanders,4
+5,1,82,Grampa,6
+5,1,82,Groundskeeper Willie,2
+5,1,82,Homer,61
+5,1,82,Lisa,11
+5,1,82,Lou,1
+5,1,82,Marge,6
+5,1,82,Mayor Quimby,2
+5,1,82,Milhouse,2
+5,1,82,Moe,5
+5,1,82,Nelson,2
+5,1,82,Rev. Lovejoy,2
+5,2,83,Bart,24
+5,2,83,Chief Wiggum,12
+5,2,83,Edna Krabappel,2
+5,2,83,Flanders,6
+5,2,83,Grampa,6
+5,2,83,Homer,35
+5,2,83,Lisa,13
+5,2,83,Lou,2
+5,2,83,Marge,17
+5,2,83,Martin Prince,1
+5,2,83,Milhouse,1
+5,2,83,Moe,3
+5,2,83,Nelson,1
+5,2,83,Patty,1
+5,2,83,Selma,1
+5,2,83,Sideshow Bob,33
+5,3,84,Bart,12
+5,3,84,Dr. Hibbert,2
+5,3,84,Grampa,2
+5,3,84,Homer,88
+5,3,84,Krusty,1
+5,3,84,Lisa,12
+5,3,84,Marge,14
+5,3,84,Mayor Quimby,1
+5,3,84,Mr. Burns,19
+5,3,84,Smithers,6
+5,4,85,Apu,2
+5,4,85,Barney,3
+5,4,85,Bart,7
+5,4,85,Brockman,2
+5,4,85,Carl,1
+5,4,85,Dr. Hibbert,1
+5,4,85,Flanders,2
+5,4,85,Grampa,1
+5,4,85,Homer,63
+5,4,85,Jimbo,2
+5,4,85,Lisa,7
+5,4,85,Marge,16
+5,4,85,Martin Prince,1
+5,4,85,Moe,4
+5,4,85,Mr. Burns,63
+5,4,85,Nelson,2
+5,4,85,Otto,1
+5,4,85,Patty,1
+5,4,85,Professor Frink,3
+5,4,85,Smithers,23
+5,5,86,Bart,36
+5,5,86,Brockman,2
+5,5,86,Carl,1
+5,5,86,Chief Wiggum,3
+5,5,86,Flanders,5
+5,5,86,Grampa,5
+5,5,86,Groundskeeper Willie,3
+5,5,86,Homer,38
+5,5,86,Jimbo,2
+5,5,86,Lenny,1
+5,5,86,Lisa,31
+5,5,86,Marge,18
+5,5,86,Martin Prince,1
+5,5,86,Milhouse,7
+5,5,86,Mr. Burns,11
+5,5,86,Nelson,1
+5,5,86,Otto,3
+5,5,86,Ralph,1
+5,5,86,Smithers,3
+5,6,87,Apu,1
+5,6,87,Barney,1
+5,6,87,Bart,8
+5,6,87,Brockman,2
+5,6,87,Carl,3
+5,6,87,Chief Wiggum,17
+5,6,87,Flanders,2
+5,6,87,Groundskeeper Willie,1
+5,6,87,Homer,74
+5,6,87,Lenny,3
+5,6,87,Lisa,6
+5,6,87,Marge,59
+5,6,87,Mayor Quimby,2
+5,6,87,Moe,1
+5,6,87,Mr. Burns,2
+5,6,87,Otto,2
+5,6,87,Patty,1
+5,6,87,Smithers,1
+5,7,88,Apu,3
+5,7,88,Bart,33
+5,7,88,Brockman,2
+5,7,88,Carl,1
+5,7,88,Chief Wiggum,3
+5,7,88,Dr. Hibbert,1
+5,7,88,Edna Krabappel,2
+5,7,88,Flanders,7
+5,7,88,Groundskeeper Willie,3
+5,7,88,Homer,57
+5,7,88,Jimbo,1
+5,7,88,Krusty,5
+5,7,88,Lenny,1
+5,7,88,Lisa,15
+5,7,88,Marge,27
+5,7,88,Martin Prince,1
+5,7,88,Mayor Quimby,4
+5,7,88,Milhouse,3
+5,7,88,Moe,7
+5,7,88,Mr. Burns,2
+5,7,88,Otto,3
+5,7,88,Patty,3
+5,7,88,Ralph,1
+5,7,88,Rev. Lovejoy,5
+5,7,88,Selma,4
+5,7,88,Smithers,3
+5,8,89,Apu,4
+5,8,89,Barney,2
+5,8,89,Bart,50
+5,8,89,Chief Wiggum,4
+5,8,89,Dr. Hibbert,3
+5,8,89,Edna Krabappel,3
+5,8,89,Flanders,30
+5,8,89,Homer,60
+5,8,89,Jimbo,2
+5,8,89,Krusty,2
+5,8,89,Lisa,4
+5,8,89,Lou,1
+5,8,89,Marge,7
+5,8,89,Martin Prince,4
+5,8,89,Milhouse,17
+5,8,89,Moe,1
+5,8,89,Nelson,4
+5,8,89,Patty,1
+5,9,90,Barney,3
+5,9,90,Bart,12
+5,9,90,Brockman,1
+5,9,90,Carl,8
+5,9,90,Dr. Hibbert,2
+5,9,90,Edna Krabappel,6
+5,9,90,Flanders,4
+5,9,90,Grampa,1
+5,9,90,Homer,84
+5,9,90,Jimbo,2
+5,9,90,Lenny,8
+5,9,90,Lisa,6
+5,9,90,Marge,6
+5,9,90,Martin Prince,6
+5,9,90,Milhouse,2
+5,9,90,Moe,2
+5,9,90,Mr. Burns,13
+5,9,90,Nelson,4
+5,9,90,Smithers,8
+5,10,91,Apu,1
+5,10,91,Barney,5
+5,10,91,Bart,8
+5,10,91,Brockman,3
+5,10,91,Flanders,1
+5,10,91,Grampa,7
+5,10,91,Homer,53
+5,10,91,Krusty,2
+5,10,91,Lisa,19
+5,10,91,Marge,30
+5,10,91,Mayor Quimby,7
+5,10,91,Milhouse,1
+5,10,91,Mr. Burns,23
+5,10,91,Nelson,1
+5,10,91,Otto,2
+5,10,91,Patty,1
+5,10,91,Ralph,1
+5,10,91,Rev. Lovejoy,1
+5,10,91,Smithers,14
+5,11,92,Apu,2
+5,11,92,Barney,5
+5,11,92,Bart,9
+5,11,92,Brockman,9
+5,11,92,Chief Wiggum,16
+5,11,92,Flanders,5
+5,11,92,Grampa,22
+5,11,92,Homer,77
+5,11,92,Jimbo,4
+5,11,92,Lenny,1
+5,11,92,Lisa,15
+5,11,92,Lou,1
+5,11,92,Marge,10
+5,11,92,Mayor Quimby,3
+5,11,92,Moe,8
+5,11,92,Nelson,1
+5,11,92,Otto,4
+5,11,92,Professor Frink,2
+5,11,92,Selma,1
+5,12,93,Apu,1
+5,12,93,Barney,3
+5,12,93,Bart,64
+5,12,93,Brockman,4
+5,12,93,Edna Krabappel,6
+5,12,93,Flanders,1
+5,12,93,Grampa,1
+5,12,93,Homer,26
+5,12,93,Krusty,35
+5,12,93,Lisa,13
+5,12,93,Marge,10
+5,12,93,Martin Prince,4
+5,12,93,Mayor Quimby,3
+5,12,93,Milhouse,6
+5,12,93,Mr. Burns,1
+5,12,93,Nelson,2
+5,12,93,Selma,1
+5,12,93,Sideshow Mel,2
+5,13,94,Apu,72
+5,13,94,Barney,3
+5,13,94,Bart,4
+5,13,94,Brockman,10
+5,13,94,Dr. Hibbert,2
+5,13,94,Grampa,2
+5,13,94,Homer,54
+5,13,94,Jimbo,3
+5,13,94,Lisa,16
+5,13,94,Marge,15
+5,13,94,Martin Prince,2
+5,13,94,Patty,1
+5,14,95,Bart,9
+5,14,95,Brockman,5
+5,14,95,Dr. Hibbert,2
+5,14,95,Grampa,32
+5,14,95,Homer,16
+5,14,95,Krusty,1
+5,14,95,Lisa,43
+5,14,95,Marge,6
+5,14,95,Mr. Burns,1
+5,14,95,Smithers,6
+5,15,96,Barney,7
+5,15,96,Bart,8
+5,15,96,Brockman,4
+5,15,96,Carl,2
+5,15,96,Grampa,1
+5,15,96,Homer,49
+5,15,96,Lenny,2
+5,15,96,Lisa,5
+5,15,96,Marge,13
+5,15,96,Mr. Burns,2
+5,15,96,Smithers,2
+5,16,97,Bart,9
+5,16,97,Brockman,3
+5,16,97,Carl,2
+5,16,97,Chief Wiggum,3
+5,16,97,Dr. Hibbert,2
+5,16,97,Flanders,62
+5,16,97,Grampa,1
+5,16,97,Homer,87
+5,16,97,Lenny,3
+5,16,97,Lisa,6
+5,16,97,Marge,12
+5,16,97,Mayor Quimby,2
+5,16,97,Milhouse,1
+5,16,97,Moe,5
+5,16,97,Mr. Burns,1
+5,16,97,Rev. Lovejoy,4
+5,17,98,Barney,2
+5,17,98,Bart,53
+5,17,98,Brockman,1
+5,17,98,Chief Wiggum,5
+5,17,98,Cletus,1
+5,17,98,Flanders,3
+5,17,98,Grampa,2
+5,17,98,Homer,76
+5,17,98,Kirk,1
+5,17,98,Lisa,27
+5,17,98,Marge,26
+5,17,98,Moe,2
+5,17,98,Mr. Burns,1
+5,17,98,Patty,1
+5,17,98,Selma,1
+5,18,99,Bart,36
+5,18,99,Chief Wiggum,2
+5,18,99,Grampa,2
+5,18,99,Homer,37
+5,18,99,Krusty,4
+5,18,99,Lenny,3
+5,18,99,Lisa,9
+5,18,99,Marge,21
+5,18,99,Martin Prince,1
+5,18,99,Mayor Quimby,1
+5,18,99,Milhouse,6
+5,18,99,Moe,2
+5,18,99,Mr. Burns,63
+5,18,99,Nelson,1
+5,18,99,Smithers,6
+5,19,100,Agnes Skinner,4
+5,19,100,Apu,3
+5,19,100,Bart,36
+5,19,100,Chalmers,15
+5,19,100,Chief Wiggum,1
+5,19,100,Edna Krabappel,8
+5,19,100,Flanders,14
+5,19,100,Groundskeeper Willie,12
+5,19,100,Homer,6
+5,19,100,Jimbo,3
+5,19,100,Lisa,6
+5,19,100,Marge,6
+5,19,100,Martin Prince,8
+5,19,100,Milhouse,5
+5,19,100,Nelson,3
+5,19,100,Ralph,3
+5,20,101,Apu,2
+5,20,101,Barney,2
+5,20,101,Bart,41
+5,20,101,Brockman,1
+5,20,101,Chief Wiggum,3
+5,20,101,Dr. Hibbert,1
+5,20,101,Edna Krabappel,4
+5,20,101,Flanders,1
+5,20,101,Groundskeeper Willie,3
+5,20,101,Homer,26
+5,20,101,Jimbo,1
+5,20,101,Lisa,14
+5,20,101,Marge,8
+5,20,101,Martin Prince,1
+5,20,101,Mayor Quimby,3
+5,20,101,Milhouse,1
+5,20,101,Moe,2
+5,20,101,Otto,2
+5,20,101,Patty,1
+5,21,102,Apu,1
+5,21,102,Barney,1
+5,21,102,Bart,27
+5,21,102,Comic Book Guy,4
+5,21,102,Grampa,37
+5,21,102,Homer,23
+5,21,102,Krusty,1
+5,21,102,Lisa,12
+5,21,102,Marge,24
+5,21,102,Milhouse,2
+5,21,102,Mr. Burns,26
+5,21,102,Nelson,1
+5,21,102,Otto,1
+5,21,102,Patty,3
+5,21,102,Rev. Lovejoy,3
+5,21,102,Selma,1
+5,21,102,Sideshow Mel,1
+5,21,102,Smithers,4
+5,22,103,Apu,3
+5,22,103,Barney,1
+5,22,103,Bart,8
+5,22,103,Carl,2
+5,22,103,Chief Wiggum,1
+5,22,103,Edna Krabappel,6
+5,22,103,Flanders,3
+5,22,103,Grampa,1
+5,22,103,Groundskeeper Willie,2
+5,22,103,Homer,93
+5,22,103,Lenny,6
+5,22,103,Lisa,12
+5,22,103,Marge,34
+5,22,103,Milhouse,2
+5,22,103,Moe,19
+5,22,103,Mr. Burns,2
+5,22,103,Otto,4
+5,22,103,Patty,2
+5,22,103,Rev. Lovejoy,2
+5,22,103,Sideshow Mel,2
+5,22,103,Smithers,5
+6,1,104,Bart,54
+6,1,104,Chief Wiggum,1
+6,1,104,Dr. Hibbert,2
+6,1,104,Flanders,18
+6,1,104,Grampa,1
+6,1,104,Homer,18
+6,1,104,Jimbo,2
+6,1,104,Krusty,5
+6,1,104,Lisa,28
+6,1,104,Lou,1
+6,1,104,Marge,9
+6,1,104,Martin Prince,7
+6,1,104,Milhouse,4
+6,1,104,Nelson,6
+6,1,104,Otto,4
+6,1,104,Ralph,2
+6,2,105,Bart,29
+6,2,105,Flanders,2
+6,2,105,Homer,30
+6,2,105,Jimbo,1
+6,2,105,Lisa,57
+6,2,105,Marge,21
+6,2,105,Martin Prince,1
+6,2,105,Milhouse,4
+6,2,105,Nelson,2
+6,2,105,Ralph,9
+6,3,106,Bart,13
+6,3,106,Carl,2
+6,3,106,Chief Wiggum,2
+6,3,106,Edna Krabappel,1
+6,3,106,Grampa,8
+6,3,106,Homer,43
+6,3,106,Krusty,4
+6,3,106,Lenny,2
+6,3,106,Lisa,27
+6,3,106,Marge,71
+6,3,106,Moe,2
+6,3,106,Mr. Burns,6
+6,3,106,Ralph,10
+6,3,106,Rev. Lovejoy,1
+6,3,106,Selma,1
+6,3,106,Sideshow Bob,1
+6,3,106,Smithers,2
+6,4,107,Bart,29
+6,4,107,Cletus,1
+6,4,107,Grampa,3
+6,4,107,Homer,42
+6,4,107,Krusty,2
+6,4,107,Lisa,26
+6,4,107,Marge,41
+6,4,107,Professor Frink,3
+6,5,108,Barney,1
+6,5,108,Bart,25
+6,5,108,Brockman,4
+6,5,108,Carl,1
+6,5,108,Dr. Hibbert,1
+6,5,108,Edna Krabappel,2
+6,5,108,Grampa,5
+6,5,108,Homer,13
+6,5,108,Jimbo,2
+6,5,108,Krusty,1
+6,5,108,Lenny,1
+6,5,108,Lisa,32
+6,5,108,Marge,3
+6,5,108,Mayor Quimby,10
+6,5,108,Milhouse,1
+6,5,108,Moe,3
+6,5,108,Mr. Burns,2
+6,5,108,Ralph,1
+6,5,108,Sideshow Bob,28
+6,5,108,Smithers,3
+6,6,109,Bart,17
+6,6,109,Brockman,2
+6,6,109,Chief Wiggum,1
+6,6,109,Edna Krabappel,6
+6,6,109,Flanders,5
+6,6,109,Grampa,2
+6,6,109,Groundskeeper Willie,11
+6,6,109,Homer,57
+6,6,109,Jimbo,5
+6,6,109,Lisa,14
+6,6,109,Marge,23
+6,6,109,Milhouse,1
+6,6,109,Moe,9
+6,6,109,Mr. Burns,6
+6,6,109,Smithers,2
+6,7,110,Bart,74
+6,7,110,Dr. Hibbert,1
+6,7,110,Grampa,2
+6,7,110,Groundskeeper Willie,5
+6,7,110,Homer,15
+6,7,110,Lisa,16
+6,7,110,Marge,15
+6,7,110,Milhouse,4
+6,7,110,Moe,2
+6,7,110,Nelson,2
+6,7,110,Ralph,2
+6,7,110,Rev. Lovejoy,12
+6,8,111,Apu,8
+6,8,111,Bart,34
+6,8,111,Brockman,3
+6,8,111,Chief Wiggum,7
+6,8,111,Edna Krabappel,9
+6,8,111,Grampa,3
+6,8,111,Homer,38
+6,8,111,Jimbo,3
+6,8,111,Krusty,1
+6,8,111,Lisa,32
+6,8,111,Marge,23
+6,8,111,Martin Prince,1
+6,8,111,Milhouse,5
+6,8,111,Moe,4
+6,8,111,Nelson,2
+6,8,111,Ralph,2
+6,9,112,Apu,1
+6,9,112,Bart,16
+6,9,112,Brockman,3
+6,9,112,Grampa,1
+6,9,112,Groundskeeper Willie,4
+6,9,112,Homer,72
+6,9,112,Lisa,18
+6,9,112,Marge,22
+6,9,112,Mayor Quimby,1
+6,9,112,Moe,3
+6,9,112,Professor Frink,1
+6,9,112,Smithers,1
+6,10,113,Barney,1
+6,10,113,Bart,17
+6,10,113,Dr. Hibbert,1
+6,10,113,Flanders,2
+6,10,113,Grampa,50
+6,10,113,Homer,61
+6,10,113,Kirk,2
+6,10,113,Lisa,11
+6,10,113,Marge,27
+6,10,113,Mayor Quimby,1
+6,10,113,Milhouse,7
+6,10,113,Nelson,1
+6,10,113,Professor Frink,3
+6,10,113,Ralph,1
+6,11,114,Barney,3
+6,11,114,Bart,11
+6,11,114,Grampa,1
+6,11,114,Homer,65
+6,11,114,Lenny,2
+6,11,114,Lisa,17
+6,11,114,Marge,49
+6,11,114,Moe,13
+6,11,114,Patty,1
+6,11,114,Selma,1
+6,11,114,Smithers,1
+6,12,115,Bart,6
+6,12,115,Carl,13
+6,12,115,Dr. Hibbert,2
+6,12,115,Grampa,7
+6,12,115,Homer,92
+6,12,115,Lenny,19
+6,12,115,Lisa,14
+6,12,115,Marge,15
+6,12,115,Moe,13
+6,12,115,Mr. Burns,4
+6,13,116,Apu,1
+6,13,116,Barney,3
+6,13,116,Bart,13
+6,13,116,Carl,3
+6,13,116,Chief Wiggum,1
+6,13,116,Dr. Hibbert,7
+6,13,116,Flanders,1
+6,13,116,Homer,94
+6,13,116,Lenny,2
+6,13,116,Lisa,15
+6,13,116,Marge,34
+6,13,116,Mayor Quimby,2
+6,13,116,Moe,1
+6,13,116,Mr. Burns,6
+6,13,116,Patty,4
+6,13,116,Selma,4
+6,13,116,Smithers,2
+6,14,117,Apu,1
+6,14,117,Barney,3
+6,14,117,Bart,34
+6,14,117,Brockman,3
+6,14,117,Chief Wiggum,1
+6,14,117,Dr. Hibbert,1
+6,14,117,Flanders,16
+6,14,117,Grampa,1
+6,14,117,Groundskeeper Willie,1
+6,14,117,Homer,27
+6,14,117,Krusty,3
+6,14,117,Lisa,14
+6,14,117,Marge,13
+6,14,117,Mayor Quimby,6
+6,14,117,Milhouse,2
+6,14,117,Moe,9
+6,14,117,Otto,2
+6,14,117,Patty,1
+6,14,117,Professor Frink,4
+6,14,117,Rev. Lovejoy,2
+6,14,117,Selma,1
+6,15,118,Apu,1
+6,15,118,Bart,7
+6,15,118,Carl,1
+6,15,118,Chief Wiggum,3
+6,15,118,Fat Tony,13
+6,15,118,Flanders,4
+6,15,118,Homer,59
+6,15,118,Kirk,1
+6,15,118,Krusty,44
+6,15,118,Lenny,3
+6,15,118,Lisa,5
+6,15,118,Lou,3
+6,15,118,Marge,4
+6,15,118,Milhouse,2
+6,15,118,Ralph,1
+6,16,119,Bart,49
+6,16,119,Homer,31
+6,16,119,Lisa,21
+6,16,119,Marge,23
+6,16,119,Milhouse,1
+6,17,120,Barney,3
+6,17,120,Bart,29
+6,17,120,Carl,3
+6,17,120,Chief Wiggum,5
+6,17,120,Groundskeeper Willie,1
+6,17,120,Homer,75
+6,17,120,Jimbo,5
+6,17,120,Lenny,2
+6,17,120,Lisa,9
+6,17,120,Marge,23
+6,17,120,Milhouse,5
+6,17,120,Moe,4
+6,17,120,Nelson,4
+6,17,120,Patty,25
+6,17,120,Ralph,1
+6,17,120,Selma,18
+6,18,121,Apu,1
+6,18,121,Barney,13
+6,18,121,Bart,12
+6,18,121,Brockman,6
+6,18,121,Chief Wiggum,4
+6,18,121,Dr. Hibbert,1
+6,18,121,Flanders,4
+6,18,121,Grampa,4
+6,18,121,Homer,40
+6,18,121,Krusty,5
+6,18,121,Lisa,11
+6,18,121,Marge,32
+6,18,121,Mayor Quimby,6
+6,18,121,Milhouse,1
+6,18,121,Moe,4
+6,18,121,Mr. Burns,23
+6,18,121,Nelson,1
+6,18,121,Patty,3
+6,18,121,Selma,4
+6,18,121,Smithers,5
+6,19,122,Bart,10
+6,19,122,Brockman,2
+6,19,122,Carl,1
+6,19,122,Chief Wiggum,4
+6,19,122,Dr. Hibbert,1
+6,19,122,Flanders,2
+6,19,122,Homer,35
+6,19,122,Lisa,71
+6,19,122,Marge,14
+6,19,122,Martin Prince,1
+6,19,122,Mayor Quimby,2
+6,19,122,Milhouse,3
+6,19,122,Moe,3
+6,19,122,Mr. Burns,2
+6,19,122,Nelson,2
+6,19,122,Otto,1
+6,19,122,Patty,1
+6,19,122,Professor Frink,1
+6,19,122,Rev. Lovejoy,2
+6,19,122,Smithers,7
+6,20,123,Bart,35
+6,20,123,Brockman,4
+6,20,123,Chief Wiggum,4
+6,20,123,Flanders,1
+6,20,123,Grampa,2
+6,20,123,Homer,27
+6,20,123,Jimbo,1
+6,20,123,Lisa,31
+6,20,123,Marge,33
+6,20,123,Mr. Burns,30
+6,20,123,Rev. Lovejoy,3
+6,20,123,Smithers,7
+6,21,124,Bart,39
+6,21,124,Chalmers,2
+6,21,124,Edna Krabappel,26
+6,21,124,Flanders,6
+6,21,124,Grampa,3
+6,21,124,Homer,8
+6,21,124,Jimbo,1
+6,21,124,Kirk,1
+6,21,124,Lisa,14
+6,21,124,Marge,16
+6,21,124,Milhouse,11
+6,21,124,Moe,4
+6,21,124,Otto,2
+6,21,124,Professor Frink,2
+6,21,124,Ralph,1
+6,22,125,Barney,1
+6,22,125,Bart,30
+6,22,125,Brockman,1
+6,22,125,Chalmers,1
+6,22,125,Chief Wiggum,4
+6,22,125,Comic Book Guy,2
+6,22,125,Dr. Hibbert,6
+6,22,125,Edna Krabappel,4
+6,22,125,Grampa,7
+6,22,125,Groundskeeper Willie,1
+6,22,125,Homer,21
+6,22,125,Krusty,7
+6,22,125,Lisa,53
+6,22,125,Marge,12
+6,22,125,Milhouse,2
+6,22,125,Moe,1
+6,22,125,Mr. Burns,1
+6,22,125,Rev. Lovejoy,2
+6,22,125,Sideshow Mel,2
+6,23,126,Agnes Skinner,2
+6,23,126,Apu,2
+6,23,126,Barney,2
+6,23,126,Bart,10
+6,23,126,Carl,1
+6,23,126,Chief Wiggum,19
+6,23,126,Dr. Hibbert,1
+6,23,126,Edna Krabappel,2
+6,23,126,Flanders,6
+6,23,126,Grampa,2
+6,23,126,Homer,55
+6,23,126,Jimbo,1
+6,23,126,Lenny,3
+6,23,126,Lisa,9
+6,23,126,Lou,1
+6,23,126,Marge,73
+6,23,126,Milhouse,1
+6,23,126,Moe,9
+6,23,126,Rev. Lovejoy,3
+6,24,127,Bart,66
+6,24,127,Edna Krabappel,3
+6,24,127,Flanders,6
+6,24,127,Grampa,6
+6,24,127,Homer,18
+6,24,127,Kirk,2
+6,24,127,Lisa,4
+6,24,127,Marge,15
+6,24,127,Martin Prince,8
+6,24,127,Milhouse,26
+6,24,127,Nelson,7
+6,24,127,Professor Frink,3
+6,25,128,Apu,1
+6,25,128,Barney,4
+6,25,128,Bart,11
+6,25,128,Carl,1
+6,25,128,Chalmers,5
+6,25,128,Chief Wiggum,3
+6,25,128,Dr. Hibbert,2
+6,25,128,Flanders,2
+6,25,128,Grampa,10
+6,25,128,Groundskeeper Willie,6
+6,25,128,Homer,14
+6,25,128,Jimbo,1
+6,25,128,Krusty,1
+6,25,128,Lenny,1
+6,25,128,Lisa,9
+6,25,128,Marge,12
+6,25,128,Mayor Quimby,2
+6,25,128,Milhouse,2
+6,25,128,Moe,3
+6,25,128,Mr. Burns,46
+6,25,128,Nelson,3
+6,25,128,Otto,3
+6,25,128,Patty,1
+6,25,128,Ralph,3
+6,25,128,Sideshow Mel,1
+6,25,128,Smithers,18
+7,1,129,Apu,1
+7,1,129,Bart,7
+7,1,129,Brockman,6
+7,1,129,Chalmers,2
+7,1,129,Chief Wiggum,36
+7,1,129,Grampa,7
+7,1,129,Groundskeeper Willie,5
+7,1,129,Homer,14
+7,1,129,Krusty,5
+7,1,129,Lisa,33
+7,1,129,Lou,5
+7,1,129,Marge,11
+7,1,129,Moe,5
+7,1,129,Mr. Burns,27
+7,1,129,Sideshow Mel,6
+7,1,129,Smithers,21
+7,2,130,Barney,3
+7,2,130,Bart,42
+7,2,130,Brockman,1
+7,2,130,Chief Wiggum,5
+7,2,130,Comic Book Guy,7
+7,2,130,Grampa,1
+7,2,130,Homer,9
+7,2,130,Kirk,3
+7,2,130,Krusty,4
+7,2,130,Lisa,2
+7,2,130,Marge,2
+7,2,130,Martin Prince,1
+7,2,130,Mayor Quimby,6
+7,2,130,Milhouse,25
+7,2,130,Moe,5
+7,2,130,Nelson,4
+7,2,130,Otto,2
+7,2,130,Ralph,4
+7,3,131,Agnes Skinner,1
+7,3,131,Bart,17
+7,3,131,Cletus,3
+7,3,131,Edna Krabappel,4
+7,3,131,Flanders,54
+7,3,131,Grampa,5
+7,3,131,Groundskeeper Willie,2
+7,3,131,Homer,42
+7,3,131,Lisa,22
+7,3,131,Marge,42
+7,3,131,Milhouse,2
+7,3,131,Nelson,1
+7,3,131,Rev. Lovejoy,5
+7,4,132,Apu,1
+7,4,132,Barney,6
+7,4,132,Bart,54
+7,4,132,Carl,2
+7,4,132,Chief Wiggum,4
+7,4,132,Comic Book Guy,5
+7,4,132,Dr. Hibbert,8
+7,4,132,Flanders,7
+7,4,132,Homer,18
+7,4,132,Jimbo,1
+7,4,132,Kirk,2
+7,4,132,Krusty,1
+7,4,132,Lisa,15
+7,4,132,Marge,8
+7,4,132,Martin Prince,3
+7,4,132,Milhouse,20
+7,4,132,Moe,35
+7,4,132,Nelson,2
+7,4,132,Ralph,3
+7,4,132,Rev. Lovejoy,6
+7,4,132,Selma,1
+7,5,133,Apu,14
+7,5,133,Barney,3
+7,5,133,Bart,16
+7,5,133,Chief Wiggum,2
+7,5,133,Dr. Hibbert,1
+7,5,133,Flanders,9
+7,5,133,Grampa,6
+7,5,133,Groundskeeper Willie,1
+7,5,133,Homer,50
+7,5,133,Lisa,53
+7,5,133,Marge,17
+7,5,133,Mr. Burns,2
+7,5,133,Ralph,5
+7,5,133,Smithers,1
+7,6,134,Bart,26
+7,6,134,Brockman,2
+7,6,134,Chief Wiggum,9
+7,6,134,Dr. Hibbert,2
+7,6,134,Edna Krabappel,2
+7,6,134,Flanders,3
+7,6,134,Grampa,2
+7,6,134,Groundskeeper Willie,11
+7,6,134,Homer,57
+7,6,134,Kirk,1
+7,6,134,Krusty,2
+7,6,134,Lisa,25
+7,6,134,Lou,1
+7,6,134,Marge,18
+7,6,134,Martin Prince,5
+7,6,134,Nelson,2
+7,6,134,Otto,1
+7,6,134,Patty,4
+7,6,134,Professor Frink,7
+7,6,134,Rev. Lovejoy,4
+7,6,134,Selma,5
+7,7,135,Bart,16
+7,7,135,Carl,3
+7,7,135,Dr. Hibbert,2
+7,7,135,Flanders,1
+7,7,135,Homer,105
+7,7,135,Jimbo,1
+7,7,135,Lenny,4
+7,7,135,Lisa,19
+7,7,135,Marge,19
+7,7,135,Milhouse,2
+7,7,135,Mr. Burns,16
+7,7,135,Nelson,1
+7,7,135,Ralph,1
+7,7,135,Smithers,4
+7,8,136,Bart,10
+7,8,136,Brockman,2
+7,8,136,Carl,5
+7,8,136,Chief Wiggum,6
+7,8,136,Flanders,6
+7,8,136,Grampa,11
+7,8,136,Homer,52
+7,8,136,Lenny,4
+7,8,136,Lisa,19
+7,8,136,Marge,18
+7,8,136,Mr. Burns,18
+7,8,136,Patty,2
+7,8,136,Rev. Lovejoy,2
+7,8,136,Selma,4
+7,8,136,Smithers,9
+7,9,137,Bart,22
+7,9,137,Brockman,2
+7,9,137,Chief Wiggum,9
+7,9,137,Dr. Hibbert,1
+7,9,137,Grampa,4
+7,9,137,Homer,14
+7,9,137,Krusty,20
+7,9,137,Lisa,19
+7,9,137,Lou,1
+7,9,137,Marge,14
+7,9,137,Martin Prince,1
+7,9,137,Mayor Quimby,4
+7,9,137,Milhouse,1
+7,9,137,Moe,1
+7,9,137,Sideshow Bob,40
+7,9,137,Sideshow Mel,1
+7,10,138,Apu,1
+7,10,138,Bart,18
+7,10,138,Homer,37
+7,10,138,Krusty,5
+7,10,138,Lisa,12
+7,10,138,Marge,20
+7,10,138,Mr. Burns,20
+7,10,138,Smithers,9
+7,11,139,Bart,70
+7,11,139,Comic Book Guy,4
+7,11,139,Grampa,1
+7,11,139,Homer,21
+7,11,139,Jimbo,3
+7,11,139,Krusty,5
+7,11,139,Lisa,10
+7,11,139,Marge,49
+7,11,139,Milhouse,9
+7,11,139,Nelson,7
+7,12,140,Apu,11
+7,12,140,Bart,12
+7,12,140,Brockman,1
+7,12,140,Chalmers,6
+7,12,140,Chief Wiggum,2
+7,12,140,Cletus,1
+7,12,140,Comic Book Guy,1
+7,12,140,Edna Krabappel,4
+7,12,140,Flanders,2
+7,12,140,Groundskeeper Willie,1
+7,12,140,Homer,49
+7,12,140,Jimbo,1
+7,12,140,Krusty,1
+7,12,140,Lisa,3
+7,12,140,Marge,15
+7,12,140,Martin Prince,1
+7,12,140,Mayor Quimby,3
+7,12,140,Milhouse,7
+7,12,140,Moe,22
+7,12,140,Mr. Burns,32
+7,12,140,Nelson,2
+7,12,140,Otto,14
+7,12,140,Rev. Lovejoy,1
+7,12,140,Smithers,10
+7,13,141,Apu,3
+7,13,141,Bart,29
+7,13,141,Carl,1
+7,13,141,Chief Wiggum,1
+7,13,141,Dr. Hibbert,1
+7,13,141,Flanders,16
+7,13,141,Grampa,2
+7,13,141,Homer,68
+7,13,141,Lisa,1
+7,13,141,Marge,15
+7,13,141,Moe,1
+7,14,142,Apu,3
+7,14,142,Bart,9
+7,14,142,Carl,1
+7,14,142,Cletus,2
+7,14,142,Grampa,2
+7,14,142,Homer,41
+7,14,142,Krusty,2
+7,14,142,Lenny,1
+7,14,142,Lisa,27
+7,14,142,Marge,61
+7,14,142,Mr. Burns,16
+7,14,142,Patty,2
+7,14,142,Selma,3
+7,14,142,Smithers,7
+7,15,143,Agnes Skinner,1
+7,15,143,Apu,1
+7,15,143,Bart,39
+7,15,143,Brockman,3
+7,15,143,Chalmers,1
+7,15,143,Chief Wiggum,2
+7,15,143,Comic Book Guy,1
+7,15,143,Dr. Hibbert,2
+7,15,143,Homer,10
+7,15,143,Jimbo,1
+7,15,143,Krusty,27
+7,15,143,Lisa,19
+7,15,143,Marge,11
+7,15,143,Milhouse,5
+7,15,143,Moe,2
+7,15,143,Patty,1
+7,15,143,Selma,2
+7,15,143,Sideshow Mel,1
+7,16,144,Apu,2
+7,16,144,Barney,2
+7,16,144,Bart,3
+7,16,144,Chief Wiggum,8
+7,16,144,Comic Book Guy,2
+7,16,144,Dr. Hibbert,1
+7,16,144,Edna Krabappel,1
+7,16,144,Flanders,3
+7,16,144,Homer,38
+7,16,144,Lisa,53
+7,16,144,Marge,4
+7,16,144,Mayor Quimby,13
+7,16,144,Milhouse,1
+7,16,144,Moe,4
+7,16,144,Ralph,2
+7,16,144,Rev. Lovejoy,2
+7,17,145,Barney,1
+7,17,145,Bart,6
+7,17,145,Chief Wiggum,1
+7,17,145,Dr. Hibbert,2
+7,17,145,Homer,53
+7,17,145,Lenny,3
+7,17,145,Lisa,8
+7,17,145,Marge,13
+7,17,145,Moe,4
+7,17,145,Mr. Burns,75
+7,17,145,Smithers,50
+7,18,146,Apu,1
+7,18,146,Bart,55
+7,18,146,Brockman,2
+7,18,146,Comic Book Guy,4
+7,18,146,Grampa,2
+7,18,146,Homer,14
+7,18,146,Krusty,6
+7,18,146,Lisa,18
+7,18,146,Marge,11
+7,18,146,Milhouse,4
+7,19,147,Bart,2
+7,19,147,Carl,1
+7,19,147,Chief Wiggum,5
+7,19,147,Dr. Hibbert,1
+7,19,147,Fat Tony,1
+7,19,147,Grampa,2
+7,19,147,Homer,14
+7,19,147,Lenny,2
+7,19,147,Lisa,3
+7,19,147,Lou,2
+7,19,147,Marge,9
+7,19,147,Patty,3
+7,19,147,Rev. Lovejoy,3
+7,19,147,Selma,42
+7,20,148,Barney,1
+7,20,148,Bart,44
+7,20,148,Cletus,1
+7,20,148,Homer,37
+7,20,148,Kirk,2
+7,20,148,Lisa,44
+7,20,148,Marge,17
+7,20,148,Martin Prince,21
+7,20,148,Milhouse,29
+7,20,148,Moe,2
+7,20,148,Nelson,17
+7,20,148,Patty,1
+7,20,148,Selma,4
+7,20,148,Smithers,2
+7,21,149,Agnes Skinner,2
+7,21,149,Apu,11
+7,21,149,Barney,2
+7,21,149,Bart,6
+7,21,149,Chalmers,17
+7,21,149,Chief Wiggum,7
+7,21,149,Cletus,5
+7,21,149,Comic Book Guy,5
+7,21,149,Dr. Hibbert,1
+7,21,149,Flanders,5
+7,21,149,Grampa,2
+7,21,149,Groundskeeper Willie,1
+7,21,149,Homer,11
+7,21,149,Kirk,4
+7,21,149,Lisa,14
+7,21,149,Lou,6
+7,21,149,Marge,6
+7,21,149,Milhouse,9
+7,21,149,Moe,7
+7,21,149,Mr. Burns,8
+7,21,149,Nelson,8
+7,21,149,Otto,1
+7,21,149,Professor Frink,3
+7,21,149,Rev. Lovejoy,3
+7,21,149,Sideshow Mel,1
+7,21,149,Smithers,6
+7,22,150,Bart,32
+7,22,150,Chief Wiggum,3
+7,22,150,Edna Krabappel,3
+7,22,150,Flanders,6
+7,22,150,Grampa,67
+7,22,150,Homer,8
+7,22,150,Lisa,6
+7,22,150,Marge,4
+7,22,150,Martin Prince,1
+7,22,150,Mr. Burns,31
+7,22,150,Nelson,1
+7,22,150,Rev. Lovejoy,1
+7,22,150,Smithers,4
+7,23,151,Apu,48
+7,23,151,Barney,2
+7,23,151,Bart,6
+7,23,151,Brockman,2
+7,23,151,Chief Wiggum,3
+7,23,151,Fat Tony,2
+7,23,151,Flanders,5
+7,23,151,Grampa,6
+7,23,151,Groundskeeper Willie,3
+7,23,151,Homer,51
+7,23,151,Lenny,1
+7,23,151,Lisa,19
+7,23,151,Lou,1
+7,23,151,Marge,9
+7,23,151,Mayor Quimby,6
+7,23,151,Moe,4
+7,23,151,Nelson,1
+7,23,151,Professor Frink,2
+7,23,151,Selma,1
+7,24,152,Barney,2
+7,24,152,Bart,20
+7,24,152,Grampa,2
+7,24,152,Homer,79
+7,24,152,Jimbo,1
+7,24,152,Lisa,17
+7,24,152,Marge,15
+7,24,152,Milhouse,4
+7,24,152,Mr. Burns,1
+7,24,152,Nelson,1
+7,24,152,Otto,4
+7,24,152,Smithers,1
+7,25,153,Apu,3
+7,25,153,Bart,32
+7,25,153,Edna Krabappel,2
+7,25,153,Flanders,4
+7,25,153,Homer,24
+7,25,153,Lisa,62
+7,25,153,Lou,2
+7,25,153,Marge,31
+7,25,153,Milhouse,13
+7,25,153,Nelson,2
+7,25,153,Ralph,1
+8,1,154,Bart,21
+8,1,154,Brockman,3
+8,1,154,Dr. Hibbert,12
+8,1,154,Homer,32
+8,1,154,Lisa,40
+8,1,154,Marge,12
+8,1,154,Professor Frink,3
+8,2,155,Agnes Skinner,1
+8,2,155,Apu,2
+8,2,155,Barney,1
+8,2,155,Bart,16
+8,2,155,Chalmers,1
+8,2,155,Chief Wiggum,1
+8,2,155,Comic Book Guy,1
+8,2,155,Dr. Hibbert,1
+8,2,155,Flanders,4
+8,2,155,Homer,74
+8,2,155,Krusty,1
+8,2,155,Lisa,14
+8,2,155,Marge,19
+8,2,155,Mayor Quimby,1
+8,2,155,Milhouse,2
+8,2,155,Moe,1
+8,2,155,Mr. Burns,1
+8,2,155,Nelson,1
+8,2,155,Otto,4
+8,2,155,Professor Frink,1
+8,2,155,Rev. Lovejoy,1
+8,2,155,Sideshow Mel,1
+8,2,155,Smithers,5
+8,3,156,Barney,1
+8,3,156,Bart,17
+8,3,156,Brockman,1
+8,3,156,Carl,1
+8,3,156,Comic Book Guy,4
+8,3,156,Dr. Hibbert,4
+8,3,156,Grampa,2
+8,3,156,Homer,51
+8,3,156,Jimbo,4
+8,3,156,Krusty,1
+8,3,156,Lenny,1
+8,3,156,Lisa,5
+8,3,156,Marge,20
+8,3,156,Milhouse,1
+8,3,156,Moe,54
+8,4,157,Barney,1
+8,4,157,Bart,6
+8,4,157,Brockman,5
+8,4,157,Chief Wiggum,6
+8,4,157,Flanders,6
+8,4,157,Grampa,3
+8,4,157,Homer,41
+8,4,157,Lisa,8
+8,4,157,Lou,2
+8,4,157,Marge,24
+8,4,157,Moe,1
+8,4,157,Mr. Burns,43
+8,4,157,Smithers,11
+8,5,158,Agnes Skinner,1
+8,5,158,Apu,1
+8,5,158,Bart,38
+8,5,158,Brockman,4
+8,5,158,Chalmers,1
+8,5,158,Chief Wiggum,3
+8,5,158,Flanders,5
+8,5,158,Grampa,4
+8,5,158,Groundskeeper Willie,1
+8,5,158,Homer,44
+8,5,158,Lenny,1
+8,5,158,Lisa,9
+8,5,158,Marge,34
+8,5,158,Martin Prince,3
+8,5,158,Mayor Quimby,8
+8,5,158,Milhouse,5
+8,5,158,Moe,3
+8,5,158,Mr. Burns,3
+8,5,158,Nelson,3
+8,5,158,Otto,1
+8,5,158,Ralph,2
+8,5,158,Rev. Lovejoy,6
+8,5,158,Selma,1
+8,5,158,Sideshow Mel,1
+8,5,158,Smithers,1
+8,6,159,Bart,11
+8,6,159,Dr. Hibbert,3
+8,6,159,Flanders,5
+8,6,159,Homer,59
+8,6,159,Kirk,46
+8,6,159,Lisa,10
+8,6,159,Marge,44
+8,6,159,Milhouse,8
+8,6,159,Nelson,3
+8,6,159,Otto,1
+8,6,159,Rev. Lovejoy,6
+8,7,160,Agnes Skinner,2
+8,7,160,Apu,4
+8,7,160,Bart,5
+8,7,160,Chalmers,8
+8,7,160,Chief Wiggum,6
+8,7,160,Flanders,11
+8,7,160,Grampa,1
+8,7,160,Groundskeeper Willie,6
+8,7,160,Homer,22
+8,7,160,Jimbo,5
+8,7,160,Lisa,65
+8,7,160,Lou,3
+8,7,160,Marge,6
+8,7,160,Milhouse,11
+8,7,160,Mr. Burns,2
+8,7,160,Nelson,58
+8,7,160,Professor Frink,3
+8,8,161,Apu,4
+8,8,161,Barney,2
+8,8,161,Bart,5
+8,8,161,Brockman,5
+8,8,161,Chief Wiggum,1
+8,8,161,Flanders,65
+8,8,161,Grampa,2
+8,8,161,Homer,35
+8,8,161,Kirk,1
+8,8,161,Krusty,1
+8,8,161,Lenny,1
+8,8,161,Lisa,14
+8,8,161,Marge,17
+8,8,161,Moe,2
+8,8,161,Ralph,1
+8,8,161,Rev. Lovejoy,2
+8,9,162,Barney,1
+8,9,162,Bart,9
+8,9,162,Brockman,1
+8,9,162,Carl,1
+8,9,162,Chief Wiggum,6
+8,9,162,Dr. Hibbert,2
+8,9,162,Flanders,6
+8,9,162,Homer,103
+8,9,162,Krusty,1
+8,9,162,Lenny,3
+8,9,162,Lisa,6
+8,9,162,Marge,31
+8,9,162,Mayor Quimby,1
+8,9,162,Moe,1
+8,9,162,Nelson,1
+8,9,162,Otto,2
+8,9,162,Ralph,3
+8,9,162,Rev. Lovejoy,4
+8,9,162,Smithers,2
+8,10,163,Barney,1
+8,10,163,Bart,18
+8,10,163,Brockman,6
+8,10,163,Carl,2
+8,10,163,Chief Wiggum,2
+8,10,163,Dr. Hibbert,3
+8,10,163,Flanders,1
+8,10,163,Grampa,5
+8,10,163,Groundskeeper Willie,2
+8,10,163,Homer,63
+8,10,163,Lenny,2
+8,10,163,Lisa,8
+8,10,163,Marge,18
+8,10,163,Milhouse,2
+8,10,163,Moe,9
+8,10,163,Mr. Burns,6
+8,10,163,Rev. Lovejoy,1
+8,10,163,Smithers,7
+8,11,164,Agnes Skinner,7
+8,11,164,Bart,4
+8,11,164,Carl,3
+8,11,164,Chief Wiggum,3
+8,11,164,Cletus,3
+8,11,164,Edna Krabappel,6
+8,11,164,Fat Tony,16
+8,11,164,Flanders,5
+8,11,164,Grampa,1
+8,11,164,Homer,30
+8,11,164,Lenny,4
+8,11,164,Lisa,5
+8,11,164,Lou,2
+8,11,164,Marge,51
+8,11,164,Moe,3
+8,11,164,Mr. Burns,1
+8,12,165,Bart,13
+8,12,165,Carl,12
+8,12,165,Homer,49
+8,12,165,Lenny,12
+8,12,165,Lisa,10
+8,12,165,Marge,9
+8,12,165,Mr. Burns,70
+8,12,165,Smithers,28
+8,13,166,Apu,4
+8,13,166,Barney,5
+8,13,166,Bart,26
+8,13,166,Chief Wiggum,1
+8,13,166,Dr. Hibbert,2
+8,13,166,Flanders,3
+8,13,166,Grampa,6
+8,13,166,Groundskeeper Willie,5
+8,13,166,Homer,47
+8,13,166,Jimbo,1
+8,13,166,Krusty,10
+8,13,166,Lisa,33
+8,13,166,Marge,33
+8,13,166,Moe,3
+8,13,166,Mr. Burns,4
+8,13,166,Nelson,2
+8,13,166,Smithers,1
+8,14,167,Bart,18
+8,14,167,Brockman,1
+8,14,167,Carl,1
+8,14,167,Comic Book Guy,6
+8,14,167,Flanders,1
+8,14,167,Homer,33
+8,14,167,Krusty,18
+8,14,167,Lisa,13
+8,14,167,Marge,13
+8,14,167,Milhouse,3
+8,14,167,Moe,1
+8,14,167,Nelson,1
+8,14,167,Otto,2
+8,14,167,Ralph,2
+8,14,167,Sideshow Mel,1
+8,15,168,Barney,7
+8,15,168,Bart,32
+8,15,168,Homer,89
+8,15,168,Lisa,12
+8,15,168,Marge,31
+8,15,168,Milhouse,1
+8,15,168,Moe,17
+8,15,168,Smithers,3
+8,16,169,Bart,30
+8,16,169,Chief Wiggum,9
+8,16,169,Cletus,2
+8,16,169,Edna Krabappel,4
+8,16,169,Homer,11
+8,16,169,Krusty,9
+8,16,169,Lisa,17
+8,16,169,Lou,4
+8,16,169,Marge,11
+8,16,169,Mayor Quimby,1
+8,16,169,Milhouse,1
+8,16,169,Ralph,1
+8,16,169,Rev. Lovejoy,5
+8,16,169,Sideshow Bob,70
+8,17,170,Bart,49
+8,17,170,Brockman,6
+8,17,170,Chief Wiggum,10
+8,17,170,Comic Book Guy,1
+8,17,170,Dr. Hibbert,7
+8,17,170,Flanders,16
+8,17,170,Homer,21
+8,17,170,Krusty,4
+8,17,170,Lenny,1
+8,17,170,Lisa,79
+8,17,170,Marge,18
+8,17,170,Mayor Quimby,2
+8,17,170,Moe,1
+8,17,170,Otto,1
+8,17,170,Ralph,1
+8,17,170,Rev. Lovejoy,4
+8,17,170,Sideshow Mel,1
+8,17,170,Smithers,1
+8,18,171,Apu,1
+8,18,171,Barney,4
+8,18,171,Bart,19
+8,18,171,Brockman,6
+8,18,171,Chief Wiggum,20
+8,18,171,Comic Book Guy,2
+8,18,171,Dr. Hibbert,2
+8,18,171,Fat Tony,4
+8,18,171,Flanders,3
+8,18,171,Homer,61
+8,18,171,Kirk,1
+8,18,171,Krusty,2
+8,18,171,Lenny,2
+8,18,171,Lisa,5
+8,18,171,Lou,1
+8,18,171,Marge,18
+8,18,171,Mayor Quimby,8
+8,18,171,Milhouse,1
+8,18,171,Moe,10
+8,18,171,Nelson,1
+8,19,172,Agnes Skinner,8
+8,19,172,Apu,1
+8,19,172,Bart,41
+8,19,172,Brockman,3
+8,19,172,Chalmers,17
+8,19,172,Chief Wiggum,7
+8,19,172,Dr. Hibbert,2
+8,19,172,Edna Krabappel,49
+8,19,172,Flanders,1
+8,19,172,Groundskeeper Willie,2
+8,19,172,Homer,7
+8,19,172,Krusty,2
+8,19,172,Lenny,1
+8,19,172,Lisa,5
+8,19,172,Marge,3
+8,19,172,Martin Prince,7
+8,19,172,Milhouse,6
+8,19,172,Nelson,6
+8,19,172,Ralph,1
+8,19,172,Sideshow Mel,1
+8,20,173,Agnes Skinner,2
+8,20,173,Bart,85
+8,20,173,Brockman,3
+8,20,173,Chief Wiggum,9
+8,20,173,Comic Book Guy,3
+8,20,173,Groundskeeper Willie,3
+8,20,173,Homer,28
+8,20,173,Lisa,15
+8,20,173,Lou,4
+8,20,173,Marge,17
+8,20,173,Mayor Quimby,1
+8,20,173,Milhouse,2
+8,20,173,Moe,3
+8,20,173,Mr. Burns,2
+8,20,173,Otto,1
+8,20,173,Patty,1
+8,20,173,Rev. Lovejoy,3
+8,21,174,Barney,2
+8,21,174,Bart,5
+8,21,174,Brockman,3
+8,21,174,Chief Wiggum,1
+8,21,174,Dr. Hibbert,1
+8,21,174,Grampa,4
+8,21,174,Homer,21
+8,21,174,Krusty,1
+8,21,174,Lenny,1
+8,21,174,Lisa,45
+8,21,174,Marge,12
+8,21,174,Moe,1
+8,21,174,Mr. Burns,75
+8,21,174,Nelson,1
+8,21,174,Ralph,1
+8,21,174,Smithers,14
+8,22,175,Agnes Skinner,2
+8,22,175,Bart,12
+8,22,175,Flanders,21
+8,22,175,Homer,34
+8,22,175,Jimbo,1
+8,22,175,Lenny,4
+8,22,175,Lisa,18
+8,22,175,Marge,49
+8,22,175,Moe,8
+8,22,175,Rev. Lovejoy,37
+8,22,175,Sideshow Mel,1
+8,23,176,Barney,1
+8,23,176,Bart,17
+8,23,176,Brockman,6
+8,23,176,Carl,8
+8,23,176,Chief Wiggum,1
+8,23,176,Homer,57
+8,23,176,Lenny,14
+8,23,176,Lisa,3
+8,23,176,Marge,14
+8,23,176,Martin Prince,2
+8,23,176,Milhouse,9
+8,23,176,Moe,7
+8,23,176,Mr. Burns,15
+8,23,176,Rev. Lovejoy,1
+8,23,176,Smithers,6
+8,24,177,Barney,1
+8,24,177,Bart,7
+8,24,177,Brockman,4
+8,24,177,Chief Wiggum,27
+8,24,177,Grampa,20
+8,24,177,Homer,18
+8,24,177,Lisa,7
+8,24,177,Marge,19
+8,24,177,Moe,25
+8,24,177,Ralph,4
+8,24,177,Smithers,1
+8,25,178,Bart,38
+8,25,178,Chief Wiggum,14
+8,25,178,Edna Krabappel,2
+8,25,178,Grampa,4
+8,25,178,Homer,16
+8,25,178,Lisa,42
+8,25,178,Marge,13
+8,25,178,Nelson,1
+8,25,178,Ralph,2
+9,1,179,Barney,10
+9,1,179,Bart,15
+9,1,179,Carl,1
+9,1,179,Duffman,3
+9,1,179,Homer,69
+9,1,179,Lenny,2
+9,1,179,Lisa,18
+9,1,179,Marge,23
+9,1,179,Moe,6
+9,2,180,Agnes Skinner,34
+9,2,180,Apu,1
+9,2,180,Bart,13
+9,2,180,Brockman,2
+9,2,180,Chalmers,13
+9,2,180,Edna Krabappel,9
+9,2,180,Grampa,4
+9,2,180,Groundskeeper Willie,1
+9,2,180,Homer,18
+9,2,180,Lisa,6
+9,2,180,Marge,16
+9,2,180,Mayor Quimby,1
+9,2,180,Nelson,1
+9,2,180,Ralph,7
+9,3,181,Apu,5
+9,3,181,Barney,1
+9,3,181,Bart,30
+9,3,181,Brockman,1
+9,3,181,Dr. Hibbert,1
+9,3,181,Flanders,3
+9,3,181,Grampa,11
+9,3,181,Groundskeeper Willie,1
+9,3,181,Homer,73
+9,3,181,Jimbo,2
+9,3,181,Krusty,3
+9,3,181,Lisa,22
+9,3,181,Marge,41
+9,3,181,Milhouse,4
+9,3,181,Moe,4
+9,3,181,Nelson,2
+9,3,181,Patty,1
+9,3,181,Selma,1
+9,4,182,Agnes Skinner,1
+9,4,182,Bart,23
+9,4,182,Brockman,3
+9,4,182,Chief Wiggum,8
+9,4,182,Comic Book Guy,2
+9,4,182,Dr. Hibbert,2
+9,4,182,Edna Krabappel,1
+9,4,182,Flanders,11
+9,4,182,Homer,63
+9,4,182,Lenny,2
+9,4,182,Lisa,22
+9,4,182,Lou,1
+9,4,182,Marge,26
+9,4,182,Mayor Quimby,5
+9,4,182,Moe,5
+9,4,182,Mr. Burns,2
+9,4,182,Nelson,1
+9,4,182,Patty,5
+9,4,182,Professor Frink,5
+9,4,182,Ralph,1
+9,4,182,Rev. Lovejoy,3
+9,4,182,Selma,8
+9,4,182,Sideshow Mel,2
+9,5,183,Agnes Skinner,1
+9,5,183,Apu,1
+9,5,183,Bart,18
+9,5,183,Brockman,2
+9,5,183,Cletus,1
+9,5,183,Dr. Hibbert,2
+9,5,183,Flanders,2
+9,5,183,Groundskeeper Willie,1
+9,5,183,Homer,94
+9,5,183,Krusty,2
+9,5,183,Lenny,3
+9,5,183,Lisa,17
+9,5,183,Lou,1
+9,5,183,Marge,34
+9,5,183,Mayor Quimby,5
+9,5,183,Milhouse,3
+9,5,183,Moe,14
+9,5,183,Selma,3
+9,5,183,Sideshow Mel,3
+9,6,184,Apu,1
+9,6,184,Bart,39
+9,6,184,Brockman,3
+9,6,184,Chief Wiggum,2
+9,6,184,Dr. Hibbert,2
+9,6,184,Flanders,23
+9,6,184,Grampa,5
+9,6,184,Homer,78
+9,6,184,Krusty,1
+9,6,184,Lenny,1
+9,6,184,Lisa,13
+9,6,184,Marge,22
+9,6,184,Martin Prince,3
+9,6,184,Milhouse,4
+9,6,184,Mr. Burns,1
+9,6,184,Nelson,19
+9,6,184,Ralph,2
+9,6,184,Smithers,1
+9,7,185,Apu,67
+9,7,185,Barney,2
+9,7,185,Bart,11
+9,7,185,Brockman,3
+9,7,185,Carl,1
+9,7,185,Grampa,4
+9,7,185,Homer,61
+9,7,185,Kirk,1
+9,7,185,Krusty,11
+9,7,185,Lenny,3
+9,7,185,Lisa,11
+9,7,185,Marge,17
+9,7,185,Moe,10
+9,7,185,Rev. Lovejoy,3
+9,7,185,Selma,1
+9,8,186,Agnes Skinner,4
+9,8,186,Bart,8
+9,8,186,Brockman,6
+9,8,186,Carl,1
+9,8,186,Chief Wiggum,13
+9,8,186,Dr. Hibbert,3
+9,8,186,Edna Krabappel,1
+9,8,186,Flanders,10
+9,8,186,Homer,38
+9,8,186,Jimbo,3
+9,8,186,Lenny,4
+9,8,186,Lisa,52
+9,8,186,Lou,3
+9,8,186,Marge,14
+9,8,186,Mayor Quimby,1
+9,8,186,Milhouse,2
+9,8,186,Moe,10
+9,8,186,Mr. Burns,3
+9,8,186,Ralph,4
+9,8,186,Rev. Lovejoy,5
+9,8,186,Selma,1
+9,8,186,Sideshow Mel,1
+9,8,186,Smithers,3
+9,9,187,Bart,9
+9,9,187,Chief Wiggum,7
+9,9,187,Dr. Hibbert,4
+9,9,187,Flanders,29
+9,9,187,Homer,55
+9,9,187,Kirk,2
+9,9,187,Lenny,1
+9,9,187,Lisa,11
+9,9,187,Marge,68
+9,9,187,Moe,7
+9,9,187,Sideshow Mel,3
+9,10,188,Apu,4
+9,10,188,Barney,2
+9,10,188,Bart,43
+9,10,188,Brockman,12
+9,10,188,Carl,1
+9,10,188,Chief Wiggum,4
+9,10,188,Dr. Hibbert,1
+9,10,188,Edna Krabappel,2
+9,10,188,Flanders,2
+9,10,188,Grampa,2
+9,10,188,Homer,52
+9,10,188,Krusty,2
+9,10,188,Lenny,2
+9,10,188,Lisa,23
+9,10,188,Lou,2
+9,10,188,Marge,41
+9,10,188,Milhouse,2
+9,10,188,Moe,9
+9,10,188,Mr. Burns,1
+9,10,188,Ralph,1
+9,10,188,Sideshow Mel,1
+9,11,189,Bart,10
+9,11,189,Homer,18
+9,11,189,Lisa,9
+9,11,189,Marge,14
+9,12,190,Agnes Skinner,3
+9,12,190,Bart,50
+9,12,190,Chief Wiggum,8
+9,12,190,Flanders,1
+9,12,190,Homer,75
+9,12,190,Krusty,2
+9,12,190,Lisa,25
+9,12,190,Marge,44
+9,12,190,Nelson,3
+9,13,191,Agnes Skinner,1
+9,13,191,Apu,1
+9,13,191,Barney,5
+9,13,191,Bart,11
+9,13,191,Brockman,7
+9,13,191,Carl,3
+9,13,191,Cletus,2
+9,13,191,Comic Book Guy,1
+9,13,191,Edna Krabappel,4
+9,13,191,Flanders,8
+9,13,191,Groundskeeper Willie,12
+9,13,191,Homer,64
+9,13,191,Jimbo,1
+9,13,191,Lenny,1
+9,13,191,Lisa,16
+9,13,191,Marge,31
+9,13,191,Moe,9
+9,13,191,Mr. Burns,9
+9,13,191,Otto,4
+9,13,191,Rev. Lovejoy,11
+9,13,191,Sideshow Mel,1
+9,13,191,Smithers,10
+9,14,192,Bart,40
+9,14,192,Brockman,1
+9,14,192,Chief Wiggum,1
+9,14,192,Comic Book Guy,5
+9,14,192,Flanders,4
+9,14,192,Homer,29
+9,14,192,Lisa,35
+9,14,192,Marge,12
+9,14,192,Martin Prince,4
+9,14,192,Milhouse,28
+9,14,192,Nelson,30
+9,14,192,Otto,12
+9,14,192,Ralph,5
+9,15,193,Agnes Skinner,1
+9,15,193,Apu,1
+9,15,193,Barney,1
+9,15,193,Bart,39
+9,15,193,Brockman,1
+9,15,193,Carl,1
+9,15,193,Chief Wiggum,1
+9,15,193,Dr. Hibbert,1
+9,15,193,Flanders,4
+9,15,193,Homer,26
+9,15,193,Krusty,69
+9,15,193,Lenny,2
+9,15,193,Lisa,11
+9,15,193,Marge,15
+9,15,193,Moe,3
+9,15,193,Sideshow Mel,2
+9,16,194,Barney,1
+9,16,194,Bart,7
+9,16,194,Chief Wiggum,12
+9,16,194,Homer,69
+9,16,194,Lenny,1
+9,16,194,Lisa,4
+9,16,194,Lou,3
+9,16,194,Marge,8
+9,16,194,Moe,89
+9,17,195,Apu,16
+9,17,195,Bart,20
+9,17,195,Brockman,2
+9,17,195,Chief Wiggum,2
+9,17,195,Dr. Hibbert,4
+9,17,195,Flanders,3
+9,17,195,Grampa,13
+9,17,195,Homer,32
+9,17,195,Jimbo,2
+9,17,195,Lisa,67
+9,17,195,Marge,15
+9,17,195,Martin Prince,4
+9,17,195,Milhouse,7
+9,17,195,Nelson,4
+9,17,195,Otto,1
+9,17,195,Ralph,6
+9,18,196,Bart,91
+9,18,196,Brockman,1
+9,18,196,Chief Wiggum,17
+9,18,196,Edna Krabappel,2
+9,18,196,Homer,11
+9,18,196,Jimbo,9
+9,18,196,Krusty,1
+9,18,196,Lisa,7
+9,18,196,Marge,25
+9,18,196,Mayor Quimby,4
+9,18,196,Milhouse,2
+9,18,196,Mr. Burns,2
+9,18,196,Nelson,8
+9,18,196,Professor Frink,5
+9,18,196,Ralph,40
+9,18,196,Smithers,1
+9,19,197,Apu,3
+9,19,197,Barney,9
+9,19,197,Bart,20
+9,19,197,Brockman,2
+9,19,197,Carl,1
+9,19,197,Grampa,3
+9,19,197,Homer,93
+9,19,197,Jimbo,1
+9,19,197,Lenny,2
+9,19,197,Lisa,8
+9,19,197,Marge,10
+9,19,197,Milhouse,5
+9,19,197,Moe,13
+9,19,197,Mr. Burns,4
+9,19,197,Nelson,1
+9,19,197,Ralph,2
+9,19,197,Smithers,2
+9,20,198,Apu,1
+9,20,198,Barney,1
+9,20,198,Bart,3
+9,20,198,Brockman,5
+9,20,198,Carl,2
+9,20,198,Chief Wiggum,3
+9,20,198,Dr. Hibbert,1
+9,20,198,Edna Krabappel,1
+9,20,198,Flanders,7
+9,20,198,Homer,68
+9,20,198,Krusty,1
+9,20,198,Lenny,3
+9,20,198,Lisa,5
+9,20,198,Marge,6
+9,20,198,Milhouse,1
+9,20,198,Moe,5
+9,20,198,Mr. Burns,47
+9,20,198,Otto,1
+9,20,198,Professor Frink,1
+9,20,198,Smithers,13
+9,21,199,Apu,1
+9,21,199,Bart,52
+9,21,199,Brockman,8
+9,21,199,Grampa,3
+9,21,199,Groundskeeper Willie,17
+9,21,199,Homer,25
+9,21,199,Krusty,6
+9,21,199,Lisa,50
+9,21,199,Marge,15
+9,21,199,Milhouse,4
+9,21,199,Mr. Burns,2
+9,21,199,Nelson,5
+9,21,199,Smithers,1
+9,22,200,Apu,1
+9,22,200,Bart,10
+9,22,200,Carl,1
+9,22,200,Chief Wiggum,2
+9,22,200,Cletus,1
+9,22,200,Flanders,7
+9,22,200,Homer,104
+9,22,200,Lenny,4
+9,22,200,Lisa,15
+9,22,200,Marge,23
+9,22,200,Mayor Quimby,11
+9,22,200,Moe,9
+9,22,200,Mr. Burns,1
+9,22,200,Otto,1
+9,22,200,Sideshow Mel,2
+9,23,201,Apu,3
+9,23,201,Bart,28
+9,23,201,Chief Wiggum,1
+9,23,201,Comic Book Guy,1
+9,23,201,Dr. Hibbert,1
+9,23,201,Flanders,3
+9,23,201,Grampa,8
+9,23,201,Homer,82
+9,23,201,Lisa,5
+9,23,201,Lou,1
+9,23,201,Marge,16
+9,23,201,Milhouse,4
+9,23,201,Mr. Burns,2
+9,23,201,Nelson,2
+9,23,201,Ralph,2
+9,23,201,Rev. Lovejoy,2
+9,23,201,Smithers,1
+9,24,202,Agnes Skinner,1
+9,24,202,Barney,1
+9,24,202,Bart,27
+9,24,202,Carl,4
+9,24,202,Chief Wiggum,2
+9,24,202,Cletus,4
+9,24,202,Comic Book Guy,1
+9,24,202,Dr. Hibbert,5
+9,24,202,Homer,56
+9,24,202,Lenny,2
+9,24,202,Lisa,71
+9,24,202,Marge,18
+9,24,202,Milhouse,8
+9,24,202,Moe,3
+9,24,202,Mr. Burns,3
+9,25,203,Agnes Skinner,1
+9,25,203,Bart,21
+9,25,203,Carl,4
+9,25,203,Chief Wiggum,5
+9,25,203,Edna Krabappel,2
+9,25,203,Flanders,13
+9,25,203,Grampa,12
+9,25,203,Homer,80
+9,25,203,Lenny,4
+9,25,203,Lisa,17
+9,25,203,Marge,64
+9,25,203,Moe,2
+9,25,203,Ralph,1
+9,25,203,Sideshow Mel,1
+10,1,204,Apu,4
+10,1,204,Bart,19
+10,1,204,Groundskeeper Willie,8
+10,1,204,Homer,51
+10,1,204,Krusty,1
+10,1,204,Lisa,75
+10,1,204,Marge,12
+10,1,204,Martin Prince,1
+10,1,204,Milhouse,15
+10,1,204,Nelson,8
+10,1,204,Ralph,3
+10,2,205,Bart,29
+10,2,205,Brockman,4
+10,2,205,Carl,1
+10,2,205,Flanders,2
+10,2,205,Grampa,4
+10,2,205,Homer,104
+10,2,205,Lenny,4
+10,2,205,Lisa,19
+10,2,205,Marge,28
+10,2,205,Moe,2
+10,2,205,Professor Frink,6
+10,3,206,Apu,2
+10,3,206,Bart,69
+10,3,206,Brockman,2
+10,3,206,Edna Krabappel,1
+10,3,206,Homer,39
+10,3,206,Lisa,24
+10,3,206,Marge,51
+10,3,206,Mayor Quimby,1
+10,3,206,Milhouse,3
+10,3,206,Moe,5
+10,3,206,Mr. Burns,3
+10,3,206,Nelson,29
+10,3,206,Rev. Lovejoy,1
+10,3,206,Smithers,1
+10,4,207,Apu,4
+10,4,207,Barney,1
+10,4,207,Bart,36
+10,4,207,Brockman,2
+10,4,207,Chief Wiggum,15
+10,4,207,Dr. Hibbert,1
+10,4,207,Homer,52
+10,4,207,Krusty,2
+10,4,207,Lisa,22
+10,4,207,Lou,1
+10,4,207,Marge,31
+10,4,207,Moe,4
+10,5,208,Apu,6
+10,5,208,Barney,2
+10,5,208,Bart,12
+10,5,208,Carl,3
+10,5,208,Chief Wiggum,2
+10,5,208,Comic Book Guy,1
+10,5,208,Flanders,2
+10,5,208,Homer,111
+10,5,208,Kirk,2
+10,5,208,Krusty,1
+10,5,208,Lenny,3
+10,5,208,Lisa,10
+10,5,208,Marge,16
+10,5,208,Moe,9
+10,5,208,Sideshow Mel,1
+10,5,208,Smithers,1
+10,6,209,Barney,1
+10,6,209,Bart,9
+10,6,209,Brockman,2
+10,6,209,Carl,4
+10,6,209,Chief Wiggum,8
+10,6,209,Dr. Hibbert,3
+10,6,209,Flanders,4
+10,6,209,Grampa,16
+10,6,209,Groundskeeper Willie,3
+10,6,209,Homer,82
+10,6,209,Krusty,1
+10,6,209,Lenny,3
+10,6,209,Lisa,6
+10,6,209,Lou,2
+10,6,209,Marge,15
+10,6,209,Mr. Burns,12
+10,6,209,Smithers,5
+10,7,210,Bart,19
+10,7,210,Chalmers,7
+10,7,210,Edna Krabappel,3
+10,7,210,Groundskeeper Willie,4
+10,7,210,Homer,50
+10,7,210,Lisa,62
+10,7,210,Marge,31
+10,7,210,Martin Prince,1
+10,7,210,Milhouse,1
+10,7,210,Nelson,8
+10,7,210,Otto,2
+10,7,210,Ralph,8
+10,7,210,Rev. Lovejoy,4
+10,8,211,Bart,11
+10,8,211,Carl,3
+10,8,211,Dr. Hibbert,15
+10,8,211,Grampa,37
+10,8,211,Homer,92
+10,8,211,Krusty,5
+10,8,211,Lenny,1
+10,8,211,Lisa,13
+10,8,211,Marge,28
+10,8,211,Moe,4
+10,8,211,Rev. Lovejoy,1
+10,9,212,Bart,10
+10,9,212,Brockman,3
+10,9,212,Carl,1
+10,9,212,Chief Wiggum,3
+10,9,212,Comic Book Guy,4
+10,9,212,Edna Krabappel,1
+10,9,212,Fat Tony,11
+10,9,212,Flanders,1
+10,9,212,Groundskeeper Willie,1
+10,9,212,Homer,77
+10,9,212,Lenny,1
+10,9,212,Lisa,6
+10,9,212,Lou,7
+10,9,212,Marge,12
+10,9,212,Mayor Quimby,32
+10,9,212,Milhouse,3
+10,9,212,Moe,7
+10,9,212,Professor Frink,1
+10,10,213,Bart,5
+10,10,213,Brockman,2
+10,10,213,Carl,2
+10,10,213,Cletus,1
+10,10,213,Comic Book Guy,1
+10,10,213,Edna Krabappel,1
+10,10,213,Flanders,70
+10,10,213,Grampa,2
+10,10,213,Homer,106
+10,10,213,Lenny,3
+10,10,213,Lisa,4
+10,10,213,Marge,10
+10,10,213,Moe,2
+10,10,213,Mr. Burns,2
+10,10,213,Rev. Lovejoy,2
+10,10,213,Sideshow Mel,1
+10,10,213,Smithers,2
+10,11,214,Barney,4
+10,11,214,Bart,30
+10,11,214,Brockman,7
+10,11,214,Carl,3
+10,11,214,Chalmers,2
+10,11,214,Chief Wiggum,18
+10,11,214,Dr. Hibbert,1
+10,11,214,Edna Krabappel,1
+10,11,214,Grampa,4
+10,11,214,Homer,44
+10,11,214,Kirk,1
+10,11,214,Krusty,2
+10,11,214,Lenny,6
+10,11,214,Lisa,26
+10,11,214,Lou,1
+10,11,214,Marge,20
+10,11,214,Martin Prince,2
+10,11,214,Mayor Quimby,3
+10,11,214,Milhouse,12
+10,11,214,Moe,4
+10,11,214,Nelson,9
+10,11,214,Otto,1
+10,11,214,Patty,1
+10,11,214,Professor Frink,2
+10,11,214,Ralph,2
+10,11,214,Rev. Lovejoy,1
+10,11,214,Sideshow Mel,1
+10,12,215,Apu,1
+10,12,215,Barney,3
+10,12,215,Bart,16
+10,12,215,Carl,2
+10,12,215,Chief Wiggum,8
+10,12,215,Dr. Hibbert,1
+10,12,215,Flanders,3
+10,12,215,Homer,69
+10,12,215,Krusty,6
+10,12,215,Lenny,10
+10,12,215,Lisa,16
+10,12,215,Marge,18
+10,12,215,Milhouse,1
+10,12,215,Moe,6
+10,12,215,Nelson,1
+10,12,215,Ralph,2
+10,12,215,Rev. Lovejoy,1
+10,12,215,Sideshow Mel,1
+10,13,216,Barney,1
+10,13,216,Bart,7
+10,13,216,Carl,7
+10,13,216,Chief Wiggum,17
+10,13,216,Comic Book Guy,2
+10,13,216,Flanders,1
+10,13,216,Grampa,1
+10,13,216,Homer,114
+10,13,216,Krusty,2
+10,13,216,Lenny,7
+10,13,216,Lisa,9
+10,13,216,Lou,1
+10,13,216,Marge,38
+10,13,216,Moe,5
+10,13,216,Mr. Burns,3
+10,13,216,Nelson,1
+10,13,216,Otto,1
+10,14,217,Apu,35
+10,14,217,Barney,3
+10,14,217,Bart,13
+10,14,217,Brockman,2
+10,14,217,Chief Wiggum,13
+10,14,217,Dr. Hibbert,5
+10,14,217,Edna Krabappel,2
+10,14,217,Flanders,5
+10,14,217,Homer,61
+10,14,217,Jimbo,1
+10,14,217,Lenny,1
+10,14,217,Lisa,4
+10,14,217,Marge,47
+10,14,217,Moe,12
+10,14,217,Nelson,2
+10,14,217,Otto,1
+10,14,217,Sideshow Mel,1
+10,15,218,Agnes Skinner,3
+10,15,218,Bart,17
+10,15,218,Brockman,1
+10,15,218,Carl,3
+10,15,218,Chalmers,3
+10,15,218,Chief Wiggum,20
+10,15,218,Edna Krabappel,2
+10,15,218,Groundskeeper Willie,4
+10,15,218,Homer,47
+10,15,218,Krusty,2
+10,15,218,Lenny,5
+10,15,218,Lisa,16
+10,15,218,Lou,2
+10,15,218,Marge,50
+10,15,218,Moe,1
+10,15,218,Nelson,1
+10,15,218,Rev. Lovejoy,1
+10,16,219,Agnes Skinner,3
+10,16,219,Bart,15
+10,16,219,Carl,2
+10,16,219,Chief Wiggum,3
+10,16,219,Dr. Hibbert,4
+10,16,219,Flanders,6
+10,16,219,Homer,87
+10,16,219,Krusty,2
+10,16,219,Lenny,4
+10,16,219,Lisa,77
+10,16,219,Lou,1
+10,16,219,Marge,25
+10,16,219,Milhouse,3
+10,16,219,Moe,2
+10,16,219,Ralph,2
+10,17,220,Bart,30
+10,17,220,Chief Wiggum,1
+10,17,220,Dr. Hibbert,4
+10,17,220,Homer,79
+10,17,220,Lisa,15
+10,17,220,Marge,42
+10,17,220,Milhouse,1
+10,17,220,Mr. Burns,4
+10,18,221,Bart,34
+10,18,221,Carl,1
+10,18,221,Chief Wiggum,12
+10,18,221,Dr. Hibbert,2
+10,18,221,Edna Krabappel,2
+10,18,221,Flanders,16
+10,18,221,Grampa,2
+10,18,221,Groundskeeper Willie,3
+10,18,221,Homer,37
+10,18,221,Krusty,2
+10,18,221,Lisa,16
+10,18,221,Lou,2
+10,18,221,Marge,24
+10,18,221,Milhouse,16
+10,18,221,Nelson,7
+10,18,221,Ralph,3
+10,18,221,Rev. Lovejoy,11
+10,19,222,Barney,1
+10,19,222,Bart,10
+10,19,222,Carl,1
+10,19,222,Chief Wiggum,4
+10,19,222,Cletus,1
+10,19,222,Edna Krabappel,3
+10,19,222,Flanders,7
+10,19,222,Homer,111
+10,19,222,Lenny,1
+10,19,222,Lisa,11
+10,19,222,Lou,1
+10,19,222,Marge,36
+10,19,222,Milhouse,2
+10,19,222,Moe,5
+10,19,222,Mr. Burns,4
+10,19,222,Smithers,1
+10,20,223,Agnes Skinner,2
+10,20,223,Bart,46
+10,20,223,Brockman,2
+10,20,223,Chalmers,4
+10,20,223,Chief Wiggum,4
+10,20,223,Grampa,18
+10,20,223,Homer,32
+10,20,223,Lenny,2
+10,20,223,Lisa,25
+10,20,223,Marge,15
+10,20,223,Martin Prince,1
+10,20,223,Mayor Quimby,2
+10,20,223,Milhouse,3
+10,20,223,Moe,4
+10,20,223,Mr. Burns,2
+10,20,223,Nelson,3
+10,20,223,Patty,1
+10,20,223,Selma,2
+10,20,223,Smithers,1
+10,21,224,Apu,2
+10,21,224,Barney,1
+10,21,224,Bart,7
+10,21,224,Brockman,4
+10,21,224,Carl,1
+10,21,224,Comic Book Guy,1
+10,21,224,Flanders,2
+10,21,224,Groundskeeper Willie,9
+10,21,224,Homer,46
+10,21,224,Jimbo,1
+10,21,224,Lenny,5
+10,21,224,Lisa,10
+10,21,224,Marge,18
+10,21,224,Mayor Quimby,2
+10,21,224,Milhouse,1
+10,21,224,Moe,2
+10,21,224,Mr. Burns,74
+10,21,224,Nelson,1
+10,21,224,Otto,1
+10,21,224,Professor Frink,5
+10,21,224,Selma,1
+10,21,224,Smithers,4
+10,22,225,Barney,1
+10,22,225,Bart,7
+10,22,225,Brockman,4
+10,22,225,Carl,3
+10,22,225,Chief Wiggum,9
+10,22,225,Comic Book Guy,12
+10,22,225,Dr. Hibbert,16
+10,22,225,Flanders,1
+10,22,225,Groundskeeper Willie,1
+10,22,225,Homer,46
+10,22,225,Krusty,2
+10,22,225,Lenny,5
+10,22,225,Lisa,49
+10,22,225,Marge,17
+10,22,225,Mayor Quimby,3
+10,22,225,Moe,3
+10,22,225,Otto,1
+10,22,225,Professor Frink,15
+10,22,225,Ralph,1
+10,22,225,Rev. Lovejoy,2
+10,23,226,Barney,1
+10,23,226,Bart,23
+10,23,226,Flanders,7
+10,23,226,Groundskeeper Willie,2
+10,23,226,Homer,78
+10,23,226,Lenny,2
+10,23,226,Lisa,30
+10,23,226,Marge,31
+10,23,226,Moe,1
+10,23,226,Mr. Burns,1
+11,1,227,Bart,7
+11,1,227,Chief Wiggum,2
+11,1,227,Comic Book Guy,4
+11,1,227,Flanders,2
+11,1,227,Homer,95
+11,1,227,Krusty,1
+11,1,227,Lisa,6
+11,1,227,Marge,29
+11,1,227,Moe,2
+11,1,227,Professor Frink,2
+11,1,227,Sideshow Mel,63
+11,2,228,Apu,3
+11,2,228,Bart,66
+11,2,228,Carl,3
+11,2,228,Chief Wiggum,5
+11,2,228,Comic Book Guy,2
+11,2,228,Dr. Hibbert,1
+11,2,228,Edna Krabappel,5
+11,2,228,Flanders,16
+11,2,228,Grampa,1
+11,2,228,Groundskeeper Willie,2
+11,2,228,Homer,55
+11,2,228,Jimbo,1
+11,2,228,Krusty,6
+11,2,228,Lenny,4
+11,2,228,Lisa,16
+11,2,228,Lou,1
+11,2,228,Marge,43
+11,2,228,Martin Prince,2
+11,2,228,Milhouse,7
+11,2,228,Moe,4
+11,2,228,Mr. Burns,2
+11,2,228,Nelson,7
+11,2,228,Otto,1
+11,2,228,Ralph,2
+11,2,228,Rev. Lovejoy,1
+11,2,228,Sideshow Mel,1
+11,2,228,Smithers,1
+11,3,229,Bart,8
+11,3,229,Chief Wiggum,5
+11,3,229,Flanders,4
+11,3,229,Groundskeeper Willie,1
+11,3,229,Homer,88
+11,3,229,Krusty,6
+11,3,229,Lenny,3
+11,3,229,Lisa,26
+11,3,229,Lou,1
+11,3,229,Marge,8
+11,3,229,Milhouse,1
+11,3,229,Mr. Burns,4
+11,3,229,Nelson,3
+11,4,230,Bart,30
+11,4,230,Carl,1
+11,4,230,Chief Wiggum,7
+11,4,230,Comic Book Guy,16
+11,4,230,Flanders,10
+11,4,230,Grampa,1
+11,4,230,Homer,66
+11,4,230,Krusty,3
+11,4,230,Lenny,1
+11,4,230,Lisa,23
+11,4,230,Lou,1
+11,4,230,Marge,23
+11,4,230,Milhouse,2
+11,4,230,Nelson,3
+11,4,230,Professor Frink,3
+11,4,230,Rev. Lovejoy,3
+11,5,231,Agnes Skinner,2
+11,5,231,Apu,1
+11,5,231,Bart,24
+11,5,231,Carl,2
+11,5,231,Chief Wiggum,6
+11,5,231,Cletus,1
+11,5,231,Flanders,1
+11,5,231,Homer,131
+11,5,231,Lenny,3
+11,5,231,Lisa,23
+11,5,231,Marge,40
+11,5,231,Moe,5
+11,5,231,Ralph,3
+11,6,232,Bart,1
+11,6,232,Brockman,11
+11,6,232,Carl,7
+11,6,232,Chief Wiggum,2
+11,6,232,Dr. Hibbert,4
+11,6,232,Edna Krabappel,3
+11,6,232,Grampa,2
+11,6,232,Homer,107
+11,6,232,Krusty,4
+11,6,232,Lenny,13
+11,6,232,Lisa,4
+11,6,232,Marge,15
+11,6,232,Milhouse,2
+11,6,232,Moe,3
+11,6,232,Mr. Burns,4
+11,6,232,Nelson,1
+11,6,232,Otto,2
+11,6,232,Smithers,2
+11,7,233,Apu,80
+11,7,233,Bart,8
+11,7,233,Brockman,3
+11,7,233,Chief Wiggum,4
+11,7,233,Dr. Hibbert,3
+11,7,233,Flanders,4
+11,7,233,Homer,47
+11,7,233,Lenny,1
+11,7,233,Lisa,6
+11,7,233,Marge,21
+11,8,234,Apu,2
+11,8,234,Bart,14
+11,8,234,Carl,4
+11,8,234,Chief Wiggum,5
+11,8,234,Edna Krabappel,3
+11,8,234,Flanders,7
+11,8,234,Grampa,1
+11,8,234,Homer,63
+11,8,234,Lenny,6
+11,8,234,Lisa,10
+11,8,234,Marge,41
+11,8,234,Milhouse,1
+11,8,234,Moe,6
+11,8,234,Nelson,1
+11,8,234,Rev. Lovejoy,1
+11,9,235,Bart,44
+11,9,235,Brockman,5
+11,9,235,Carl,1
+11,9,235,Chief Wiggum,2
+11,9,235,Dr. Hibbert,6
+11,9,235,Fat Tony,8
+11,9,235,Flanders,3
+11,9,235,Homer,18
+11,9,235,Krusty,6
+11,9,235,Lenny,1
+11,9,235,Lisa,44
+11,9,235,Marge,8
+11,9,235,Martin Prince,1
+11,9,235,Milhouse,13
+11,9,235,Moe,5
+11,9,235,Mr. Burns,8
+11,9,235,Nelson,4
+11,9,235,Ralph,7
+11,9,235,Smithers,1
+11,10,236,Bart,38
+11,10,236,Dr. Hibbert,5
+11,10,236,Flanders,18
+11,10,236,Homer,75
+11,10,236,Lisa,60
+11,10,236,Marge,37
+11,10,236,Moe,4
+11,10,236,Nelson,1
+11,10,236,Otto,3
+11,11,237,Bart,47
+11,11,237,Brockman,2
+11,11,237,Carl,1
+11,11,237,Cletus,2
+11,11,237,Dr. Hibbert,10
+11,11,237,Fat Tony,2
+11,11,237,Flanders,5
+11,11,237,Grampa,1
+11,11,237,Homer,57
+11,11,237,Krusty,1
+11,11,237,Lenny,1
+11,11,237,Lisa,12
+11,11,237,Marge,11
+11,11,237,Milhouse,12
+11,11,237,Nelson,1
+11,11,237,Patty,2
+11,11,237,Professor Frink,1
+11,11,237,Ralph,5
+11,11,237,Rev. Lovejoy,6
+11,11,237,Sideshow Mel,2
+11,12,238,Apu,1
+11,12,238,Barney,2
+11,12,238,Bart,8
+11,12,238,Brockman,19
+11,12,238,Carl,2
+11,12,238,Grampa,1
+11,12,238,Homer,72
+11,12,238,Krusty,2
+11,12,238,Lenny,8
+11,12,238,Lisa,10
+11,12,238,Marge,25
+11,12,238,Moe,9
+11,12,238,Mr. Burns,32
+11,12,238,Smithers,6
+11,13,239,Bart,19
+11,13,239,Carl,1
+11,13,239,Chief Wiggum,3
+11,13,239,Comic Book Guy,2
+11,13,239,Flanders,1
+11,13,239,Homer,64
+11,13,239,Lenny,3
+11,13,239,Lisa,19
+11,13,239,Lou,1
+11,13,239,Marge,23
+11,13,239,Milhouse,1
+11,13,239,Moe,5
+11,13,239,Nelson,3
+11,13,239,Ralph,1
+11,14,240,Apu,3
+11,14,240,Bart,17
+11,14,240,Carl,2
+11,14,240,Chief Wiggum,2
+11,14,240,Cletus,1
+11,14,240,Comic Book Guy,2
+11,14,240,Dr. Hibbert,3
+11,14,240,Edna Krabappel,3
+11,14,240,Flanders,63
+11,14,240,Groundskeeper Willie,1
+11,14,240,Homer,67
+11,14,240,Kirk,2
+11,14,240,Lenny,4
+11,14,240,Lisa,12
+11,14,240,Marge,14
+11,14,240,Moe,4
+11,14,240,Professor Frink,1
+11,14,240,Ralph,1
+11,14,240,Rev. Lovejoy,5
+11,15,241,Bart,18
+11,15,241,Carl,1
+11,15,241,Homer,100
+11,15,241,Lenny,2
+11,15,241,Lisa,9
+11,15,241,Marge,15
+11,15,241,Mr. Burns,5
+11,15,241,Rev. Lovejoy,9
+11,16,242,Bart,11
+11,16,242,Carl,11
+11,16,242,Duffman,19
+11,16,242,Homer,44
+11,16,242,Lenny,7
+11,16,242,Lisa,16
+11,16,242,Marge,9
+11,16,242,Milhouse,1
+11,16,242,Moe,72
+11,17,243,Barney,1
+11,17,243,Bart,100
+11,17,243,Brockman,3
+11,17,243,Carl,2
+11,17,243,Flanders,6
+11,17,243,Groundskeeper Willie,1
+11,17,243,Homer,29
+11,17,243,Krusty,2
+11,17,243,Lenny,2
+11,17,243,Lisa,52
+11,17,243,Marge,16
+11,17,243,Milhouse,7
+11,17,243,Moe,2
+11,17,243,Nelson,2
+11,17,243,Ralph,13
+11,18,244,Apu,2
+11,18,244,Barney,60
+11,18,244,Bart,26
+11,18,244,Brockman,4
+11,18,244,Carl,4
+11,18,244,Cletus,2
+11,18,244,Comic Book Guy,2
+11,18,244,Flanders,1
+11,18,244,Homer,72
+11,18,244,Kirk,1
+11,18,244,Lenny,4
+11,18,244,Lisa,22
+11,18,244,Marge,16
+11,18,244,Moe,19
+11,18,244,Nelson,1
+11,19,245,Bart,14
+11,19,245,Carl,1
+11,19,245,Flanders,2
+11,19,245,Homer,88
+11,19,245,Lenny,2
+11,19,245,Lisa,18
+11,19,245,Marge,41
+11,19,245,Mr. Burns,2
+11,20,246,Agnes Skinner,2
+11,20,246,Bart,26
+11,20,246,Chief Wiggum,11
+11,20,246,Homer,34
+11,20,246,Lisa,42
+11,20,246,Lou,4
+11,20,246,Marge,29
+11,20,246,Milhouse,15
+11,20,246,Nelson,3
+11,20,246,Professor Frink,12
+11,20,246,Ralph,5
+11,21,247,Bart,25
+11,21,247,Brockman,2
+11,21,247,Chief Wiggum,9
+11,21,247,Comic Book Guy,1
+11,21,247,Homer,19
+11,21,247,Krusty,3
+11,21,247,Lisa,17
+11,21,247,Lou,1
+11,21,247,Marge,66
+11,21,247,Milhouse,2
+11,21,247,Moe,3
+11,21,247,Nelson,2
+11,21,247,Otto,15
+11,21,247,Patty,7
+11,21,247,Ralph,1
+11,21,247,Rev. Lovejoy,3
+11,21,247,Selma,5
+11,22,248,Apu,1
+11,22,248,Bart,20
+11,22,248,Carl,1
+11,22,248,Chief Wiggum,1
+11,22,248,Comic Book Guy,2
+11,22,248,Dr. Hibbert,1
+11,22,248,Flanders,1
+11,22,248,Grampa,1
+11,22,248,Homer,47
+11,22,248,Krusty,1
+11,22,248,Lenny,1
+11,22,248,Lisa,21
+11,22,248,Marge,25
+11,22,248,Moe,1
+12,1,249,Agnes Skinner,2
+12,1,249,Apu,1
+12,1,249,Bart,19
+12,1,249,Brockman,5
+12,1,249,Carl,3
+12,1,249,Chief Wiggum,1
+12,1,249,Comic Book Guy,1
+12,1,249,Dr. Hibbert,2
+12,1,249,Grampa,1
+12,1,249,Groundskeeper Willie,1
+12,1,249,Homer,69
+12,1,249,Lenny,6
+12,1,249,Lisa,28
+12,1,249,Marge,19
+12,1,249,Mayor Quimby,2
+12,1,249,Moe,3
+12,1,249,Nelson,4
+12,1,249,Sideshow Mel,1
+12,2,250,Apu,4
+12,2,250,Bart,26
+12,2,250,Brockman,8
+12,2,250,Carl,5
+12,2,250,Chief Wiggum,1
+12,2,250,Dr. Hibbert,3
+12,2,250,Edna Krabappel,1
+12,2,250,Flanders,1
+12,2,250,Grampa,1
+12,2,250,Homer,93
+12,2,250,Jimbo,2
+12,2,250,Krusty,2
+12,2,250,Lenny,3
+12,2,250,Lisa,13
+12,2,250,Marge,14
+12,2,250,Mayor Quimby,3
+12,2,250,Milhouse,1
+12,2,250,Moe,5
+12,2,250,Mr. Burns,6
+12,2,250,Professor Frink,3
+12,2,250,Sideshow Mel,2
+12,2,250,Smithers,1
+12,3,251,Apu,1
+12,3,251,Bart,14
+12,3,251,Brockman,2
+12,3,251,Fat Tony,12
+12,3,251,Flanders,2
+12,3,251,Homer,44
+12,3,251,Krusty,80
+12,3,251,Lenny,3
+12,3,251,Lisa,11
+12,3,251,Lou,8
+12,3,251,Marge,14
+12,3,251,Milhouse,2
+12,3,251,Moe,2
+12,3,251,Professor Frink,2
+12,3,251,Rev. Lovejoy,2
+12,4,252,Apu,1
+12,4,252,Bart,19
+12,4,252,Brockman,8
+12,4,252,Chief Wiggum,8
+12,4,252,Comic Book Guy,1
+12,4,252,Flanders,1
+12,4,252,Homer,28
+12,4,252,Krusty,6
+12,4,252,Lisa,62
+12,4,252,Lou,1
+12,4,252,Marge,16
+12,4,252,Mayor Quimby,5
+12,4,252,Milhouse,1
+12,4,252,Moe,4
+12,4,252,Sideshow Mel,1
+12,5,253,Bart,13
+12,5,253,Brockman,7
+12,5,253,Carl,4
+12,5,253,Chief Wiggum,2
+12,5,253,Comic Book Guy,6
+12,5,253,Dr. Hibbert,2
+12,5,253,Edna Krabappel,1
+12,5,253,Homer,77
+12,5,253,Kirk,1
+12,5,253,Lenny,5
+12,5,253,Lisa,21
+12,5,253,Marge,11
+12,5,253,Milhouse,2
+12,5,253,Moe,1
+12,5,253,Mr. Burns,47
+12,5,253,Nelson,1
+12,5,253,Professor Frink,1
+12,5,253,Ralph,1
+12,5,253,Sideshow Mel,1
+12,5,253,Smithers,6
+12,6,254,Agnes Skinner,2
+12,6,254,Apu,2
+12,6,254,Bart,10
+12,6,254,Brockman,2
+12,6,254,Carl,6
+12,6,254,Chief Wiggum,13
+12,6,254,Comic Book Guy,3
+12,6,254,Dr. Hibbert,1
+12,6,254,Edna Krabappel,1
+12,6,254,Flanders,5
+12,6,254,Homer,118
+12,6,254,Krusty,2
+12,6,254,Lenny,6
+12,6,254,Lisa,13
+12,6,254,Lou,2
+12,6,254,Marge,12
+12,6,254,Mayor Quimby,3
+12,6,254,Moe,5
+12,6,254,Mr. Burns,9
+12,6,254,Nelson,1
+12,6,254,Rev. Lovejoy,2
+12,6,254,Smithers,3
+12,7,255,Bart,59
+12,7,255,Brockman,5
+12,7,255,Chief Wiggum,4
+12,7,255,Cletus,2
+12,7,255,Dr. Hibbert,5
+12,7,255,Flanders,7
+12,7,255,Grampa,14
+12,7,255,Groundskeeper Willie,10
+12,7,255,Homer,100
+12,7,255,Lisa,16
+12,7,255,Marge,34
+12,7,255,Otto,1
+12,7,255,Ralph,1
+12,7,255,Selma,1
+12,7,255,Sideshow Mel,1
+12,8,256,Apu,1
+12,8,256,Bart,30
+12,8,256,Brockman,1
+12,8,256,Chalmers,6
+12,8,256,Chief Wiggum,2
+12,8,256,Flanders,14
+12,8,256,Groundskeeper Willie,4
+12,8,256,Homer,36
+12,8,256,Lenny,1
+12,8,256,Lisa,12
+12,8,256,Lou,3
+12,8,256,Marge,10
+12,8,256,Martin Prince,3
+12,8,256,Milhouse,7
+12,8,256,Mr. Burns,1
+12,8,256,Nelson,15
+12,8,256,Ralph,3
+12,8,256,Sideshow Mel,2
+12,8,256,Smithers,1
+12,9,257,Barney,5
+12,9,257,Bart,5
+12,9,257,Brockman,3
+12,9,257,Carl,10
+12,9,257,Cletus,3
+12,9,257,Comic Book Guy,1
+12,9,257,Dr. Hibbert,3
+12,9,257,Flanders,5
+12,9,257,Homer,89
+12,9,257,Lenny,8
+12,9,257,Lisa,18
+12,9,257,Marge,10
+12,9,257,Moe,12
+12,9,257,Mr. Burns,2
+12,9,257,Nelson,3
+12,9,257,Patty,1
+12,9,257,Professor Frink,1
+12,10,258,Apu,1
+12,10,258,Bart,15
+12,10,258,Chalmers,1
+12,10,258,Chief Wiggum,11
+12,10,258,Dr. Hibbert,4
+12,10,258,Edna Krabappel,1
+12,10,258,Flanders,1
+12,10,258,Groundskeeper Willie,1
+12,10,258,Homer,50
+12,10,258,Lenny,3
+12,10,258,Lisa,7
+12,10,258,Marge,69
+12,10,258,Milhouse,1
+12,10,258,Moe,5
+12,10,258,Nelson,2
+12,10,258,Professor Frink,2
+12,11,259,Agnes Skinner,12
+12,11,259,Apu,5
+12,11,259,Bart,43
+12,11,259,Carl,2
+12,11,259,Chief Wiggum,8
+12,11,259,Comic Book Guy,39
+12,11,259,Dr. Hibbert,7
+12,11,259,Flanders,6
+12,11,259,Homer,21
+12,11,259,Lenny,3
+12,11,259,Lisa,9
+12,11,259,Lou,4
+12,11,259,Marge,7
+12,11,259,Milhouse,48
+12,11,259,Moe,7
+12,11,259,Nelson,1
+12,11,259,Ralph,2
+12,12,260,Bart,22
+12,12,260,Brockman,3
+12,12,260,Carl,2
+12,12,260,Chief Wiggum,12
+12,12,260,Dr. Hibbert,2
+12,12,260,Flanders,2
+12,12,260,Grampa,12
+12,12,260,Homer,112
+12,12,260,Krusty,6
+12,12,260,Lenny,3
+12,12,260,Lisa,17
+12,12,260,Lou,6
+12,12,260,Marge,44
+12,12,260,Moe,3
+12,12,260,Mr. Burns,2
+12,12,260,Sideshow Mel,3
+12,12,260,Smithers,2
+12,13,261,Bart,18
+12,13,261,Brockman,8
+12,13,261,Chief Wiggum,11
+12,13,261,Cletus,2
+12,13,261,Dr. Hibbert,3
+12,13,261,Homer,9
+12,13,261,Krusty,43
+12,13,261,Lisa,2
+12,13,261,Lou,2
+12,13,261,Marge,5
+12,13,261,Moe,11
+12,13,261,Sideshow Bob,64
+12,13,261,Sideshow Mel,2
+12,13,261,Smithers,1
+12,14,262,Bart,32
+12,14,262,Brockman,5
+12,14,262,Carl,1
+12,14,262,Chief Wiggum,1
+12,14,262,Comic Book Guy,2
+12,14,262,Homer,19
+12,14,262,Jimbo,1
+12,14,262,Lenny,1
+12,14,262,Lisa,22
+12,14,262,Marge,11
+12,14,262,Milhouse,11
+12,14,262,Moe,1
+12,14,262,Mr. Burns,2
+12,14,262,Nelson,11
+12,14,262,Otto,2
+12,14,262,Ralph,13
+12,14,262,Sideshow Mel,1
+12,14,262,Smithers,1
+12,15,263,Bart,12
+12,15,263,Brockman,2
+12,15,263,Carl,4
+12,15,263,Chief Wiggum,1
+12,15,263,Duffman,7
+12,15,263,Edna Krabappel,3
+12,15,263,Homer,98
+12,15,263,Kirk,2
+12,15,263,Lenny,5
+12,15,263,Lisa,15
+12,15,263,Marge,18
+12,15,263,Milhouse,3
+12,15,263,Moe,4
+12,15,263,Nelson,1
+12,15,263,Otto,1
+12,15,263,Ralph,1
+12,15,263,Sideshow Mel,1
+12,16,264,Apu,2
+12,16,264,Bart,5
+12,16,264,Brockman,3
+12,16,264,Dr. Hibbert,1
+12,16,264,Edna Krabappel,2
+12,16,264,Groundskeeper Willie,7
+12,16,264,Homer,49
+12,16,264,Jimbo,2
+12,16,264,Lisa,56
+12,16,264,Marge,32
+12,16,264,Martin Prince,3
+12,16,264,Milhouse,5
+12,16,264,Nelson,11
+12,16,264,Otto,4
+12,16,264,Professor Frink,7
+12,16,264,Ralph,1
+12,17,265,Agnes Skinner,3
+12,17,265,Bart,27
+12,17,265,Brockman,2
+12,17,265,Carl,1
+12,17,265,Dr. Hibbert,4
+12,17,265,Homer,78
+12,17,265,Lenny,3
+12,17,265,Lisa,37
+12,17,265,Marge,33
+12,17,265,Moe,1
+12,18,266,Barney,1
+12,18,266,Bart,22
+12,18,266,Chief Wiggum,20
+12,18,266,Cletus,6
+12,18,266,Dr. Hibbert,3
+12,18,266,Fat Tony,6
+12,18,266,Flanders,6
+12,18,266,Homer,56
+12,18,266,Krusty,5
+12,18,266,Lisa,42
+12,18,266,Lou,9
+12,18,266,Marge,38
+12,18,266,Martin Prince,1
+12,18,266,Milhouse,9
+12,18,266,Moe,4
+12,19,267,Agnes Skinner,2
+12,19,267,Apu,1
+12,19,267,Bart,12
+12,19,267,Brockman,2
+12,19,267,Carl,1
+12,19,267,Chalmers,2
+12,19,267,Chief Wiggum,9
+12,19,267,Cletus,1
+12,19,267,Comic Book Guy,3
+12,19,267,Dr. Hibbert,3
+12,19,267,Flanders,75
+12,19,267,Groundskeeper Willie,2
+12,19,267,Homer,44
+12,19,267,Kirk,1
+12,19,267,Krusty,1
+12,19,267,Lenny,2
+12,19,267,Lisa,14
+12,19,267,Lou,1
+12,19,267,Marge,11
+12,19,267,Mayor Quimby,1
+12,19,267,Milhouse,1
+12,19,267,Moe,4
+12,19,267,Nelson,3
+12,19,267,Professor Frink,4
+12,19,267,Ralph,1
+12,19,267,Rev. Lovejoy,4
+12,19,267,Sideshow Mel,1
+12,20,268,Apu,4
+12,20,268,Barney,2
+12,20,268,Bart,16
+12,20,268,Brockman,4
+12,20,268,Carl,4
+12,20,268,Chief Wiggum,2
+12,20,268,Cletus,1
+12,20,268,Comic Book Guy,1
+12,20,268,Dr. Hibbert,14
+12,20,268,Flanders,15
+12,20,268,Grampa,6
+12,20,268,Groundskeeper Willie,1
+12,20,268,Homer,84
+12,20,268,Kirk,2
+12,20,268,Krusty,12
+12,20,268,Lenny,4
+12,20,268,Lisa,14
+12,20,268,Marge,10
+12,20,268,Milhouse,9
+12,20,268,Moe,4
+12,20,268,Mr. Burns,3
+12,20,268,Nelson,1
+12,20,268,Professor Frink,2
+12,20,268,Ralph,7
+12,20,268,Sideshow Mel,1
+12,21,269,Apu,3
+12,21,269,Barney,1
+12,21,269,Bart,4
+12,21,269,Carl,1
+12,21,269,Chief Wiggum,3
+12,21,269,Dr. Hibbert,2
+12,21,269,Grampa,3
+12,21,269,Groundskeeper Willie,1
+12,21,269,Homer,20
+12,21,269,Lenny,3
+12,21,269,Lisa,9
+12,21,269,Marge,17
+12,21,269,Mayor Quimby,1
+12,21,269,Milhouse,1
+12,21,269,Moe,12
+12,21,269,Professor Frink,1
+12,21,269,Rev. Lovejoy,5
+12,21,269,Sideshow Mel,1
+13,1,270,Bart,24
+13,1,270,Carl,2
+13,1,270,Comic Book Guy,1
+13,1,270,Edna Krabappel,6
+13,1,270,Homer,47
+13,1,270,Krusty,1
+13,1,270,Lenny,1
+13,1,270,Lisa,22
+13,1,270,Marge,39
+13,1,270,Milhouse,5
+13,1,270,Moe,1
+13,1,270,Mr. Burns,3
+13,1,270,Nelson,1
+13,1,270,Patty,4
+13,1,270,Ralph,1
+13,1,270,Selma,1
+13,1,270,Smithers,1
+13,2,271,Bart,50
+13,2,271,Brockman,2
+13,2,271,Chief Wiggum,12
+13,2,271,Comic Book Guy,1
+13,2,271,Edna Krabappel,5
+13,2,271,Flanders,6
+13,2,271,Homer,95
+13,2,271,Kirk,1
+13,2,271,Lisa,14
+13,2,271,Lou,1
+13,2,271,Marge,39
+13,2,271,Milhouse,9
+13,2,271,Moe,6
+13,2,271,Nelson,1
+13,2,271,Professor Frink,1
+13,3,272,Barney,8
+13,3,272,Bart,18
+13,3,272,Carl,15
+13,3,272,Homer,98
+13,3,272,Lenny,15
+13,3,272,Lisa,21
+13,3,272,Marge,7
+13,3,272,Moe,76
+13,4,273,Bart,3
+13,4,273,Brockman,4
+13,4,273,Carl,4
+13,4,273,Chief Wiggum,11
+13,4,273,Cletus,2
+13,4,273,Flanders,1
+13,4,273,Homer,41
+13,4,273,Lenny,2
+13,4,273,Lisa,11
+13,4,273,Lou,2
+13,4,273,Marge,12
+13,4,273,Mr. Burns,74
+13,4,273,Smithers,8
+13,5,274,Barney,2
+13,5,274,Bart,8
+13,5,274,Carl,9
+13,5,274,Chief Wiggum,13
+13,5,274,Fat Tony,3
+13,5,274,Flanders,1
+13,5,274,Homer,56
+13,5,274,Lenny,12
+13,5,274,Lisa,20
+13,5,274,Lou,2
+13,5,274,Marge,45
+13,5,274,Moe,26
+13,5,274,Mr. Burns,22
+13,5,274,Professor Frink,2
+13,5,274,Smithers,7
+13,6,275,Bart,23
+13,6,275,Carl,5
+13,6,275,Comic Book Guy,1
+13,6,275,Flanders,7
+13,6,275,Homer,33
+13,6,275,Jimbo,2
+13,6,275,Lenny,6
+13,6,275,Lisa,55
+13,6,275,Marge,43
+13,6,275,Milhouse,4
+13,6,275,Mr. Burns,13
+13,6,275,Nelson,1
+13,6,275,Patty,1
+13,6,275,Ralph,1
+13,6,275,Rev. Lovejoy,15
+13,6,275,Sideshow Mel,1
+13,7,276,Bart,18
+13,7,276,Carl,1
+13,7,276,Chief Wiggum,6
+13,7,276,Flanders,13
+13,7,276,Grampa,7
+13,7,276,Groundskeeper Willie,1
+13,7,276,Homer,59
+13,7,276,Krusty,1
+13,7,276,Lenny,2
+13,7,276,Lisa,23
+13,7,276,Marge,26
+13,7,276,Milhouse,1
+13,7,276,Moe,2
+13,7,276,Mr. Burns,3
+13,7,276,Nelson,1
+13,7,276,Professor Frink,1
+13,8,277,Apu,11
+13,8,277,Bart,8
+13,8,277,Brockman,3
+13,8,277,Carl,3
+13,8,277,Chief Wiggum,8
+13,8,277,Cletus,3
+13,8,277,Comic Book Guy,1
+13,8,277,Dr. Hibbert,3
+13,8,277,Groundskeeper Willie,1
+13,8,277,Homer,64
+13,8,277,Jimbo,3
+13,8,277,Krusty,1
+13,8,277,Lenny,4
+13,8,277,Lisa,11
+13,8,277,Lou,1
+13,8,277,Marge,44
+13,8,277,Mayor Quimby,1
+13,8,277,Moe,5
+13,8,277,Mr. Burns,4
+13,8,277,Nelson,1
+13,8,277,Professor Frink,2
+13,8,277,Ralph,2
+13,8,277,Sideshow Mel,1
+13,9,278,Apu,1
+13,9,278,Bart,10
+13,9,278,Carl,3
+13,9,278,Cletus,1
+13,9,278,Dr. Hibbert,6
+13,9,278,Duffman,5
+13,9,278,Grampa,2
+13,9,278,Homer,53
+13,9,278,Lenny,5
+13,9,278,Lisa,15
+13,9,278,Marge,44
+13,9,278,Mayor Quimby,1
+13,9,278,Milhouse,3
+13,9,278,Moe,6
+13,9,278,Mr. Burns,2
+13,9,278,Otto,4
+13,9,278,Patty,1
+13,9,278,Rev. Lovejoy,1
+13,9,278,Smithers,1
+13,10,279,Bart,6
+13,10,279,Brockman,1
+13,10,279,Carl,4
+13,10,279,Chief Wiggum,2
+13,10,279,Comic Book Guy,1
+13,10,279,Dr. Hibbert,3
+13,10,279,Grampa,1
+13,10,279,Homer,49
+13,10,279,Lenny,13
+13,10,279,Lisa,8
+13,10,279,Marge,54
+13,10,279,Milhouse,3
+13,10,279,Moe,3
+13,10,279,Patty,10
+13,10,279,Selma,5
+13,11,280,Agnes Skinner,1
+13,11,280,Bart,52
+13,11,280,Carl,4
+13,11,280,Chief Wiggum,3
+13,11,280,Cletus,1
+13,11,280,Flanders,1
+13,11,280,Groundskeeper Willie,2
+13,11,280,Homer,34
+13,11,280,Krusty,2
+13,11,280,Lenny,3
+13,11,280,Lisa,20
+13,11,280,Lou,1
+13,11,280,Marge,12
+13,11,280,Milhouse,18
+13,11,280,Moe,2
+13,11,280,Nelson,1
+13,12,281,Apu,2
+13,12,281,Bart,52
+13,12,281,Brockman,3
+13,12,281,Chief Wiggum,2
+13,12,281,Grampa,5
+13,12,281,Homer,35
+13,12,281,Krusty,15
+13,12,281,Lisa,15
+13,12,281,Lou,1
+13,12,281,Marge,17
+13,12,281,Martin Prince,1
+13,12,281,Milhouse,7
+13,12,281,Nelson,3
+13,12,281,Ralph,3
+13,12,281,Sideshow Mel,2
+13,13,282,Apu,6
+13,13,282,Bart,14
+13,13,282,Chief Wiggum,5
+13,13,282,Flanders,1
+13,13,282,Grampa,95
+13,13,282,Homer,38
+13,13,282,Lisa,15
+13,13,282,Lou,1
+13,13,282,Marge,22
+13,13,282,Patty,3
+13,13,282,Selma,2
+13,14,283,Agnes Skinner,1
+13,14,283,Apu,1
+13,14,283,Barney,2
+13,14,283,Bart,28
+13,14,283,Carl,3
+13,14,283,Chief Wiggum,8
+13,14,283,Flanders,5
+13,14,283,Groundskeeper Willie,2
+13,14,283,Homer,46
+13,14,283,Krusty,8
+13,14,283,Lenny,8
+13,14,283,Lisa,28
+13,14,283,Lou,3
+13,14,283,Marge,22
+13,14,283,Mayor Quimby,5
+13,14,283,Milhouse,6
+13,14,283,Moe,18
+13,14,283,Professor Frink,1
+13,14,283,Ralph,4
+13,14,283,Rev. Lovejoy,1
+13,14,283,Sideshow Mel,1
+13,15,284,Bart,23
+13,15,284,Homer,62
+13,15,284,Lenny,2
+13,15,284,Lisa,30
+13,15,284,Marge,33
+13,15,284,Patty,2
+13,16,285,Bart,3
+13,16,285,Brockman,1
+13,16,285,Carl,2
+13,16,285,Chief Wiggum,4
+13,16,285,Dr. Hibbert,7
+13,16,285,Flanders,10
+13,16,285,Homer,90
+13,16,285,Lenny,3
+13,16,285,Lisa,7
+13,16,285,Marge,28
+13,16,285,Moe,8
+13,16,285,Mr. Burns,23
+13,16,285,Otto,9
+13,16,285,Smithers,11
+13,17,286,Agnes Skinner,2
+13,17,286,Bart,5
+13,17,286,Carl,1
+13,17,286,Chief Wiggum,8
+13,17,286,Dr. Hibbert,1
+13,17,286,Flanders,9
+13,17,286,Grampa,4
+13,17,286,Homer,19
+13,17,286,Krusty,15
+13,17,286,Lisa,8
+13,17,286,Marge,4
+13,17,286,Moe,4
+13,17,286,Mr. Burns,6
+13,17,286,Nelson,3
+13,17,286,Rev. Lovejoy,4
+13,17,286,Sideshow Mel,1
+13,18,287,Bart,48
+13,18,287,Carl,2
+13,18,287,Comic Book Guy,12
+13,18,287,Dr. Hibbert,4
+13,18,287,Edna Krabappel,1
+13,18,287,Flanders,2
+13,18,287,Groundskeeper Willie,1
+13,18,287,Homer,41
+13,18,287,Jimbo,1
+13,18,287,Kirk,4
+13,18,287,Krusty,3
+13,18,287,Lenny,3
+13,18,287,Lisa,17
+13,18,287,Marge,11
+13,18,287,Martin Prince,3
+13,18,287,Milhouse,6
+13,18,287,Moe,3
+13,18,287,Nelson,5
+13,18,287,Ralph,2
+13,18,287,Sideshow Mel,1
+13,19,288,Apu,51
+13,19,288,Barney,2
+13,19,288,Bart,6
+13,19,288,Carl,2
+13,19,288,Comic Book Guy,1
+13,19,288,Dr. Hibbert,2
+13,19,288,Grampa,4
+13,19,288,Groundskeeper Willie,1
+13,19,288,Homer,54
+13,19,288,Kirk,2
+13,19,288,Krusty,1
+13,19,288,Lenny,3
+13,19,288,Lisa,6
+13,19,288,Marge,26
+13,19,288,Mayor Quimby,1
+13,19,288,Milhouse,1
+13,19,288,Moe,7
+13,19,288,Professor Frink,3
+13,20,289,Agnes Skinner,2
+13,20,289,Bart,28
+13,20,289,Carl,1
+13,20,289,Chalmers,2
+13,20,289,Dr. Hibbert,5
+13,20,289,Grampa,5
+13,20,289,Groundskeeper Willie,5
+13,20,289,Homer,24
+13,20,289,Krusty,1
+13,20,289,Lenny,1
+13,20,289,Lisa,53
+13,20,289,Marge,12
+13,20,289,Martin Prince,2
+13,20,289,Milhouse,6
+13,20,289,Nelson,4
+13,20,289,Ralph,5
+13,21,290,Agnes Skinner,3
+13,21,290,Bart,4
+13,21,290,Brockman,1
+13,21,290,Carl,6
+13,21,290,Chief Wiggum,16
+13,21,290,Cletus,2
+13,21,290,Duffman,2
+13,21,290,Homer,70
+13,21,290,Lenny,5
+13,21,290,Lisa,6
+13,21,290,Lou,4
+13,21,290,Marge,32
+13,21,290,Moe,9
+13,21,290,Otto,1
+13,21,290,Rev. Lovejoy,5
+13,22,291,Agnes Skinner,1
+13,22,291,Apu,3
+13,22,291,Barney,3
+13,22,291,Bart,8
+13,22,291,Brockman,5
+13,22,291,Carl,8
+13,22,291,Chief Wiggum,8
+13,22,291,Cletus,1
+13,22,291,Comic Book Guy,1
+13,22,291,Dr. Hibbert,6
+13,22,291,Edna Krabappel,1
+13,22,291,Fat Tony,15
+13,22,291,Flanders,5
+13,22,291,Grampa,2
+13,22,291,Groundskeeper Willie,2
+13,22,291,Homer,72
+13,22,291,Jimbo,3
+13,22,291,Krusty,2
+13,22,291,Lenny,8
+13,22,291,Lisa,12
+13,22,291,Lou,3
+13,22,291,Marge,25
+13,22,291,Mayor Quimby,6
+13,22,291,Moe,5
+13,22,291,Mr. Burns,1
+13,22,291,Otto,1
+13,22,291,Ralph,2
+13,22,291,Sideshow Mel,1
+13,22,291,Smithers,1
+14,1,292,Bart,11
+14,1,292,Brockman,1
+14,1,292,Chief Wiggum,5
+14,1,292,Comic Book Guy,2
+14,1,292,Dr. Hibbert,9
+14,1,292,Flanders,12
+14,1,292,Grampa,1
+14,1,292,Homer,85
+14,1,292,Lenny,2
+14,1,292,Lisa,27
+14,1,292,Lou,1
+14,1,292,Marge,26
+14,1,292,Mayor Quimby,3
+14,1,292,Moe,4
+14,1,292,Mr. Burns,1
+14,1,292,Professor Frink,4
+14,1,292,Ralph,2
+14,1,292,Sideshow Mel,1
+14,2,293,Apu,3
+14,2,293,Barney,2
+14,2,293,Bart,12
+14,2,293,Carl,6
+14,2,293,Chief Wiggum,5
+14,2,293,Homer,116
+14,2,293,Lenny,8
+14,2,293,Lisa,16
+14,2,293,Marge,23
+14,2,293,Moe,13
+14,2,293,Otto,1
+14,3,294,Bart,46
+14,3,294,Edna Krabappel,1
+14,3,294,Flanders,3
+14,3,294,Groundskeeper Willie,1
+14,3,294,Homer,26
+14,3,294,Lisa,44
+14,3,294,Marge,13
+14,3,294,Milhouse,2
+14,3,294,Nelson,4
+14,3,294,Otto,2
+14,4,295,Agnes Skinner,1
+14,4,295,Bart,27
+14,4,295,Brockman,3
+14,4,295,Carl,2
+14,4,295,Chalmers,1
+14,4,295,Chief Wiggum,5
+14,4,295,Comic Book Guy,2
+14,4,295,Dr. Hibbert,1
+14,4,295,Homer,42
+14,4,295,Krusty,16
+14,4,295,Lenny,2
+14,4,295,Lisa,18
+14,4,295,Lou,1
+14,4,295,Marge,48
+14,4,295,Mayor Quimby,4
+14,4,295,Milhouse,11
+14,4,295,Moe,4
+14,4,295,Mr. Burns,1
+14,4,295,Nelson,1
+14,4,295,Otto,1
+14,4,295,Ralph,1
+14,4,295,Sideshow Mel,2
+14,5,296,Apu,3
+14,5,296,Barney,2
+14,5,296,Bart,18
+14,5,296,Carl,2
+14,5,296,Cletus,3
+14,5,296,Comic Book Guy,2
+14,5,296,Flanders,1
+14,5,296,Grampa,2
+14,5,296,Homer,62
+14,5,296,Jimbo,2
+14,5,296,Lenny,5
+14,5,296,Lisa,17
+14,5,296,Marge,37
+14,5,296,Moe,6
+14,5,296,Mr. Burns,1
+14,5,296,Otto,2
+14,5,296,Smithers,1
+14,6,297,Apu,2
+14,6,297,Bart,10
+14,6,297,Brockman,4
+14,6,297,Carl,2
+14,6,297,Chief Wiggum,18
+14,6,297,Cletus,1
+14,6,297,Duffman,1
+14,6,297,Homer,57
+14,6,297,Jimbo,1
+14,6,297,Krusty,1
+14,6,297,Lenny,2
+14,6,297,Lisa,8
+14,6,297,Lou,3
+14,6,297,Marge,22
+14,6,297,Moe,3
+14,6,297,Patty,1
+14,6,297,Rev. Lovejoy,1
+14,6,297,Sideshow Bob,51
+14,7,298,Agnes Skinner,3
+14,7,298,Bart,36
+14,7,298,Cletus,2
+14,7,298,Edna Krabappel,27
+14,7,298,Flanders,3
+14,7,298,Grampa,7
+14,7,298,Groundskeeper Willie,4
+14,7,298,Homer,21
+14,7,298,Lisa,10
+14,7,298,Marge,7
+14,7,298,Martin Prince,2
+14,7,298,Milhouse,4
+14,7,298,Nelson,4
+14,7,298,Rev. Lovejoy,1
+14,8,299,Bart,9
+14,8,299,Brockman,5
+14,8,299,Carl,1
+14,8,299,Chief Wiggum,10
+14,8,299,Cletus,1
+14,8,299,Flanders,4
+14,8,299,Groundskeeper Willie,2
+14,8,299,Homer,87
+14,8,299,Krusty,5
+14,8,299,Lenny,1
+14,8,299,Lisa,40
+14,8,299,Lou,2
+14,8,299,Marge,8
+14,8,299,Moe,5
+14,8,299,Mr. Burns,2
+14,8,299,Nelson,4
+14,8,299,Ralph,5
+14,8,299,Smithers,1
+14,9,300,Agnes Skinner,1
+14,9,300,Apu,4
+14,9,300,Bart,18
+14,9,300,Brockman,2
+14,9,300,Carl,2
+14,9,300,Chief Wiggum,5
+14,9,300,Dr. Hibbert,5
+14,9,300,Flanders,2
+14,9,300,Grampa,2
+14,9,300,Homer,51
+14,9,300,Lenny,3
+14,9,300,Lisa,13
+14,9,300,Lou,1
+14,9,300,Marge,70
+14,9,300,Milhouse,3
+14,9,300,Moe,6
+14,9,300,Nelson,1
+14,9,300,Otto,2
+14,9,300,Professor Frink,1
+14,9,300,Ralph,2
+14,9,300,Rev. Lovejoy,1
+14,10,301,Barney,3
+14,10,301,Bart,10
+14,10,301,Brockman,3
+14,10,301,Carl,9
+14,10,301,Cletus,2
+14,10,301,Dr. Hibbert,1
+14,10,301,Flanders,23
+14,10,301,Homer,63
+14,10,301,Krusty,1
+14,10,301,Lenny,7
+14,10,301,Lisa,14
+14,10,301,Marge,20
+14,10,301,Moe,12
+14,10,301,Mr. Burns,2
+14,10,301,Rev. Lovejoy,11
+14,10,301,Sideshow Mel,3
+14,11,302,Bart,53
+14,11,302,Cletus,2
+14,11,302,Grampa,1
+14,11,302,Homer,62
+14,11,302,Jimbo,1
+14,11,302,Kirk,1
+14,11,302,Lisa,22
+14,11,302,Marge,25
+14,11,302,Martin Prince,1
+14,11,302,Milhouse,6
+14,11,302,Nelson,3
+14,12,303,Apu,3
+14,12,303,Barney,2
+14,12,303,Bart,14
+14,12,303,Brockman,4
+14,12,303,Chalmers,3
+14,12,303,Cletus,2
+14,12,303,Groundskeeper Willie,3
+14,12,303,Homer,30
+14,12,303,Jimbo,1
+14,12,303,Krusty,6
+14,12,303,Lisa,47
+14,12,303,Marge,18
+14,12,303,Martin Prince,2
+14,12,303,Mayor Quimby,2
+14,12,303,Milhouse,3
+14,12,303,Moe,4
+14,12,303,Nelson,6
+14,12,303,Otto,5
+14,12,303,Professor Frink,1
+14,12,303,Ralph,2
+14,13,304,Agnes Skinner,3
+14,13,304,Apu,2
+14,13,304,Bart,6
+14,13,304,Chief Wiggum,5
+14,13,304,Cletus,1
+14,13,304,Comic Book Guy,1
+14,13,304,Dr. Hibbert,3
+14,13,304,Edna Krabappel,3
+14,13,304,Flanders,72
+14,13,304,Grampa,1
+14,13,304,Homer,19
+14,13,304,Lenny,3
+14,13,304,Lisa,5
+14,13,304,Marge,12
+14,13,304,Mayor Quimby,1
+14,13,304,Milhouse,1
+14,13,304,Moe,3
+14,13,304,Nelson,1
+14,13,304,Otto,1
+14,13,304,Ralph,2
+14,14,305,Apu,1
+14,14,305,Bart,15
+14,14,305,Brockman,3
+14,14,305,Cletus,2
+14,14,305,Dr. Hibbert,2
+14,14,305,Fat Tony,1
+14,14,305,Flanders,1
+14,14,305,Grampa,1
+14,14,305,Homer,34
+14,14,305,Krusty,53
+14,14,305,Lisa,18
+14,14,305,Lou,1
+14,14,305,Marge,28
+14,14,305,Mayor Quimby,3
+14,14,305,Milhouse,1
+14,14,305,Moe,1
+14,14,305,Mr. Burns,4
+14,14,305,Professor Frink,1
+14,14,305,Ralph,2
+14,14,305,Sideshow Mel,3
+14,15,306,Bart,11
+14,15,306,Carl,2
+14,15,306,Cletus,1
+14,15,306,Dr. Hibbert,7
+14,15,306,Flanders,1
+14,15,306,Homer,103
+14,15,306,Lenny,4
+14,15,306,Lisa,8
+14,15,306,Marge,14
+14,15,306,Milhouse,2
+14,15,306,Moe,3
+14,15,306,Mr. Burns,35
+14,15,306,Nelson,2
+14,15,306,Professor Frink,1
+14,15,306,Smithers,6
+14,16,307,Bart,18
+14,16,307,Brockman,3
+14,16,307,Carl,1
+14,16,307,Chief Wiggum,2
+14,16,307,Fat Tony,3
+14,16,307,Grampa,3
+14,16,307,Groundskeeper Willie,2
+14,16,307,Homer,20
+14,16,307,Jimbo,2
+14,16,307,Krusty,3
+14,16,307,Lenny,4
+14,16,307,Lisa,37
+14,16,307,Lou,4
+14,16,307,Marge,3
+14,16,307,Martin Prince,1
+14,16,307,Mayor Quimby,4
+14,16,307,Milhouse,9
+14,16,307,Moe,5
+14,16,307,Nelson,5
+14,16,307,Otto,1
+14,16,307,Professor Frink,4
+14,16,307,Ralph,2
+14,16,307,Selma,1
+14,16,307,Sideshow Mel,1
+14,17,308,Bart,16
+14,17,308,Carl,2
+14,17,308,Chief Wiggum,1
+14,17,308,Cletus,1
+14,17,308,Dr. Hibbert,7
+14,17,308,Flanders,3
+14,17,308,Grampa,1
+14,17,308,Homer,98
+14,17,308,Kirk,3
+14,17,308,Lenny,5
+14,17,308,Lisa,16
+14,17,308,Marge,47
+14,17,308,Milhouse,2
+14,17,308,Moe,4
+14,17,308,Nelson,2
+14,17,308,Smithers,3
+14,18,309,Apu,2
+14,18,309,Bart,15
+14,18,309,Carl,6
+14,18,309,Chief Wiggum,6
+14,18,309,Comic Book Guy,2
+14,18,309,Dr. Hibbert,1
+14,18,309,Flanders,8
+14,18,309,Homer,49
+14,18,309,Krusty,1
+14,18,309,Lenny,1
+14,18,309,Lisa,35
+14,18,309,Marge,22
+14,18,309,Moe,5
+14,18,309,Mr. Burns,2
+14,18,309,Rev. Lovejoy,1
+14,18,309,Smithers,1
+14,19,310,Agnes Skinner,2
+14,19,310,Bart,26
+14,19,310,Brockman,4
+14,19,310,Comic Book Guy,2
+14,19,310,Dr. Hibbert,1
+14,19,310,Duffman,11
+14,19,310,Homer,53
+14,19,310,Krusty,2
+14,19,310,Lisa,25
+14,19,310,Marge,15
+14,19,310,Martin Prince,1
+14,19,310,Mayor Quimby,2
+14,19,310,Milhouse,8
+14,19,310,Moe,4
+14,19,310,Nelson,1
+14,19,310,Otto,1
+14,19,310,Sideshow Mel,3
+14,20,311,Apu,2
+14,20,311,Barney,1
+14,20,311,Bart,9
+14,20,311,Carl,5
+14,20,311,Chief Wiggum,1
+14,20,311,Comic Book Guy,1
+14,20,311,Dr. Hibbert,5
+14,20,311,Edna Krabappel,1
+14,20,311,Flanders,1
+14,20,311,Homer,88
+14,20,311,Lenny,4
+14,20,311,Lisa,7
+14,20,311,Marge,45
+14,20,311,Milhouse,3
+14,20,311,Moe,6
+14,20,311,Mr. Burns,4
+14,20,311,Patty,2
+14,20,311,Ralph,1
+14,21,312,Apu,2
+14,21,312,Bart,34
+14,21,312,Carl,3
+14,21,312,Chief Wiggum,9
+14,21,312,Flanders,10
+14,21,312,Grampa,1
+14,21,312,Groundskeeper Willie,1
+14,21,312,Homer,30
+14,21,312,Kirk,12
+14,21,312,Lenny,4
+14,21,312,Lisa,6
+14,21,312,Lou,4
+14,21,312,Marge,25
+14,21,312,Mayor Quimby,3
+14,21,312,Milhouse,25
+14,21,312,Moe,3
+14,21,312,Mr. Burns,1
+14,21,312,Nelson,13
+14,21,312,Otto,1
+14,21,312,Ralph,3
+14,21,312,Sideshow Mel,2
+14,22,313,Apu,1
+14,22,313,Bart,7
+14,22,313,Brockman,1
+14,22,313,Carl,4
+14,22,313,Chief Wiggum,8
+14,22,313,Dr. Hibbert,2
+14,22,313,Fat Tony,6
+14,22,313,Grampa,5
+14,22,313,Homer,39
+14,22,313,Krusty,2
+14,22,313,Lenny,2
+14,22,313,Lisa,9
+14,22,313,Lou,4
+14,22,313,Marge,28
+14,22,313,Moe,92
+14,22,313,Mr. Burns,1
+14,22,313,Selma,1
+14,22,313,Sideshow Mel,2
+15,1,314,Agnes Skinner,1
+15,1,314,Bart,36
+15,1,314,Comic Book Guy,1
+15,1,314,Flanders,3
+15,1,314,Grampa,1
+15,1,314,Homer,39
+15,1,314,Lisa,25
+15,1,314,Marge,10
+15,1,314,Mayor Quimby,4
+15,1,314,Milhouse,14
+15,1,314,Moe,4
+15,1,314,Nelson,2
+15,1,314,Professor Frink,44
+15,1,314,Sideshow Mel,1
+15,2,315,Agnes Skinner,2
+15,2,315,Bart,19
+15,2,315,Brockman,9
+15,2,315,Carl,2
+15,2,315,Chief Wiggum,10
+15,2,315,Dr. Hibbert,3
+15,2,315,Flanders,1
+15,2,315,Grampa,3
+15,2,315,Homer,75
+15,2,315,Lisa,11
+15,2,315,Lou,3
+15,2,315,Marge,14
+15,2,315,Moe,1
+15,2,315,Mr. Burns,11
+15,2,315,Sideshow Mel,5
+15,2,315,Smithers,1
+15,3,316,Agnes Skinner,2
+15,3,316,Bart,12
+15,3,316,Brockman,6
+15,3,316,Chalmers,12
+15,3,316,Chief Wiggum,4
+15,3,316,Edna Krabappel,6
+15,3,316,Groundskeeper Willie,9
+15,3,316,Homer,27
+15,3,316,Jimbo,2
+15,3,316,Lenny,2
+15,3,316,Lisa,57
+15,3,316,Lou,1
+15,3,316,Marge,15
+15,3,316,Martin Prince,9
+15,3,316,Milhouse,9
+15,3,316,Nelson,7
+15,3,316,Otto,1
+15,3,316,Ralph,2
+15,4,317,Bart,29
+15,4,317,Dr. Hibbert,1
+15,4,317,Grampa,12
+15,4,317,Homer,59
+15,4,317,Krusty,1
+15,4,317,Lisa,22
+15,4,317,Marge,24
+15,4,317,Milhouse,6
+15,4,317,Moe,3
+15,4,317,Mr. Burns,11
+15,4,317,Nelson,2
+15,4,317,Otto,3
+15,4,317,Sideshow Mel,2
+15,4,317,Smithers,4
+15,5,318,Bart,16
+15,5,318,Brockman,4
+15,5,318,Carl,3
+15,5,318,Chief Wiggum,2
+15,5,318,Cletus,2
+15,5,318,Flanders,1
+15,5,318,Grampa,6
+15,5,318,Homer,77
+15,5,318,Jimbo,1
+15,5,318,Lenny,2
+15,5,318,Lisa,18
+15,5,318,Lou,2
+15,5,318,Marge,18
+15,5,318,Mr. Burns,1
+15,5,318,Nelson,2
+15,5,318,Patty,2
+15,5,318,Selma,3
+15,5,318,Smithers,1
+15,6,319,Barney,1
+15,6,319,Bart,14
+15,6,319,Carl,2
+15,6,319,Chief Wiggum,1
+15,6,319,Comic Book Guy,2
+15,6,319,Dr. Hibbert,6
+15,6,319,Grampa,2
+15,6,319,Groundskeeper Willie,1
+15,6,319,Homer,44
+15,6,319,Krusty,56
+15,6,319,Lenny,2
+15,6,319,Lisa,17
+15,6,319,Marge,13
+15,6,319,Moe,2
+15,6,319,Nelson,1
+15,6,319,Ralph,1
+15,6,319,Selma,1
+15,6,319,Sideshow Mel,8
+15,7,320,Agnes Skinner,1
+15,7,320,Bart,8
+15,7,320,Brockman,2
+15,7,320,Carl,4
+15,7,320,Chief Wiggum,1
+15,7,320,Comic Book Guy,6
+15,7,320,Flanders,25
+15,7,320,Grampa,1
+15,7,320,Homer,76
+15,7,320,Krusty,4
+15,7,320,Lenny,5
+15,7,320,Lisa,11
+15,7,320,Marge,18
+15,7,320,Mayor Quimby,2
+15,7,320,Moe,2
+15,7,320,Mr. Burns,6
+15,7,320,Nelson,5
+15,7,320,Professor Frink,1
+15,7,320,Rev. Lovejoy,1
+15,7,320,Selma,1
+15,7,320,Sideshow Mel,1
+15,8,321,Bart,18
+15,8,321,Brockman,9
+15,8,321,Carl,1
+15,8,321,Chief Wiggum,4
+15,8,321,Cletus,1
+15,8,321,Comic Book Guy,1
+15,8,321,Dr. Hibbert,2
+15,8,321,Edna Krabappel,3
+15,8,321,Flanders,2
+15,8,321,Homer,27
+15,8,321,Kirk,1
+15,8,321,Lenny,1
+15,8,321,Lisa,14
+15,8,321,Lou,3
+15,8,321,Marge,49
+15,8,321,Mayor Quimby,5
+15,8,321,Moe,3
+15,8,321,Mr. Burns,2
+15,8,321,Ralph,2
+15,8,321,Sideshow Mel,4
+15,9,322,Bart,51
+15,9,322,Chief Wiggum,2
+15,9,322,Dr. Hibbert,4
+15,9,322,Flanders,3
+15,9,322,Grampa,2
+15,9,322,Homer,56
+15,9,322,Jimbo,1
+15,9,322,Krusty,1
+15,9,322,Lisa,18
+15,9,322,Lou,1
+15,9,322,Marge,11
+15,9,322,Milhouse,6
+15,9,322,Moe,2
+15,9,322,Nelson,2
+15,9,322,Professor Frink,1
+15,9,322,Sideshow Mel,1
+15,10,323,Apu,5
+15,10,323,Bart,9
+15,10,323,Comic Book Guy,1
+15,10,323,Flanders,11
+15,10,323,Groundskeeper Willie,1
+15,10,323,Homer,74
+15,10,323,Lisa,16
+15,10,323,Marge,54
+15,10,323,Moe,1
+15,10,323,Mr. Burns,2
+15,10,323,Nelson,1
+15,10,323,Otto,1
+15,10,323,Rev. Lovejoy,1
+15,11,324,Bart,8
+15,11,324,Carl,7
+15,11,324,Homer,4
+15,11,324,Lenny,11
+15,11,324,Lisa,9
+15,11,324,Marge,17
+15,11,324,Milhouse,3
+15,11,324,Moe,5
+15,11,324,Nelson,1
+15,11,324,Otto,4
+15,11,324,Rev. Lovejoy,1
+15,11,324,Smithers,1
+15,12,325,Apu,2
+15,12,325,Bart,59
+15,12,325,Carl,2
+15,12,325,Edna Krabappel,7
+15,12,325,Grampa,1
+15,12,325,Groundskeeper Willie,2
+15,12,325,Homer,31
+15,12,325,Kirk,9
+15,12,325,Lenny,1
+15,12,325,Lisa,36
+15,12,325,Marge,24
+15,12,325,Milhouse,22
+15,12,325,Moe,1
+15,12,325,Mr. Burns,2
+15,12,325,Nelson,7
+15,12,325,Ralph,4
+15,12,325,Smithers,1
+15,13,326,Apu,3
+15,13,326,Barney,1
+15,13,326,Bart,11
+15,13,326,Chief Wiggum,15
+15,13,326,Comic Book Guy,1
+15,13,326,Dr. Hibbert,2
+15,13,326,Homer,44
+15,13,326,Lisa,56
+15,13,326,Lou,4
+15,13,326,Marge,32
+15,13,326,Milhouse,3
+15,13,326,Moe,2
+15,13,326,Nelson,5
+15,13,326,Ralph,1
+15,14,327,Barney,1
+15,14,327,Bart,12
+15,14,327,Brockman,6
+15,14,327,Carl,2
+15,14,327,Chief Wiggum,1
+15,14,327,Flanders,3
+15,14,327,Grampa,4
+15,14,327,Groundskeeper Willie,2
+15,14,327,Homer,46
+15,14,327,Krusty,1
+15,14,327,Lenny,8
+15,14,327,Lisa,20
+15,14,327,Lou,1
+15,14,327,Marge,27
+15,14,327,Moe,5
+15,14,327,Patty,4
+15,14,327,Selma,9
+15,15,328,Agnes Skinner,5
+15,15,328,Barney,3
+15,15,328,Bart,14
+15,15,328,Brockman,1
+15,15,328,Chief Wiggum,5
+15,15,328,Cletus,1
+15,15,328,Comic Book Guy,5
+15,15,328,Duffman,1
+15,15,328,Edna Krabappel,1
+15,15,328,Flanders,2
+15,15,328,Homer,67
+15,15,328,Krusty,1
+15,15,328,Lisa,19
+15,15,328,Lou,3
+15,15,328,Marge,50
+15,15,328,Moe,11
+15,15,328,Otto,7
+15,15,328,Rev. Lovejoy,3
+15,16,329,Bart,51
+15,16,329,Brockman,3
+15,16,329,Chief Wiggum,18
+15,16,329,Cletus,3
+15,16,329,Edna Krabappel,1
+15,16,329,Groundskeeper Willie,1
+15,16,329,Homer,24
+15,16,329,Krusty,1
+15,16,329,Lisa,5
+15,16,329,Lou,2
+15,16,329,Marge,13
+15,16,329,Mayor Quimby,2
+15,16,329,Milhouse,2
+15,16,329,Moe,2
+15,16,329,Mr. Burns,2
+15,16,329,Ralph,1
+15,16,329,Sideshow Mel,1
+15,16,329,Smithers,1
+15,17,330,Agnes Skinner,3
+15,17,330,Barney,2
+15,17,330,Bart,14
+15,17,330,Carl,4
+15,17,330,Chalmers,3
+15,17,330,Chief Wiggum,5
+15,17,330,Comic Book Guy,22
+15,17,330,Dr. Hibbert,1
+15,17,330,Duffman,3
+15,17,330,Edna Krabappel,29
+15,17,330,Grampa,2
+15,17,330,Groundskeeper Willie,2
+15,17,330,Homer,42
+15,17,330,Lenny,3
+15,17,330,Lisa,5
+15,17,330,Lou,1
+15,17,330,Marge,30
+15,17,330,Milhouse,2
+15,17,330,Moe,3
+15,17,330,Nelson,6
+15,17,330,Otto,2
+15,17,330,Patty,1
+15,17,330,Rev. Lovejoy,2
+15,17,330,Selma,4
+15,17,330,Sideshow Mel,1
+15,18,331,Bart,33
+15,18,331,Brockman,2
+15,18,331,Carl,1
+15,18,331,Flanders,2
+15,18,331,Grampa,18
+15,18,331,Homer,49
+15,18,331,Krusty,1
+15,18,331,Lenny,1
+15,18,331,Lisa,28
+15,18,331,Marge,50
+15,18,331,Milhouse,1
+15,18,331,Moe,2
+15,18,331,Otto,3
+15,18,331,Ralph,2
+15,19,332,Apu,4
+15,19,332,Bart,9
+15,19,332,Brockman,4
+15,19,332,Carl,4
+15,19,332,Chief Wiggum,13
+15,19,332,Cletus,1
+15,19,332,Comic Book Guy,4
+15,19,332,Homer,67
+15,19,332,Krusty,3
+15,19,332,Lenny,4
+15,19,332,Lisa,18
+15,19,332,Lou,7
+15,19,332,Marge,19
+15,19,332,Mayor Quimby,3
+15,19,332,Milhouse,4
+15,19,332,Moe,1
+15,19,332,Mr. Burns,23
+15,19,332,Nelson,2
+15,19,332,Sideshow Mel,2
+15,19,332,Smithers,2
+15,20,333,Bart,17
+15,20,333,Carl,4
+15,20,333,Chief Wiggum,2
+15,20,333,Comic Book Guy,1
+15,20,333,Grampa,1
+15,20,333,Homer,78
+15,20,333,Lenny,4
+15,20,333,Lisa,9
+15,20,333,Marge,54
+15,20,333,Milhouse,9
+15,20,333,Moe,9
+15,20,333,Patty,6
+15,20,333,Ralph,1
+15,20,333,Selma,3
+15,21,334,Apu,3
+15,21,334,Barney,1
+15,21,334,Bart,25
+15,21,334,Carl,1
+15,21,334,Chalmers,1
+15,21,334,Dr. Hibbert,13
+15,21,334,Groundskeeper Willie,4
+15,21,334,Homer,46
+15,21,334,Jimbo,2
+15,21,334,Krusty,1
+15,21,334,Lenny,2
+15,21,334,Lisa,22
+15,21,334,Marge,30
+15,21,334,Mayor Quimby,4
+15,21,334,Moe,2
+15,21,334,Nelson,1
+15,21,334,Rev. Lovejoy,3
+15,21,334,Sideshow Mel,1
+15,22,335,Barney,1
+15,22,335,Bart,9
+15,22,335,Brockman,11
+15,22,335,Carl,3
+15,22,335,Cletus,1
+15,22,335,Flanders,1
+15,22,335,Groundskeeper Willie,1
+15,22,335,Homer,31
+15,22,335,Krusty,3
+15,22,335,Lenny,5
+15,22,335,Lisa,44
+15,22,335,Marge,5
+15,22,335,Mayor Quimby,2
+15,22,335,Milhouse,2
+15,22,335,Moe,1
+15,22,335,Mr. Burns,57
+15,22,335,Nelson,1
+15,22,335,Professor Frink,1
+15,22,335,Ralph,2
+15,22,335,Smithers,13
+16,1,336,Apu,3
+16,1,336,Bart,14
+16,1,336,Carl,1
+16,1,336,Chief Wiggum,25
+16,1,336,Dr. Hibbert,5
+16,1,336,Flanders,28
+16,1,336,Homer,42
+16,1,336,Lisa,8
+16,1,336,Lou,3
+16,1,336,Marge,15
+16,1,336,Mayor Quimby,1
+16,1,336,Mr. Burns,8
+16,1,336,Otto,1
+16,1,336,Professor Frink,17
+16,1,336,Ralph,3
+16,1,336,Selma,1
+16,2,337,Agnes Skinner,3
+16,2,337,Apu,2
+16,2,337,Bart,24
+16,2,337,Brockman,2
+16,2,337,Carl,1
+16,2,337,Chief Wiggum,6
+16,2,337,Cletus,3
+16,2,337,Edna Krabappel,1
+16,2,337,Flanders,3
+16,2,337,Homer,54
+16,2,337,Lenny,1
+16,2,337,Lisa,19
+16,2,337,Marge,60
+16,2,337,Milhouse,11
+16,2,337,Moe,2
+16,2,337,Nelson,3
+16,2,337,Ralph,4
+16,2,337,Sideshow Mel,2
+16,3,338,Agnes Skinner,2
+16,3,338,Bart,24
+16,3,338,Edna Krabappel,2
+16,3,338,Groundskeeper Willie,1
+16,3,338,Homer,22
+16,3,338,Lisa,29
+16,3,338,Marge,49
+16,3,338,Martin Prince,1
+16,3,338,Milhouse,3
+16,3,338,Moe,3
+16,3,338,Nelson,39
+16,3,338,Ralph,4
+16,4,339,Barney,3
+16,4,339,Bart,9
+16,4,339,Brockman,9
+16,4,339,Chief Wiggum,3
+16,4,339,Grampa,2
+16,4,339,Homer,37
+16,4,339,Krusty,1
+16,4,339,Lisa,33
+16,4,339,Marge,54
+16,4,339,Mayor Quimby,8
+16,4,339,Moe,2
+16,5,340,Apu,1
+16,5,340,Bart,57
+16,5,340,Carl,2
+16,5,340,Chalmers,2
+16,5,340,Chief Wiggum,5
+16,5,340,Comic Book Guy,2
+16,5,340,Dr. Hibbert,1
+16,5,340,Flanders,3
+16,5,340,Grampa,3
+16,5,340,Homer,56
+16,5,340,Jimbo,2
+16,5,340,Krusty,3
+16,5,340,Lenny,3
+16,5,340,Lisa,29
+16,5,340,Marge,11
+16,5,340,Martin Prince,4
+16,5,340,Milhouse,3
+16,5,340,Moe,2
+16,5,340,Mr. Burns,7
+16,5,340,Nelson,2
+16,5,340,Otto,1
+16,5,340,Smithers,3
+16,6,341,Apu,12
+16,6,341,Bart,3
+16,6,341,Brockman,3
+16,6,341,Carl,2
+16,6,341,Chief Wiggum,8
+16,6,341,Cletus,1
+16,6,341,Comic Book Guy,1
+16,6,341,Dr. Hibbert,1
+16,6,341,Flanders,13
+16,6,341,Grampa,15
+16,6,341,Groundskeeper Willie,1
+16,6,341,Homer,48
+16,6,341,Krusty,1
+16,6,341,Lenny,3
+16,6,341,Lisa,11
+16,6,341,Lou,1
+16,6,341,Marge,7
+16,6,341,Moe,2
+16,6,341,Mr. Burns,29
+16,6,341,Nelson,1
+16,6,341,Professor Frink,1
+16,6,341,Ralph,1
+16,6,341,Sideshow Mel,2
+16,6,341,Smithers,6
+16,7,342,Barney,1
+16,7,342,Bart,7
+16,7,342,Brockman,1
+16,7,342,Carl,3
+16,7,342,Chief Wiggum,6
+16,7,342,Homer,61
+16,7,342,Krusty,1
+16,7,342,Lenny,5
+16,7,342,Lisa,8
+16,7,342,Lou,1
+16,7,342,Marge,53
+16,7,342,Mayor Quimby,1
+16,7,342,Moe,56
+16,8,343,Bart,8
+16,8,343,Brockman,1
+16,8,343,Carl,3
+16,8,343,Comic Book Guy,3
+16,8,343,Dr. Hibbert,2
+16,8,343,Flanders,21
+16,8,343,Homer,56
+16,8,343,Jimbo,1
+16,8,343,Lenny,3
+16,8,343,Lisa,6
+16,8,343,Marge,18
+16,8,343,Milhouse,2
+16,8,343,Moe,5
+16,8,343,Mr. Burns,8
+16,8,343,Professor Frink,1
+16,8,343,Rev. Lovejoy,2
+16,8,343,Sideshow Mel,1
+16,9,344,Apu,1
+16,9,344,Bart,43
+16,9,344,Brockman,3
+16,9,344,Chalmers,2
+16,9,344,Chief Wiggum,43
+16,9,344,Homer,36
+16,9,344,Kirk,8
+16,9,344,Lisa,15
+16,9,344,Lou,9
+16,9,344,Marge,15
+16,9,344,Milhouse,9
+16,9,344,Patty,2
+16,9,344,Selma,1
+16,10,345,Barney,6
+16,10,345,Bart,15
+16,10,345,Brockman,4
+16,10,345,Grampa,3
+16,10,345,Homer,43
+16,10,345,Jimbo,2
+16,10,345,Krusty,3
+16,10,345,Lisa,9
+16,10,345,Marge,30
+16,10,345,Martin Prince,1
+16,10,345,Mayor Quimby,4
+16,10,345,Milhouse,6
+16,10,345,Moe,5
+16,10,345,Nelson,2
+16,10,345,Patty,31
+16,10,345,Rev. Lovejoy,7
+16,10,345,Selma,5
+16,10,345,Sideshow Mel,4
+16,11,346,Bart,37
+16,11,346,Chief Wiggum,10
+16,11,346,Dr. Hibbert,2
+16,11,346,Edna Krabappel,5
+16,11,346,Grampa,8
+16,11,346,Groundskeeper Willie,2
+16,11,346,Homer,28
+16,11,346,Jimbo,2
+16,11,346,Lisa,37
+16,11,346,Lou,4
+16,11,346,Marge,10
+16,11,346,Milhouse,2
+16,11,346,Nelson,3
+16,11,346,Otto,1
+16,12,347,Bart,4
+16,12,347,Cletus,3
+16,12,347,Dr. Hibbert,2
+16,12,347,Homer,48
+16,12,347,Lenny,1
+16,12,347,Lisa,10
+16,12,347,Marge,17
+16,12,347,Milhouse,2
+16,12,347,Mr. Burns,6
+16,12,347,Patty,2
+16,12,347,Selma,37
+16,12,347,Smithers,1
+16,13,348,Bart,21
+16,13,348,Chief Wiggum,2
+16,13,348,Flanders,3
+16,13,348,Homer,70
+16,13,348,Krusty,2
+16,13,348,Lisa,21
+16,13,348,Lou,1
+16,13,348,Marge,61
+16,13,348,Moe,1
+16,13,348,Nelson,1
+16,14,349,Barney,1
+16,14,349,Bart,12
+16,14,349,Brockman,2
+16,14,349,Carl,5
+16,14,349,Chief Wiggum,9
+16,14,349,Cletus,2
+16,14,349,Fat Tony,2
+16,14,349,Flanders,1
+16,14,349,Homer,41
+16,14,349,Jimbo,1
+16,14,349,Lenny,5
+16,14,349,Lisa,17
+16,14,349,Lou,4
+16,14,349,Marge,22
+16,14,349,Mayor Quimby,4
+16,14,349,Moe,2
+16,14,349,Mr. Burns,16
+16,14,349,Otto,1
+16,14,349,Smithers,1
+16,15,350,Apu,3
+16,15,350,Bart,62
+16,15,350,Carl,2
+16,15,350,Chalmers,1
+16,15,350,Chief Wiggum,3
+16,15,350,Cletus,1
+16,15,350,Edna Krabappel,2
+16,15,350,Groundskeeper Willie,2
+16,15,350,Homer,23
+16,15,350,Krusty,2
+16,15,350,Lenny,2
+16,15,350,Lisa,27
+16,15,350,Marge,12
+16,15,350,Martin Prince,2
+16,15,350,Milhouse,20
+16,15,350,Moe,10
+16,15,350,Mr. Burns,4
+16,15,350,Nelson,6
+16,15,350,Otto,1
+16,15,350,Professor Frink,12
+16,15,350,Ralph,1
+16,15,350,Smithers,3
+16,16,351,Barney,1
+16,16,351,Bart,13
+16,16,351,Brockman,4
+16,16,351,Carl,2
+16,16,351,Dr. Hibbert,19
+16,16,351,Flanders,5
+16,16,351,Grampa,4
+16,16,351,Homer,109
+16,16,351,Krusty,1
+16,16,351,Lenny,1
+16,16,351,Lisa,9
+16,16,351,Marge,45
+16,16,351,Moe,6
+16,16,351,Professor Frink,1
+16,17,352,Bart,25
+16,17,352,Brockman,1
+16,17,352,Chalmers,4
+16,17,352,Dr. Hibbert,5
+16,17,352,Flanders,1
+16,17,352,Groundskeeper Willie,4
+16,17,352,Homer,38
+16,17,352,Krusty,5
+16,17,352,Lisa,11
+16,17,352,Marge,21
+16,17,352,Nelson,1
+16,17,352,Ralph,1
+16,18,353,Apu,3
+16,18,353,Bart,11
+16,18,353,Carl,2
+16,18,353,Cletus,1
+16,18,353,Homer,57
+16,18,353,Krusty,23
+16,18,353,Lenny,4
+16,18,353,Lisa,54
+16,18,353,Marge,10
+16,18,353,Milhouse,2
+16,18,353,Ralph,1
+16,18,353,Sideshow Mel,2
+16,19,354,Agnes Skinner,1
+16,19,354,Bart,7
+16,19,354,Brockman,3
+16,19,354,Carl,2
+16,19,354,Chief Wiggum,1
+16,19,354,Comic Book Guy,1
+16,19,354,Dr. Hibbert,1
+16,19,354,Flanders,1
+16,19,354,Grampa,2
+16,19,354,Homer,84
+16,19,354,Jimbo,2
+16,19,354,Krusty,5
+16,19,354,Lenny,3
+16,19,354,Lisa,15
+16,19,354,Marge,24
+16,19,354,Moe,3
+16,19,354,Nelson,3
+16,19,354,Ralph,1
+16,19,354,Sideshow Mel,3
+16,20,355,Apu,1
+16,20,355,Bart,14
+16,20,355,Dr. Hibbert,1
+16,20,355,Flanders,56
+16,20,355,Homer,58
+16,20,355,Lisa,8
+16,20,355,Marge,15
+16,20,355,Milhouse,5
+16,20,355,Moe,2
+16,20,355,Nelson,3
+16,20,355,Sideshow Mel,1
+16,21,356,Bart,38
+16,21,356,Edna Krabappel,7
+16,21,356,Flanders,7
+16,21,356,Grampa,2
+16,21,356,Groundskeeper Willie,5
+16,21,356,Homer,40
+16,21,356,Jimbo,1
+16,21,356,Lisa,13
+16,21,356,Marge,31
+16,21,356,Martin Prince,1
+16,21,356,Milhouse,3
+16,21,356,Nelson,5
+16,21,356,Otto,1
+16,21,356,Ralph,1
+16,21,356,Rev. Lovejoy,12
+17,1,357,Bart,15
+17,1,357,Carl,4
+17,1,357,Fat Tony,4
+17,1,357,Homer,87
+17,1,357,Lenny,3
+17,1,357,Lisa,15
+17,1,357,Marge,46
+17,1,357,Moe,5
+17,1,357,Mr. Burns,3
+17,1,357,Smithers,2
+17,2,358,Bart,19
+17,2,358,Brockman,1
+17,2,358,Carl,2
+17,2,358,Chief Wiggum,5
+17,2,358,Flanders,2
+17,2,358,Groundskeeper Willie,1
+17,2,358,Homer,46
+17,2,358,Lenny,6
+17,2,358,Lisa,40
+17,2,358,Lou,4
+17,2,358,Marge,31
+17,2,358,Milhouse,4
+17,3,359,Bart,42
+17,3,359,Chief Wiggum,3
+17,3,359,Dr. Hibbert,6
+17,3,359,Flanders,5
+17,3,359,Homer,54
+17,3,359,Kirk,18
+17,3,359,Krusty,1
+17,3,359,Lisa,11
+17,3,359,Marge,43
+17,3,359,Milhouse,34
+17,3,359,Nelson,1
+17,3,359,Ralph,1
+17,3,359,Rev. Lovejoy,2
+17,4,360,Agnes Skinner,1
+17,4,360,Apu,4
+17,4,360,Barney,1
+17,4,360,Bart,22
+17,4,360,Carl,5
+17,4,360,Chief Wiggum,1
+17,4,360,Comic Book Guy,1
+17,4,360,Dr. Hibbert,8
+17,4,360,Flanders,4
+17,4,360,Grampa,3
+17,4,360,Groundskeeper Willie,1
+17,4,360,Homer,31
+17,4,360,Krusty,1
+17,4,360,Lenny,5
+17,4,360,Lisa,14
+17,4,360,Marge,20
+17,4,360,Martin Prince,1
+17,4,360,Mayor Quimby,6
+17,4,360,Milhouse,1
+17,4,360,Moe,10
+17,4,360,Mr. Burns,11
+17,4,360,Nelson,3
+17,4,360,Patty,1
+17,4,360,Selma,1
+17,4,360,Sideshow Mel,1
+17,4,360,Smithers,1
+17,5,361,Agnes Skinner,4
+17,5,361,Apu,1
+17,5,361,Bart,52
+17,5,361,Carl,1
+17,5,361,Chalmers,2
+17,5,361,Chief Wiggum,3
+17,5,361,Homer,36
+17,5,361,Jimbo,6
+17,5,361,Krusty,2
+17,5,361,Lenny,2
+17,5,361,Lisa,4
+17,5,361,Marge,60
+17,5,361,Milhouse,3
+17,5,361,Moe,19
+17,5,361,Nelson,1
+17,5,361,Rev. Lovejoy,2
+17,6,362,Barney,1
+17,6,362,Bart,10
+17,6,362,Brockman,11
+17,6,362,Carl,4
+17,6,362,Chief Wiggum,5
+17,6,362,Cletus,2
+17,6,362,Groundskeeper Willie,1
+17,6,362,Homer,79
+17,6,362,Jimbo,2
+17,6,362,Lenny,7
+17,6,362,Lisa,30
+17,6,362,Marge,13
+17,6,362,Martin Prince,1
+17,6,362,Mayor Quimby,8
+17,6,362,Milhouse,5
+17,6,362,Moe,4
+17,6,362,Nelson,2
+17,6,362,Otto,1
+17,6,362,Ralph,1
+17,6,362,Sideshow Mel,1
+17,6,362,Smithers,1
+17,7,363,Agnes Skinner,3
+17,7,363,Bart,3
+17,7,363,Chief Wiggum,5
+17,7,363,Homer,31
+17,7,363,Krusty,1
+17,7,363,Lisa,25
+17,7,363,Lou,4
+17,7,363,Marge,32
+17,7,363,Mayor Quimby,10
+17,7,363,Milhouse,20
+17,7,363,Moe,2
+17,7,363,Mr. Burns,12
+17,7,363,Nelson,3
+17,7,363,Ralph,5
+17,7,363,Smithers,1
+17,8,364,Bart,14
+17,8,364,Chief Wiggum,4
+17,8,364,Cletus,1
+17,8,364,Edna Krabappel,2
+17,8,364,Groundskeeper Willie,1
+17,8,364,Homer,54
+17,8,364,Krusty,13
+17,8,364,Lisa,24
+17,8,364,Lou,1
+17,8,364,Marge,20
+17,8,364,Martin Prince,1
+17,8,364,Mr. Burns,13
+17,8,364,Nelson,4
+17,8,364,Sideshow Bob,37
+17,8,364,Smithers,1
+17,9,365,Agnes Skinner,1
+17,9,365,Apu,2
+17,9,365,Barney,2
+17,9,365,Bart,5
+17,9,365,Carl,4
+17,9,365,Chief Wiggum,2
+17,9,365,Cletus,1
+17,9,365,Comic Book Guy,1
+17,9,365,Dr. Hibbert,4
+17,9,365,Flanders,4
+17,9,365,Grampa,38
+17,9,365,Homer,19
+17,9,365,Krusty,4
+17,9,365,Lenny,2
+17,9,365,Lisa,9
+17,9,365,Lou,1
+17,9,365,Marge,7
+17,9,365,Mayor Quimby,1
+17,9,365,Moe,5
+17,9,365,Mr. Burns,13
+17,9,365,Professor Frink,4
+17,9,365,Rev. Lovejoy,2
+17,9,365,Sideshow Mel,2
+17,10,366,Agnes Skinner,4
+17,10,366,Bart,6
+17,10,366,Brockman,4
+17,10,366,Carl,3
+17,10,366,Chief Wiggum,2
+17,10,366,Dr. Hibbert,4
+17,10,366,Grampa,33
+17,10,366,Homer,49
+17,10,366,Jimbo,2
+17,10,366,Lenny,2
+17,10,366,Lisa,10
+17,10,366,Marge,23
+17,10,366,Mayor Quimby,5
+17,10,366,Moe,3
+17,10,366,Professor Frink,1
+17,10,366,Ralph,1
+17,10,366,Rev. Lovejoy,2
+17,10,366,Sideshow Mel,1
+17,11,367,Bart,35
+17,11,367,Carl,4
+17,11,367,Chalmers,4
+17,11,367,Chief Wiggum,2
+17,11,367,Comic Book Guy,2
+17,11,367,Edna Krabappel,1
+17,11,367,Flanders,4
+17,11,367,Groundskeeper Willie,3
+17,11,367,Homer,55
+17,11,367,Jimbo,3
+17,11,367,Lenny,5
+17,11,367,Lisa,6
+17,11,367,Lou,2
+17,11,367,Marge,18
+17,11,367,Milhouse,7
+17,11,367,Moe,4
+17,11,367,Nelson,2
+17,11,367,Otto,5
+17,11,367,Ralph,1
+17,11,367,Smithers,2
+17,12,368,Agnes Skinner,2
+17,12,368,Bart,18
+17,12,368,Carl,1
+17,12,368,Chalmers,1
+17,12,368,Edna Krabappel,1
+17,12,368,Groundskeeper Willie,38
+17,12,368,Homer,17
+17,12,368,Jimbo,3
+17,12,368,Krusty,10
+17,12,368,Lenny,1
+17,12,368,Lisa,29
+17,12,368,Marge,14
+17,12,368,Martin Prince,1
+17,12,368,Milhouse,2
+17,12,368,Moe,2
+17,12,368,Nelson,3
+17,12,368,Ralph,1
+17,13,369,Barney,1
+17,13,369,Bart,11
+17,13,369,Carl,3
+17,13,369,Edna Krabappel,14
+17,13,369,Homer,27
+17,13,369,Lenny,4
+17,13,369,Lisa,26
+17,13,369,Marge,16
+17,13,369,Martin Prince,1
+17,13,369,Milhouse,1
+17,13,369,Moe,39
+17,13,369,Mr. Burns,40
+17,13,369,Nelson,2
+17,14,370,Bart,16
+17,14,370,Brockman,5
+17,14,370,Carl,2
+17,14,370,Flanders,63
+17,14,370,Homer,39
+17,14,370,Krusty,1
+17,14,370,Lenny,2
+17,14,370,Lisa,14
+17,14,370,Marge,39
+17,14,370,Mr. Burns,2
+17,14,370,Nelson,2
+17,14,370,Rev. Lovejoy,6
+17,14,370,Smithers,1
+17,15,371,Bart,6
+17,15,371,Carl,2
+17,15,371,Cletus,1
+17,15,371,Homer,54
+17,15,371,Lenny,9
+17,15,371,Lisa,11
+17,15,371,Marge,47
+17,15,371,Moe,1
+17,15,371,Patty,2
+17,15,371,Sideshow Mel,1
+17,16,372,Barney,1
+17,16,372,Bart,2
+17,16,372,Brockman,2
+17,16,372,Carl,3
+17,16,372,Chief Wiggum,4
+17,16,372,Grampa,36
+17,16,372,Homer,17
+17,16,372,Jimbo,2
+17,16,372,Lenny,6
+17,16,372,Lisa,11
+17,16,372,Marge,12
+17,16,372,Mayor Quimby,7
+17,16,372,Nelson,1
+17,16,372,Sideshow Mel,2
+17,17,373,Bart,7
+17,17,373,Carl,1
+17,17,373,Comic Book Guy,5
+17,17,373,Groundskeeper Willie,1
+17,17,373,Homer,45
+17,17,373,Lenny,7
+17,17,373,Lisa,8
+17,17,373,Marge,8
+17,17,373,Moe,3
+17,17,373,Mr. Burns,25
+17,17,373,Patty,23
+17,17,373,Selma,17
+17,17,373,Smithers,7
+17,18,374,Barney,1
+17,18,374,Bart,14
+17,18,374,Carl,4
+17,18,374,Chief Wiggum,3
+17,18,374,Comic Book Guy,4
+17,18,374,Flanders,1
+17,18,374,Groundskeeper Willie,4
+17,18,374,Homer,39
+17,18,374,Jimbo,5
+17,18,374,Krusty,2
+17,18,374,Lenny,5
+17,18,374,Lisa,16
+17,18,374,Marge,30
+17,18,374,Milhouse,2
+17,18,374,Moe,13
+17,18,374,Mr. Burns,3
+17,18,374,Nelson,1
+17,18,374,Rev. Lovejoy,6
+17,18,374,Selma,3
+17,18,374,Sideshow Mel,3
+17,18,374,Smithers,1
+17,19,375,Bart,24
+17,19,375,Chalmers,11
+17,19,375,Comic Book Guy,1
+17,19,375,Edna Krabappel,1
+17,19,375,Groundskeeper Willie,2
+17,19,375,Homer,19
+17,19,375,Jimbo,3
+17,19,375,Lenny,1
+17,19,375,Lisa,53
+17,19,375,Marge,15
+17,19,375,Martin Prince,3
+17,19,375,Milhouse,9
+17,19,375,Nelson,6
+17,19,375,Otto,2
+17,19,375,Ralph,4
+17,19,375,Sideshow Mel,1
+17,20,376,Bart,12
+17,20,376,Brockman,3
+17,20,376,Carl,2
+17,20,376,Chief Wiggum,2
+17,20,376,Dr. Hibbert,6
+17,20,376,Duffman,1
+17,20,376,Edna Krabappel,1
+17,20,376,Flanders,4
+17,20,376,Grampa,2
+17,20,376,Homer,76
+17,20,376,Lenny,2
+17,20,376,Lisa,8
+17,20,376,Lou,2
+17,20,376,Marge,76
+17,20,376,Milhouse,4
+17,20,376,Moe,9
+17,20,376,Nelson,2
+17,20,376,Otto,1
+17,20,376,Patty,4
+17,20,376,Selma,5
+17,20,376,Sideshow Mel,2
+17,21,377,Barney,1
+17,21,377,Bart,22
+17,21,377,Brockman,4
+17,21,377,Carl,1
+17,21,377,Chief Wiggum,3
+17,21,377,Flanders,30
+17,21,377,Grampa,2
+17,21,377,Homer,23
+17,21,377,Lenny,2
+17,21,377,Lisa,23
+17,21,377,Marge,18
+17,21,377,Martin Prince,3
+17,21,377,Mayor Quimby,3
+17,21,377,Milhouse,3
+17,21,377,Moe,2
+17,21,377,Nelson,3
+17,21,377,Professor Frink,2
+17,21,377,Ralph,3
+17,21,377,Rev. Lovejoy,5
+17,21,377,Sideshow Mel,2
+17,22,378,Bart,9
+17,22,378,Brockman,3
+17,22,378,Carl,4
+17,22,378,Dr. Hibbert,1
+17,22,378,Duffman,6
+17,22,378,Grampa,8
+17,22,378,Homer,54
+17,22,378,Lenny,3
+17,22,378,Lisa,5
+17,22,378,Marge,38
+17,22,378,Moe,9
+17,22,378,Sideshow Mel,2
+18,1,379,Bart,12
+18,1,379,Dr. Hibbert,1
+18,1,379,Fat Tony,24
+18,1,379,Flanders,2
+18,1,379,Groundskeeper Willie,3
+18,1,379,Homer,24
+18,1,379,Krusty,3
+18,1,379,Lisa,16
+18,1,379,Lou,6
+18,1,379,Marge,18
+18,1,379,Martin Prince,1
+18,1,379,Milhouse,3
+18,1,379,Moe,3
+18,1,379,Nelson,9
+18,1,379,Otto,25
+18,1,379,Ralph,1
+18,2,380,Bart,33
+18,2,380,Carl,1
+18,2,380,Chief Wiggum,5
+18,2,380,Cletus,1
+18,2,380,Dr. Hibbert,1
+18,2,380,Homer,23
+18,2,380,Krusty,3
+18,2,380,Lenny,2
+18,2,380,Lisa,37
+18,2,380,Marge,21
+18,2,380,Moe,2
+18,2,380,Otto,1
+18,2,380,Professor Frink,1
+18,2,380,Rev. Lovejoy,2
+18,2,380,Sideshow Mel,1
+18,3,381,Bart,24
+18,3,381,Brockman,4
+18,3,381,Carl,6
+18,3,381,Chalmers,3
+18,3,381,Comic Book Guy,2
+18,3,381,Groundskeeper Willie,5
+18,3,381,Homer,56
+18,3,381,Krusty,1
+18,3,381,Lenny,2
+18,3,381,Lisa,10
+18,3,381,Marge,39
+18,3,381,Milhouse,3
+18,3,381,Professor Frink,4
+18,4,382,Barney,2
+18,4,382,Bart,20
+18,4,382,Brockman,1
+18,4,382,Carl,2
+18,4,382,Chalmers,2
+18,4,382,Chief Wiggum,13
+18,4,382,Edna Krabappel,1
+18,4,382,Flanders,1
+18,4,382,Grampa,2
+18,4,382,Groundskeeper Willie,1
+18,4,382,Homer,44
+18,4,382,Krusty,10
+18,4,382,Lenny,5
+18,4,382,Lisa,11
+18,4,382,Lou,3
+18,4,382,Marge,9
+18,4,382,Mayor Quimby,3
+18,4,382,Milhouse,4
+18,4,382,Moe,1
+18,4,382,Sideshow Mel,1
+18,5,383,Bart,11
+18,5,383,Carl,1
+18,5,383,Chalmers,2
+18,5,383,Cletus,4
+18,5,383,Grampa,2
+18,5,383,Homer,45
+18,5,383,Jimbo,2
+18,5,383,Krusty,6
+18,5,383,Lenny,5
+18,5,383,Lisa,5
+18,5,383,Marge,14
+18,5,383,Martin Prince,1
+18,5,383,Milhouse,5
+18,5,383,Moe,10
+18,5,383,Mr. Burns,1
+18,5,383,Nelson,1
+18,5,383,Ralph,1
+18,5,383,Sideshow Mel,1
+18,6,384,Barney,1
+18,6,384,Bart,6
+18,6,384,Carl,1
+18,6,384,Grampa,8
+18,6,384,Groundskeeper Willie,2
+18,6,384,Homer,37
+18,6,384,Lenny,2
+18,6,384,Lisa,28
+18,6,384,Marge,12
+18,6,384,Moe,53
+18,7,385,Bart,5
+18,7,385,Brockman,9
+18,7,385,Carl,3
+18,7,385,Chief Wiggum,2
+18,7,385,Comic Book Guy,1
+18,7,385,Grampa,1
+18,7,385,Homer,65
+18,7,385,Kirk,2
+18,7,385,Krusty,2
+18,7,385,Lenny,4
+18,7,385,Lisa,5
+18,7,385,Lou,1
+18,7,385,Marge,31
+18,7,385,Martin Prince,2
+18,7,385,Milhouse,2
+18,7,385,Moe,4
+18,7,385,Mr. Burns,9
+18,7,385,Nelson,2
+18,7,385,Ralph,1
+18,8,386,Apu,1
+18,8,386,Bart,58
+18,8,386,Chalmers,1
+18,8,386,Grampa,1
+18,8,386,Groundskeeper Willie,3
+18,8,386,Homer,37
+18,8,386,Jimbo,4
+18,8,386,Lenny,1
+18,8,386,Lisa,22
+18,8,386,Marge,13
+18,8,386,Martin Prince,1
+18,8,386,Milhouse,9
+18,8,386,Moe,1
+18,8,386,Nelson,48
+18,8,386,Ralph,1
+18,9,387,Bart,8
+18,9,387,Carl,2
+18,9,387,Flanders,4
+18,9,387,Grampa,3
+18,9,387,Homer,34
+18,9,387,Kirk,3
+18,9,387,Krusty,9
+18,9,387,Lenny,1
+18,9,387,Lisa,13
+18,9,387,Marge,47
+18,9,387,Mayor Quimby,1
+18,9,387,Milhouse,1
+18,9,387,Moe,3
+18,9,387,Mr. Burns,5
+18,9,387,Nelson,2
+18,9,387,Patty,2
+18,9,387,Selma,1
+18,9,387,Sideshow Mel,1
+18,9,387,Smithers,1
+18,10,388,Bart,9
+18,10,388,Carl,2
+18,10,388,Comic Book Guy,2
+18,10,388,Flanders,3
+18,10,388,Grampa,1
+18,10,388,Homer,51
+18,10,388,Jimbo,2
+18,10,388,Lenny,5
+18,10,388,Lisa,15
+18,10,388,Marge,25
+18,10,388,Milhouse,2
+18,10,388,Moe,7
+18,10,388,Nelson,1
+18,10,388,Patty,1
+18,10,388,Selma,2
+18,10,388,Sideshow Mel,1
+18,11,389,Apu,2
+18,11,389,Bart,22
+18,11,389,Carl,2
+18,11,389,Chief Wiggum,7
+18,11,389,Grampa,4
+18,11,389,Groundskeeper Willie,2
+18,11,389,Homer,58
+18,11,389,Jimbo,1
+18,11,389,Krusty,1
+18,11,389,Lenny,5
+18,11,389,Lisa,17
+18,11,389,Lou,1
+18,11,389,Marge,21
+18,11,389,Martin Prince,5
+18,11,389,Milhouse,13
+18,11,389,Mr. Burns,6
+18,11,389,Nelson,1
+18,11,389,Sideshow Mel,1
+18,12,390,Bart,51
+18,12,390,Carl,1
+18,12,390,Chalmers,1
+18,12,390,Cletus,2
+18,12,390,Grampa,1
+18,12,390,Groundskeeper Willie,2
+18,12,390,Homer,31
+18,12,390,Krusty,2
+18,12,390,Lenny,1
+18,12,390,Lisa,26
+18,12,390,Marge,12
+18,12,390,Mayor Quimby,5
+18,12,390,Moe,1
+18,12,390,Mr. Burns,1
+18,12,390,Nelson,2
+18,12,390,Sideshow Mel,1
+18,12,390,Smithers,2
+18,13,391,Barney,1
+18,13,391,Bart,6
+18,13,391,Carl,3
+18,13,391,Chief Wiggum,14
+18,13,391,Comic Book Guy,1
+18,13,391,Dr. Hibbert,1
+18,13,391,Flanders,1
+18,13,391,Homer,53
+18,13,391,Krusty,1
+18,13,391,Lenny,6
+18,13,391,Lisa,3
+18,13,391,Lou,3
+18,13,391,Marge,16
+18,13,391,Mayor Quimby,2
+18,13,391,Moe,9
+18,13,391,Mr. Burns,9
+18,13,391,Nelson,1
+18,13,391,Professor Frink,9
+18,13,391,Ralph,1
+18,13,391,Smithers,6
+18,14,392,Apu,2
+18,14,392,Bart,35
+18,14,392,Chalmers,18
+18,14,392,Cletus,13
+18,14,392,Comic Book Guy,1
+18,14,392,Grampa,1
+18,14,392,Groundskeeper Willie,2
+18,14,392,Homer,6
+18,14,392,Krusty,25
+18,14,392,Lisa,25
+18,14,392,Marge,8
+18,14,392,Martin Prince,1
+18,14,392,Milhouse,3
+18,14,392,Nelson,2
+18,14,392,Ralph,1
+18,15,393,Bart,21
+18,15,393,Flanders,3
+18,15,393,Grampa,45
+18,15,393,Homer,44
+18,15,393,Lisa,14
+18,15,393,Marge,15
+18,15,393,Moe,2
+18,15,393,Nelson,1
+18,15,393,Patty,8
+18,15,393,Selma,29
+18,15,393,Sideshow Mel,1
+18,16,394,Apu,3
+18,16,394,Bart,13
+18,16,394,Carl,3
+18,16,394,Homer,67
+18,16,394,Krusty,5
+18,16,394,Lenny,2
+18,16,394,Lisa,13
+18,16,394,Marge,21
+18,16,394,Mayor Quimby,1
+18,16,394,Moe,4
+18,16,394,Mr. Burns,1
+18,16,394,Sideshow Mel,1
+18,17,395,Apu,7
+18,17,395,Bart,21
+18,17,395,Chalmers,1
+18,17,395,Cletus,2
+18,17,395,Comic Book Guy,1
+18,17,395,Edna Krabappel,3
+18,17,395,Flanders,1
+18,17,395,Grampa,1
+18,17,395,Homer,45
+18,17,395,Jimbo,2
+18,17,395,Krusty,2
+18,17,395,Lisa,27
+18,17,395,Marge,58
+18,17,395,Milhouse,4
+18,17,395,Moe,12
+18,17,395,Mr. Burns,1
+18,17,395,Nelson,1
+18,17,395,Rev. Lovejoy,1
+18,17,395,Sideshow Mel,2
+18,18,396,Apu,2
+18,18,396,Bart,20
+18,18,396,Chief Wiggum,5
+18,18,396,Dr. Hibbert,2
+18,18,396,Flanders,7
+18,18,396,Grampa,2
+18,18,396,Groundskeeper Willie,1
+18,18,396,Homer,46
+18,18,396,Krusty,1
+18,18,396,Lenny,2
+18,18,396,Lisa,13
+18,18,396,Marge,33
+18,18,396,Mayor Quimby,4
+18,18,396,Milhouse,7
+18,18,396,Moe,6
+18,18,396,Mr. Burns,2
+18,18,396,Nelson,1
+18,18,396,Professor Frink,1
+18,18,396,Rev. Lovejoy,10
+18,18,396,Smithers,1
+18,19,397,Apu,8
+18,19,397,Barney,1
+18,19,397,Bart,11
+18,19,397,Brockman,4
+18,19,397,Carl,1
+18,19,397,Flanders,2
+18,19,397,Grampa,1
+18,19,397,Homer,63
+18,19,397,Lisa,11
+18,19,397,Marge,25
+18,19,397,Mayor Quimby,3
+18,19,397,Milhouse,3
+18,19,397,Moe,26
+18,19,397,Mr. Burns,8
+18,19,397,Sideshow Mel,1
+18,19,397,Smithers,2
+18,20,398,Bart,35
+18,20,398,Chief Wiggum,24
+18,20,398,Cletus,2
+18,20,398,Edna Krabappel,3
+18,20,398,Groundskeeper Willie,3
+18,20,398,Homer,27
+18,20,398,Jimbo,2
+18,20,398,Lisa,14
+18,20,398,Lou,26
+18,20,398,Marge,19
+18,20,398,Martin Prince,3
+18,20,398,Nelson,1
+18,21,399,Apu,1
+18,21,399,Bart,24
+18,21,399,Chalmers,4
+18,21,399,Chief Wiggum,3
+18,21,399,Groundskeeper Willie,5
+18,21,399,Homer,20
+18,21,399,Jimbo,13
+18,21,399,Lisa,26
+18,21,399,Marge,18
+18,21,399,Martin Prince,14
+18,21,399,Milhouse,9
+18,21,399,Moe,2
+18,21,399,Mr. Burns,2
+18,21,399,Nelson,6
+18,21,399,Ralph,1
+18,21,399,Sideshow Mel,1
+18,22,400,Barney,1
+18,22,400,Bart,16
+18,22,400,Brockman,28
+18,22,400,Comic Book Guy,1
+18,22,400,Flanders,9
+18,22,400,Grampa,1
+18,22,400,Homer,60
+18,22,400,Krusty,6
+18,22,400,Lisa,22
+18,22,400,Marge,27
+18,22,400,Mayor Quimby,1
+18,22,400,Mr. Burns,1
+18,22,400,Nelson,1
+18,22,400,Patty,2
+18,22,400,Selma,2
+18,22,400,Sideshow Mel,1
+19,1,401,Bart,11
+19,1,401,Carl,1
+19,1,401,Duffman,1
+19,1,401,Flanders,1
+19,1,401,Homer,87
+19,1,401,Lenny,1
+19,1,401,Lisa,6
+19,1,401,Marge,19
+19,1,401,Milhouse,3
+19,1,401,Mr. Burns,24
+19,1,401,Nelson,1
+19,1,401,Otto,1
+19,1,401,Smithers,3
+19,2,402,Bart,13
+19,2,402,Carl,6
+19,2,402,Chief Wiggum,11
+19,2,402,Dr. Hibbert,10
+19,2,402,Flanders,2
+19,2,402,Homer,77
+19,2,402,Lenny,2
+19,2,402,Lisa,13
+19,2,402,Marge,34
+19,2,402,Moe,1
+19,2,402,Mr. Burns,10
+19,2,402,Rev. Lovejoy,1
+19,2,402,Smithers,2
+19,3,403,Agnes Skinner,3
+19,3,403,Apu,1
+19,3,403,Bart,10
+19,3,403,Carl,4
+19,3,403,Chief Wiggum,1
+19,3,403,Flanders,3
+19,3,403,Homer,75
+19,3,403,Jimbo,1
+19,3,403,Krusty,1
+19,3,403,Lenny,6
+19,3,403,Lisa,13
+19,3,403,Lou,19
+19,3,403,Marge,32
+19,3,403,Mayor Quimby,1
+19,3,403,Milhouse,1
+19,3,403,Moe,10
+19,3,403,Sideshow Mel,1
+19,4,404,Agnes Skinner,2
+19,4,404,Bart,2
+19,4,404,Brockman,2
+19,4,404,Chief Wiggum,11
+19,4,404,Dr. Hibbert,7
+19,4,404,Homer,29
+19,4,404,Jimbo,3
+19,4,404,Krusty,11
+19,4,404,Lisa,4
+19,4,404,Lou,6
+19,4,404,Marge,46
+19,4,404,Moe,1
+19,5,405,Agnes Skinner,3
+19,5,405,Apu,1
+19,5,405,Bart,25
+19,5,405,Chief Wiggum,2
+19,5,405,Dr. Hibbert,1
+19,5,405,Flanders,19
+19,5,405,Grampa,1
+19,5,405,Groundskeeper Willie,2
+19,5,405,Homer,49
+19,5,405,Krusty,1
+19,5,405,Lenny,2
+19,5,405,Lisa,15
+19,5,405,Marge,24
+19,5,405,Milhouse,6
+19,5,405,Moe,2
+19,5,405,Mr. Burns,3
+19,5,405,Nelson,6
+19,5,405,Rev. Lovejoy,1
+19,5,405,Sideshow Mel,1
+19,6,406,Bart,42
+19,6,406,Grampa,1
+19,6,406,Homer,36
+19,6,406,Kirk,14
+19,6,406,Lisa,12
+19,6,406,Marge,19
+19,6,406,Martin Prince,1
+19,6,406,Milhouse,33
+19,6,406,Nelson,10
+19,6,406,Otto,1
+19,6,406,Ralph,1
+19,6,406,Rev. Lovejoy,8
+19,7,407,Agnes Skinner,1
+19,7,407,Bart,16
+19,7,407,Comic Book Guy,11
+19,7,407,Homer,55
+19,7,407,Krusty,2
+19,7,407,Lisa,10
+19,7,407,Marge,33
+19,7,407,Martin Prince,1
+19,7,407,Mayor Quimby,2
+19,7,407,Milhouse,5
+19,7,407,Nelson,2
+19,7,407,Patty,1
+19,7,407,Selma,1
+19,7,407,Sideshow Mel,1
+19,8,408,Bart,23
+19,8,408,Brockman,4
+19,8,408,Chief Wiggum,1
+19,8,408,Cletus,1
+19,8,408,Dr. Hibbert,2
+19,8,408,Homer,45
+19,8,408,Krusty,7
+19,8,408,Lenny,3
+19,8,408,Lisa,32
+19,8,408,Marge,21
+19,8,408,Milhouse,6
+19,8,408,Moe,4
+19,8,408,Sideshow Bob,46
+19,9,409,Bart,3
+19,9,409,Carl,4
+19,9,409,Chief Wiggum,11
+19,9,409,Duffman,10
+19,9,409,Flanders,2
+19,9,409,Grampa,6
+19,9,409,Groundskeeper Willie,1
+19,9,409,Homer,90
+19,9,409,Krusty,5
+19,9,409,Lenny,6
+19,9,409,Lisa,4
+19,9,409,Marge,20
+19,9,409,Moe,12
+19,9,409,Patty,4
+19,9,409,Professor Frink,9
+19,9,409,Selma,6
+19,10,410,Apu,2
+19,10,410,Bart,3
+19,10,410,Brockman,9
+19,10,410,Carl,7
+19,10,410,Chief Wiggum,4
+19,10,410,Dr. Hibbert,1
+19,10,410,Flanders,1
+19,10,410,Homer,42
+19,10,410,Krusty,9
+19,10,410,Lenny,6
+19,10,410,Lisa,15
+19,10,410,Lou,2
+19,10,410,Marge,10
+19,10,410,Mayor Quimby,4
+19,10,410,Moe,6
+19,10,410,Mr. Burns,2
+19,10,410,Nelson,2
+19,10,410,Ralph,7
+19,10,410,Sideshow Mel,2
+19,11,411,Barney,1
+19,11,411,Bart,8
+19,11,411,Carl,1
+19,11,411,Comic Book Guy,1
+19,11,411,Grampa,2
+19,11,411,Homer,71
+19,11,411,Kirk,1
+19,11,411,Krusty,1
+19,11,411,Lenny,1
+19,11,411,Lisa,7
+19,11,411,Lou,1
+19,11,411,Marge,64
+19,11,411,Moe,3
+19,12,412,Bart,6
+19,12,412,Chief Wiggum,7
+19,12,412,Cletus,1
+19,12,412,Comic Book Guy,1
+19,12,412,Flanders,8
+19,12,412,Grampa,1
+19,12,412,Groundskeeper Willie,5
+19,12,412,Homer,12
+19,12,412,Lisa,11
+19,12,412,Marge,6
+19,12,412,Martin Prince,1
+19,12,412,Milhouse,6
+19,12,412,Moe,5
+19,12,412,Otto,3
+19,13,413,Bart,60
+19,13,413,Carl,2
+19,13,413,Chalmers,8
+19,13,413,Cletus,2
+19,13,413,Edna Krabappel,4
+19,13,413,Groundskeeper Willie,10
+19,13,413,Homer,27
+19,13,413,Lisa,9
+19,13,413,Marge,6
+19,13,413,Milhouse,5
+19,13,413,Nelson,10
+19,13,413,Ralph,2
+19,14,414,Bart,41
+19,14,414,Brockman,2
+19,14,414,Chief Wiggum,8
+19,14,414,Dr. Hibbert,1
+19,14,414,Edna Krabappel,1
+19,14,414,Groundskeeper Willie,1
+19,14,414,Homer,24
+19,14,414,Jimbo,1
+19,14,414,Lisa,49
+19,14,414,Lou,4
+19,14,414,Marge,23
+19,14,414,Martin Prince,16
+19,14,414,Moe,1
+19,14,414,Nelson,16
+19,15,415,Apu,3
+19,15,415,Bart,21
+19,15,415,Brockman,1
+19,15,415,Carl,1
+19,15,415,Comic Book Guy,1
+19,15,415,Flanders,3
+19,15,415,Homer,58
+19,15,415,Kirk,1
+19,15,415,Lenny,1
+19,15,415,Lisa,46
+19,15,415,Marge,23
+19,15,415,Martin Prince,3
+19,15,415,Mayor Quimby,3
+19,15,415,Milhouse,1
+19,15,415,Nelson,2
+19,15,415,Patty,1
+19,16,416,Bart,10
+19,16,416,Brockman,4
+19,16,416,Carl,2
+19,16,416,Chief Wiggum,3
+19,16,416,Grampa,10
+19,16,416,Homer,29
+19,16,416,Krusty,3
+19,16,416,Lenny,3
+19,16,416,Lisa,18
+19,16,416,Lou,2
+19,16,416,Marge,27
+19,16,416,Mayor Quimby,20
+19,16,416,Moe,3
+19,16,416,Nelson,3
+19,16,416,Patty,1
+19,16,416,Selma,1
+19,17,417,Apu,1
+19,17,417,Bart,67
+19,17,417,Cletus,10
+19,17,417,Flanders,2
+19,17,417,Homer,18
+19,17,417,Krusty,2
+19,17,417,Lisa,23
+19,17,417,Marge,15
+19,17,417,Martin Prince,3
+19,17,417,Nelson,2
+19,18,418,Bart,13
+19,18,418,Carl,3
+19,18,418,Chalmers,17
+19,18,418,Chief Wiggum,2
+19,18,418,Comic Book Guy,2
+19,18,418,Homer,34
+19,18,418,Jimbo,1
+19,18,418,Lisa,46
+19,18,418,Marge,16
+19,18,418,Martin Prince,2
+19,18,418,Nelson,6
+19,18,418,Ralph,2
+19,18,418,Sideshow Mel,2
+19,19,419,Apu,5
+19,19,419,Bart,20
+19,19,419,Carl,3
+19,19,419,Flanders,4
+19,19,419,Grampa,2
+19,19,419,Homer,76
+19,19,419,Lenny,1
+19,19,419,Lisa,19
+19,19,419,Marge,20
+19,19,419,Moe,6
+19,19,419,Mr. Burns,10
+19,19,419,Ralph,2
+19,20,420,Bart,25
+19,20,420,Comic Book Guy,3
+19,20,420,Homer,23
+19,20,420,Jimbo,1
+19,20,420,Krusty,50
+19,20,420,Lenny,1
+19,20,420,Lisa,29
+19,20,420,Marge,4
+19,20,420,Martin Prince,2
+19,20,420,Milhouse,3
+19,20,420,Moe,1
+19,20,420,Mr. Burns,8
+19,20,420,Nelson,4
+19,20,420,Sideshow Mel,28
+20,1,421,Agnes Skinner,1
+20,1,421,Bart,6
+20,1,421,Chalmers,3
+20,1,421,Chief Wiggum,1
+20,1,421,Flanders,45
+20,1,421,Homer,72
+20,1,421,Lisa,10
+20,1,421,Marge,25
+20,1,421,Mayor Quimby,3
+20,1,421,Moe,1
+20,1,421,Mr. Burns,1
+20,1,421,Patty,2
+20,1,421,Selma,2
+20,2,422,Agnes Skinner,3
+20,2,422,Barney,1
+20,2,422,Bart,60
+20,2,422,Dr. Hibbert,4
+20,2,422,Groundskeeper Willie,3
+20,2,422,Homer,14
+20,2,422,Jimbo,1
+20,2,422,Krusty,2
+20,2,422,Lisa,17
+20,2,422,Marge,35
+20,2,422,Martin Prince,1
+20,2,422,Milhouse,13
+20,2,422,Moe,2
+20,2,422,Nelson,3
+20,3,423,Apu,2
+20,3,423,Barney,2
+20,3,423,Bart,65
+20,3,423,Chief Wiggum,3
+20,3,423,Grampa,3
+20,3,423,Homer,34
+20,3,423,Krusty,2
+20,3,423,Lenny,12
+20,3,423,Lisa,10
+20,3,423,Lou,1
+20,3,423,Marge,21
+20,3,423,Mayor Quimby,1
+20,3,423,Milhouse,6
+20,3,423,Moe,4
+20,3,423,Mr. Burns,14
+20,3,423,Nelson,1
+20,3,423,Smithers,1
+20,5,425,Bart,18
+20,5,425,Dr. Hibbert,1
+20,5,425,Flanders,26
+20,5,425,Grampa,3
+20,5,425,Homer,83
+20,5,425,Jimbo,1
+20,5,425,Lisa,13
+20,5,425,Marge,43
+20,5,425,Patty,4
+20,5,425,Selma,5
+20,6,426,Apu,2
+20,6,426,Bart,14
+20,6,426,Carl,2
+20,6,426,Chalmers,7
+20,6,426,Cletus,1
+20,6,426,Dr. Hibbert,1
+20,6,426,Edna Krabappel,3
+20,6,426,Grampa,2
+20,6,426,Homer,59
+20,6,426,Kirk,1
+20,6,426,Lenny,2
+20,6,426,Lisa,63
+20,6,426,Marge,11
+20,6,426,Moe,8
+20,6,426,Nelson,1
+20,6,426,Otto,2
+20,7,427,Bart,26
+20,7,427,Carl,2
+20,7,427,Comic Book Guy,3
+20,7,427,Grampa,1
+20,7,427,Groundskeeper Willie,1
+20,7,427,Homer,61
+20,7,427,Jimbo,3
+20,7,427,Krusty,6
+20,7,427,Lenny,5
+20,7,427,Lisa,20
+20,7,427,Marge,9
+20,7,427,Moe,3
+20,8,428,Bart,6
+20,8,428,Brockman,4
+20,8,428,Carl,1
+20,8,428,Chief Wiggum,2
+20,8,428,Grampa,1
+20,8,428,Groundskeeper Willie,4
+20,8,428,Homer,32
+20,8,428,Jimbo,5
+20,8,428,Lenny,1
+20,8,428,Lisa,33
+20,8,428,Marge,11
+20,8,428,Mayor Quimby,2
+20,8,428,Moe,11
+20,8,428,Mr. Burns,54
+20,8,428,Professor Frink,11
+20,8,428,Ralph,1
+20,8,428,Smithers,12
+20,9,429,Apu,1
+20,9,429,Bart,14
+20,9,429,Carl,2
+20,9,429,Comic Book Guy,4
+20,9,429,Groundskeeper Willie,2
+20,9,429,Homer,25
+20,9,429,Jimbo,7
+20,9,429,Lenny,1
+20,9,429,Lisa,61
+20,9,429,Marge,29
+20,9,429,Martin Prince,3
+20,9,429,Nelson,2
+20,10,430,Bart,12
+20,10,430,Carl,6
+20,10,430,Chief Wiggum,1
+20,10,430,Flanders,2
+20,10,430,Grampa,1
+20,10,430,Homer,87
+20,10,430,Lenny,10
+20,10,430,Lisa,23
+20,10,430,Marge,17
+20,10,430,Mayor Quimby,4
+20,10,430,Moe,1
+20,10,430,Mr. Burns,4
+20,10,430,Patty,1
+20,10,430,Selma,1
+20,10,430,Smithers,1
+20,11,431,Agnes Skinner,3
+20,11,431,Bart,21
+20,11,431,Chalmers,16
+20,11,431,Edna Krabappel,3
+20,11,431,Groundskeeper Willie,2
+20,11,431,Homer,30
+20,11,431,Jimbo,4
+20,11,431,Lisa,19
+20,11,431,Marge,11
+20,11,431,Martin Prince,2
+20,11,431,Milhouse,4
+20,11,431,Mr. Burns,1
+20,11,431,Nelson,9
+20,11,431,Otto,4
+20,11,431,Ralph,7
+20,12,432,Bart,12
+20,12,432,Brockman,4
+20,12,432,Carl,2
+20,12,432,Dr. Hibbert,3
+20,12,432,Flanders,35
+20,12,432,Grampa,7
+20,12,432,Homer,69
+20,12,432,Lenny,3
+20,12,432,Lisa,12
+20,12,432,Marge,26
+20,12,432,Mayor Quimby,4
+20,12,432,Moe,7
+20,12,432,Mr. Burns,3
+20,12,432,Smithers,1
+20,13,433,Bart,5
+20,13,433,Brockman,5
+20,13,433,Cletus,2
+20,13,433,Comic Book Guy,10
+20,13,433,Dr. Hibbert,2
+20,13,433,Homer,43
+20,13,433,Lisa,54
+20,13,433,Marge,22
+20,13,433,Milhouse,1
+20,13,433,Mr. Burns,11
+20,13,433,Nelson,1
+20,13,433,Professor Frink,1
+20,13,433,Smithers,3
+20,14,434,Bart,18
+20,14,434,Carl,1
+20,14,434,Chief Wiggum,4
+20,14,434,Edna Krabappel,1
+20,14,434,Flanders,3
+20,14,434,Grampa,38
+20,14,434,Homer,48
+20,14,434,Krusty,2
+20,14,434,Lisa,15
+20,14,434,Marge,15
+20,14,434,Moe,7
+20,14,434,Sideshow Mel,1
+20,15,435,Apu,3
+20,15,435,Bart,8
+20,15,435,Brockman,3
+20,15,435,Cletus,2
+20,15,435,Flanders,4
+20,15,435,Homer,42
+20,15,435,Krusty,3
+20,15,435,Lenny,1
+20,15,435,Lisa,11
+20,15,435,Marge,44
+20,15,435,Moe,2
+20,15,435,Patty,5
+20,15,435,Rev. Lovejoy,18
+20,15,435,Selma,6
+20,15,435,Sideshow Bob,4
+20,16,436,Barney,1
+20,16,436,Bart,1
+20,16,436,Carl,7
+20,16,436,Dr. Hibbert,2
+20,16,436,Homer,44
+20,16,436,Lenny,10
+20,16,436,Lisa,3
+20,16,436,Marge,16
+20,16,436,Moe,82
+20,17,437,Apu,4
+20,17,437,Bart,59
+20,17,437,Chalmers,4
+20,17,437,Chief Wiggum,1
+20,17,437,Flanders,2
+20,17,437,Grampa,1
+20,17,437,Groundskeeper Willie,6
+20,17,437,Homer,12
+20,17,437,Jimbo,2
+20,17,437,Kirk,1
+20,17,437,Lenny,4
+20,17,437,Lisa,14
+20,17,437,Marge,5
+20,17,437,Milhouse,22
+20,17,437,Nelson,7
+20,17,437,Ralph,1
+20,17,437,Rev. Lovejoy,2
+20,18,438,Bart,15
+20,18,438,Carl,1
+20,18,438,Chalmers,4
+20,18,438,Dr. Hibbert,7
+20,18,438,Edna Krabappel,4
+20,18,438,Groundskeeper Willie,1
+20,18,438,Homer,105
+20,18,438,Kirk,1
+20,18,438,Lenny,2
+20,18,438,Lisa,22
+20,18,438,Marge,20
+20,18,438,Moe,4
+20,18,438,Otto,1
+20,18,438,Ralph,3
+20,19,439,Bart,14
+20,19,439,Chalmers,4
+20,19,439,Chief Wiggum,9
+20,19,439,Edna Krabappel,2
+20,19,439,Homer,54
+20,19,439,Krusty,1
+20,19,439,Lisa,35
+20,19,439,Lou,2
+20,19,439,Marge,39
+20,19,439,Milhouse,3
+20,19,439,Ralph,2
+20,20,440,Agnes Skinner,1
+20,20,440,Chief Wiggum,2
+20,20,440,Dr. Hibbert,1
+20,20,440,Groundskeeper Willie,7
+20,20,440,Homer,29
+20,20,440,Lenny,3
+20,20,440,Lisa,15
+20,20,440,Marge,44
+20,20,440,Ralph,1
+20,20,440,Sideshow Mel,5
+21,1,442,Apu,5
+21,1,442,Bart,12
+21,1,442,Carl,3
+21,1,442,Comic Book Guy,32
+21,1,442,Homer,51
+21,1,442,Krusty,3
+21,1,442,Lenny,2
+21,1,442,Lisa,2
+21,1,442,Marge,8
+21,1,442,Milhouse,4
+21,1,442,Moe,1
+21,1,442,Nelson,1
+21,2,443,Bart,56
+21,2,443,Edna Krabappel,48
+21,2,443,Flanders,1
+21,2,443,Groundskeeper Willie,1
+21,2,443,Homer,11
+21,2,443,Jimbo,1
+21,2,443,Lisa,2
+21,2,443,Marge,1
+21,2,443,Martin Prince,3
+21,2,443,Milhouse,13
+21,2,443,Moe,1
+21,2,443,Nelson,9
+21,3,444,Barney,3
+21,3,444,Bart,19
+21,3,444,Carl,7
+21,3,444,Edna Krabappel,4
+21,3,444,Groundskeeper Willie,1
+21,3,444,Homer,31
+21,3,444,Jimbo,1
+21,3,444,Krusty,2
+21,3,444,Lenny,5
+21,3,444,Lisa,10
+21,3,444,Marge,46
+21,3,444,Martin Prince,1
+21,3,444,Milhouse,1
+21,3,444,Moe,7
+21,3,444,Mr. Burns,3
+21,3,444,Nelson,11
+21,3,444,Otto,3
+21,3,444,Ralph,1
+21,3,444,Sideshow Mel,3
+21,4,445,Agnes Skinner,1
+21,4,445,Apu,7
+21,4,445,Barney,3
+21,4,445,Bart,32
+21,4,445,Brockman,3
+21,4,445,Carl,1
+21,4,445,Dr. Hibbert,3
+21,4,445,Edna Krabappel,7
+21,4,445,Grampa,2
+21,4,445,Groundskeeper Willie,2
+21,4,445,Homer,33
+21,4,445,Krusty,3
+21,4,445,Lenny,1
+21,4,445,Lisa,37
+21,4,445,Marge,26
+21,4,445,Moe,32
+21,4,445,Ralph,1
+21,5,446,Agnes Skinner,3
+21,5,446,Bart,5
+21,5,446,Carl,35
+21,5,446,Chalmers,2
+21,5,446,Cletus,2
+21,5,446,Comic Book Guy,1
+21,5,446,Edna Krabappel,2
+21,5,446,Flanders,20
+21,5,446,Homer,45
+21,5,446,Lenny,5
+21,5,446,Lisa,1
+21,5,446,Marge,44
+21,5,446,Milhouse,1
+21,5,446,Mr. Burns,4
+21,5,446,Nelson,5
+21,7,448,Agnes Skinner,2
+21,7,448,Bart,9
+21,7,448,Brockman,3
+21,7,448,Carl,2
+21,7,448,Chalmers,1
+21,7,448,Chief Wiggum,6
+21,7,448,Cletus,15
+21,7,448,Dr. Hibbert,1
+21,7,448,Flanders,4
+21,7,448,Groundskeeper Willie,1
+21,7,448,Homer,22
+21,7,448,Krusty,2
+21,7,448,Lenny,1
+21,7,448,Lisa,34
+21,7,448,Lou,2
+21,7,448,Marge,4
+21,7,448,Martin Prince,1
+21,7,448,Mayor Quimby,2
+21,7,448,Moe,11
+21,7,448,Nelson,1
+21,7,448,Patty,1
+21,7,448,Selma,1
+21,8,449,Agnes Skinner,1
+21,8,449,Apu,3
+21,8,449,Barney,1
+21,8,449,Bart,83
+21,8,449,Chalmers,8
+21,8,449,Chief Wiggum,5
+21,8,449,Homer,29
+21,8,449,Jimbo,5
+21,8,449,Lisa,28
+21,8,449,Marge,21
+21,8,449,Milhouse,3
+21,8,449,Nelson,5
+21,8,449,Otto,2
+21,8,449,Ralph,1
+21,9,450,Agnes Skinner,2
+21,9,450,Bart,23
+21,9,450,Carl,1
+21,9,450,Chief Wiggum,3
+21,9,450,Edna Krabappel,6
+21,9,450,Flanders,3
+21,9,450,Grampa,41
+21,9,450,Homer,41
+21,9,450,Lenny,3
+21,9,450,Lisa,23
+21,9,450,Marge,7
+21,9,450,Martin Prince,1
+21,9,450,Milhouse,1
+21,9,450,Moe,2
+21,9,450,Mr. Burns,4
+21,9,450,Nelson,7
+21,9,450,Ralph,1
+21,10,451,Bart,26
+21,10,451,Brockman,4
+21,10,451,Carl,5
+21,10,451,Homer,17
+21,10,451,Krusty,48
+21,10,451,Lenny,12
+21,10,451,Lisa,8
+21,10,451,Marge,5
+21,10,451,Milhouse,8
+21,10,451,Moe,3
+21,10,451,Mr. Burns,12
+21,10,451,Nelson,2
+21,10,451,Ralph,1
+21,10,451,Sideshow Mel,1
+21,10,451,Smithers,2
+21,11,452,Apu,3
+21,11,452,Barney,4
+21,11,452,Bart,34
+21,11,452,Brockman,3
+21,11,452,Carl,5
+21,11,452,Chief Wiggum,1
+21,11,452,Edna Krabappel,2
+21,11,452,Grampa,6
+21,11,452,Homer,84
+21,11,452,Krusty,1
+21,11,452,Lenny,7
+21,11,452,Lisa,15
+21,11,452,Marge,34
+21,11,452,Milhouse,1
+21,11,452,Moe,4
+21,11,452,Mr. Burns,4
+21,11,452,Rev. Lovejoy,2
+21,11,452,Smithers,1
+21,12,453,Agnes Skinner,24
+21,12,453,Bart,16
+21,12,453,Carl,2
+21,12,453,Chief Wiggum,1
+21,12,453,Dr. Hibbert,5
+21,12,453,Homer,37
+21,12,453,Lenny,2
+21,12,453,Lisa,22
+21,12,453,Marge,34
+21,12,453,Moe,2
+21,12,453,Mr. Burns,4
+21,12,453,Nelson,2
+21,13,454,Bart,10
+21,13,454,Grampa,18
+21,13,454,Groundskeeper Willie,7
+21,13,454,Homer,18
+21,13,454,Lisa,55
+21,13,454,Marge,18
+21,13,454,Milhouse,4
+21,13,454,Mr. Burns,13
+21,13,454,Nelson,1
+21,13,454,Ralph,3
+21,13,454,Smithers,1
+21,14,455,Apu,1
+21,14,455,Bart,52
+21,14,455,Chalmers,1
+21,14,455,Chief Wiggum,1
+21,14,455,Edna Krabappel,13
+21,14,455,Flanders,4
+21,14,455,Groundskeeper Willie,4
+21,14,455,Homer,53
+21,14,455,Lisa,16
+21,14,455,Marge,36
+21,14,455,Martin Prince,4
+21,14,455,Milhouse,6
+21,14,455,Moe,1
+21,14,455,Nelson,11
+21,14,455,Patty,2
+21,14,455,Selma,3
+21,15,456,Bart,43
+21,15,456,Chalmers,9
+21,15,456,Grampa,6
+21,15,456,Groundskeeper Willie,5
+21,15,456,Homer,19
+21,15,456,Lisa,13
+21,15,456,Marge,7
+21,15,456,Martin Prince,1
+21,15,456,Milhouse,4
+21,15,456,Nelson,14
+21,15,456,Ralph,2
+21,16,457,Agnes Skinner,3
+21,16,457,Bart,22
+21,16,457,Dr. Hibbert,4
+21,16,457,Flanders,48
+21,16,457,Homer,61
+21,16,457,Jimbo,1
+21,16,457,Krusty,4
+21,16,457,Lisa,10
+21,16,457,Marge,18
+21,16,457,Rev. Lovejoy,6
+21,17,458,Bart,24
+21,17,458,Carl,11
+21,17,458,Chief Wiggum,3
+21,17,458,Fat Tony,1
+21,17,458,Grampa,2
+21,17,458,Homer,29
+21,17,458,Kirk,2
+21,17,458,Lenny,15
+21,17,458,Lisa,19
+21,17,458,Lou,2
+21,17,458,Marge,10
+21,17,458,Milhouse,1
+21,17,458,Moe,7
+21,17,458,Mr. Burns,67
+21,17,458,Smithers,16
+21,18,459,Bart,15
+21,18,459,Carl,1
+21,18,459,Chalmers,2
+21,18,459,Chief Wiggum,67
+21,18,459,Dr. Hibbert,1
+21,18,459,Fat Tony,4
+21,18,459,Flanders,2
+21,18,459,Homer,51
+21,18,459,Krusty,2
+21,18,459,Lenny,1
+21,18,459,Lou,13
+21,18,459,Marge,16
+21,18,459,Martin Prince,1
+21,18,459,Milhouse,2
+21,18,459,Moe,1
+21,18,459,Nelson,1
+21,18,459,Otto,2
+21,18,459,Ralph,2
+21,19,460,Apu,1
+21,19,460,Bart,14
+21,19,460,Brockman,1
+21,19,460,Carl,1
+21,19,460,Chief Wiggum,3
+21,19,460,Comic Book Guy,5
+21,19,460,Flanders,1
+21,19,460,Homer,62
+21,19,460,Jimbo,1
+21,19,460,Lenny,2
+21,19,460,Lisa,47
+21,19,460,Marge,11
+21,19,460,Mayor Quimby,3
+21,19,460,Milhouse,3
+21,19,460,Moe,1
+21,20,461,Barney,2
+21,20,461,Bart,8
+21,20,461,Brockman,4
+21,20,461,Carl,4
+21,20,461,Chalmers,1
+21,20,461,Chief Wiggum,13
+21,20,461,Cletus,2
+21,20,461,Comic Book Guy,1
+21,20,461,Duffman,5
+21,20,461,Flanders,30
+21,20,461,Grampa,1
+21,20,461,Homer,27
+21,20,461,Jimbo,3
+21,20,461,Krusty,2
+21,20,461,Lenny,2
+21,20,461,Lisa,27
+21,20,461,Lou,7
+21,20,461,Marge,12
+21,20,461,Mayor Quimby,4
+21,20,461,Milhouse,1
+21,20,461,Moe,3
+21,20,461,Mr. Burns,3
+21,20,461,Nelson,2
+21,20,461,Ralph,1
+21,20,461,Smithers,3
+21,21,462,Agnes Skinner,1
+21,21,462,Apu,33
+21,21,462,Bart,7
+21,21,462,Flanders,2
+21,21,462,Homer,43
+21,21,462,Kirk,1
+21,21,462,Krusty,5
+21,21,462,Lisa,4
+21,21,462,Marge,15
+21,21,462,Milhouse,1
+21,21,462,Moe,35
+21,21,462,Otto,3
+21,21,462,Patty,4
+21,21,462,Ralph,1
+21,21,462,Rev. Lovejoy,19
+21,21,462,Selma,5
+21,22,463,Apu,1
+21,22,463,Bart,40
+21,22,463,Chalmers,1
+21,22,463,Chief Wiggum,10
+21,22,463,Flanders,3
+21,22,463,Homer,21
+21,22,463,Lenny,1
+21,22,463,Lisa,7
+21,22,463,Lou,4
+21,22,463,Marge,29
+21,22,463,Mayor Quimby,4
+21,22,463,Milhouse,6
+21,22,463,Sideshow Bob,2
+21,23,464,Agnes Skinner,1
+21,23,464,Apu,1
+21,23,464,Barney,5
+21,23,464,Bart,7
+21,23,464,Carl,1
+21,23,464,Dr. Hibbert,2
+21,23,464,Flanders,4
+21,23,464,Grampa,4
+21,23,464,Homer,27
+21,23,464,Krusty,6
+21,23,464,Lenny,1
+21,23,464,Lisa,10
+21,23,464,Marge,24
+21,23,464,Moe,63
+21,23,464,Mr. Burns,1
+21,23,464,Ralph,1
+21,23,464,Sideshow Mel,2
+22,1,465,Bart,5
+22,1,465,Brockman,2
+22,1,465,Grampa,3
+22,1,465,Homer,13
+22,1,465,Jimbo,1
+22,1,465,Krusty,31
+22,1,465,Lisa,50
+22,1,465,Marge,15
+22,1,465,Martin Prince,1
+22,1,465,Moe,1
+22,1,465,Otto,2
+22,2,466,Bart,4
+22,2,466,Carl,1
+22,2,466,Chalmers,3
+22,2,466,Chief Wiggum,5
+22,2,466,Grampa,9
+22,2,466,Homer,29
+22,2,466,Krusty,1
+22,2,466,Lenny,2
+22,2,466,Lisa,34
+22,2,466,Lou,3
+22,2,466,Marge,25
+22,2,466,Martin Prince,3
+22,2,466,Milhouse,3
+22,2,466,Nelson,37
+22,2,466,Ralph,2
+22,3,467,Bart,36
+22,3,467,Carl,1
+22,3,467,Chalmers,3
+22,3,467,Flanders,4
+22,3,467,Homer,15
+22,3,467,Lenny,2
+22,3,467,Lisa,54
+22,3,467,Marge,14
+22,3,467,Milhouse,6
+22,3,467,Moe,5
+22,3,467,Mr. Burns,3
+22,3,467,Nelson,11
+22,3,467,Professor Frink,5
+22,3,467,Ralph,5
+22,3,467,Smithers,1
+22,4,468,Apu,1
+22,4,468,Bart,28
+22,4,468,Chief Wiggum,3
+22,4,468,Grampa,1
+22,4,468,Homer,58
+22,4,468,Lisa,14
+22,4,468,Lou,2
+22,4,468,Marge,34
+22,4,468,Milhouse,20
+22,4,468,Moe,1
+22,4,468,Otto,2
+22,4,468,Rev. Lovejoy,1
+22,4,468,Selma,1
+22,4,468,Sideshow Mel,1
+22,4,468,Smithers,1
+22,5,469,Bart,31
+22,5,469,Chalmers,4
+22,5,469,Groundskeeper Willie,3
+22,5,469,Homer,35
+22,5,469,Krusty,4
+22,5,469,Lisa,49
+22,5,469,Marge,42
+22,5,469,Martin Prince,2
+22,5,469,Moe,1
+22,5,469,Nelson,15
+22,5,469,Otto,1
+22,5,469,Selma,1
+22,6,470,Apu,5
+22,6,470,Barney,1
+22,6,470,Bart,13
+22,6,470,Brockman,5
+22,6,470,Carl,3
+22,6,470,Chief Wiggum,4
+22,6,470,Comic Book Guy,3
+22,6,470,Dr. Hibbert,1
+22,6,470,Flanders,1
+22,6,470,Homer,16
+22,6,470,Jimbo,1
+22,6,470,Krusty,4
+22,6,470,Lenny,4
+22,6,470,Lisa,16
+22,6,470,Lou,1
+22,6,470,Marge,14
+22,6,470,Mayor Quimby,5
+22,6,470,Mr. Burns,47
+22,6,470,Nelson,5
+22,6,470,Otto,2
+22,6,470,Smithers,17
+22,7,471,Bart,36
+22,7,471,Chalmers,3
+22,7,471,Edna Krabappel,3
+22,7,471,Flanders,1
+22,7,471,Homer,39
+22,7,471,Lenny,1
+22,7,471,Lisa,22
+22,7,471,Marge,22
+22,7,471,Martin Prince,2
+22,7,471,Milhouse,5
+22,7,471,Moe,4
+22,7,471,Mr. Burns,2
+22,7,471,Nelson,5
+22,8,472,Agnes Skinner,1
+22,8,472,Bart,30
+22,8,472,Chief Wiggum,1
+22,8,472,Flanders,1
+22,8,472,Grampa,5
+22,8,472,Homer,31
+22,8,472,Lisa,28
+22,8,472,Marge,23
+22,8,472,Milhouse,2
+22,8,472,Moe,20
+22,8,472,Mr. Burns,13
+22,8,472,Nelson,2
+22,8,472,Otto,3
+22,8,472,Patty,2
+22,8,472,Selma,2
+22,9,473,Barney,1
+22,9,473,Bart,9
+22,9,473,Chief Wiggum,13
+22,9,473,Comic Book Guy,2
+22,9,473,Fat Tony,38
+22,9,473,Homer,81
+22,9,473,Krusty,1
+22,9,473,Lenny,1
+22,9,473,Lisa,5
+22,9,473,Lou,8
+22,9,473,Marge,8
+22,9,473,Moe,10
+22,9,473,Mr. Burns,2
+22,9,473,Selma,1
+22,10,474,Bart,39
+22,10,474,Chalmers,2
+22,10,474,Cletus,1
+22,10,474,Comic Book Guy,18
+22,10,474,Dr. Hibbert,2
+22,10,474,Edna Krabappel,4
+22,10,474,Flanders,2
+22,10,474,Groundskeeper Willie,7
+22,10,474,Homer,24
+22,10,474,Jimbo,1
+22,10,474,Lisa,6
+22,10,474,Marge,37
+22,10,474,Martin Prince,3
+22,10,474,Mayor Quimby,1
+22,10,474,Milhouse,5
+22,10,474,Moe,3
+22,10,474,Nelson,6
+22,11,475,Agnes Skinner,2
+22,11,475,Barney,1
+22,11,475,Bart,13
+22,11,475,Carl,2
+22,11,475,Chalmers,6
+22,11,475,Comic Book Guy,4
+22,11,475,Grampa,1
+22,11,475,Groundskeeper Willie,2
+22,11,475,Homer,11
+22,11,475,Lenny,5
+22,11,475,Lisa,1
+22,11,475,Marge,3
+22,11,475,Milhouse,1
+22,11,475,Moe,43
+22,11,475,Mr. Burns,16
+22,11,475,Patty,3
+22,11,475,Smithers,30
+22,12,476,Apu,3
+22,12,476,Bart,41
+22,12,476,Brockman,2
+22,12,476,Flanders,1
+22,12,476,Groundskeeper Willie,3
+22,12,476,Homer,47
+22,12,476,Lisa,6
+22,12,476,Marge,9
+22,12,476,Milhouse,4
+22,13,477,Barney,1
+22,13,477,Bart,11
+22,13,477,Carl,1
+22,13,477,Chalmers,4
+22,13,477,Edna Krabappel,1
+22,13,477,Flanders,1
+22,13,477,Groundskeeper Willie,2
+22,13,477,Homer,32
+22,13,477,Jimbo,1
+22,13,477,Lenny,5
+22,13,477,Lisa,9
+22,13,477,Marge,37
+22,13,477,Milhouse,3
+22,13,477,Moe,19
+22,13,477,Mr. Burns,4
+22,13,477,Nelson,1
+22,13,477,Patty,3
+22,13,477,Ralph,1
+22,13,477,Selma,3
+22,14,478,Bart,30
+22,14,478,Homer,37
+22,14,478,Lenny,1
+22,14,478,Lisa,10
+22,14,478,Marge,5
+22,15,479,Agnes Skinner,3
+22,15,479,Bart,17
+22,15,479,Carl,3
+22,15,479,Chalmers,3
+22,15,479,Grampa,34
+22,15,479,Homer,27
+22,15,479,Lenny,4
+22,15,479,Lisa,24
+22,15,479,Marge,9
+22,15,479,Martin Prince,1
+22,15,479,Milhouse,3
+22,15,479,Moe,1
+22,15,479,Mr. Burns,2
+22,15,479,Nelson,3
+22,15,479,Otto,3
+22,15,479,Ralph,1
+22,16,480,Agnes Skinner,1
+22,16,480,Bart,7
+22,16,480,Brockman,7
+22,16,480,Carl,2
+22,16,480,Chalmers,3
+22,16,480,Chief Wiggum,4
+22,16,480,Grampa,3
+22,16,480,Groundskeeper Willie,1
+22,16,480,Homer,57
+22,16,480,Krusty,1
+22,16,480,Lenny,2
+22,16,480,Lisa,10
+22,16,480,Lou,2
+22,16,480,Marge,22
+22,16,480,Moe,2
+22,16,480,Mr. Burns,1
+22,16,480,Ralph,1
+22,16,480,Smithers,1
+22,17,481,Barney,1
+22,17,481,Bart,40
+22,17,481,Brockman,2
+22,17,481,Carl,2
+22,17,481,Edna Krabappel,2
+22,17,481,Grampa,3
+22,17,481,Homer,65
+22,17,481,Jimbo,1
+22,17,481,Lenny,4
+22,17,481,Lisa,2
+22,17,481,Marge,28
+22,17,481,Moe,3
+22,17,481,Mr. Burns,9
+22,17,481,Sideshow Mel,1
+22,18,482,Bart,13
+22,18,482,Chief Wiggum,3
+22,18,482,Flanders,1
+22,18,482,Grampa,2
+22,18,482,Homer,17
+22,18,482,Lisa,55
+22,18,482,Lou,2
+22,18,482,Marge,7
+22,18,482,Milhouse,1
+22,18,482,Nelson,1
+22,19,483,Bart,29
+22,19,483,Carl,1
+22,19,483,Chalmers,1
+22,19,483,Chief Wiggum,3
+22,19,483,Cletus,1
+22,19,483,Comic Book Guy,2
+22,19,483,Fat Tony,39
+22,19,483,Groundskeeper Willie,1
+22,19,483,Homer,37
+22,19,483,Krusty,1
+22,19,483,Lisa,20
+22,19,483,Lou,7
+22,19,483,Marge,25
+22,19,483,Otto,5
+22,19,483,Selma,36
+22,19,483,Sideshow Mel,1
+22,20,484,Bart,15
+22,20,484,Chief Wiggum,6
+22,20,484,Flanders,2
+22,20,484,Grampa,3
+22,20,484,Homer,49
+22,20,484,Kirk,1
+22,20,484,Lenny,2
+22,20,484,Lisa,21
+22,20,484,Marge,11
+22,20,484,Milhouse,30
+22,20,484,Moe,5
+22,20,484,Patty,3
+22,20,484,Selma,4
+22,20,484,Sideshow Mel,4
+22,21,485,Agnes Skinner,2
+22,21,485,Barney,3
+22,21,485,Bart,20
+22,21,485,Chalmers,15
+22,21,485,Chief Wiggum,9
+22,21,485,Cletus,1
+22,21,485,Dr. Hibbert,2
+22,21,485,Duffman,2
+22,21,485,Flanders,6
+22,21,485,Homer,40
+22,21,485,Kirk,1
+22,21,485,Lisa,42
+22,21,485,Marge,18
+22,21,485,Mayor Quimby,1
+22,21,485,Milhouse,1
+22,21,485,Nelson,11
+22,21,485,Otto,6
+22,21,485,Professor Frink,3
+22,21,485,Ralph,1
+22,21,485,Rev. Lovejoy,1
+22,22,486,Barney,3
+22,22,486,Bart,25
+22,22,486,Carl,2
+22,22,486,Chalmers,12
+22,22,486,Cletus,1
+22,22,486,Comic Book Guy,3
+22,22,486,Edna Krabappel,57
+22,22,486,Flanders,48
+22,22,486,Groundskeeper Willie,1
+22,22,486,Homer,39
+22,22,486,Lenny,1
+22,22,486,Lisa,2
+22,22,486,Marge,12
+22,22,486,Milhouse,1
+22,22,486,Moe,3
+22,22,486,Mr. Burns,1
+22,22,486,Nelson,3
+22,22,486,Patty,1
+23,1,487,Agnes Skinner,1
+23,1,487,Barney,1
+23,1,487,Bart,8
+23,1,487,Brockman,3
+23,1,487,Carl,2
+23,1,487,Chalmers,1
+23,1,487,Comic Book Guy,1
+23,1,487,Edna Krabappel,1
+23,1,487,Flanders,3
+23,1,487,Grampa,1
+23,1,487,Homer,67
+23,1,487,Jimbo,2
+23,1,487,Lenny,3
+23,1,487,Lisa,2
+23,1,487,Marge,16
+23,1,487,Moe,7
+23,1,487,Mr. Burns,3
+23,1,487,Sideshow Mel,1
+23,2,488,Bart,47
+23,2,488,Brockman,2
+23,2,488,Chalmers,50
+23,2,488,Chief Wiggum,3
+23,2,488,Edna Krabappel,8
+23,2,488,Grampa,2
+23,2,488,Groundskeeper Willie,3
+23,2,488,Homer,15
+23,2,488,Jimbo,9
+23,2,488,Lisa,7
+23,2,488,Lou,1
+23,2,488,Marge,6
+23,2,488,Milhouse,5
+23,2,488,Nelson,8
+23,2,488,Otto,1
+23,2,488,Sideshow Mel,1
+23,3,489,Bart,33
+23,3,489,Chalmers,12
+23,3,489,Chief Wiggum,1
+23,3,489,Cletus,2
+23,3,489,Flanders,21
+23,3,489,Grampa,1
+23,3,489,Homer,24
+23,3,489,Jimbo,2
+23,3,489,Krusty,2
+23,3,489,Lisa,18
+23,3,489,Marge,11
+23,3,489,Milhouse,6
+23,3,489,Moe,1
+23,3,489,Otto,1
+23,4,490,Agnes Skinner,1
+23,4,490,Barney,2
+23,4,490,Bart,23
+23,4,490,Brockman,3
+23,4,490,Carl,1
+23,4,490,Chalmers,2
+23,4,490,Chief Wiggum,4
+23,4,490,Flanders,10
+23,4,490,Grampa,5
+23,4,490,Homer,52
+23,4,490,Lenny,2
+23,4,490,Lisa,9
+23,4,490,Marge,6
+23,4,490,Martin Prince,14
+23,4,490,Milhouse,4
+23,4,490,Moe,2
+23,4,490,Mr. Burns,8
+23,4,490,Nelson,1
+23,4,490,Professor Frink,6
+23,4,490,Ralph,1
+23,4,490,Smithers,2
+23,5,491,Bart,28
+23,5,491,Chief Wiggum,4
+23,5,491,Cletus,1
+23,5,491,Comic Book Guy,2
+23,5,491,Flanders,3
+23,5,491,Homer,58
+23,5,491,Krusty,2
+23,5,491,Lisa,28
+23,5,491,Marge,62
+23,5,491,Rev. Lovejoy,1
+23,5,491,Sideshow Mel,2
+23,6,492,Agnes Skinner,1
+23,6,492,Apu,1
+23,6,492,Bart,36
+23,6,492,Homer,48
+23,6,492,Lenny,1
+23,6,492,Lisa,44
+23,6,492,Marge,5
+23,6,492,Milhouse,1
+23,6,492,Moe,15
+23,6,492,Patty,12
+23,6,492,Professor Frink,7
+23,6,492,Ralph,1
+23,7,493,Bart,21
+23,7,493,Carl,3
+23,7,493,Cletus,1
+23,7,493,Dr. Hibbert,1
+23,7,493,Flanders,1
+23,7,493,Homer,68
+23,7,493,Jimbo,5
+23,7,493,Kirk,3
+23,7,493,Krusty,16
+23,7,493,Lenny,1
+23,7,493,Lisa,14
+23,7,493,Marge,27
+23,7,493,Mayor Quimby,2
+23,7,493,Milhouse,2
+23,7,493,Mr. Burns,23
+23,7,493,Nelson,1
+23,7,493,Sideshow Mel,5
+23,7,493,Smithers,2
+23,8,494,Bart,11
+23,8,494,Homer,16
+23,8,494,Krusty,73
+23,8,494,Lisa,9
+23,8,494,Marge,8
+23,8,494,Moe,1
+23,8,494,Sideshow Mel,3
+23,9,495,Apu,5
+23,9,495,Bart,51
+23,9,495,Carl,4
+23,9,495,Dr. Hibbert,3
+23,9,495,Flanders,2
+23,9,495,Grampa,6
+23,9,495,Homer,26
+23,9,495,Krusty,1
+23,9,495,Lenny,3
+23,9,495,Lisa,38
+23,9,495,Marge,20
+23,9,495,Milhouse,7
+23,9,495,Moe,1
+23,9,495,Mr. Burns,1
+23,9,495,Nelson,2
+23,9,495,Ralph,4
+23,9,495,Selma,1
+23,10,496,Apu,3
+23,10,496,Bart,12
+23,10,496,Brockman,1
+23,10,496,Carl,1
+23,10,496,Flanders,3
+23,10,496,Homer,100
+23,10,496,Lenny,1
+23,10,496,Lisa,19
+23,10,496,Marge,18
+23,10,496,Martin Prince,1
+23,10,496,Moe,1
+23,10,496,Mr. Burns,2
+23,10,496,Sideshow Mel,1
+23,11,497,Bart,11
+23,11,497,Carl,1
+23,11,497,Chalmers,3
+23,11,497,Cletus,1
+23,11,497,Comic Book Guy,1
+23,11,497,Grampa,5
+23,11,497,Homer,39
+23,11,497,Jimbo,2
+23,11,497,Lenny,8
+23,11,497,Lisa,37
+23,11,497,Marge,16
+23,11,497,Martin Prince,3
+23,11,497,Milhouse,2
+23,11,497,Nelson,4
+23,11,497,Otto,1
+23,11,497,Patty,3
+23,11,497,Ralph,3
+23,11,497,Rev. Lovejoy,3
+23,11,497,Selma,4
+23,12,498,Bart,23
+23,12,498,Carl,1
+23,12,498,Chief Wiggum,8
+23,12,498,Comic Book Guy,1
+23,12,498,Duffman,2
+23,12,498,Flanders,1
+23,12,498,Homer,11
+23,12,498,Jimbo,1
+23,12,498,Kirk,2
+23,12,498,Lenny,5
+23,12,498,Lisa,4
+23,12,498,Marge,5
+23,12,498,Mayor Quimby,3
+23,12,498,Milhouse,19
+23,12,498,Moe,15
+23,12,498,Nelson,8
+23,12,498,Smithers,1
+23,13,499,Bart,19
+23,13,499,Chief Wiggum,2
+23,13,499,Cletus,1
+23,13,499,Grampa,14
+23,13,499,Groundskeeper Willie,1
+23,13,499,Homer,15
+23,13,499,Kirk,2
+23,13,499,Lisa,29
+23,13,499,Lou,1
+23,13,499,Marge,26
+23,13,499,Martin Prince,2
+23,13,499,Milhouse,9
+23,13,499,Moe,2
+23,13,499,Nelson,5
+23,13,499,Otto,1
+23,13,499,Professor Frink,2
+23,14,500,Bart,16
+23,14,500,Brockman,7
+23,14,500,Carl,4
+23,14,500,Chalmers,1
+23,14,500,Chief Wiggum,8
+23,14,500,Comic Book Guy,1
+23,14,500,Dr. Hibbert,1
+23,14,500,Flanders,3
+23,14,500,Grampa,1
+23,14,500,Homer,60
+23,14,500,Jimbo,2
+23,14,500,Krusty,1
+23,14,500,Lenny,4
+23,14,500,Lisa,12
+23,14,500,Lou,2
+23,14,500,Marge,27
+23,14,500,Mayor Quimby,22
+23,14,500,Moe,4
+23,14,500,Mr. Burns,3
+23,14,500,Otto,1
+23,14,500,Rev. Lovejoy,1
+23,14,500,Sideshow Bob,1
+23,14,500,Sideshow Mel,5
+23,14,500,Smithers,1
+23,15,501,Apu,16
+23,15,501,Bart,44
+23,15,501,Brockman,2
+23,15,501,Carl,1
+23,15,501,Chief Wiggum,11
+23,15,501,Grampa,1
+23,15,501,Homer,63
+23,15,501,Jimbo,1
+23,15,501,Lenny,1
+23,15,501,Lisa,13
+23,15,501,Lou,1
+23,15,501,Marge,13
+23,15,501,Milhouse,8
+23,15,501,Moe,2
+23,15,501,Mr. Burns,1
+23,15,501,Nelson,2
+23,15,501,Sideshow Mel,1
+23,15,501,Smithers,1
+23,16,502,Apu,3
+23,16,502,Barney,3
+23,16,502,Bart,14
+23,16,502,Carl,5
+23,16,502,Chief Wiggum,2
+23,16,502,Cletus,1
+23,16,502,Flanders,2
+23,16,502,Grampa,6
+23,16,502,Homer,82
+23,16,502,Lenny,5
+23,16,502,Lisa,10
+23,16,502,Lou,1
+23,16,502,Marge,27
+23,16,502,Moe,2
+23,16,502,Mr. Burns,10
+23,16,502,Professor Frink,11
+23,16,502,Sideshow Mel,1
+23,16,502,Smithers,1
+23,17,503,Barney,3
+23,17,503,Bart,7
+23,17,503,Carl,5
+23,17,503,Dr. Hibbert,4
+23,17,503,Flanders,2
+23,17,503,Grampa,2
+23,17,503,Homer,78
+23,17,503,Lenny,14
+23,17,503,Lisa,6
+23,17,503,Marge,15
+23,17,503,Milhouse,1
+23,17,503,Moe,8
+23,17,503,Mr. Burns,33
+23,17,503,Smithers,9
+23,18,504,Bart,39
+23,18,504,Carl,4
+23,18,504,Chief Wiggum,1
+23,18,504,Comic Book Guy,6
+23,18,504,Grampa,5
+23,18,504,Homer,58
+23,18,504,Jimbo,23
+23,18,504,Lenny,3
+23,18,504,Lisa,7
+23,18,504,Marge,20
+23,18,504,Milhouse,2
+23,18,504,Moe,2
+23,19,505,Bart,51
+23,19,505,Homer,27
+23,19,505,Lisa,17
+23,19,505,Marge,24
+23,19,505,Milhouse,1
+23,19,505,Moe,1
+23,19,505,Nelson,1
+23,20,506,Bart,9
+23,20,506,Brockman,1
+23,20,506,Carl,4
+23,20,506,Chalmers,1
+23,20,506,Chief Wiggum,2
+23,20,506,Dr. Hibbert,1
+23,20,506,Edna Krabappel,2
+23,20,506,Grampa,1
+23,20,506,Homer,56
+23,20,506,Krusty,10
+23,20,506,Lenny,8
+23,20,506,Lisa,10
+23,20,506,Lou,1
+23,20,506,Marge,19
+23,20,506,Martin Prince,1
+23,20,506,Milhouse,1
+23,20,506,Moe,3
+23,20,506,Mr. Burns,7
+23,20,506,Nelson,17
+23,20,506,Smithers,3
+23,21,507,Agnes Skinner,1
+23,21,507,Bart,16
+23,21,507,Brockman,1
+23,21,507,Carl,1
+23,21,507,Chalmers,1
+23,21,507,Chief Wiggum,4
+23,21,507,Dr. Hibbert,1
+23,21,507,Edna Krabappel,29
+23,21,507,Flanders,54
+23,21,507,Grampa,1
+23,21,507,Homer,50
+23,21,507,Jimbo,1
+23,21,507,Krusty,1
+23,21,507,Lenny,3
+23,21,507,Lisa,11
+23,21,507,Marge,28
+23,21,507,Milhouse,2
+23,21,507,Moe,3
+23,21,507,Nelson,2
+23,21,507,Professor Frink,1
+23,21,507,Rev. Lovejoy,4
+23,21,507,Sideshow Mel,1
+23,22,508,Bart,12
+23,22,508,Brockman,1
+23,22,508,Chief Wiggum,2
+23,22,508,Cletus,1
+23,22,508,Comic Book Guy,1
+23,22,508,Flanders,5
+23,22,508,Grampa,2
+23,22,508,Homer,18
+23,22,508,Jimbo,3
+23,22,508,Lenny,1
+23,22,508,Lisa,52
+23,22,508,Marge,9
+23,22,508,Martin Prince,1
+23,22,508,Milhouse,4
+23,22,508,Moe,6
+23,22,508,Nelson,2
+24,1,509,Bart,52
+24,1,509,Brockman,2
+24,1,509,Chief Wiggum,2
+24,1,509,Cletus,16
+24,1,509,Edna Krabappel,1
+24,1,509,Flanders,1
+24,1,509,Homer,40
+24,1,509,Lisa,21
+24,1,509,Marge,12
+24,1,509,Mayor Quimby,2
+24,1,509,Milhouse,8
+24,1,509,Moe,2
+24,1,509,Mr. Burns,1
+24,2,510,Bart,20
+24,2,510,Chief Wiggum,4
+24,2,510,Cletus,2
+24,2,510,Comic Book Guy,1
+24,2,510,Flanders,1
+24,2,510,Groundskeeper Willie,2
+24,2,510,Homer,70
+24,2,510,Kirk,2
+24,2,510,Lenny,1
+24,2,510,Lisa,22
+24,2,510,Marge,28
+24,2,510,Mayor Quimby,4
+24,2,510,Milhouse,1
+24,2,510,Nelson,4
+24,2,510,Patty,4
+24,2,510,Professor Frink,3
+24,2,510,Ralph,1
+24,2,510,Selma,5
+24,3,511,Barney,1
+24,3,511,Bart,19
+24,3,511,Brockman,2
+24,3,511,Carl,1
+24,3,511,Chief Wiggum,3
+24,3,511,Comic Book Guy,2
+24,3,511,Dr. Hibbert,2
+24,3,511,Homer,65
+24,3,511,Lenny,2
+24,3,511,Lisa,10
+24,3,511,Lou,1
+24,3,511,Marge,58
+24,3,511,Mayor Quimby,1
+24,3,511,Milhouse,13
+24,3,511,Moe,5
+24,3,511,Nelson,3
+24,3,511,Otto,2
+24,3,511,Ralph,1
+24,4,512,Bart,13
+24,4,512,Carl,2
+24,4,512,Dr. Hibbert,3
+24,4,512,Flanders,1
+24,4,512,Grampa,17
+24,4,512,Homer,64
+24,4,512,Krusty,2
+24,4,512,Lenny,3
+24,4,512,Lisa,31
+24,4,512,Marge,24
+24,4,512,Milhouse,2
+24,4,512,Moe,3
+24,4,512,Rev. Lovejoy,2
+24,5,513,Apu,1
+24,5,513,Bart,10
+24,5,513,Carl,1
+24,5,513,Chief Wiggum,3
+24,5,513,Cletus,1
+24,5,513,Dr. Hibbert,4
+24,5,513,Fat Tony,17
+24,5,513,Flanders,2
+24,5,513,Groundskeeper Willie,1
+24,5,513,Homer,45
+24,5,513,Lenny,1
+24,5,513,Lisa,25
+24,5,513,Lou,7
+24,5,513,Marge,5
+24,5,513,Milhouse,1
+24,5,513,Moe,11
+24,5,513,Otto,2
+24,5,513,Professor Frink,2
+24,5,513,Rev. Lovejoy,2
+24,5,513,Sideshow Mel,1
+24,6,514,Apu,1
+24,6,514,Barney,2
+24,6,514,Bart,8
+24,6,514,Brockman,12
+24,6,514,Carl,1
+24,6,514,Chalmers,1
+24,6,514,Chief Wiggum,3
+24,6,514,Cletus,2
+24,6,514,Dr. Hibbert,2
+24,6,514,Duffman,3
+24,6,514,Edna Krabappel,1
+24,6,514,Flanders,8
+24,6,514,Groundskeeper Willie,1
+24,6,514,Homer,62
+24,6,514,Krusty,2
+24,6,514,Lenny,2
+24,6,514,Lisa,8
+24,6,514,Marge,19
+24,6,514,Moe,12
+24,6,514,Mr. Burns,3
+24,6,514,Rev. Lovejoy,3
+24,7,515,Bart,16
+24,7,515,Carl,1
+24,7,515,Chief Wiggum,8
+24,7,515,Edna Krabappel,1
+24,7,515,Flanders,3
+24,7,515,Homer,79
+24,7,515,Lenny,2
+24,7,515,Lisa,8
+24,7,515,Lou,1
+24,7,515,Marge,34
+24,7,515,Moe,1
+24,7,515,Mr. Burns,6
+24,7,515,Nelson,1
+24,7,515,Ralph,1
+24,7,515,Sideshow Mel,1
+24,8,516,Apu,3
+24,8,516,Bart,16
+24,8,516,Brockman,4
+24,8,516,Carl,1
+24,8,516,Chief Wiggum,5
+24,8,516,Grampa,58
+24,8,516,Homer,66
+24,8,516,Jimbo,2
+24,8,516,Kirk,1
+24,8,516,Krusty,3
+24,8,516,Lisa,11
+24,8,516,Lou,3
+24,8,516,Marge,14
+24,8,516,Mr. Burns,23
+24,8,516,Otto,1
+24,8,516,Professor Frink,7
+24,8,516,Sideshow Mel,1
+24,8,516,Smithers,6
+24,9,517,Bart,17
+24,9,517,Brockman,2
+24,9,517,Carl,2
+24,9,517,Chalmers,12
+24,9,517,Chief Wiggum,2
+24,9,517,Cletus,2
+24,9,517,Flanders,4
+24,9,517,Homer,81
+24,9,517,Kirk,1
+24,9,517,Lenny,3
+24,9,517,Lisa,9
+24,9,517,Marge,27
+24,9,517,Mayor Quimby,2
+24,9,517,Milhouse,1
+24,9,517,Moe,4
+24,9,517,Professor Frink,1
+24,9,517,Ralph,1
+24,10,518,Agnes Skinner,1
+24,10,518,Bart,30
+24,10,518,Brockman,4
+24,10,518,Chalmers,12
+24,10,518,Chief Wiggum,6
+24,10,518,Dr. Hibbert,1
+24,10,518,Edna Krabappel,5
+24,10,518,Flanders,1
+24,10,518,Groundskeeper Willie,2
+24,10,518,Homer,23
+24,10,518,Kirk,1
+24,10,518,Krusty,2
+24,10,518,Lisa,13
+24,10,518,Marge,10
+24,10,518,Martin Prince,1
+24,10,518,Milhouse,1
+24,10,518,Moe,1
+24,10,518,Mr. Burns,5
+24,10,518,Nelson,1
+24,10,518,Smithers,1
+24,11,519,Bart,16
+24,11,519,Brockman,1
+24,11,519,Carl,12
+24,11,519,Chief Wiggum,6
+24,11,519,Cletus,1
+24,11,519,Dr. Hibbert,1
+24,11,519,Grampa,4
+24,11,519,Homer,74
+24,11,519,Kirk,3
+24,11,519,Lenny,13
+24,11,519,Lisa,16
+24,11,519,Lou,1
+24,11,519,Marge,46
+24,11,519,Moe,2
+24,11,519,Nelson,1
+24,11,519,Patty,4
+24,11,519,Selma,6
+24,12,520,Bart,54
+24,12,520,Chief Wiggum,2
+24,12,520,Cletus,4
+24,12,520,Homer,33
+24,12,520,Jimbo,2
+24,12,520,Kirk,1
+24,12,520,Lisa,8
+24,12,520,Marge,12
+24,12,520,Milhouse,3
+24,13,521,Apu,2
+24,13,521,Bart,32
+24,13,521,Chalmers,2
+24,13,521,Homer,40
+24,13,521,Jimbo,1
+24,13,521,Kirk,5
+24,13,521,Krusty,2
+24,13,521,Lisa,25
+24,13,521,Marge,34
+24,13,521,Milhouse,56
+24,13,521,Moe,3
+24,13,521,Professor Frink,1
+24,14,522,Apu,2
+24,14,522,Bart,27
+24,14,522,Carl,1
+24,14,522,Chalmers,1
+24,14,522,Duffman,1
+24,14,522,Grampa,44
+24,14,522,Homer,44
+24,14,522,Kirk,1
+24,14,522,Lisa,10
+24,14,522,Marge,30
+24,14,522,Milhouse,1
+24,14,522,Moe,1
+24,14,522,Mr. Burns,38
+24,14,522,Professor Frink,1
+24,14,522,Sideshow Mel,1
+24,14,522,Smithers,2
+24,15,523,Agnes Skinner,1
+24,15,523,Apu,1
+24,15,523,Bart,2
+24,15,523,Chalmers,7
+24,15,523,Dr. Hibbert,1
+24,15,523,Edna Krabappel,7
+24,15,523,Flanders,51
+24,15,523,Grampa,4
+24,15,523,Homer,47
+24,15,523,Jimbo,3
+24,15,523,Lenny,1
+24,15,523,Lisa,39
+24,15,523,Marge,16
+24,15,523,Mr. Burns,2
+24,15,523,Nelson,2
+24,15,523,Otto,3
+24,15,523,Ralph,3
+24,15,523,Sideshow Mel,1
+24,15,523,Smithers,1
+24,16,524,Apu,1
+24,16,524,Bart,13
+24,16,524,Brockman,3
+24,16,524,Carl,1
+24,16,524,Chalmers,3
+24,16,524,Chief Wiggum,3
+24,16,524,Cletus,1
+24,16,524,Comic Book Guy,2
+24,16,524,Grampa,10
+24,16,524,Groundskeeper Willie,10
+24,16,524,Homer,8
+24,16,524,Krusty,2
+24,16,524,Lenny,1
+24,16,524,Lisa,32
+24,16,524,Lou,1
+24,16,524,Marge,7
+24,16,524,Martin Prince,1
+24,16,524,Mayor Quimby,1
+24,16,524,Milhouse,2
+24,16,524,Moe,7
+24,16,524,Mr. Burns,45
+24,16,524,Nelson,1
+24,16,524,Ralph,2
+24,16,524,Sideshow Mel,1
+24,16,524,Smithers,14
+24,17,525,Bart,4
+24,17,525,Carl,3
+24,17,525,Dr. Hibbert,3
+24,17,525,Edna Krabappel,1
+24,17,525,Flanders,1
+24,17,525,Grampa,2
+24,17,525,Homer,67
+24,17,525,Lenny,2
+24,17,525,Lisa,20
+24,17,525,Marge,39
+24,17,525,Martin Prince,1
+24,17,525,Milhouse,31
+24,17,525,Moe,3
+24,17,525,Nelson,2
+24,17,525,Rev. Lovejoy,2
+24,18,526,Agnes Skinner,1
+24,18,526,Apu,5
+24,18,526,Bart,22
+24,18,526,Brockman,1
+24,18,526,Carl,3
+24,18,526,Chalmers,1
+24,18,526,Chief Wiggum,1
+24,18,526,Cletus,1
+24,18,526,Duffman,1
+24,18,526,Flanders,15
+24,18,526,Grampa,1
+24,18,526,Homer,36
+24,18,526,Kirk,1
+24,18,526,Krusty,5
+24,18,526,Lenny,9
+24,18,526,Lisa,12
+24,18,526,Marge,25
+24,18,526,Mayor Quimby,1
+24,18,526,Milhouse,3
+24,18,526,Moe,7
+24,18,526,Nelson,2
+24,18,526,Otto,1
+24,18,526,Patty,1
+24,18,526,Professor Frink,2
+24,18,526,Rev. Lovejoy,15
+24,18,526,Sideshow Mel,4
+24,19,527,Barney,1
+24,19,527,Bart,29
+24,19,527,Carl,5
+24,19,527,Grampa,25
+24,19,527,Homer,22
+24,19,527,Jimbo,2
+24,19,527,Lenny,11
+24,19,527,Lisa,12
+24,19,527,Marge,28
+24,19,527,Milhouse,2
+24,19,527,Moe,64
+24,19,527,Nelson,1
+24,19,527,Otto,1
+24,19,527,Sideshow Mel,1
+24,20,528,Apu,2
+24,20,528,Bart,37
+24,20,528,Carl,4
+24,20,528,Chief Wiggum,4
+24,20,528,Comic Book Guy,1
+24,20,528,Flanders,3
+24,20,528,Grampa,1
+24,20,528,Homer,25
+24,20,528,Jimbo,2
+24,20,528,Krusty,2
+24,20,528,Lenny,2
+24,20,528,Lisa,4
+24,20,528,Lou,1
+24,20,528,Marge,44
+24,20,528,Martin Prince,3
+24,20,528,Milhouse,1
+24,20,528,Moe,6
+24,20,528,Nelson,1
+24,20,528,Professor Frink,1
+24,20,528,Ralph,2
+24,20,528,Selma,1
+24,20,528,Sideshow Mel,2
+24,21,529,Bart,8
+24,21,529,Brockman,1
+24,21,529,Carl,20
+24,21,529,Grampa,1
+24,21,529,Homer,71
+24,21,529,Lenny,37
+24,21,529,Lisa,18
+24,21,529,Lou,2
+24,21,529,Marge,18
+24,21,529,Moe,43
+24,22,530,Apu,2
+24,22,530,Bart,7
+24,22,530,Carl,1
+24,22,530,Chief Wiggum,2
+24,22,530,Flanders,1
+24,22,530,Grampa,3
+24,22,530,Homer,56
+24,22,530,Jimbo,1
+24,22,530,Lenny,1
+24,22,530,Lisa,10
+24,22,530,Lou,1
+24,22,530,Marge,75
+24,22,530,Moe,7
+24,22,530,Nelson,1
+24,22,530,Otto,3
+24,22,530,Patty,9
+24,22,530,Rev. Lovejoy,3
+24,22,530,Selma,5
+25,1,531,Apu,1
+25,1,531,Bart,10
+25,1,531,Carl,13
+25,1,531,Chief Wiggum,11
+25,1,531,Grampa,1
+25,1,531,Homer,67
+25,1,531,Lenny,8
+25,1,531,Lisa,37
+25,1,531,Marge,24
+25,1,531,Milhouse,2
+25,1,531,Moe,4
+25,1,531,Mr. Burns,5
+25,1,531,Patty,1
+25,1,531,Selma,2
+25,1,531,Smithers,1
+25,2,532,Agnes Skinner,2
+25,2,532,Apu,2
+25,2,532,Barney,2
+25,2,532,Bart,32
+25,2,532,Carl,2
+25,2,532,Cletus,1
+25,2,532,Comic Book Guy,2
+25,2,532,Dr. Hibbert,2
+25,2,532,Grampa,2
+25,2,532,Groundskeeper Willie,1
+25,2,532,Homer,36
+25,2,532,Krusty,2
+25,2,532,Lenny,2
+25,2,532,Lisa,20
+25,2,532,Marge,16
+25,2,532,Milhouse,1
+25,2,532,Moe,13
+25,2,532,Mr. Burns,16
+25,2,532,Nelson,2
+25,2,532,Ralph,2
+25,2,532,Selma,6
+25,3,533,Agnes Skinner,2
+25,3,533,Bart,9
+25,3,533,Brockman,22
+25,3,533,Chief Wiggum,6
+25,3,533,Cletus,1
+25,3,533,Edna Krabappel,1
+25,3,533,Flanders,3
+25,3,533,Homer,25
+25,3,533,Krusty,7
+25,3,533,Lenny,1
+25,3,533,Lisa,2
+25,3,533,Lou,3
+25,3,533,Marge,17
+25,3,533,Mayor Quimby,1
+25,3,533,Milhouse,4
+25,3,533,Mr. Burns,39
+25,3,533,Patty,3
+25,3,533,Professor Frink,2
+25,3,533,Ralph,1
+25,3,533,Rev. Lovejoy,7
+25,3,533,Smithers,4
+25,4,534,Bart,13
+25,4,534,Brockman,8
+25,4,534,Chalmers,3
+25,4,534,Comic Book Guy,1
+25,4,534,Dr. Hibbert,2
+25,4,534,Edna Krabappel,3
+25,4,534,Flanders,2
+25,4,534,Groundskeeper Willie,2
+25,4,534,Homer,49
+25,4,534,Jimbo,1
+25,4,534,Kirk,5
+25,4,534,Lisa,21
+25,4,534,Marge,28
+25,4,534,Martin Prince,1
+25,4,534,Milhouse,6
+25,4,534,Moe,2
+25,4,534,Nelson,2
+25,5,535,Bart,6
+25,5,535,Carl,4
+25,5,535,Grampa,1
+25,5,535,Homer,86
+25,5,535,Kirk,2
+25,5,535,Lenny,4
+25,5,535,Lisa,20
+25,5,535,Marge,31
+25,5,535,Mayor Quimby,1
+25,5,535,Milhouse,3
+25,5,535,Moe,5
+25,5,535,Nelson,2
+25,6,536,Bart,31
+25,6,536,Chalmers,7
+25,6,536,Groundskeeper Willie,2
+25,6,536,Homer,13
+25,6,536,Krusty,1
+25,6,536,Lisa,73
+25,6,536,Marge,14
+25,6,536,Milhouse,6
+25,6,536,Mr. Burns,10
+25,6,536,Nelson,5
+25,6,536,Otto,1
+25,6,536,Ralph,1
+25,6,536,Smithers,3
+25,7,537,Agnes Skinner,4
+25,7,537,Bart,34
+25,7,537,Chalmers,2
+25,7,537,Chief Wiggum,2
+25,7,537,Groundskeeper Willie,1
+25,7,537,Homer,25
+25,7,537,Krusty,26
+25,7,537,Lisa,10
+25,7,537,Marge,5
+25,7,537,Mayor Quimby,1
+25,7,537,Milhouse,2
+25,7,537,Nelson,1
+25,7,537,Otto,3
+25,7,537,Ralph,1
+25,8,538,Apu,3
+25,8,538,Bart,22
+25,8,538,Brockman,3
+25,8,538,Carl,1
+25,8,538,Chief Wiggum,2
+25,8,538,Comic Book Guy,3
+25,8,538,Dr. Hibbert,1
+25,8,538,Duffman,1
+25,8,538,Flanders,8
+25,8,538,Homer,24
+25,8,538,Krusty,2
+25,8,538,Lenny,3
+25,8,538,Lisa,27
+25,8,538,Lou,1
+25,8,538,Marge,32
+25,8,538,Martin Prince,2
+25,8,538,Mayor Quimby,3
+25,8,538,Milhouse,2
+25,8,538,Moe,1
+25,8,538,Professor Frink,3
+25,8,538,Rev. Lovejoy,9
+25,9,539,Bart,12
+25,9,539,Carl,9
+25,9,539,Chief Wiggum,2
+25,9,539,Comic Book Guy,1
+25,9,539,Dr. Hibbert,1
+25,9,539,Flanders,1
+25,9,539,Homer,67
+25,9,539,Lenny,10
+25,9,539,Lisa,13
+25,9,539,Marge,23
+25,9,539,Milhouse,1
+25,9,539,Rev. Lovejoy,2
+25,9,539,Sideshow Mel,1
+25,10,540,Apu,1
+25,10,540,Bart,8
+25,10,540,Cletus,1
+25,10,540,Comic Book Guy,42
+25,10,540,Homer,26
+25,10,540,Krusty,1
+25,10,540,Lisa,6
+25,10,540,Marge,9
+25,10,540,Milhouse,9
+25,11,541,Bart,16
+25,11,541,Carl,7
+25,11,541,Grampa,1
+25,11,541,Homer,78
+25,11,541,Jimbo,1
+25,11,541,Lenny,9
+25,11,541,Lisa,6
+25,11,541,Marge,37
+25,11,541,Milhouse,5
+25,11,541,Moe,8
+25,11,541,Mr. Burns,11
+25,11,541,Nelson,9
+25,11,541,Ralph,2
+25,11,541,Smithers,4
+25,12,542,Bart,69
+25,12,542,Carl,1
+25,12,542,Cletus,1
+25,12,542,Comic Book Guy,6
+25,12,542,Dr. Hibbert,4
+25,12,542,Flanders,1
+25,12,542,Grampa,1
+25,12,542,Groundskeeper Willie,2
+25,12,542,Homer,31
+25,12,542,Jimbo,4
+25,12,542,Krusty,2
+25,12,542,Lenny,1
+25,12,542,Lisa,10
+25,12,542,Marge,11
+25,12,542,Martin Prince,1
+25,12,542,Milhouse,6
+25,12,542,Mr. Burns,2
+25,12,542,Nelson,2
+25,12,542,Otto,1
+25,12,542,Ralph,1
+25,12,542,Rev. Lovejoy,6
+25,13,543,Bart,16
+25,13,543,Carl,1
+25,13,543,Chief Wiggum,3
+25,13,543,Edna Krabappel,2
+25,13,543,Flanders,9
+25,13,543,Groundskeeper Willie,2
+25,13,543,Homer,17
+25,13,543,Jimbo,4
+25,13,543,Kirk,1
+25,13,543,Krusty,1
+25,13,543,Lenny,1
+25,13,543,Lisa,37
+25,13,543,Lou,1
+25,13,543,Marge,24
+25,13,543,Nelson,2
+25,13,543,Rev. Lovejoy,6
+25,13,543,Sideshow Bob,41
+25,13,543,Sideshow Mel,1
+25,14,544,Bart,15
+25,14,544,Chief Wiggum,3
+25,14,544,Dr. Hibbert,2
+25,14,544,Grampa,17
+25,14,544,Homer,35
+25,14,544,Jimbo,9
+25,14,544,Lisa,5
+25,14,544,Lou,1
+25,14,544,Marge,20
+25,14,544,Martin Prince,2
+25,14,544,Milhouse,1
+25,14,544,Moe,2
+25,14,544,Nelson,9
+25,14,544,Patty,2
+25,15,545,Apu,1
+25,15,545,Bart,10
+25,15,545,Brockman,2
+25,15,545,Carl,1
+25,15,545,Homer,78
+25,15,545,Kirk,17
+25,15,545,Lenny,1
+25,15,545,Lisa,37
+25,15,545,Marge,38
+25,15,545,Milhouse,5
+25,15,545,Moe,1
+25,15,545,Sideshow Mel,1
+25,16,546,Bart,14
+25,16,546,Chalmers,6
+25,16,546,Flanders,1
+25,16,546,Homer,58
+25,16,546,Jimbo,1
+25,16,546,Krusty,2
+25,16,546,Lisa,29
+25,16,546,Marge,13
+25,16,546,Martin Prince,3
+25,16,546,Nelson,4
+25,17,547,Bart,33
+25,17,547,Brockman,4
+25,17,547,Carl,11
+25,17,547,Chief Wiggum,17
+25,17,547,Cletus,1
+25,17,547,Groundskeeper Willie,2
+25,17,547,Homer,55
+25,17,547,Jimbo,1
+25,17,547,Lenny,7
+25,17,547,Lisa,30
+25,17,547,Lou,4
+25,17,547,Marge,29
+25,17,547,Milhouse,15
+25,17,547,Moe,5
+25,17,547,Patty,3
+25,17,547,Selma,2
+25,18,548,Barney,1
+25,18,548,Bart,67
+25,18,548,Chief Wiggum,1
+25,18,548,Dr. Hibbert,9
+25,18,548,Duffman,1
+25,18,548,Grampa,3
+25,18,548,Homer,39
+25,18,548,Kirk,4
+25,18,548,Krusty,2
+25,18,548,Lenny,2
+25,18,548,Lisa,23
+25,18,548,Marge,20
+25,18,548,Milhouse,12
+25,18,548,Moe,8
+25,18,548,Mr. Burns,1
+25,18,548,Nelson,7
+25,18,548,Professor Frink,6
+25,18,548,Ralph,4
+25,18,548,Rev. Lovejoy,3
+25,18,548,Sideshow Mel,1
+25,19,549,Barney,3
+25,19,549,Bart,51
+25,19,549,Carl,1
+25,19,549,Chalmers,2
+25,19,549,Duffman,6
+25,19,549,Fat Tony,17
+25,19,549,Flanders,2
+25,19,549,Homer,42
+25,19,549,Jimbo,1
+25,19,549,Kirk,2
+25,19,549,Lenny,3
+25,19,549,Lisa,3
+25,19,549,Lou,6
+25,19,549,Marge,5
+25,19,549,Martin Prince,1
+25,19,549,Milhouse,8
+25,19,549,Moe,10
+25,19,549,Nelson,1
+25,19,549,Ralph,1
+25,21,551,Bart,13
+25,21,551,Chief Wiggum,1
+25,21,551,Comic Book Guy,2
+25,21,551,Dr. Hibbert,1
+25,21,551,Duffman,1
+25,21,551,Flanders,1
+25,21,551,Grampa,8
+25,21,551,Groundskeeper Willie,1
+25,21,551,Homer,41
+25,21,551,Lisa,29
+25,21,551,Marge,48
+25,21,551,Milhouse,3
+25,21,551,Rev. Lovejoy,1
+25,21,551,Sideshow Mel,1
+25,22,552,Agnes Skinner,1
+25,22,552,Bart,32
+25,22,552,Carl,1
+25,22,552,Chalmers,7
+25,22,552,Chief Wiggum,4
+25,22,552,Cletus,7
+25,22,552,Dr. Hibbert,4
+25,22,552,Grampa,11
+25,22,552,Groundskeeper Willie,3
+25,22,552,Homer,27
+25,22,552,Jimbo,4
+25,22,552,Kirk,1
+25,22,552,Krusty,1
+25,22,552,Lenny,1
+25,22,552,Lisa,19
+25,22,552,Lou,1
+25,22,552,Marge,5
+25,22,552,Martin Prince,3
+25,22,552,Milhouse,23
+25,22,552,Nelson,3
+25,22,552,Professor Frink,1
+25,22,552,Ralph,1
+25,22,552,Sideshow Mel,3
+26,1,553,Bart,13
+26,1,553,Brockman,3
+26,1,553,Chief Wiggum,1
+26,1,553,Homer,14
+26,1,553,Krusty,74
+26,1,553,Lisa,12
+26,1,553,Marge,14
+26,1,553,Milhouse,1
+26,1,553,Otto,2
+26,1,553,Sideshow Bob,1
+26,1,553,Sideshow Mel,5
+26,2,554,Apu,1
+26,2,554,Bart,34
+26,2,554,Cletus,2
+26,2,554,Flanders,4
+26,2,554,Homer,45
+26,2,554,Jimbo,1
+26,2,554,Lisa,6
+26,2,554,Marge,22
+26,2,554,Martin Prince,1
+26,2,554,Milhouse,2
+26,2,554,Moe,1
+26,2,554,Rev. Lovejoy,1
+26,2,554,Selma,1
+26,3,555,Bart,13
+26,3,555,Carl,3
+26,3,555,Chief Wiggum,4
+26,3,555,Cletus,5
+26,3,555,Flanders,13
+26,3,555,Grampa,4
+26,3,555,Homer,41
+26,3,555,Krusty,5
+26,3,555,Lenny,1
+26,3,555,Lisa,11
+26,3,555,Lou,1
+26,3,555,Marge,57
+26,3,555,Moe,3
+26,3,555,Mr. Burns,5
+26,3,555,Professor Frink,1
+26,3,555,Smithers,3
+26,4,556,Bart,27
+26,4,556,Chalmers,1
+26,4,556,Comic Book Guy,1
+26,4,556,Grampa,1
+26,4,556,Groundskeeper Willie,2
+26,4,556,Homer,45
+26,4,556,Lisa,19
+26,4,556,Marge,26
+26,4,556,Mr. Burns,4
+26,4,556,Nelson,2
+26,4,556,Ralph,1
+26,4,556,Smithers,2
+26,5,557,Bart,3
+26,5,557,Brockman,2
+26,5,557,Carl,1
+26,5,557,Chalmers,1
+26,5,557,Homer,50
+26,5,557,Lenny,1
+26,5,557,Lisa,16
+26,5,557,Marge,17
+26,5,557,Mayor Quimby,2
+26,5,557,Moe,1
+26,5,557,Mr. Burns,50
+26,5,557,Patty,10
+26,5,557,Professor Frink,3
+26,5,557,Selma,8
+26,5,557,Smithers,1
+26,6,558,Barney,1
+26,6,558,Bart,17
+26,6,558,Brockman,1
+26,6,558,Chalmers,3
+26,6,558,Chief Wiggum,2
+26,6,558,Groundskeeper Willie,4
+26,6,558,Homer,43
+26,6,558,Krusty,1
+26,6,558,Lisa,18
+26,6,558,Lou,2
+26,6,558,Marge,13
+26,6,558,Mayor Quimby,3
+26,6,558,Milhouse,2
+26,6,558,Moe,2
+26,6,558,Mr. Burns,1
+26,6,558,Nelson,3
+26,6,558,Professor Frink,8
+26,7,559,Bart,29
+26,7,559,Carl,2
+26,7,559,Chalmers,11
+26,7,559,Groundskeeper Willie,1
+26,7,559,Homer,42
+26,7,559,Lisa,13
+26,7,559,Marge,26
+26,7,559,Martin Prince,1
+26,7,559,Milhouse,19
+26,7,559,Nelson,12
+26,7,559,Sideshow Bob,3
+26,8,560,Apu,31
+26,8,560,Bart,3
+26,8,560,Brockman,3
+26,8,560,Chief Wiggum,3
+26,8,560,Dr. Hibbert,8
+26,8,560,Homer,60
+26,8,560,Kirk,8
+26,8,560,Lisa,8
+26,8,560,Marge,13
+26,8,560,Moe,7
+26,8,560,Rev. Lovejoy,2
+26,9,561,Apu,6
+26,9,561,Bart,16
+26,9,561,Chief Wiggum,1
+26,9,561,Comic Book Guy,4
+26,9,561,Flanders,8
+26,9,561,Grampa,3
+26,9,561,Groundskeeper Willie,1
+26,9,561,Homer,63
+26,9,561,Kirk,1
+26,9,561,Lisa,8
+26,9,561,Lou,1
+26,9,561,Marge,31
+26,9,561,Moe,26
+26,9,561,Mr. Burns,5
+26,9,561,Patty,2
+26,9,561,Selma,1
+26,9,561,Smithers,1
+26,10,562,Bart,16
+26,10,562,Grampa,2
+26,10,562,Homer,66
+26,10,562,Lisa,36
+26,10,562,Marge,14
+26,11,563,Bart,36
+26,11,563,Carl,3
+26,11,563,Chalmers,3
+26,11,563,Chief Wiggum,15
+26,11,563,Cletus,2
+26,11,563,Dr. Hibbert,8
+26,11,563,Grampa,3
+26,11,563,Homer,87
+26,11,563,Jimbo,1
+26,11,563,Krusty,1
+26,11,563,Lenny,4
+26,11,563,Lisa,11
+26,11,563,Lou,2
+26,11,563,Marge,27
+26,11,563,Milhouse,4
+26,11,563,Mr. Burns,1
+26,11,563,Nelson,1
+26,11,563,Smithers,2
+26,12,564,Bart,8
+26,12,564,Brockman,3
+26,12,564,Carl,6
+26,12,564,Chief Wiggum,2
+26,12,564,Grampa,1
+26,12,564,Homer,59
+26,12,564,Lenny,2
+26,12,564,Lisa,20
+26,12,564,Lou,2
+26,12,564,Marge,10
+26,12,564,Milhouse,1
+26,12,564,Mr. Burns,41
+26,12,564,Professor Frink,6
+26,12,564,Smithers,13
+26,13,565,Bart,26
+26,13,565,Carl,1
+26,13,565,Chief Wiggum,5
+26,13,565,Comic Book Guy,9
+26,13,565,Dr. Hibbert,1
+26,13,565,Grampa,2
+26,13,565,Groundskeeper Willie,2
+26,13,565,Homer,62
+26,13,565,Jimbo,1
+26,13,565,Lenny,3
+26,13,565,Lisa,26
+26,13,565,Lou,1
+26,13,565,Marge,24
+26,13,565,Mayor Quimby,4
+26,13,565,Milhouse,8
+26,13,565,Moe,9
+26,13,565,Mr. Burns,2
+26,13,565,Nelson,1
+26,13,565,Otto,1
+26,13,565,Ralph,1
+26,13,565,Sideshow Mel,4
+26,14,566,Barney,1
+26,14,566,Carl,7
+26,14,566,Chief Wiggum,1
+26,14,566,Dr. Hibbert,1
+26,14,566,Grampa,3
+26,14,566,Groundskeeper Willie,1
+26,14,566,Homer,26
+26,14,566,Kirk,1
+26,14,566,Krusty,1
+26,14,566,Lenny,15
+26,14,566,Lisa,1
+26,14,566,Marge,24
+26,14,566,Milhouse,1
+26,14,566,Moe,51
+26,14,566,Mr. Burns,8
+26,14,566,Nelson,3
+26,14,566,Smithers,2
+26,15,567,Apu,1
+26,15,567,Bart,2
+26,15,567,Carl,3
+26,15,567,Chief Wiggum,5
+26,15,567,Homer,32
+26,15,567,Lenny,4
+26,15,567,Lisa,6
+26,15,567,Marge,3
+26,15,567,Moe,57
+26,15,567,Mr. Burns,28
+26,15,567,Smithers,17
+26,16,568,Agnes Skinner,3
+26,16,568,Apu,20
+26,16,568,Bart,9
+26,16,568,Chief Wiggum,10
+26,16,568,Flanders,4
+26,16,568,Homer,27
+26,16,568,Lisa,8
+26,16,568,Lou,2
+26,16,568,Marge,34
+26,16,568,Rev. Lovejoy,8
+26,16,568,Sideshow Mel,4
