@@ -1,15 +1,11 @@
-import streamlit as st
 import pandas as pd
 import altair as alt
+import streamlit as st
 
 # Enable VegaFusion for larger datasets
 alt.data_transformers.enable("vegafusion")
 
 def create_episode_comparison_plot(df: pd.DataFrame, season: int, characters: list):
-    """
-    Generates a dumbbell-style plot comparing word counts between characters 
-    for each episode in a specific season.
-    """
     # Create a dynamic title based on the selected characters and season
     if len(characters) == 2:
         char_title = f"{characters[0]} vs {characters[1]}"
@@ -21,7 +17,6 @@ def create_episode_comparison_plot(df: pd.DataFrame, season: int, characters: li
     chart_title = f"{char_title} Word Count by Episode (Season {season})"
 
     # 1. Base chart encoding
-    # Using detail="number_in_season:O" ensures the line only connects points within the same episode
     chart = alt.Chart(df).encode(
         x=alt.X("word_count:Q", title="Word Count"),
         y=alt.Y("number_in_season:O", title="Episode Number in Season"),
@@ -50,58 +45,88 @@ def create_episode_comparison_plot(df: pd.DataFrame, season: int, characters: li
     
     return final_chart
 
-# ==========================================
-# STREAMLIT APP DASHBOARD
-# ==========================================
+import pandas as pd
+import altair as alt
 
-st.set_page_config(layout="wide", page_title="The Simpsons Episode Comparison")
+def create_diverging_difference_plot(df: pd.DataFrame, season: int, characters: list):
+    # This plot strictly requires 2 characters
+    if len(characters) != 2:
+        return alt.Chart(pd.DataFrame({'text': ['Please select exactly 2 characters for the difference plot.']})).mark_text(size=18, color='gray').encode(text='text:N').properties(height=500)
 
-st.title("The Simpsons: Episode Comparison Analysis")
-st.markdown("Compare character word counts episode-by-episode. Select your characters and the season below.")
+    char1, char2 = characters[0], characters[1]
+    
+    # Create a mapping of character names to their image URLs
+    image_map = dict(zip(df['character'], df['image']))
+    
+    # Pivot the dataframe to get side-by-side word counts per episode
+    df_pivot = df.pivot_table(
+        index=['number_in_season', 'season'], 
+        columns='character', 
+        values='word_count', 
+        fill_value=0
+    ).reset_index()
+    
+    # Safety check: ensure both characters exist in the pivot columns
+    for char in characters:
+        if char not in df_pivot.columns:
+            df_pivot[char] = 0
 
-# 1. Data Loading
+    # Calculate difference (Char2 - Char1)
+    df_pivot['diff'] = df_pivot[char2] - df_pivot[char1]
+    df_pivot['abs_diff'] = df_pivot['diff'].abs()
+    
+    # Determine the dominant character and assign their face to the row
+    df_pivot['dominant_char'] = df_pivot.apply(lambda row: char2 if row['diff'] > 0 else char1, axis=1)
+    df_pivot['image'] = df_pivot['dominant_char'].map(image_map)
+    df_pivot['zero'] = 0 
+    
+    # Determine max axis limit to strictly center the graph at 0
+    max_diff = df_pivot['abs_diff'].max()
+    limit = (max_diff * 1.15) if not pd.isna(max_diff) and max_diff > 0 else 100 
+
+    # Define the custom color scale (Char1 = Red, Char2 = Blue)
+    color_scale = alt.Scale(domain=[char1, char2], range=['#d62728', '#1f77b4'])
+
+    base = alt.Chart(df_pivot).encode(
+        y=alt.Y('number_in_season:O', title='Episode Number in Season')
+    )
+    
+    # Apply the dynamic color encoding here
+    rule = base.mark_rule(size=3).encode(
+        x=alt.X('zero:Q', title=f"← {char1} spoke more  |  {char2} spoke more →", scale=alt.Scale(domain=[-limit, limit])),
+        x2='diff:Q',
+        color=alt.Color('dominant_char:N', scale=color_scale, legend=None), # Dynamic color
+        tooltip=[
+            alt.Tooltip('season:O', title='Season'),
+            alt.Tooltip('number_in_season:O', title='Episode'),
+            alt.Tooltip('dominant_char:N', title='Spoke More By'),
+            alt.Tooltip('abs_diff:Q', title='Word Difference')
+        ]
+    )
+    
+    face = base.mark_image(width=25, height=25).encode(
+        x='diff:Q',
+        url='image:N',
+        tooltip=[
+            alt.Tooltip('season:O', title='Season'),
+            alt.Tooltip('number_in_season:O', title='Episode'),
+            alt.Tooltip('dominant_char:N', title='Spoke More By'),
+            alt.Tooltip('abs_diff:Q', title='Word Difference')
+        ]
+    )
+    
+    zero_line = alt.Chart(pd.DataFrame({'x': [0]})).mark_rule(color='black', strokeWidth=1, opacity=0.3).encode(x='x:Q')
+
+    chart_title = f"Word Count Difference: {char1} vs {char2} (Season {season})"
+    
+    final_chart = (zero_line + rule + face).properties(
+        title=chart_title,
+        height=500
+    )
+    
+    return final_chart
+
 @st.cache_data
 def load_data_q3_q4():
-    # Loading Q3 (Q4 is loaded but unused in your original snippet, so I've omitted it here 
-    # to save memory. Add it back if you need it for other charts!)
-    df_q3 = pd.read_csv('../data/data_Q3.csv')
+    df_q3 = pd.read_csv('../data/data_Q3.csv') # Make sure this path is correct relative to your run execution!
     return df_q3
-
-df_full = load_data_q3_q4()
-
-# 2. Layout for Filters
-col1, col2 = st.columns(2)
-
-with col1:
-    # Character Multiselect
-    all_characters = sorted(df_full['character'].unique().tolist())
-    selected_chars = st.multiselect(
-        "Select Characters:", 
-        options=all_characters, 
-        default=['Bart', 'Lisa']
-    )
-
-with col2:
-    # Season Selectbox (Replacing Altair's binding_select)
-    available_seasons = sorted(df_full['season'].dropna().unique().tolist())
-    selected_season = st.selectbox(
-        "Select Season:",
-        options=available_seasons,
-        index=0 # Defaults to the first available season
-    )
-
-
-# 3. Filter Data & Render Plot
-if not selected_chars:
-    st.info("Please select at least one character to view the chart.")
-else:
-    # Apply Streamlit filters to the DataFrame
-    mask = (df_full['character'].isin(selected_chars)) & (df_full['season'] == selected_season)
-    data_filtered = df_full[mask]
-    
-    if data_filtered.empty:
-        st.warning(f"No data available for the selected characters in Season {selected_season}.")
-    else:
-        # Generate and display the chart
-        comparison_chart = create_episode_comparison_plot(data_filtered, selected_season, selected_chars)
-        st.altair_chart(comparison_chart, use_container_width=True)
