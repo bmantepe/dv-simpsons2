@@ -56,7 +56,7 @@ def create_character_plot(filter_type: str, df_agg: pd.DataFrame, df_dist: pd.Da
     )
     
     barplot_final = (bars + flags).properties(
-        width=300, 
+        width=750, 
         title=f"Total {metric_label} Count per Character"
     )
 
@@ -66,7 +66,7 @@ def create_character_plot(filter_type: str, df_agg: pd.DataFrame, df_dist: pd.Da
         x=alt.X(f"{col_name}:Q", title=f"{metric_label} Count"),
         yOffset="jitter:Q",
         # Added color for better visual distinction when filtered
-        color=alt.Color("character:N", legend=None) 
+        #color=alt.Color("character:N", legend=None) 
     ).transform_calculate(
         jitter="sqrt(-2*log(random()))*cos(2*PI*random())"
     ).transform_filter(
@@ -85,7 +85,7 @@ def create_character_plot(filter_type: str, df_agg: pd.DataFrame, df_dist: pd.Da
         selector # ALTAIR FILTER: Only show mean line for selected character(s)
     )
     
-    jitter_final = (gaussian_jitter + mean_bar).properties(width=300)
+    jitter_final = (gaussian_jitter + mean_bar).properties(width=750)
 
     # 5. Concatenate and Return
     final_layout = alt.hconcat(

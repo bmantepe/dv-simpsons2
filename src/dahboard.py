@@ -17,8 +17,8 @@ st.title("The Simpsons: Comprehensive Dialogue Analysis")
 # ==========================================
 # ROW 1: Q1 & Q5 (Distribution)
 # ==========================================
-st.header("1. Character Dialogue Distribution")
-st.markdown("Click on a character's bar on the left to **filter** their specific dialogue distribution on the right. Shift-click to select multiple characters.")
+#st.header("1. Character Dialogue Distribution")
+#st.markdown("Click on a character's bar on the left to **filter** their specific dialogue distribution on the right. Shift-click to select multiple characters.")
 
 selected_filter = st.radio(
     "Select Analysis Metric:", 
@@ -36,13 +36,13 @@ else:
 
 st.altair_chart(chart_q1_q5, use_container_width=True)
 
-st.divider()
+#st.divider()
 
 # ==========================================
 # ROW 2: Q2 (Timeline)
 # ==========================================
-st.header("2. Dialogue Timeline Analysis")
-st.markdown("Select characters from the dropdown below to track their word counts over the seasons. Hover over the points to see specific values and character images.")
+#st.header("2. Dialogue Timeline Analysis")
+#st.markdown("Select characters from the dropdown below to track their word counts over the seasons. Hover over the points to see specific values and character images.")
 
 df_q2_full = load_data_q2()
 
@@ -63,13 +63,13 @@ else:
     chart_q2 = create_timeline_plot(data_filtered_q2)
     st.altair_chart(chart_q2, use_container_width=True)
 
-st.divider()
+#st.divider()
 
 # ==========================================
 # ROW 3: Q3 and Q4 (Comparison)
 # ==========================================
-st.header("3. Episode Comparison Analysis")
-st.markdown("Compare character word counts episode-by-episode. Select exactly 2 characters to see the difference plot.")
+#st.header("3. Episode Comparison Analysis")
+#st.markdown("Compare character word counts episode-by-episode. Select exactly 2 characters to see the difference plot.")
 
 df_q3_full = load_data_q3_q4()
 
