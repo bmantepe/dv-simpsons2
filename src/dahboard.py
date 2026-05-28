@@ -1,10 +1,12 @@
 import streamlit as st
 import altair as alt
+import pandas as pd
 
 # Import functions from your modules
 from queries.q1_q5 import create_character_plot, load_data_q1_q5
 from queries.q2 import create_timeline_plot, load_data_q2
 from queries.q3_q4 import create_diverging_difference_plot, create_episode_comparison_plot, load_data_q3_q4
+from queries.q3_q4_v2 import load_data_q32,load_data_q42, create_episode_comparison_plot2
 
 # Enable VegaFusion globally for the app
 alt.data_transformers.enable("vegafusion")
@@ -110,3 +112,22 @@ else:
         with chart_col2:
             difference_chart = create_diverging_difference_plot(data_filtered_q3, selected_season, selected_chars_q3)
             st.altair_chart(difference_chart, use_container_width=True)
+
+    
+
+
+## Optionn 2
+
+data_q3 = load_data_q32()
+data_q4 = load_data_q42()
+
+selected_filter = st.radio(
+    "Select Analysis Metric:", 
+    ["Absolute", "Relative"], 
+    horizontal=True,
+    key="q3_q4_measure" 
+)
+
+with st.container():
+    q3_q4_chart = create_episode_comparison_plot2(data_q3, data_q4, selected_filter)
+    st.altair_chart(q3_q4_chart, use_container_width=True)
