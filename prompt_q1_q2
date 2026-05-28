@@ -1,0 +1,4 @@
+i want to create a heatmap (just the faces of the characters), in order to be a selector.
+
+once you pick one, you are showing the previous 4 selected and the 5th one is the one you have selected, mantain the order of selection sorted by by word or sentence counts. use this heatmap just as a selector. base the new code on:
+

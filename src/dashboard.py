@@ -22,22 +22,34 @@ st.title("The Simpsons: Comprehensive Dialogue Analysis")
 #st.header("1. Character Dialogue Distribution")
 #st.markdown("Click on a character's bar on the left to **filter** their specific dialogue distribution on the right. Shift-click to select multiple characters.")
 
-selected_filter = st.radio(
-    "Select Analysis Metric:", 
-    ["Word", "Sentence"], 
-    horizontal=True,
-    key="q1_q5_metric_radio"  # <--- ADD THIS UNIQUE KEY
+
+data_q1_q5, data_q1_q5_agg = load_data_q1_q5()
+
+# --- NEW: Streamlit Multiselect for 5 Characters Max ---
+all_characters = sorted(data_q1_q5_agg['character'].unique().tolist())
+default_5_chars = ["Apu", "Bart", "Homer", "Lisa", "Marge"]
+
+selected_chars = st.multiselect(
+    "Select Characters (Max 5):",
+    options=all_characters,
+    default=default_5_chars,
+    max_selections=5 # <--- This natively enforces the maximum 5 rule!
 )
 
-data_q1_1, data_q1_2, data_q5_1, data_q5_2 = load_data_q1_q5()
-
-if selected_filter == "Word":
-    chart_q1_q5 = create_character_plot("word", data_q1_1, data_q1_2)
+# Stop the app from rendering an empty chart if the user clears all characters
+if not selected_chars:
+    st.info("Please select at least one character to view the chart.")
 else:
-    chart_q1_q5 = create_character_plot("sentence", data_q5_1, data_q5_2)
+    # Filter the dataframes to ONLY contain the selected characters
+    filtered_agg = data_q1_q5_agg[data_q1_q5_agg['character'].isin(selected_chars)]
+    filtered_dist = data_q1_q5[data_q1_q5['character'].isin(selected_chars)]
 
-st.altair_chart(chart_q1_q5, use_container_width=True)
+    # Generate the chart using the filtered data
+    chart = create_character_plot(df_agg=filtered_agg, df_dist=filtered_dist) 
 
+    # Render in Streamlit
+    st.altair_chart(chart, use_container_width=True)
+    
 #st.divider()
 
 # ==========================================

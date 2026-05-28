@@ -2,27 +2,16 @@ import streamlit as st
 import pandas as pd
 import altair as alt
 
-# Enable VegaFusion for larger datasets
 alt.data_transformers.enable("vegafusion")
 
-def create_character_plot(filter_type: str, df_agg: pd.DataFrame, df_dist: pd.DataFrame):
+def create_character_plot(df_agg: pd.DataFrame, df_dist: pd.DataFrame):
     """
-    Generates a horizontally concatenated Altair chart based on the metric type.
-    Includes cross-filtering where selecting a bar filters the distribution plot.
+    Generates a horizontally concatenated Altair chart.
+    Uses native Altair bindings to switch between metrics instantly without 
+    triggering a Streamlit backend rerun.
     """
-    
-    # 1. Detect filter type and set dynamic variables
-    if filter_type.lower() == 'word':
-        col_name = "word_count"
-        metric_label = "Word"
-    elif filter_type.lower() == 'sentence':
-        col_name = "sentence_count"
-        metric_label = "Sentence"
-    else:
-        raise ValueError("filter_type must be either 'word' or 'sentence'")
-
-    # 2. Base Encodings & Selections
-    sort_order = df_agg['character'].tolist()
+    # Base Encodings
+    sort_order = df_agg['character'].unique().tolist()
     
     y_enc = alt.Y(
         "character:N",
@@ -30,62 +19,86 @@ def create_character_plot(filter_type: str, df_agg: pd.DataFrame, df_dist: pd.Da
         axis=alt.Axis(domain=False, ticks=False, labels=False, title=None)
     )
 
-    # Altair Selection for cross-filtering
-    selector = alt.selection_point(fields=['character'])
+    # 1. ALTAIR NATIVE FILTER: Map the underlying data to the UI labels
+    metric_dropdown = alt.binding_radio(
+        options=['word_count', 'sentence_count'], # The actual values in your CSV
+        labels=['Word', 'Sentence'],              # What the user sees in the UI
+        name='Analysis Metric: '
+    )
+    metric_selector = alt.selection_point(
+        fields=['count_type'], 
+        bind=metric_dropdown, 
+        value=[{'count_type': 'word_count'}] # FIX: Wrapped the dictionary in a list []
+    )
+
+    # 2. CHARACTER SELECTION: Set default selected characters
+    default_chars = [
+        {"character": "Apu"}, 
+        {"character": "Bart"}, 
+        {"character": "Lisa"}, 
+        {"character": "Homer"}, 
+        {"character": "Marge"}
+    ]
+    char_selector = alt.selection_point(fields=['character'], value=default_chars)
 
     # 3. Bar Chart (Aggregated Data)
     bars = alt.Chart(df_agg).mark_bar().encode(
-        x=alt.X(f"{col_name}:Q", title=f"Total {metric_label} Count"),
+        x=alt.X("count:Q", title="Total Count"), # Updated from value:Q to count:Q
         y=y_enc,
         tooltip=[
             alt.Tooltip("character:N", title="Character"), 
-            alt.Tooltip(f"{col_name}:Q", title=f"Total {metric_label} Count")
+            alt.Tooltip("count:Q", title="Total Count"),
+            alt.Tooltip("count_type:N", title="Count Type")
         ],
-        # Dim unselected bars
-        opacity=alt.when(selector).then(alt.value(1)).otherwise(alt.value(0.2))
-    ).add_params(selector)
+        opacity=alt.when(char_selector).then(alt.value(1)).otherwise(alt.value(0.2))
+    ).add_params(
+        char_selector, 
+        metric_selector
+    ).transform_filter(
+        metric_selector 
+    )
 
-    flags = (
-        alt.Chart(df_agg.assign(zero=0))
-        .mark_image(width=25, height=25, clip=False, xOffset=-12)
-        .encode(
-            y=y_enc,
-            x=alt.X("zero:Q"),
-            url="image:N"
-        )
+    flags = alt.Chart(df_agg).mark_image(width=25, height=25, clip=False, xOffset=-12).encode(
+        y=y_enc,
+        x=alt.value(0), 
+        url="image:N"
+    ).transform_filter(
+        metric_selector
     )
     
     barplot_final = (bars + flags).properties(
-        width=750, 
-        title=f"Total {metric_label} Count per Character"
+        width=300, 
+        title="Total Dialogue Count"
     )
 
-    # 4. Jitter Plot (Distribution Data) - WITH ALTAIR FILTER
-    gaussian_jitter = alt.Chart(df_dist, title=f'{metric_label} Count Distribution').mark_circle(size=8).encode(
+    # 4. Jitter Plot (Distribution Data)
+    gaussian_jitter = alt.Chart(df_dist, title='Dialogue Distribution').mark_circle(size=8).encode(
         y=y_enc,
-        x=alt.X(f"{col_name}:Q", title=f"{metric_label} Count"),
+        x=alt.X("count:Q", title="Count"), # Updated from value:Q to count:Q
         yOffset="jitter:Q",
-        # Added color for better visual distinction when filtered
-        #color=alt.Color("character:N", legend=None) 
+        opacity=alt.when(char_selector).then(alt.value(0.8)).otherwise(alt.value(0.2))
     ).transform_calculate(
         jitter="sqrt(-2*log(random()))*cos(2*PI*random())"
+    ).add_params(
+        char_selector,
+        metric_selector 
     ).transform_filter(
-        selector # ALTAIR FILTER: Only show distribution for selected character(s)
+        metric_selector 
     )
 
     mean_bar = alt.Chart(df_dist).mark_tick(
         color='red', size=30, thickness=3
     ).transform_aggregate(
-        mean_val=f"mean({col_name})",
-        groupby=["character"]
+        mean_val="mean(count)",               # Updated from mean(value)
+        groupby=["character", "count_type"]   # Updated from metric to count_type
     ).encode(
         x=alt.X("mean_val:Q"),
         y=y_enc
     ).transform_filter(
-        selector # ALTAIR FILTER: Only show mean line for selected character(s)
+        metric_selector 
     )
     
-    jitter_final = (gaussian_jitter + mean_bar).properties(width=750)
+    jitter_final = (gaussian_jitter + mean_bar).properties(width=300)
 
     # 5. Concatenate and Return
     final_layout = alt.hconcat(
@@ -109,39 +122,37 @@ st.set_page_config(layout="wide", page_title="The Simpsons Dialogue")
 st.title("The Simpsons: Character Dialogue Analysis")
 st.markdown("Click on a character's bar on the left to **filter** their specific dialogue distribution on the right. Shift-click to select multiple characters.")
 
-# Streamlit Native Filter for Metric Type
-selected_filter = st.radio(
-    "Select Analysis Metric:", 
-    ["Word", "Sentence"], 
-    horizontal=True
-)
-
-
 # 2. Data Loading
 @st.cache_data
-def load_data_q1_q5():
-    characters = ['Homer', 'Bart', 'Lisa', 'Marge', 'Apu']
-    
-    q1_1 = pd.read_csv('../data/data_Q1-1.csv')
-    q1_2 = pd.read_csv('../data/data_Q1-2.csv')
-    q5_1 = pd.read_csv('../data/data_Q5-1.csv')
-    q5_2 = pd.read_csv('../data/data_Q5-2.csv')
-    
-    # Pre-filter the dataframes
-    q1_1 = q1_1[q1_1['character'].isin(characters)]
-    q1_2 = q1_2[q1_2['character'].isin(characters)]
-    q5_1 = q5_1[q5_1['character'].isin(characters)]
-    q5_2 = q5_2[q5_2['character'].isin(characters)]
-    
-    return q1_1, q1_2, q5_1, q5_2
+def load_data_q1_q5():    
+    q1_q5 = pd.read_csv('../data/data_Q1_Q5.csv')
+    # Create aggregated dataframe for the bar chart (aggregate by character and count_type)
+    q1_q5_agg = q1_q5.groupby(['character', 'count_type', 'image'], as_index=False)['count'].sum()
+    return q1_q5, q1_q5_agg
 
-data_q1_1, data_q1_2, data_q5_1, data_q5_2 = load_data_q1_q5()
+data_q1_q5, data_q1_q5_agg = load_data_q1_q5()
 
-# 3. Route the data to the function based on the selection
-if selected_filter == "Word":
-    chart = create_character_plot("word", data_q1_1, data_q1_2)
+# --- NEW: Streamlit Multiselect for 5 Characters Max ---
+all_characters = sorted(data_q1_q5_agg['character'].unique().tolist())
+default_5_chars = ["Apu", "Bart", "Homer", "Lisa", "Marge"]
+
+selected_chars = st.multiselect(
+    "Select Characters (Max 5):",
+    options=all_characters,
+    default=default_5_chars,
+    max_selections=5 # <--- This natively enforces the maximum 5 rule!
+)
+
+# Stop the app from rendering an empty chart if the user clears all characters
+if not selected_chars:
+    st.info("Please select at least one character to view the chart.")
 else:
-    chart = create_character_plot("sentence", data_q5_1, data_q5_2)
+    # Filter the dataframes to ONLY contain the selected characters
+    filtered_agg = data_q1_q5_agg[data_q1_q5_agg['character'].isin(selected_chars)]
+    filtered_dist = data_q1_q5[data_q1_q5['character'].isin(selected_chars)]
 
-# 4. Render in Streamlit
-st.altair_chart(chart, use_container_width=True)
+    # Generate the chart using the filtered data
+    chart = create_character_plot(df_agg=filtered_agg, df_dist=filtered_dist) 
+
+    # Render in Streamlit
+    st.altair_chart(chart, use_container_width=True)

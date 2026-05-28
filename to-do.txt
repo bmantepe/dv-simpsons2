@@ -1,0 +1,12 @@
+filtres--> els nostres són mes macos
+
+filtrar word sentence amb un filtre d'altair
+
+aplicar filtre de season amb altair
+
+
+q1_q5 --> heatmap + barplot + jitter + (filter word/sentence + slider)
+
+q2 --> heatmap (pers limit (5) + slider)
+
+q3_q4 --> canvi de view amb (radio) dos interactuin amb el grafic line_number
