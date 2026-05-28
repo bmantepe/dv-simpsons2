@@ -23,7 +23,7 @@ st.title("The Simpsons: Comprehensive Dialogue Analysis")
 #st.markdown("Click on a character's bar on the left to **filter** their specific dialogue distribution on the right. Shift-click to select multiple characters.")
 
 
-data_q1_q5, data_q1_q5_agg = load_data_q1_q5()
+data_q1_q5, data_q1_q5_agg, all_faces = load_data_q1_q5()
 
 # --- NEW: Streamlit Multiselect for 5 Characters Max ---
 all_characters = sorted(data_q1_q5_agg['character'].unique().tolist())
@@ -45,11 +45,11 @@ else:
     filtered_dist = data_q1_q5[data_q1_q5['character'].isin(selected_chars)]
 
     # Generate the chart using the filtered data
-    chart = create_character_plot(df_agg=filtered_agg, df_dist=filtered_dist) 
+    chart = create_character_plot(df_all_faces=all_faces, df_agg=filtered_agg, df_dist=filtered_dist) 
 
     # Render in Streamlit
     st.altair_chart(chart, use_container_width=True)
-    
+
 #st.divider()
 
 # ==========================================

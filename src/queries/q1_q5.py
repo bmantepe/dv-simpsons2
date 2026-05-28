@@ -1,61 +1,75 @@
 import streamlit as st
 import pandas as pd
 import altair as alt
+import numpy as np 
 
 alt.data_transformers.enable("vegafusion")
 
-def create_character_plot(df_agg: pd.DataFrame, df_dist: pd.DataFrame):
-    """
-    Generates a horizontally concatenated Altair chart.
-    Uses native Altair bindings to switch between metrics instantly without 
-    triggering a Streamlit backend rerun.
-    """
-    # Base Encodings
-    sort_order = df_agg['character'].unique().tolist()
+def create_character_plot(df_all_faces: pd.DataFrame, df_agg: pd.DataFrame, df_dist: pd.DataFrame):
     
-    y_enc = alt.Y(
-        "character:N",
-        sort=sort_order,
-        axis=alt.Axis(domain=False, ticks=False, labels=False, title=None)
-    )
-
-    # 1. ALTAIR NATIVE FILTER: Map the underlying data to the UI labels
+    # Extract and SORT the list so both the faces and the bars match perfectly
+    all_character_names = sorted(df_all_faces['character'].unique().tolist())
+    
+    # 1. ALTAIR NATIVE FILTER: Metric Dropdown
     metric_dropdown = alt.binding_radio(
-        options=['word_count', 'sentence_count'], # The actual values in your CSV
-        labels=['Word', 'Sentence'],              # What the user sees in the UI
+        options=['word_count', 'sentence_count'], 
+        labels=['Word', 'Sentence'],              
         name='Analysis Metric: '
     )
     metric_selector = alt.selection_point(
+        name="metric_selector_q1",
         fields=['count_type'], 
         bind=metric_dropdown, 
-        value=[{'count_type': 'word_count'}] # FIX: Wrapped the dictionary in a list []
+        value=[{'count_type': 'word_count'}] 
     )
 
-    # 2. CHARACTER SELECTION: Set default selected characters
+    # 2. CHARACTER SELECTION: Set default 5 selected characters
     default_chars = [
-        {"character": "Apu"}, 
-        {"character": "Bart"}, 
-        {"character": "Lisa"}, 
-        {"character": "Homer"}, 
-        {"character": "Marge"}
+        {"character": "Apu"}, {"character": "Bart"}, 
+        {"character": "Lisa"}, {"character": "Homer"}, {"character": "Marge"}
     ]
-    char_selector = alt.selection_point(fields=['character'], value=default_chars)
+    char_selector = alt.selection_point(name="char_selector_q1", fields=['character'], value=default_chars)
 
-    # 3. Bar Chart (Aggregated Data)
+    # ==========================================
+    # CHART A: Visual Face Selector (HORIZONTAL)
+    # ==========================================
+    char_base = alt.Chart(df_all_faces)
+
+    heatmap = char_base.mark_rect(color='#0e33eb', cornerRadius=3).encode(
+        x=alt.X('character:N', sort=all_character_names, title='Select Characters (Shift+Click)', axis=alt.Axis(labelAngle=0)),
+        opacity=alt.condition(char_selector, alt.value(0.4), alt.value(0)) 
+    )
+
+    faces = char_base.mark_image(width=35, height=35).encode(
+        x=alt.X('character:N', sort=all_character_names, axis=alt.Axis(labels=False, ticks=False, title=None)),
+        url="image:N"
+    )
+    
+    face_selector_chart = (heatmap + faces).properties(width=700, height=60, title="Selector")
+
+    # ==========================================
+    # CHART B: Bar Chart
+    # ==========================================
+    y_enc = alt.Y(
+        "character:N", 
+        sort=all_character_names,
+        axis=alt.Axis(domain=False, ticks=False, labels=False, title=None)
+    )
+    
     bars = alt.Chart(df_agg).mark_bar().encode(
-        x=alt.X("count:Q", title="Total Count"), # Updated from value:Q to count:Q
+        x=alt.X("count:Q", title="Total Count"), 
         y=y_enc,
         tooltip=[
             alt.Tooltip("character:N", title="Character"), 
             alt.Tooltip("count:Q", title="Total Count"),
             alt.Tooltip("count_type:N", title="Count Type")
-        ],
-        opacity=alt.when(char_selector).then(alt.value(1)).otherwise(alt.value(0.2))
+        ]
     ).add_params(
-        char_selector, 
         metric_selector
     ).transform_filter(
         metric_selector 
+    ).transform_filter(
+        char_selector 
     )
 
     flags = alt.Chart(df_agg).mark_image(width=25, height=25, clip=False, xOffset=-12).encode(
@@ -64,50 +78,55 @@ def create_character_plot(df_agg: pd.DataFrame, df_dist: pd.DataFrame):
         url="image:N"
     ).transform_filter(
         metric_selector
+    ).transform_filter(
+        char_selector
     )
     
-    barplot_final = (bars + flags).properties(
-        width=300, 
-        title="Total Dialogue Count"
-    )
+    # FIX: Use alt.Step(40) to force perfect spacing, regardless of how many characters are selected
+    barplot_final = (bars + flags).properties(width=300, height=alt.Step(40), title="Total Dialogue Count")
 
-    # 4. Jitter Plot (Distribution Data)
+    # ==========================================
+    # CHART C: Jitter Plot
+    # ==========================================
     gaussian_jitter = alt.Chart(df_dist, title='Dialogue Distribution').mark_circle(size=8).encode(
         y=y_enc,
-        x=alt.X("count:Q", title="Count"), # Updated from value:Q to count:Q
-        yOffset="jitter:Q",
-        opacity=alt.when(char_selector).then(alt.value(0.8)).otherwise(alt.value(0.2))
-    ).transform_calculate(
-        jitter="sqrt(-2*log(random()))*cos(2*PI*random())"
-    ).add_params(
-        char_selector,
-        metric_selector 
+        x=alt.X("count:Q", title="Count"), 
+        
+        # FIX: Locking the domain forces '0' to be exactly in the center of the band. 
+        # This aligns the dots perfectly with the bar chart and stops them from dancing.
+        yOffset=alt.YOffset("jitter:Q", scale=alt.Scale(domain=[-10, 10]))
+        
     ).transform_filter(
         metric_selector 
+    ).transform_filter(
+        char_selector
     )
 
-    mean_bar = alt.Chart(df_dist).mark_tick(
-        color='red', size=30, thickness=3
-    ).transform_aggregate(
-        mean_val="mean(count)",               # Updated from mean(value)
-        groupby=["character", "count_type"]   # Updated from metric to count_type
+    mean_bar = alt.Chart(df_dist).mark_tick(color='red', size=30, thickness=3).transform_aggregate(
+        mean_val="mean(count)",               
+        groupby=["character", "count_type"]   
     ).encode(
         x=alt.X("mean_val:Q"),
         y=y_enc
     ).transform_filter(
         metric_selector 
+    ).transform_filter(
+        char_selector
     )
     
-    jitter_final = (gaussian_jitter + mean_bar).properties(width=300)
+    # FIX: Same alt.Step(40) implementation
+    jitter_final = (gaussian_jitter + mean_bar).properties(width=300, height=alt.Step(40))
 
-    # 5. Concatenate and Return
-    final_layout = alt.hconcat(
-        barplot_final, 
-        jitter_final
-    ).configure_view(
-        step=40 
-    ).resolve_scale(
-        y='shared' 
+    # ==========================================
+    # NESTED CONCATENATION
+    # ==========================================
+    data_plots = alt.hconcat(barplot_final, jitter_final).resolve_scale(y='shared')
+    
+    final_layout = alt.vconcat(
+        face_selector_chart, 
+        data_plots
+    ).add_params(
+        char_selector 
     )
 
     return final_layout
@@ -118,41 +137,25 @@ def create_character_plot(df_agg: pd.DataFrame, df_dist: pd.DataFrame):
 
 st.set_page_config(layout="wide", page_title="The Simpsons Dialogue")
 
-# 1. App setup and filter selection
 st.title("The Simpsons: Character Dialogue Analysis")
-st.markdown("Click on a character's bar on the left to **filter** their specific dialogue distribution on the right. Shift-click to select multiple characters.")
+st.markdown("Use the radio buttons to switch metrics. **Shift-Click** the faces in the selector menu to add or remove characters from the comparison graphs.")
 
-# 2. Data Loading
 @st.cache_data
 def load_data_q1_q5():    
     q1_q5 = pd.read_csv('../data/data_Q1_Q5.csv')
-    # Create aggregated dataframe for the bar chart (aggregate by character and count_type)
+    
+    # Generating static offsets matching the YOffset domain above
+    np.random.seed(42)
+    q1_q5['jitter'] = np.random.normal(0, 3, size=len(q1_q5)) 
+    
     q1_q5_agg = q1_q5.groupby(['character', 'count_type', 'image'], as_index=False)['count'].sum()
-    return q1_q5, q1_q5_agg
+    
+    unique_faces = q1_q5[['character', 'image']].drop_duplicates()
+    
+    return q1_q5, q1_q5_agg, unique_faces
 
-data_q1_q5, data_q1_q5_agg = load_data_q1_q5()
+data_q1_q5, data_q1_q5_agg, all_faces = load_data_q1_q5()
 
-# --- NEW: Streamlit Multiselect for 5 Characters Max ---
-all_characters = sorted(data_q1_q5_agg['character'].unique().tolist())
-default_5_chars = ["Apu", "Bart", "Homer", "Lisa", "Marge"]
+chart = create_character_plot(df_all_faces=all_faces, df_agg=data_q1_q5_agg, df_dist=data_q1_q5) 
 
-selected_chars = st.multiselect(
-    "Select Characters (Max 5):",
-    options=all_characters,
-    default=default_5_chars,
-    max_selections=5 # <--- This natively enforces the maximum 5 rule!
-)
-
-# Stop the app from rendering an empty chart if the user clears all characters
-if not selected_chars:
-    st.info("Please select at least one character to view the chart.")
-else:
-    # Filter the dataframes to ONLY contain the selected characters
-    filtered_agg = data_q1_q5_agg[data_q1_q5_agg['character'].isin(selected_chars)]
-    filtered_dist = data_q1_q5[data_q1_q5['character'].isin(selected_chars)]
-
-    # Generate the chart using the filtered data
-    chart = create_character_plot(df_agg=filtered_agg, df_dist=filtered_dist) 
-
-    # Render in Streamlit
-    st.altair_chart(chart, use_container_width=True)
+st.altair_chart(chart, use_container_width=True)
