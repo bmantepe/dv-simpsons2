@@ -2,8 +2,12 @@ import streamlit as st
 import pandas as pd
 import altair as alt
 import numpy as np 
+import requests
+import base64
 
-alt.data_transformers.enable("vegafusion")
+# 1. Disable VegaFusion! VegaFusion causes network lag on clicks.
+# Using disable_max_rows makes the interactivity run instantly in the browser.
+alt.data_transformers.disable_max_rows()
 
 def create_character_plot(df_all_faces: pd.DataFrame, df_agg: pd.DataFrame, df_dist: pd.DataFrame):
     
@@ -17,7 +21,7 @@ def create_character_plot(df_all_faces: pd.DataFrame, df_agg: pd.DataFrame, df_d
         name='Analysis Metric: '
     )
     metric_selector = alt.selection_point(
-        name="metric_selector_q1",
+        name="metric_selector",
         fields=['count_type'], 
         bind=metric_dropdown, 
         value=[{'count_type': 'word_count'}] 
@@ -28,7 +32,11 @@ def create_character_plot(df_all_faces: pd.DataFrame, df_agg: pd.DataFrame, df_d
         {"character": "Apu"}, {"character": "Bart"}, 
         {"character": "Lisa"}, {"character": "Homer"}, {"character": "Marge"}
     ]
-    char_selector = alt.selection_point(name="char_selector_q1", fields=['character'], value=default_chars)
+    char_selector = alt.selection_point(
+        name="char_selector", 
+        fields=['character'], 
+        value=default_chars
+    )
 
     # ==========================================
     # CHART A: Visual Face Selector (HORIZONTAL)
@@ -40,6 +48,7 @@ def create_character_plot(df_all_faces: pd.DataFrame, df_agg: pd.DataFrame, df_d
         opacity=alt.condition(char_selector, alt.value(0.4), alt.value(0)) 
     )
 
+    # Because these are now Base64 strings, they load instantly with zero blinking!
     faces = char_base.mark_image(width=35, height=35).encode(
         x=alt.X('character:N', sort=all_character_names, axis=alt.Axis(labels=False, ticks=False, title=None)),
         url="image:N"
@@ -64,8 +73,6 @@ def create_character_plot(df_all_faces: pd.DataFrame, df_agg: pd.DataFrame, df_d
             alt.Tooltip("count:Q", title="Total Count"),
             alt.Tooltip("count_type:N", title="Count Type")
         ]
-    ).add_params(
-        metric_selector
     ).transform_filter(
         metric_selector 
     ).transform_filter(
@@ -82,7 +89,6 @@ def create_character_plot(df_all_faces: pd.DataFrame, df_agg: pd.DataFrame, df_d
         char_selector
     )
     
-    # FIX: Use alt.Step(40) to force perfect spacing, regardless of how many characters are selected
     barplot_final = (bars + flags).properties(width=300, height=alt.Step(40), title="Total Dialogue Count")
 
     # ==========================================
@@ -91,11 +97,7 @@ def create_character_plot(df_all_faces: pd.DataFrame, df_agg: pd.DataFrame, df_d
     gaussian_jitter = alt.Chart(df_dist, title='Dialogue Distribution').mark_circle(size=8).encode(
         y=y_enc,
         x=alt.X("count:Q", title="Count"), 
-        
-        # FIX: Locking the domain forces '0' to be exactly in the center of the band. 
-        # This aligns the dots perfectly with the bar chart and stops them from dancing.
         yOffset=alt.YOffset("jitter:Q", scale=alt.Scale(domain=[-10, 10]))
-        
     ).transform_filter(
         metric_selector 
     ).transform_filter(
@@ -114,7 +116,6 @@ def create_character_plot(df_all_faces: pd.DataFrame, df_agg: pd.DataFrame, df_d
         char_selector
     )
     
-    # FIX: Same alt.Step(40) implementation
     jitter_final = (gaussian_jitter + mean_bar).properties(width=300, height=alt.Step(40))
 
     # ==========================================
@@ -122,11 +123,15 @@ def create_character_plot(df_all_faces: pd.DataFrame, df_agg: pd.DataFrame, df_d
     # ==========================================
     data_plots = alt.hconcat(barplot_final, jitter_final).resolve_scale(y='shared')
     
+    # 2. Add both parameters exactly ONCE here to stop console warnings and loop bugs
     final_layout = alt.vconcat(
         face_selector_chart, 
         data_plots
     ).add_params(
-        char_selector 
+        char_selector, 
+        metric_selector 
+    ).configure_view(
+        stroke=None
     )
 
     return final_layout
@@ -144,12 +149,29 @@ st.markdown("Use the radio buttons to switch metrics. **Shift-Click** the faces 
 def load_data_q1_q5():    
     q1_q5 = pd.read_csv('../data/data_Q1_Q5.csv')
     
-    # Generating static offsets matching the YOffset domain above
     np.random.seed(42)
     q1_q5['jitter'] = np.random.normal(0, 3, size=len(q1_q5)) 
     
-    q1_q5_agg = q1_q5.groupby(['character', 'count_type', 'image'], as_index=False)['count'].sum()
+    # ========================================================
+    # 3. BASE 64 IMAGE ENCODER (Fixes CORS and Disappearing Images)
+    # ========================================================
+    def fetch_image_as_base64(url):
+        try:
+            headers = {'User-Agent': 'Mozilla/5.0'}
+            response = requests.get(url, headers=headers, timeout=5)
+            if response.status_code == 200:
+                b64 = base64.b64encode(response.content).decode('utf-8')
+                return f"data:image/png;base64,{b64}"
+        except:
+            pass
+        return url
+
+    # Fetch and map the images to Base64 strings
+    unique_urls = q1_q5['image'].dropna().unique()
+    url_to_b64_map = {url: fetch_image_as_base64(url) for url in unique_urls}
+    q1_q5['image'] = q1_q5['image'].map(url_to_b64_map)
     
+    q1_q5_agg = q1_q5.groupby(['character', 'count_type', 'image'], as_index=False)['count'].sum()
     unique_faces = q1_q5[['character', 'image']].drop_duplicates()
     
     return q1_q5, q1_q5_agg, unique_faces
@@ -158,4 +180,5 @@ data_q1_q5, data_q1_q5_agg, all_faces = load_data_q1_q5()
 
 chart = create_character_plot(df_all_faces=all_faces, df_agg=data_q1_q5_agg, df_dist=data_q1_q5) 
 
-st.altair_chart(chart, use_container_width=True)
+# 4. Use theme=None to stop Streamlit CSS from fighting Altair's instant layout updates
+st.altair_chart(chart, width="content", theme=None)
