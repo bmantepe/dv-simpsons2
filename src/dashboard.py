@@ -3,7 +3,7 @@ import altair as alt
 import pandas as pd
 
 # Import functions from your modules
-# from queries.q1_q5 import create_character_plot, load_data_q1_q5
+from queries.q1_q5 import create_character_plot, load_data_q1_q5
 # from queries.q2 import create_timeline_plot, load_data_q2
 # from queries.q3_q4 import create_diverging_difference_plot, create_episode_comparison_plot, load_data_q3_q4
 from queries.q3_q4_v2 import  build_dashboard_html, load_data, build_dashboard
@@ -20,38 +20,38 @@ st.title("The Simpsons: Comprehensive Dialogue Analysis")
 # # ==========================================
 # # ROW 1: Q1 & Q5 (Distribution)
 # # ==========================================
-# #st.header("1. Character Dialogue Distribution")
-# #st.markdown("Click on a character's bar on the left to **filter** their specific dialogue distribution on the right. Shift-click to select multiple characters.")
+st.header("1. Character Dialogue Distribution")
+st.markdown("Click on a character's bar on the left to **filter** their specific dialogue distribution on the right. Shift-click to select multiple characters.")
 
 
-# data_q1_q5, data_q1_q5_agg, all_faces = load_data_q1_q5()
+data_q1_q5, data_q1_q5_agg, all_faces = load_data_q1_q5()
 
 # # --- NEW: Streamlit Multiselect for 5 Characters Max ---
-# all_characters = sorted(data_q1_q5_agg['character'].unique().tolist())
-# default_5_chars = ["Apu", "Bart", "Homer", "Lisa", "Marge"]
+all_characters = sorted(data_q1_q5_agg['character'].unique().tolist())
+default_5_chars = ["Apu", "Bart", "Homer", "Lisa", "Marge"]
 
-# selected_chars = st.multiselect(
-#     "Select Characters (Max 5):",
-#     options=all_characters,
-#     default=default_5_chars,
-#     max_selections=5 # <--- This natively enforces the maximum 5 rule!
-# )
+selected_chars = st.multiselect(
+    "Select Characters (Max 5):",
+    options=all_characters,
+    default=default_5_chars,
+    max_selections=5 # <--- This natively enforces the maximum 5 rule!
+)
 
 # # Stop the app from rendering an empty chart if the user clears all characters
-# if not selected_chars:
-#     st.info("Please select at least one character to view the chart.")
-# else:
-#     # Filter the dataframes to ONLY contain the selected characters
-#     filtered_agg = data_q1_q5_agg[data_q1_q5_agg['character'].isin(selected_chars)]
-#     filtered_dist = data_q1_q5[data_q1_q5['character'].isin(selected_chars)]
+if not selected_chars:
+    st.info("Please select at least one character to view the chart.")
+else:
+    # Filter the dataframes to ONLY contain the selected characters
+    filtered_agg = data_q1_q5_agg[data_q1_q5_agg['character'].isin(selected_chars)]
+    filtered_dist = data_q1_q5[data_q1_q5['character'].isin(selected_chars)]
 
-#     # Generate the chart using the filtered data
-#     chart = create_character_plot(df_all_faces=all_faces, df_agg=filtered_agg, df_dist=filtered_dist) 
+    # Generate the chart using the filtered data
+    chart = create_character_plot(df_all_faces=all_faces, df_agg=filtered_agg, df_dist=filtered_dist) 
 
-#     # Render in Streamlit
-#     st.altair_chart(chart, use_container_width=True)
+    # Render in Streamlit
+    st.altair_chart(chart, use_container_width=True)
 
-# #st.divider()
+#st.divider()
 
 # # ==========================================
 # # ROW 2: Q2 (Timeline)
