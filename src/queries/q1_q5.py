@@ -56,18 +56,52 @@ def create_character_plot(df_all_faces: pd.DataFrame, df_agg: pd.DataFrame, df_d
     face_selector_chart = (heatmap + faces).properties(width=700, height=60, title="Selector")
 
     # ==========================================
-    # SHARED Y-AXIS (Dynamic Resizing)
+    # SHARED Y-AXIS (Dynamically Sorted by Count)
     # ==========================================
     y_enc = alt.Y(
         "character:N", 
-        sort=all_character_names,
+        # FIX 1: Tell the Master Axis to sum the counts and sort descending
+        sort=alt.EncodingSortField(field="count", op="sum", order="descending"),
         axis=alt.Axis(domain=False, ticks=False, labels=False, title=None)
+    )
+
+    # ==========================================
+    # DATA PIPELINE: Filter to exactly Top 5
+    # ==========================================
+    # FIX 2: We calculate the Top 5 once on a Base Chart to keep the engine fast and bug-free
+    base_agg = alt.Chart(df_agg).transform_filter(
+        metric_selector 
+    ).transform_filter(
+        char_selector 
+    ).transform_joinaggregate(
+        total_count='sum(count)',
+        groupby=['character']
+    ).transform_window(
+        rank='dense_rank()',
+        # Added character sort to break ties so it never accidentally plots 6
+        sort=[alt.SortField('total_count', order='descending'), alt.SortField('character', order='ascending')]
+    ).transform_filter(
+        alt.datum.rank <= 5
+    )
+
+    base_dist = alt.Chart(df_dist).transform_filter(
+        metric_selector 
+    ).transform_filter(
+        char_selector
+    ).transform_joinaggregate(
+        total_count='sum(count)',
+        groupby=['character']
+    ).transform_window(
+        rank='dense_rank()',
+        sort=[alt.SortField('total_count', order='descending'), alt.SortField('character', order='ascending')]
+    ).transform_filter(
+        alt.datum.rank <= 5
     )
 
     # ==========================================
     # CHART B: Bar Chart
     # ==========================================
-    bars = alt.Chart(df_agg).mark_bar().encode(
+    bars = base_agg.mark_bar().encode(
         x=alt.X("count:Q", title="Total Count"), 
         y=y_enc,
         color=alt.Color("character:N", legend=None),
@@ -76,32 +110,12 @@ def create_character_plot(df_all_faces: pd.DataFrame, df_agg: pd.DataFrame, df_d
             alt.Tooltip("count:Q", title="Total Count"),
             alt.Tooltip("count_type:N", title="Count Type")
         ]
-    ).transform_filter(
-        metric_selector 
-    ).transform_filter(
-        char_selector 
-    ).transform_window(
-        # THE FIX: Mathematically rank the selected characters
-        rank='dense_rank()',
-        sort=[alt.SortField('character', order='ascending')]
-    ).transform_filter(
-        # THE FIX: Force the chart to slice off anything ranked above 5
-        alt.datum.rank <= 5
     )
 
-    flags = alt.Chart(df_agg).mark_image(width=25, height=25, clip=False, xOffset=-12).encode(
+    flags = base_agg.mark_image(width=25, height=25, clip=False, xOffset=-12).encode(
         y=y_enc,
         x=alt.value(0), 
         url="image:N"
-    ).transform_filter(
-        metric_selector
-    ).transform_filter(
-        char_selector
-    ).transform_window(
-        rank='dense_rank()',
-        sort=[alt.SortField('character', order='ascending')]
-    ).transform_filter(
-        alt.datum.rank <= 5
     )
     
     barplot_final = (bars + flags).properties(width=300, height=alt.Step(40), title="Total Dialogue Count")
@@ -109,37 +123,19 @@ def create_character_plot(df_all_faces: pd.DataFrame, df_agg: pd.DataFrame, df_d
     # ==========================================
     # CHART C: Jitter Plot
     # ==========================================
-    gaussian_jitter = alt.Chart(df_dist, title='Dialogue Distribution').mark_circle(size=8, opacity=0.7).encode(
+    gaussian_jitter = base_dist.mark_circle(size=8, opacity=0.7).encode(
         y=y_enc,
         x=alt.X("count:Q", title="Count"), 
         yOffset=alt.YOffset("jitter:Q", scale=alt.Scale(domain=[-10, 10])),
         color=alt.Color("character:N", legend=None)
-    ).transform_filter(
-        metric_selector 
-    ).transform_filter(
-        char_selector
-    ).transform_window(
-        rank='dense_rank()',
-        sort=[alt.SortField('character', order='ascending')]
-    ).transform_filter(
-        alt.datum.rank <= 5
     )
 
-    mean_bar = alt.Chart(df_dist).mark_tick(color='red', size=30, thickness=3).transform_aggregate(
+    mean_bar = base_dist.mark_tick(color='red', size=30, thickness=3).transform_aggregate(
         mean_val="mean(count)",               
         groupby=["character", "count_type"]   
     ).encode(
         x=alt.X("mean_val:Q"),
         y=y_enc
-    ).transform_filter(
-        metric_selector 
-    ).transform_filter(
-        char_selector
-    ).transform_window(
-        rank='dense_rank()',
-        sort=[alt.SortField('character', order='ascending')]
-    ).transform_filter(
-        alt.datum.rank <= 5
     )
     
     jitter_final = (gaussian_jitter + mean_bar).properties(width=300, height=alt.Step(40))
@@ -168,7 +164,7 @@ def create_character_plot(df_all_faces: pd.DataFrame, df_agg: pd.DataFrame, df_d
 st.set_page_config(layout="wide", page_title="The Simpsons Dialogue")
 
 st.title("The Simpsons: Character Dialogue Analysis")
-st.markdown("Use the radio buttons to switch metrics. **Shift-Click** the faces in the selector menu to add or remove characters from the comparison graphs.")
+st.markdown("Use the radio buttons to switch metrics. **Shift-Click** the faces in the selector menu to compare characters (Max 5 Plotted).")
 
 @st.cache_data
 def load_data_q1_q5():    
