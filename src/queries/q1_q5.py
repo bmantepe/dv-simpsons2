@@ -39,20 +39,46 @@ def create_q1_q5_plot(data_q1_q5, data_q1_q5_agg, data_q2):
         sort=data_q1_q5_agg.sort_values('count', ascending=False)['character'].tolist(),
         axis=alt.Axis(labels=False, ticks=False, title='Select up to 5 characters', orient='top'),
     )
-
+    hover = alt.selection_point(on='mouseover', clear='mouseout', empty=False)
+    
     sel_rects = (
         alt.Chart(char_lookup)
-        .mark_rect()
+        .mark_rect(
+            cornerRadius=10, 
+            height=50,       
+            yOffset=27       
+        )
         .encode(
             x=x_enc_sel,
-            opacity=alt.when(selector).then(alt.value(1)).otherwise(alt.value(0)),
+            
+            # --- BACKGROUND COLOR LOGIC ---
+            color=alt.when(selector)
+                .then(alt.value('rgba(76, 120, 168, 0.3)')) # Selected = Blue Tint
+                .when(hover)
+                .then(alt.value('rgba(117, 104, 104, 0.2)')) # Hovered = Light Grey Tint
+                .otherwise(alt.value('transparent')),        # Default = Clear
+            
+            # --- BORDER COLOR LOGIC ---
+            stroke=alt.when(selector)
+                .then(alt.value('#0e33eb')) # Selected = Thick Blue
+                .when(hover)
+                .then(alt.value('#4c78a8')) # Hovered = Default Altair Blue (provides a nice interactive feel)
+                .otherwise(alt.value("#756868")), # Default = Grey
+            
+            # --- BORDER THICKNESS LOGIC ---
+            strokeWidth=alt.when(selector)
+                .then(alt.value(3))
+                .when(hover)
+                .then(alt.value(2)) # Slightly thicker on hover for tactile feedback
+                .otherwise(alt.value(1)),
         )
-        .add_params(selector)
+        # CRITICAL: You must add BOTH parameters to the chart!
+        .add_params(selector, hover) 
     )
 
     sel_faces = (
         alt.Chart(char_lookup)
-        .mark_image(width=40, height=40, yOffset=20)
+        .mark_image(width=40, height=40, yOffset=23)
         .encode(
             x=x_enc_sel,
             url='image:N',
