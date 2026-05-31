@@ -5,125 +5,73 @@ import altair as alt
 alt.data_transformers.disable_max_rows()
 
 
-import streamlit as st
-import pandas as pd
-import altair as alt
-
-alt.data_transformers.disable_max_rows()
-
-
 def create_q1_q5_plot(data_q1_q5, data_q1_q5_agg, data_q2):
 
-    char_lookup = data_q1_q5_agg.sort_values('count', ascending=False)[['character', 'image']].drop_duplicates()
+    char_order = data_q1_q5_agg.sort_values('count', ascending=False)[['character', 'image']].drop_duplicates()
 
-    y_enc = alt.Y(
-        "character:N",
+    y_enc = alt.Y("character:N",
         sort=data_q1_q5_agg.sort_values('count', ascending=False)['character'].tolist(),
-        axis=alt.Axis(domain=False, ticks=False, labels=False, title=None),
+        axis=alt.Axis(domain=False, ticks=False, labels=False, title=None))
+
+    view_selector = alt.selection_point(fields=['count_type'],bind=alt.binding_radio(options=['word_count', 'sentence_count'],labels=['Word Count', 'Sentence Count'],name='View by: '),
+        value='word_count',name='view_selector')
+
+    # we set up a predefined selection (top 5 character with more words)
+    selector = alt.selection_point(fields=['character'],
+        value=[{'character': c} for c in ['Homer', 'Marge', 'Bart', 'Lisa', 'Mr. Burns']]
     )
 
-    view_selector = alt.selection_point(
-        fields=['count_type'],
-        bind=alt.binding_radio(
-            options=['word_count', 'sentence_count'],
-            labels=['Word Count', 'Sentence Count'],
-            name='View by: '
-        ),
-        value='word_count',
-        name='view_selector',
-    )
-
-    selector = alt.selection_point(
-        fields=['character'],
-        value=[{'character': c} for c in ['Homer', 'Marge', 'Bart', 'Lisa', 'Mr. Burns']],
-    )
-
-    # WIDGET UI: Mouse Hover Tracker
     hover = alt.selection_point(on='mouseover', clear='mouseout', empty=False)
 
-    # Removed the clunky axis title to replace it with a clean UI header
-    x_enc_sel = alt.X(
-        'character:N',
+    x_enc_sel = alt.X('character:N',
         sort=data_q1_q5_agg.sort_values('count', ascending=False)['character'].tolist(),
-        axis=alt.Axis(labels=False, ticks=False, title=None, orient='top'),
-    )
+        axis=alt.Axis(labels=False, ticks=False, title=None, orient='top'))
 
-    sel_rects = (
-        alt.Chart(char_lookup)
-        .mark_rect(
-            cornerRadius=10, 
-            height=50,       
-            yOffset=27       
-        )
-        .encode(
-            x=x_enc_sel,
-            
-            # --- BACKGROUND COLOR LOGIC ---
+    # with the hover paramter we define how the character selector will look when interacting with it
+
+    sel_rects = (alt.Chart(char_order).mark_rect(cornerRadius=10, height=50,yOffset=27       
+        ).encode(x=x_enc_sel,
             color=alt.when(selector)
-                .then(alt.value('rgba(76, 120, 168, 0.3)')) # Selected = Blue Tint
+                .then(alt.value('rgba(76, 120, 168, 0.3)'))
                 .when(hover)
-                .then(alt.value('rgba(117, 104, 104, 0.2)')) # Hovered = Light Grey Tint
-                .otherwise(alt.value('transparent')),        # Default = Clear
+                .then(alt.value('rgba(117, 104, 104, 0.2)'))
+                .otherwise(alt.value('transparent')),        
             
-            # --- BORDER COLOR LOGIC ---
             stroke=alt.when(selector)
-                .then(alt.value('#0e33eb')) # Selected = Thick Blue
+                .then(alt.value('#0e33eb'))
                 .when(hover)
-                .then(alt.value('#4c78a8')) # Hovered = Default Altair Blue 
-                .otherwise(alt.value("#756868")), # Default = Grey
+                .then(alt.value('#4c78a8'))
+                .otherwise(alt.value("#756868")), 
             
-            # --- BORDER THICKNESS LOGIC ---
             strokeWidth=alt.when(selector)
                 .then(alt.value(3))
                 .when(hover)
-                .then(alt.value(2)) # Slightly thicker on hover
-                .otherwise(alt.value(1)),
-        )
-        .add_params(selector, hover) 
-    )
+                .then(alt.value(2))
+                .otherwise(alt.value(1))
+        ).add_params(selector, hover))
 
-    sel_faces = (
-        alt.Chart(char_lookup)
-        .mark_image(width=40, height=40, yOffset=23)
-        .encode(
+    # we add the faces to the 'heatmap' cells wirth and offset to make them look centered in it
+    sel_faces = (alt.Chart(char_order).mark_image(width=40, height=40, yOffset=23).encode(
             x=x_enc_sel,
-            url='image:N',
-        )
-    )
+            url='image:N'))
 
-    # Added a clear, styled title to act as the "UI Menu Header"
-    character_selector_ui = (sel_rects + sel_faces).properties(
-        width=800,
-        height=50,
+    # final selection component
+    character_selector_ui = (sel_rects + sel_faces).properties(width=800,height=50,
         title=alt.TitleParams(
             "Select up to 5 Characters to Compare (Shift+Click)", 
-            anchor='middle', 
             fontSize=16, 
-            color='#4c78a8',
-            dy=-15
-        )
-    )
+            dy=-15))
 
-    # --- Bar chart ---
 
-    bars = (
-        alt.Chart(data_q1_q5_agg)
-        .mark_bar()
-        .encode(
+    bars = (alt.Chart(data_q1_q5_agg).mark_bar().encode(
             x=alt.X('count:Q', title='Total Count',axis=alt.Axis(titleFontSize=14, labelFontSize=12)),
             y=y_enc,
-            tooltip=[
-                alt.Tooltip('character:N', title='Character'),
-                alt.Tooltip('count:Q', title='Total Count'),
-            ],
-        )
+            tooltip=[alt.Tooltip('character:N', title='Character'),alt.Tooltip('count:Q', title='Total Count')])
         .transform_filter(selector)
         .transform_filter(view_selector)
     )
 
-    flags = (
-        alt.Chart(data_q1_q5.assign(zero=0))
-        .mark_image(width=35, height=35, clip=False, xOffset=-20)
+    flags = (alt.Chart(data_q1_q5.assign(zero=0)).mark_image(width=35, height=35, clip=False, xOffset=-20)
         .encode(
             y=y_enc,
             x=alt.X('zero:Q'),
@@ -135,12 +83,10 @@ def create_q1_q5_plot(data_q1_q5, data_q1_q5_agg, data_q2):
 
     barplot_final = (bars + flags).properties(width=400,title=alt.TitleParams("Total Count per Character", fontSize=16))
 
-    # --- Jitter + mean chart ---
+    # jitter plot and adding red mean bar
 
-    gaussian_jitter = (
-        alt.Chart(data_q1_q5)
-        .mark_circle(size=8)
-        .encode(
+
+    gaussian_jitter = (alt.Chart(data_q1_q5).mark_circle(size=8).encode(
             y=y_enc,
             x=alt.X('count:Q', title='Count',axis=alt.Axis(titleFontSize=14, labelFontSize=12)),
             yOffset='jitter:Q',
@@ -150,38 +96,27 @@ def create_q1_q5_plot(data_q1_q5, data_q1_q5_agg, data_q2):
         .transform_filter(view_selector)
     )
 
-    mean_bar = (
-        alt.Chart(data_q1_q5)
-        .mark_tick(color='red', size=30, thickness=3)
+    mean_bar = (alt.Chart(data_q1_q5).mark_tick(color='red', size=30, thickness=3)
         .transform_filter(selector)
         .transform_filter(view_selector)
         .transform_aggregate(mean_wc='mean(count)', groupby=['character'])
         .encode(
             x=alt.X('mean_wc:Q'),
-            y=y_enc,
-        )
-    )
+            y=y_enc))
 
     jitter_final = (gaussian_jitter + mean_bar).properties(width=400,title=alt.TitleParams("Count Distribution", fontSize=16))
 
-    # --- Line chart (Q2) ---
 
     nearest = alt.selection_point(nearest=True, on='mouseover', fields=['season'], empty=False)
     legend_selection = alt.selection_point(fields=['character'], bind='legend')
 
-    selectors = (
-        alt.Chart(data_q2)
-        .mark_point()
-        .encode(x='season:O', opacity=alt.value(0))
+    selectors = (alt.Chart(data_q2).mark_point().encode(x='season:O', opacity=alt.value(0))
         .transform_filter(selector)
         .transform_filter(view_selector)
         .add_params(nearest)
     )
 
-    lines_main = (
-        alt.Chart(data_q2)
-        .mark_line(point=True)
-        .encode(
+    lines_main = (alt.Chart(data_q2).mark_line(point=True).encode(
             x=alt.X('season:O', title='Season',axis = alt.Axis(labelAngle=0,ticks=False,labelPadding=10,titleFontSize=14,labelFontSize=12)),
             y=alt.Y('count:Q', title='Total Count',axis=alt.Axis(titleFontSize=14, labelFontSize=12)),
             color=alt.Color('character:N', legend=alt.Legend(title='Character', orient='right')),
@@ -191,12 +126,9 @@ def create_q1_q5_plot(data_q1_q5, data_q1_q5_agg, data_q2):
         .transform_filter(view_selector)
         .add_params(nearest, legend_selection)
     )
-
    
 
-    images_point = (
-        alt.Chart(data_q2)
-        .mark_image(width=30, height=30, align='center', baseline='middle')
+    images_point = (alt.Chart(data_q2).mark_image(width=30, height=30, align='center', baseline='middle')
         .encode(
             x='season:O',
             y='count:Q',
@@ -207,37 +139,21 @@ def create_q1_q5_plot(data_q1_q5, data_q1_q5_agg, data_q2):
         .transform_filter(view_selector)
     )
 
-    rules = (
-        alt.Chart(data_q2)
-        .mark_rule(color='gray')
-        .encode(x='season:O')
+    rules = (alt.Chart(data_q2).mark_rule(color='gray').encode(x='season:O')
         .transform_filter(nearest)
         .transform_filter(selector)
         .transform_filter(view_selector)
     )
 
-    line_chart = alt.layer(
-        selectors, lines_main, rules, images_point
-    ).properties(
-        width=800,
-        height=400, 
-        title=alt.TitleParams("Count over Seasons", fontSize=16)
+    line_chart = alt.layer(selectors, lines_main, rules, images_point
+    ).properties(width=800,height=400, title=alt.TitleParams("Count over Seasons", fontSize=16)
         
     )
 
-    # --- Final layout ---
+    # final layout. left sisde for bar jitter and character selector, and then concat veritcally with line chart
 
-    left_side = alt.vconcat(
-        character_selector_ui,
-        alt.hconcat(barplot_final, jitter_final).resolve_scale(y='shared')
-    )
-
-    final_layout = (left_side | line_chart).add_params(
-        selector, 
-        view_selector
-    ).configure_view(
-        step=60 # HEIGHT REDUCTION: Changed from 80 to 60 to make the left-side plots shorter
-    )
+    left_side = alt.vconcat(character_selector_ui,alt.hconcat(barplot_final, jitter_final).resolve_scale(y='shared'))
+    final_layout = (left_side | line_chart).add_params(selector, view_selector).configure_view(step=60)
 
     return final_layout
     

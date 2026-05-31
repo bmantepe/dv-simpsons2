@@ -12,7 +12,6 @@ def create_episode_comparison_plot(data_q3, data_q4, type):
         'value': [1] * len(data_q3['season'].unique())
     })
 
-    # --- Selectors & Hover Trackers ---
 
     season_selector = alt.selection_point(fields=['season'], value=1, name='season_selector')
     char1_selector = alt.selection_point(fields=['character'], name='char1_selector', value='Bart')
@@ -22,34 +21,29 @@ def create_episode_comparison_plot(data_q3, data_q4, type):
     hover1 = alt.selection_point(on='mouseover', clear='mouseout', empty=False)
     hover2 = alt.selection_point(on='mouseover', clear='mouseout', empty=False)
 
-    # --- Season heatmap (HORIZONTAL AT THE TOP) ---
 
-    # 1. Create an invisible spacer to push the heatmap to the right
-    spacer = alt.Chart(pd.DataFrame({'empty': [1]})).mark_rect(opacity=0).properties(
-        width=180, # Matches the width of Char1 (50) + Char2 (50) + spacing (20)
-        height=40
-    )
+    # we create an invisible spacer to push the seasons selector to the right so it alings with the plots
+    spacer = alt.Chart(pd.DataFrame({'empty': [1]})).mark_rect(opacity=0).properties(width=180, height=40)
 
-    # 2. Make the heatmap slightly narrower since the spacer is taking up 120px
-
+    # make the season numbers appear inside the selector squares
     season_labels = alt.Chart(season_df).mark_text(color='black', fontWeight='bold', fontSize=16).encode(
     x=alt.X('season:O'),
     text='season:O')
 
 
+    # season filter
 
     heatmap_seasons = alt.Chart(season_df).mark_rect(stroke = 'black',strokeWidth=2).encode(
         x=alt.X('season:O', title='Select Season', axis=alt.Axis(labels=False, ticks=False, titleFontSize=18,orient='top',titlePadding=30)),
         opacity=alt.when(season_selector).then(alt.value(1)).otherwise(alt.value(0.4)),
-    ).properties(
-        width=1450,    # 1500 total width - 120 spacer = 1380
-        height=40
-    ).add_params(season_selector)
+    ).properties(width=1450,height=40).add_params(season_selector)
     
-    # 3. Combine them horizontally to form the top row
-    top_row = alt.hconcat(spacer, heatmap_seasons +season_labels)
+    
+    top_row = alt.hconcat(spacer, heatmap_seasons + season_labels)
 
-    # --- Character 1 Selector UI (BLUE) ---
+    # character selectors
+
+    ## char selector 1 (blue)
 
     char1_base = alt.Chart(data_q3)
 
@@ -61,8 +55,8 @@ def create_episode_comparison_plot(data_q3, data_q4, type):
         scale = alt.Scale(domain = char_order),
         axis=alt.Axis(labels=False, ticks=False, domain=False, title=None)),     
 
-        color=alt.when(char1_selector).then(alt.value('rgba(14, 51, 235, 0.15)')) 
-             .when(hover1).then(alt.value('rgba(117, 104, 104, 0.2)'))
+        color=alt.when(char1_selector).then(alt.value('#0e33eb')) 
+             .when(hover1).then(alt.value('#75686833'))
              .otherwise(alt.value('transparent')),
         
         stroke=alt.when(char1_selector).then(alt.value('#0e33eb'))
@@ -79,31 +73,24 @@ def create_episode_comparison_plot(data_q3, data_q4, type):
         url='image:N'
     )
 
-    # FIX: Native Altair Title, color-coded and centered. Height reduced to 450.
-    char1_ui = (heatmap1 + faces1).properties(
-        width=50, 
-        height=500,
+    char1_ui = (heatmap1 + faces1).properties(width=50, height=500,
         title=alt.TitleParams('Character 1', color='#0e33eb', align='center', anchor='middle', fontSize=13)
     )
 
-    # --- Character 2 Selector UI (RED) ---
+    ## char selector 1 (red)
 
     char2_base = alt.Chart(data_q3)
 
     heatmap2 = char2_base.mark_rect(cornerRadius=8).encode(
-        # Removed the hacked Y-axis title
         y=alt.Y('character:N', axis=alt.Axis(labels=False, ticks=False, domain=False, title=None),
                 sort=char_order,
-                scale =alt.Scale(domain = char_order)), # Added padding to create more space between character rows,
-        
-        color=alt.when(char2_selector).then(alt.value('rgba(244, 12, 12, 0.15)')) 
-             .when(hover2).then(alt.value('rgba(117, 104, 104, 0.2)'))
+                scale =alt.Scale(domain = char_order)), 
+        color=alt.when(char2_selector).then(alt.value('#f40c0c26')) 
+             .when(hover2).then(alt.value('#75686833'))
              .otherwise(alt.value('transparent')),
-        
         stroke=alt.when(char2_selector).then(alt.value('#f40c0c'))
                .when(hover2).then(alt.value('#e06666'))
                .otherwise(alt.value('#756868')),
-               
         strokeWidth=alt.when(char2_selector).then(alt.value(3))
                     .when(hover2).then(alt.value(2))
                     .otherwise(alt.value(1))
@@ -114,19 +101,15 @@ def create_episode_comparison_plot(data_q3, data_q4, type):
         url='image:N'
     )
     
-    # FIX: Native Altair Title, color-coded and centered. Height reduced to 450.
-    char2_ui = (heatmap2 + faces2).properties(
-        width=50, 
-        height=500,
+
+    char2_ui = (heatmap2 + faces2).properties(width=50, height=500,
         title=alt.TitleParams('Character 2', color='#f40c0c', align='center', anchor='middle', fontSize=13)
     ).resolve_scale(y='shared')
 
-    selection_ui = alt.hconcat(
-        char1_ui,
-        char2_ui
-    ).resolve_scale(y='shared')
+    # final ui component for characters
 
-    # --- Q3: absolute or relative ---
+    selection_ui = alt.hconcat(char1_ui,char2_ui).resolve_scale(y='shared')
+
 
     if type == 'absolute':
 
@@ -139,8 +122,8 @@ def create_episode_comparison_plot(data_q3, data_q4, type):
             )
             .transform_calculate(more_words='datum.max_row.character')
             .encode(
-                x=alt.X('word_count:Q', title='Word Count'),
-                y=alt.Y('number_in_season:O', title='Episode Number in Season'),
+                x=alt.X('word_count:Q', title='Word Count',axis=alt.Axis(titleFontSize=14, labelFontSize=12)),
+                y=alt.Y('number_in_season:O', title='Episode Number in Season',axis=alt.Axis(titleFontSize=14, labelFontSize=12)),
                 detail='number_in_season:O',
                 tooltip=['season:O', 'number_in_season:O', 'character:N', 'word_count:Q'],
                 color=alt.Color('more_words:N', title='More Words', legend=None,
@@ -152,14 +135,12 @@ def create_episode_comparison_plot(data_q3, data_q4, type):
 
         line = chart.mark_line(strokeWidth=4)
         faces = chart.mark_image(width=30, height=30).encode(url='image:N')
-        points = chart.mark_point(size=1000, filled=True).encode(
-            color=alt.Color('character:N', title='Character')
-        )
+        points = chart.mark_point(size=1000, filled=True).encode(color=alt.Color('character:N', title='Character'))
 
         q3 = (line + points + faces).properties(
-            title='Character Word Count by Episode',
+            title=alt.TitleParams("Character Word Count by Episode", fontSize=16),
             width=600,     
-            height=500     # DECREASED HEIGHT TO 450
+            height=500     
         ).add_params(episode_selector, season_selector, char1_selector, char2_selector)
 
     else:
@@ -200,9 +181,9 @@ def create_episode_comparison_plot(data_q3, data_q4, type):
             base_rel.transform_filter('datum.character == datum.dominant_char')
             .mark_rule(size=4)
             .encode(
-                x=alt.X('diff:Q', title='Word Count Difference'),
+                x=alt.X('diff:Q', title='Word Count Difference',axis=alt.Axis(titleFontSize=14, labelFontSize=12)),
                 x2=alt.datum(0),
-                y=alt.Y('number_in_season:O', title='Episode Number in Season'),
+                y=alt.Y('number_in_season:O', title='Episode Number in Season',axis=alt.Axis(titleFontSize=14, labelFontSize=12)),
                 color=alt.Color('character:N',
                                 scale=alt.Scale(range=['#f40c0c', '#0e33eb']),
                                 legend=None),
@@ -228,17 +209,16 @@ def create_episode_comparison_plot(data_q3, data_q4, type):
 
         q3 = (symmetry_fix + center_spine + rel_rules + rel_faces).properties(
             width=600,     
-            height=500,    # DECREASED HEIGHT TO 450
-            title='Relative Advantage'
+            height=500,    
+            title= alt.TitleParams("Relative Word Count by Episode", fontSize=16)
         ).add_params(episode_selector, season_selector, char1_selector, char2_selector)
 
-    # --- Q4: cumulative word count within episode ---
+    # cumulative word counts 
 
     x_scale = alt.Scale(zero=False, nice=False, padding=0)
     y_scale = alt.Scale(zero=True)
 
-    base = (
-        alt.Chart(data_q4)
+    base = (alt.Chart(data_q4)
         .transform_filter(episode_selector)
         .transform_filter(season_selector)
         .transform_filter(char1_selector | char2_selector)
@@ -261,15 +241,12 @@ def create_episode_comparison_plot(data_q3, data_q4, type):
         .encode(x=alt.X('x0:Q', scale=x_scale), x2='x1:Q')
     )
 
-    highlight_lines = (
-        base
-        .mark_line(strokeWidth=2, point=True)
+    highlight_lines = (base.mark_line(strokeWidth=2, point=True)
         .transform_filter(char1_selector | char2_selector)
         .encode(
-            x=alt.X('line_number_in_episode:Q', title='Line Number in Episode', scale=x_scale),
-            y=alt.Y('cumulative_words:Q', title='Cumulative Words Spoken', scale=y_scale),
-            color=alt.Color('character:N', legend=None,
-                            scale=alt.Scale(range=['#0e33eb', '#f40c0c'])),
+            x=alt.X('line_number_in_episode:Q', title='Line Number in Episode', scale=x_scale,axis=alt.Axis(titleFontSize=14, labelFontSize=12)),
+            y=alt.Y('cumulative_words:Q', title='Cumulative Words Spoken', scale=y_scale,axis=alt.Axis(titleFontSize=14, labelFontSize=12)),
+            color=alt.Color('character:N', legend=None,scale=alt.Scale(range=['#0e33eb', '#f40c0c'])),
             tooltip=[
                 alt.Tooltip('character:N'),
                 alt.Tooltip('line_number_in_episode:Q'),
@@ -278,8 +255,7 @@ def create_episode_comparison_plot(data_q3, data_q4, type):
         )
     )
 
-    faces_q4 = (
-        base
+    faces_q4 = (base
         .transform_filter(char1_selector | char2_selector)
         .transform_window(
             rank='rank()',
@@ -297,22 +273,14 @@ def create_episode_comparison_plot(data_q3, data_q4, type):
 
     q4 = (domain_anchor + highlight_lines + faces_q4).properties(
         width=750,      
-        height=500,     # DECREASED HEIGHT TO 450
-        title='Cumulative Word Count'
+        height=500, 
+        title=alt.TitleParams("Cumulative Word Count", fontSize=16)
     )
 
-    # --- Final assembly ---
     
-    bottom_row = alt.hconcat(
-        selection_ui, q3, q4
-    ).resolve_scale(
-        y='independent'
-    )
+    bottom_row = alt.hconcat(selection_ui, q3, q4).resolve_scale(y='independent')
 
-    final_chart = alt.vconcat(
-        top_row,
-        bottom_row
-    ).configure_view(stroke=None)
+    final_chart = alt.vconcat(top_row,bottom_row).configure_view(stroke=None)
 
     return final_chart
 

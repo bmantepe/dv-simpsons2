@@ -2,14 +2,9 @@ import streamlit as st
 import altair as alt
 import pandas as pd
 import streamlit.components.v1 as components
-
-# Import functions from your modules
-#from queries.q1_q5 import create_character_plot, load_data_q1_q5
 from queries.q1_q5 import create_plot_q1_q5_html
-
 from queries.q3_q4 import create_plot_q4_html
 
-# Inject custom CSS to force the Altair radio buttons to use Streamlit's default font
 st.markdown("""
     <style>
     /* Targets the HTML container that holds Altair's radio bindings */
@@ -21,14 +16,11 @@ st.markdown("""
     </style>
 """, unsafe_allow_html=True)
 
-# Enable VegaFusion globally for the app
 alt.data_transformers.disable_max_rows()
 
 
-# Set up the main page configuration once
 st.set_page_config(layout="wide", page_title="The Simpsons Dialogue Dashboard")
 
-# st.title("The Simpsons: Comprehensive Dialogue Analysis")
 
 
 st.header("1. Character Dialogue Distribution")
@@ -38,11 +30,10 @@ st.header("1. Character Dialogue Distribution")
 html = create_plot_q1_q5_html()
 components.html(html, height=550, scrolling=False)
 
-# Second combined plots
-st.header("2. Character Word By Episode Distribution")
+st.header("2. Character Word By Episode Comparison")
 
 view = st.radio(
-    "Select the view type:",
+    "View by:",
     options=["absolute", "relative"],
     format_func=lambda v: "Absolute word count" if v == "absolute" else "Relative advantage",
     horizontal=True,
