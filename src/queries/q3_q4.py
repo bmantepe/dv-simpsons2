@@ -31,26 +31,36 @@ def create_episode_comparison_plot(data_q3, data_q4, type):
     )
 
     # 2. Make the heatmap slightly narrower since the spacer is taking up 120px
-    heatmap_seasons = alt.Chart(season_df).mark_rect().encode(
-        x=alt.X('season:O', title='Select Season', axis=alt.Axis(labelAngle=0, orient='top', tickSize=0)),
-        color=alt.Color('value:Q', legend=None),
+
+    season_labels = alt.Chart(season_df).mark_text(color='black', fontWeight='bold', fontSize=16).encode(
+    x=alt.X('season:O'),
+    text='season:O')
+
+
+
+    heatmap_seasons = alt.Chart(season_df).mark_rect(stroke = 'black',strokeWidth=2).encode(
+        x=alt.X('season:O', title='Select Season', axis=alt.Axis(labels=False, ticks=False, titleFontSize=18,orient='top',titlePadding=30)),
         opacity=alt.when(season_selector).then(alt.value(1)).otherwise(alt.value(0.4)),
     ).properties(
-        width=1380,    # 1500 total width - 120 spacer = 1380
+        width=1450,    # 1500 total width - 120 spacer = 1380
         height=40
     ).add_params(season_selector)
     
     # 3. Combine them horizontally to form the top row
-    top_row = alt.hconcat(spacer, heatmap_seasons)
+    top_row = alt.hconcat(spacer, heatmap_seasons +season_labels)
 
     # --- Character 1 Selector UI (BLUE) ---
 
     char1_base = alt.Chart(data_q3)
 
+    char_order = (data_q3.groupby('character')['word_count'].sum().sort_values(ascending=False).index.tolist())
+
     heatmap1 = char1_base.mark_rect(cornerRadius=8).encode(
-        # Removed the hacked Y-axis title
-        y=alt.Y('character:N', axis=alt.Axis(labels=False, ticks=False, domain=False, title=None)),
-        
+        y=alt.Y('character:N', 
+        sort=char_order,
+        scale = alt.Scale(domain = char_order),
+        axis=alt.Axis(labels=False, ticks=False, domain=False, title=None)),     
+
         color=alt.when(char1_selector).then(alt.value('rgba(14, 51, 235, 0.15)')) 
              .when(hover1).then(alt.value('rgba(117, 104, 104, 0.2)'))
              .otherwise(alt.value('transparent')),
@@ -64,7 +74,7 @@ def create_episode_comparison_plot(data_q3, data_q4, type):
                     .otherwise(alt.value(1))
     ).add_params(char1_selector, hover1)
 
-    faces1 = char1_base.mark_image(width=30, height=30, xOffset=-25).encode(
+    faces1 = char1_base.mark_image(width=35, height=35, xOffset=-25).encode(
         y=alt.Y('character:N', axis=alt.Axis(labels=False, ticks=False, title=None)),
         url='image:N'
     )
@@ -72,7 +82,7 @@ def create_episode_comparison_plot(data_q3, data_q4, type):
     # FIX: Native Altair Title, color-coded and centered. Height reduced to 450.
     char1_ui = (heatmap1 + faces1).properties(
         width=50, 
-        height=450,
+        height=500,
         title=alt.TitleParams('Character 1', color='#0e33eb', align='center', anchor='middle', fontSize=13)
     )
 
@@ -82,7 +92,9 @@ def create_episode_comparison_plot(data_q3, data_q4, type):
 
     heatmap2 = char2_base.mark_rect(cornerRadius=8).encode(
         # Removed the hacked Y-axis title
-        y=alt.Y('character:N', axis=alt.Axis(labels=False, ticks=False, domain=False, title=None)),
+        y=alt.Y('character:N', axis=alt.Axis(labels=False, ticks=False, domain=False, title=None),
+                sort=char_order,
+                scale =alt.Scale(domain = char_order)), # Added padding to create more space between character rows,
         
         color=alt.when(char2_selector).then(alt.value('rgba(244, 12, 12, 0.15)')) 
              .when(hover2).then(alt.value('rgba(117, 104, 104, 0.2)'))
@@ -97,7 +109,7 @@ def create_episode_comparison_plot(data_q3, data_q4, type):
                     .otherwise(alt.value(1))
     ).add_params(char2_selector, hover2)
 
-    faces2 = char2_base.mark_image(width=30, height=30, xOffset=-25).encode(
+    faces2 = char2_base.mark_image(width=34, height=35, xOffset=-25).encode(
         y=alt.Y('character:N', axis=alt.Axis(labels=False, ticks=False, title=None)),
         url='image:N'
     )
@@ -105,9 +117,9 @@ def create_episode_comparison_plot(data_q3, data_q4, type):
     # FIX: Native Altair Title, color-coded and centered. Height reduced to 450.
     char2_ui = (heatmap2 + faces2).properties(
         width=50, 
-        height=450,
+        height=500,
         title=alt.TitleParams('Character 2', color='#f40c0c', align='center', anchor='middle', fontSize=13)
-    )
+    ).resolve_scale(y='shared')
 
     selection_ui = alt.hconcat(
         char1_ui,
@@ -139,15 +151,15 @@ def create_episode_comparison_plot(data_q3, data_q4, type):
         )
 
         line = chart.mark_line(strokeWidth=4)
-        faces = chart.mark_image(width=20, height=20).encode(url='image:N')
-        points = chart.mark_point(size=500, filled=True).encode(
+        faces = chart.mark_image(width=30, height=30).encode(url='image:N')
+        points = chart.mark_point(size=1000, filled=True).encode(
             color=alt.Color('character:N', title='Character')
         )
 
         q3 = (line + points + faces).properties(
             title='Character Word Count by Episode',
-            width=550,     
-            height=450     # DECREASED HEIGHT TO 450
+            width=600,     
+            height=500     # DECREASED HEIGHT TO 450
         ).add_params(episode_selector, season_selector, char1_selector, char2_selector)
 
     else:
@@ -215,8 +227,8 @@ def create_episode_comparison_plot(data_q3, data_q4, type):
         )
 
         q3 = (symmetry_fix + center_spine + rel_rules + rel_faces).properties(
-            width=550,     
-            height=450,    # DECREASED HEIGHT TO 450
+            width=600,     
+            height=500,    # DECREASED HEIGHT TO 450
             title='Relative Advantage'
         ).add_params(episode_selector, season_selector, char1_selector, char2_selector)
 
@@ -285,7 +297,7 @@ def create_episode_comparison_plot(data_q3, data_q4, type):
 
     q4 = (domain_anchor + highlight_lines + faces_q4).properties(
         width=750,      
-        height=450,     # DECREASED HEIGHT TO 450
+        height=500,     # DECREASED HEIGHT TO 450
         title='Cumulative Word Count'
     )
 

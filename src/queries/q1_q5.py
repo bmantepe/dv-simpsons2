@@ -96,7 +96,7 @@ def create_q1_q5_plot(data_q1_q5, data_q1_q5_agg, data_q2):
         width=800,
         height=50,
         title=alt.TitleParams(
-            "Select Characters to Compare (Shift+Click)", 
+            "Select up to 5 Characters to Compare (Shift+Click)", 
             anchor='middle', 
             fontSize=16, 
             color='#4c78a8',
@@ -110,7 +110,7 @@ def create_q1_q5_plot(data_q1_q5, data_q1_q5_agg, data_q2):
         alt.Chart(data_q1_q5_agg)
         .mark_bar()
         .encode(
-            x=alt.X('count:Q', title='Total Count'),
+            x=alt.X('count:Q', title='Total Count',axis=alt.Axis(titleFontSize=14, labelFontSize=12)),
             y=y_enc,
             tooltip=[
                 alt.Tooltip('character:N', title='Character'),
@@ -133,16 +133,16 @@ def create_q1_q5_plot(data_q1_q5, data_q1_q5_agg, data_q2):
         .transform_filter(view_selector)
     )
 
-    barplot_final = (bars + flags).properties(width=400, title='Total Count per Character')
+    barplot_final = (bars + flags).properties(width=400,title=alt.TitleParams("Total Count per Character", fontSize=16))
 
     # --- Jitter + mean chart ---
 
     gaussian_jitter = (
-        alt.Chart(data_q1_q5, title='Count Distribution')
+        alt.Chart(data_q1_q5)
         .mark_circle(size=8)
         .encode(
             y=y_enc,
-            x=alt.X('count:Q', title='Count'),
+            x=alt.X('count:Q', title='Count',axis=alt.Axis(titleFontSize=14, labelFontSize=12)),
             yOffset='jitter:Q',
         )
         .transform_calculate(jitter="sqrt(-2*log(random()))*cos(2*PI*random())")
@@ -162,7 +162,7 @@ def create_q1_q5_plot(data_q1_q5, data_q1_q5_agg, data_q2):
         )
     )
 
-    jitter_final = (gaussian_jitter + mean_bar).properties(width=400,)
+    jitter_final = (gaussian_jitter + mean_bar).properties(width=400,title=alt.TitleParams("Count Distribution", fontSize=16))
 
     # --- Line chart (Q2) ---
 
@@ -182,8 +182,8 @@ def create_q1_q5_plot(data_q1_q5, data_q1_q5_agg, data_q2):
         alt.Chart(data_q2)
         .mark_line(point=True)
         .encode(
-            x=alt.X('season:O', title='Season',axis = alt.Axis(labelAngle=0,ticks=False,labelPadding=10)),
-            y=alt.Y('count:Q', title='Total Count'),
+            x=alt.X('season:O', title='Season',axis = alt.Axis(labelAngle=0,ticks=False,labelPadding=10,titleFontSize=14,labelFontSize=12)),
+            y=alt.Y('count:Q', title='Total Count',axis=alt.Axis(titleFontSize=14, labelFontSize=12)),
             color=alt.Color('character:N', legend=alt.Legend(title='Character', orient='right')),
             opacity=alt.when(legend_selection).then(alt.value(1)).otherwise(alt.value(0.2)),
         )
@@ -192,9 +192,7 @@ def create_q1_q5_plot(data_q1_q5, data_q1_q5_agg, data_q2):
         .add_params(nearest, legend_selection)
     )
 
-    text = lines_main.mark_text(align='left', dx=10, dy=-15).encode(
-        text=alt.condition(nearest, 'count:N', alt.value(''))
-    )
+   
 
     images_point = (
         alt.Chart(data_q2)
@@ -219,11 +217,12 @@ def create_q1_q5_plot(data_q1_q5, data_q1_q5_agg, data_q2):
     )
 
     line_chart = alt.layer(
-        selectors, lines_main, text, rules, images_point
+        selectors, lines_main, rules, images_point
     ).properties(
         width=800,
-        height=400, # HEIGHT REDUCTION: Shaved 90 pixels off to fit the screen better
-        title='Total Count per Season for Selected Characters'
+        height=400, 
+        title=alt.TitleParams("Count over Seasons", fontSize=16)
+        
     )
 
     # --- Final layout ---

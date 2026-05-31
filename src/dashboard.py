@@ -6,7 +6,6 @@ import streamlit.components.v1 as components
 # Import functions from your modules
 #from queries.q1_q5 import create_character_plot, load_data_q1_q5
 from queries.q1_q5 import create_plot_q1_q5_html
-from queries.q2_v2 import create_plot_q2_html
 
 from queries.q3_q4 import create_plot_q4_html
 
@@ -33,7 +32,6 @@ st.set_page_config(layout="wide", page_title="The Simpsons Dialogue Dashboard")
 
 
 st.header("1. Character Dialogue Distribution")
-st.markdown("Click on a character's bar on the left to **filter** their specific dialogue distribution on the right. Shift-click to select multiple characters.")
 
 
 
