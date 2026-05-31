@@ -5,6 +5,13 @@ import altair as alt
 alt.data_transformers.disable_max_rows()
 
 
+import streamlit as st
+import pandas as pd
+import altair as alt
+
+alt.data_transformers.disable_max_rows()
+
+
 def create_q1_q5_plot(data_q1_q5, data_q1_q5_agg, data_q2):
 
     char_lookup = data_q1_q5_agg.sort_values('count', ascending=False)[['character', 'image']].drop_duplicates()
@@ -13,7 +20,6 @@ def create_q1_q5_plot(data_q1_q5, data_q1_q5_agg, data_q2):
         "character:N",
         sort=data_q1_q5_agg.sort_values('count', ascending=False)['character'].tolist(),
         axis=alt.Axis(domain=False, ticks=False, labels=False, title=None),
-
     )
 
     view_selector = alt.selection_point(
@@ -32,15 +38,16 @@ def create_q1_q5_plot(data_q1_q5, data_q1_q5_agg, data_q2):
         value=[{'character': c} for c in ['Homer', 'Marge', 'Bart', 'Lisa', 'Mr. Burns']],
     )
 
-  
+    # WIDGET UI: Mouse Hover Tracker
+    hover = alt.selection_point(on='mouseover', clear='mouseout', empty=False)
 
+    # Removed the clunky axis title to replace it with a clean UI header
     x_enc_sel = alt.X(
         'character:N',
         sort=data_q1_q5_agg.sort_values('count', ascending=False)['character'].tolist(),
-        axis=alt.Axis(labels=False, ticks=False, title='Select up to 5 characters', orient='top'),
+        axis=alt.Axis(labels=False, ticks=False, title=None, orient='top'),
     )
-    hover = alt.selection_point(on='mouseover', clear='mouseout', empty=False)
-    
+
     sel_rects = (
         alt.Chart(char_lookup)
         .mark_rect(
@@ -62,17 +69,16 @@ def create_q1_q5_plot(data_q1_q5, data_q1_q5_agg, data_q2):
             stroke=alt.when(selector)
                 .then(alt.value('#0e33eb')) # Selected = Thick Blue
                 .when(hover)
-                .then(alt.value('#4c78a8')) # Hovered = Default Altair Blue (provides a nice interactive feel)
+                .then(alt.value('#4c78a8')) # Hovered = Default Altair Blue 
                 .otherwise(alt.value("#756868")), # Default = Grey
             
             # --- BORDER THICKNESS LOGIC ---
             strokeWidth=alt.when(selector)
                 .then(alt.value(3))
                 .when(hover)
-                .then(alt.value(2)) # Slightly thicker on hover for tactile feedback
+                .then(alt.value(2)) # Slightly thicker on hover
                 .otherwise(alt.value(1)),
         )
-        # CRITICAL: You must add BOTH parameters to the chart!
         .add_params(selector, hover) 
     )
 
@@ -85,10 +91,17 @@ def create_q1_q5_plot(data_q1_q5, data_q1_q5_agg, data_q2):
         )
     )
 
+    # Added a clear, styled title to act as the "UI Menu Header"
     character_selector_ui = (sel_rects + sel_faces).properties(
         width=800,
         height=50,
-        title='',
+        title=alt.TitleParams(
+            "Select Characters to Compare (Shift+Click)", 
+            anchor='middle', 
+            fontSize=16, 
+            color='#4c78a8',
+            dy=-15
+        )
     )
 
     # --- Bar chart ---
@@ -209,7 +222,7 @@ def create_q1_q5_plot(data_q1_q5, data_q1_q5_agg, data_q2):
         selectors, lines_main, text, rules, images_point
     ).properties(
         width=800,
-        height=490,
+        height=400, # HEIGHT REDUCTION: Shaved 90 pixels off to fit the screen better
         title='Total Count per Season for Selected Characters'
     )
 
@@ -218,18 +231,17 @@ def create_q1_q5_plot(data_q1_q5, data_q1_q5_agg, data_q2):
     left_side = alt.vconcat(
         character_selector_ui,
         alt.hconcat(barplot_final, jitter_final).resolve_scale(y='shared')
-)
+    )
 
     final_layout = (left_side | line_chart).add_params(
         selector, 
         view_selector
     ).configure_view(
-        step=80
+        step=60 # HEIGHT REDUCTION: Changed from 80 to 60 to make the left-side plots shorter
     )
 
     return final_layout
-
-
+    
 @st.cache_data
 def load_raw_data():
     return pd.read_csv('../data/data_Q1_Q5.csv')
