@@ -68,12 +68,12 @@ def create_episode_comparison_plot(data_q3, data_q4, type):
                     .otherwise(alt.value(1))
     ).add_params(char1_selector, hover1)
 
-    faces1 = char1_base.mark_image(width=35, height=35, xOffset=-25).encode(
+    faces1 = char1_base.mark_image(width=45, height=45, xOffset=-25).encode(
         y=alt.Y('character:N', axis=alt.Axis(labels=False, ticks=False, title=None)),
         url='image:N'
     )
 
-    char1_ui = (heatmap1 + faces1).properties(width=50, height=500,
+    char1_ui = (heatmap1 + faces1).properties(width=50, height=800,
         title=alt.TitleParams('Character 1', color='#0e33eb', align='center', anchor='middle', fontSize=13)
     )
 
@@ -96,13 +96,13 @@ def create_episode_comparison_plot(data_q3, data_q4, type):
                     .otherwise(alt.value(1))
     ).add_params(char2_selector, hover2)
 
-    faces2 = char2_base.mark_image(width=34, height=35, xOffset=-25).encode(
+    faces2 = char2_base.mark_image(width=45, height=45, xOffset=-25).encode(
         y=alt.Y('character:N', axis=alt.Axis(labels=False, ticks=False, title=None)),
         url='image:N'
     )
     
 
-    char2_ui = (heatmap2 + faces2).properties(width=50, height=500,
+    char2_ui = (heatmap2 + faces2).properties(width=50, height=800,
         title=alt.TitleParams('Character 2', color='#f40c0c', align='center', anchor='middle', fontSize=13)
     ).resolve_scale(y='shared')
 
@@ -140,7 +140,7 @@ def create_episode_comparison_plot(data_q3, data_q4, type):
         q3 = (line + points + faces).properties(
             title=alt.TitleParams("Character Word Count by Episode", fontSize=16),
             width=600,     
-            height=500     
+            height=800     
         ).add_params(episode_selector, season_selector, char1_selector, char2_selector)
 
     else:
@@ -209,7 +209,7 @@ def create_episode_comparison_plot(data_q3, data_q4, type):
 
         q3 = (symmetry_fix + center_spine + rel_rules + rel_faces).properties(
             width=600,     
-            height=500,    
+            height=800,    
             title= alt.TitleParams("Relative Word Count by Episode", fontSize=16)
         ).add_params(episode_selector, season_selector, char1_selector, char2_selector)
 
@@ -273,7 +273,7 @@ def create_episode_comparison_plot(data_q3, data_q4, type):
 
     q4 = (domain_anchor + highlight_lines + faces_q4).properties(
         width=750,      
-        height=500, 
+        height=800, 
         title=alt.TitleParams("Cumulative Word Count", fontSize=16)
     )
 

@@ -40,7 +40,7 @@ view = st.radio(
 )
 
 html = create_plot_q4_html(view=view) 
-components.html(html, height=700, scrolling=True)
+components.html(html, height=1000, scrolling=False)
 
 
 
