@@ -141,7 +141,7 @@ def create_episode_comparison_plot(data_q3, data_q4, type):
             title=alt.TitleParams("Character Word Count by Episode", fontSize=16),
             width=600,     
             height=800     
-        ).add_params(episode_selector, season_selector, char1_selector, char2_selector)
+        ).add_params(episode_selector)
 
     else:
 
@@ -211,7 +211,7 @@ def create_episode_comparison_plot(data_q3, data_q4, type):
             width=600,     
             height=800,    
             title= alt.TitleParams("Relative Word Count by Episode", fontSize=16)
-        ).add_params(episode_selector, season_selector, char1_selector, char2_selector)
+        ).add_params(episode_selector)
 
     # cumulative word counts 
 

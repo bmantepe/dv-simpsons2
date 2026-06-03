@@ -1,7 +1,6 @@
 import streamlit as st
 import altair as alt
 import pandas as pd
-import streamlit.components.v1 as components
 from queries.q1_q5 import create_plot_q1_q5_html
 from queries.q3_q4 import create_plot_q4_html
 
@@ -28,7 +27,7 @@ st.header("1. Character Dialogue Distribution")
 
 
 html = create_plot_q1_q5_html()
-components.html(html, height=550, scrolling=False)
+st.iframe(html)
 
 st.header("2. Character Word By Episode Comparison")
 
@@ -40,7 +39,7 @@ view = st.radio(
 )
 
 html = create_plot_q4_html(view=view) 
-components.html(html, height=1000, scrolling=False)
+st.iframe(html)
 
 
 
